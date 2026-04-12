@@ -1,0 +1,112 @@
+{
+  "Normal": {
+    "ja": "ノーマル",
+    "zh-hans": "一般",
+    "zh-hant": "一般"
+  },
+  "Fire": {
+    "ja": "ほのお",
+    "zh-hans": "火",
+    "zh-hant": "火"
+  },
+  "???": {
+    "ja": "？？？",
+    "zh-hans": "???",
+    "zh-hant": "???"
+  },
+  "Unknown": {
+    "ja": "？？？",
+    "zh-hans": "???",
+    "zh-hant": "???"
+  },
+  "Shadow": {
+    "ja": "ダーク",
+    "zh-hans": "暗",
+    "zh-hant": "暗"
+  },
+  "Water": {
+    "ja": "みず",
+    "zh-hans": "水",
+    "zh-hant": "水"
+  },
+  "Grass": {
+    "ja": "くさ",
+    "zh-hans": "草",
+    "zh-hant": "草"
+  },
+  "Electric": {
+    "ja": "でんき",
+    "zh-hans": "电",
+    "zh-hant": "電"
+  },
+  "Psychic": {
+    "ja": "エスパー",
+    "zh-hans": "超能力",
+    "zh-hant": "超能力"
+  },
+  "Ice": {
+    "ja": "こおり",
+    "zh-hans": "冰",
+    "zh-hant": "冰"
+  },
+  "Dragon": {
+    "ja": "ドラゴン",
+    "zh-hans": "龙",
+    "zh-hant": "龍"
+  },
+  "Dark": {
+    "ja": "あく",
+    "zh-hans": "恶",
+    "zh-hant": "惡"
+  },
+  "Fairy": {
+    "ja": "フェアリー",
+    "zh-hans": "妖精",
+    "zh-hant": "妖精"
+  },
+  "Stellar": {
+    "ja": "ステラ",
+    "zh-hans": "星晶",
+    "zh-hant": "星晶"
+  },
+  "Fighting": {
+    "ja": "かくとう",
+    "zh-hans": "格斗",
+    "zh-hant": "格鬥"
+  },
+  "Flying": {
+    "ja": "ひこう",
+    "zh-hans": "飞行",
+    "zh-hant": "飛行"
+  },
+  "Poison": {
+    "ja": "どく",
+    "zh-hans": "毒",
+    "zh-hant": "毒"
+  },
+  "Ground": {
+    "ja": "じめん",
+    "zh-hans": "地面",
+    "zh-hant": "地面"
+  },
+  "Rock": {
+    "ja": "いわ",
+    "zh-hans": "岩石",
+    "zh-hant": "岩石"
+  },
+  "Bug": {
+    "ja": "むし",
+    "zh-hans": "虫",
+    "zh-hant": "蟲"
+  },
+  "Ghost": {
+    "ja": "ゴースト",
+    "zh-hans": "幽灵",
+    "zh-hant": "幽靈"
+  },
+  "Steel": {
+    "ja": "はがね",
+    "zh-hans": "钢",
+    "zh-hant": "鋼"
+  }
+}

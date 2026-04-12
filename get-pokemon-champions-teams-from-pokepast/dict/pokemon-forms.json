@@ -1,0 +1,2889 @@
+{
+  "Sunny Castform": {
+    "ja": "たいようのすがた",
+    "zh-hans": "太阳的样子",
+    "zh-hant": "太陽的樣子"
+  },
+  "Castform-Sunny": {
+    "ja": "たいようのすがた",
+    "zh-hans": "太阳的样子",
+    "zh-hant": "太陽的樣子"
+  },
+  "Rainy Castform": {
+    "ja": "あまみずのすがた",
+    "zh-hans": "雨水的样子",
+    "zh-hant": "雨水的樣子"
+  },
+  "Castform-Rainy": {
+    "ja": "あまみずのすがた",
+    "zh-hans": "雨水的样子",
+    "zh-hant": "雨水的樣子"
+  },
+  "Snowy Castform": {
+    "ja": "ゆきぐものすがた",
+    "zh-hans": "雪云的样子",
+    "zh-hant": "雪雲的樣子"
+  },
+  "Castform-Snowy": {
+    "ja": "ゆきぐものすがた",
+    "zh-hans": "雪云的样子",
+    "zh-hant": "雪雲的樣子"
+  },
+  "Attack Deoxys": {
+    "ja": "アタックフォルム",
+    "zh-hans": "攻击形态",
+    "zh-hant": "攻擊形態"
+  },
+  "Deoxys-Attack": {
+    "ja": "アタックフォルム",
+    "zh-hans": "攻击形态",
+    "zh-hant": "攻擊形態"
+  },
+  "Defense Deoxys": {
+    "ja": "ディフェンスフォルム",
+    "zh-hans": "防御形态",
+    "zh-hant": "防禦形態"
+  },
+  "Deoxys-Defense": {
+    "ja": "ディフェンスフォルム",
+    "zh-hans": "防御形态",
+    "zh-hant": "防禦形態"
+  },
+  "Speed Deoxys": {
+    "ja": "スピードフォルム",
+    "zh-hans": "速度形态",
+    "zh-hant": "速度形態"
+  },
+  "Deoxys-Speed": {
+    "ja": "スピードフォルム",
+    "zh-hans": "速度形态",
+    "zh-hant": "速度形態"
+  },
+  "Sandy Wormadam": {
+    "ja": "すなちのミノ",
+    "zh-hans": "砂土蓑衣",
+    "zh-hant": "砂土蓑衣"
+  },
+  "Wormadam-Sandy": {
+    "ja": "すなちのミノ",
+    "zh-hans": "砂土蓑衣",
+    "zh-hant": "砂土蓑衣"
+  },
+  "Trash Wormadam": {
+    "ja": "ゴミのミノ",
+    "zh-hans": "垃圾蓑衣",
+    "zh-hant": "垃圾蓑衣"
+  },
+  "Wormadam-Trash": {
+    "ja": "ゴミのミノ",
+    "zh-hans": "垃圾蓑衣",
+    "zh-hant": "垃圾蓑衣"
+  },
+  "Sunshine Cherrim": {
+    "ja": "ポジフォルム",
+    "zh-hans": "晴天形态",
+    "zh-hant": "晴天形態"
+  },
+  "Cherrim-Sunshine": {
+    "ja": "ポジフォルム",
+    "zh-hans": "晴天形态",
+    "zh-hant": "晴天形態"
+  },
+  "East Shellos": {
+    "ja": "ひがしのうみ",
+    "zh-hans": "东海",
+    "zh-hant": "東海"
+  },
+  "Shellos-East": {
+    "ja": "ひがしのうみ",
+    "zh-hans": "东海",
+    "zh-hant": "東海"
+  },
+  "East Gastrodon": {
+    "ja": "ひがしのうみ",
+    "zh-hans": "东海",
+    "zh-hant": "東海"
+  },
+  "Gastrodon-East": {
+    "ja": "ひがしのうみ",
+    "zh-hans": "东海",
+    "zh-hant": "東海"
+  },
+  "Heat Rotom": {
+    "ja": "ヒートロトム",
+    "zh-hans": "加热洛托姆",
+    "zh-hant": "加熱洛托姆"
+  },
+  "Rotom-Heat": {
+    "ja": "ヒートロトム",
+    "zh-hans": "加热洛托姆",
+    "zh-hant": "加熱洛托姆"
+  },
+  "Wash Rotom": {
+    "ja": "ウォッシュロトム",
+    "zh-hans": "清洗洛托姆",
+    "zh-hant": "清洗洛托姆"
+  },
+  "Rotom-Wash": {
+    "ja": "ウォッシュロトム",
+    "zh-hans": "清洗洛托姆",
+    "zh-hant": "清洗洛托姆"
+  },
+  "Frost Rotom": {
+    "ja": "フロストロトム",
+    "zh-hans": "结冰洛托姆",
+    "zh-hant": "結冰洛托姆"
+  },
+  "Rotom-Frost": {
+    "ja": "フロストロトム",
+    "zh-hans": "结冰洛托姆",
+    "zh-hant": "結冰洛托姆"
+  },
+  "Fan Rotom": {
+    "ja": "スピンロトム",
+    "zh-hans": "旋转洛托姆",
+    "zh-hant": "旋轉洛托姆"
+  },
+  "Rotom-Fan": {
+    "ja": "スピンロトム",
+    "zh-hans": "旋转洛托姆",
+    "zh-hant": "旋轉洛托姆"
+  },
+  "Mow Rotom": {
+    "ja": "カットロトム",
+    "zh-hans": "切割洛托姆",
+    "zh-hant": "切割洛托姆"
+  },
+  "Rotom-Mow": {
+    "ja": "カットロトム",
+    "zh-hans": "切割洛托姆",
+    "zh-hant": "切割洛托姆"
+  },
+  "Origin Giratina": {
+    "ja": "オリジンフォルム",
+    "zh-hans": "起源形态",
+    "zh-hant": "起源形態"
+  },
+  "Giratina-Origin": {
+    "ja": "オリジンフォルム",
+    "zh-hans": "起源形态",
+    "zh-hant": "起源形態"
+  },
+  "Sky Shaymin": {
+    "ja": "スカイフォルム",
+    "zh-hans": "天空形态",
+    "zh-hant": "天空形態"
+  },
+  "Shaymin-Sky": {
+    "ja": "スカイフォルム",
+    "zh-hans": "天空形态",
+    "zh-hant": "天空形態"
+  },
+  "Blue-Striped Basculin": {
+    "ja": "あおすじのすがた",
+    "zh-hans": "蓝条纹的样子",
+    "zh-hant": "藍條紋的樣子"
+  },
+  "Basculin-Blue-Striped": {
+    "ja": "あおすじのすがた",
+    "zh-hans": "蓝条纹的样子",
+    "zh-hant": "藍條紋的樣子"
+  },
+  "Zen Darmanitan": {
+    "ja": "ダルマモード",
+    "zh-hans": "达摩模式",
+    "zh-hant": "達摩模式"
+  },
+  "Darmanitan-Zen": {
+    "ja": "ダルマモード",
+    "zh-hans": "达摩模式",
+    "zh-hant": "達摩模式"
+  },
+  "Apex Build": {
+    "ja": "かんぜんけいたい"
+  },
+  "Koraidon-Apex-Build": {
+    "ja": "かんぜんけいたい"
+  },
+  "Pirouette Meloetta": {
+    "ja": "ステップフォルム",
+    "zh-hans": "舞步形态",
+    "zh-hant": "舞步形態"
+  },
+  "Meloetta-Pirouette": {
+    "ja": "ステップフォルム",
+    "zh-hans": "舞步形态",
+    "zh-hant": "舞步形態"
+  },
+  "Therian Tornadus": {
+    "ja": "れいじゅうフォルム",
+    "zh-hans": "灵兽形态",
+    "zh-hant": "靈獸形態"
+  },
+  "Tornadus-Therian": {
+    "ja": "れいじゅうフォルム",
+    "zh-hans": "灵兽形态",
+    "zh-hant": "靈獸形態"
+  },
+  "Ultimate Mode": {
+    "ja": "コンプリートモード"
+  },
+  "Miraidon-Ultimate-Mode": {
+    "ja": "コンプリートモード"
+  },
+  "Therian Thundurus": {
+    "ja": "れいじゅうフォルム",
+    "zh-hans": "灵兽形态",
+    "zh-hant": "靈獸形態"
+  },
+  "Thundurus-Therian": {
+    "ja": "れいじゅうフォルム",
+    "zh-hans": "灵兽形态",
+    "zh-hant": "靈獸形態"
+  },
+  "Therian Landorus": {
+    "ja": "れいじゅうフォルム",
+    "zh-hans": "灵兽形态",
+    "zh-hant": "靈獸形態"
+  },
+  "Landorus-Therian": {
+    "ja": "れいじゅうフォルム",
+    "zh-hans": "灵兽形态",
+    "zh-hant": "靈獸形態"
+  },
+  "Black Kyurem": {
+    "ja": "ブラックキュレム",
+    "zh-hans": "暗黑酋雷姆",
+    "zh-hant": "闇黑酋雷姆"
+  },
+  "Kyurem-Black": {
+    "ja": "ブラックキュレム",
+    "zh-hans": "暗黑酋雷姆",
+    "zh-hant": "闇黑酋雷姆"
+  },
+  "White Kyurem": {
+    "ja": "ホワイトキュレム",
+    "zh-hans": "焰白酋雷姆",
+    "zh-hant": "焰白酋雷姆"
+  },
+  "Kyurem-White": {
+    "ja": "ホワイトキュレム",
+    "zh-hans": "焰白酋雷姆",
+    "zh-hant": "焰白酋雷姆"
+  },
+  "Resolute Keldeo": {
+    "ja": "かくごのすがた",
+    "zh-hans": "觉悟的样子",
+    "zh-hant": "覺悟的樣子"
+  },
+  "Keldeo-Resolute": {
+    "ja": "かくごのすがた",
+    "zh-hans": "觉悟的样子",
+    "zh-hant": "覺悟的樣子"
+  },
+  "Counterfeit Form Poltchageist": {
+    "ja": "マガイモノのすがた",
+    "zh-hans": "高檔貨的樣子",
+    "zh-hant": "冒牌貨的樣子"
+  },
+  "Poltchageist-Counterfeit": {
+    "ja": "マガイモノのすがた",
+    "zh-hans": "高檔貨的樣子",
+    "zh-hant": "冒牌貨的樣子"
+  },
+  "Female Meowstic": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Meowstic-Female": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Blade Aegislash": {
+    "ja": "ブレードフォルム",
+    "zh-hans": "刀剑形态",
+    "zh-hant": "刀劍形態"
+  },
+  "Aegislash-Blade": {
+    "ja": "ブレードフォルム",
+    "zh-hans": "刀剑形态",
+    "zh-hant": "刀劍形態"
+  },
+  "Small Pumpkaboo": {
+    "ja": "ちいさいサイズ",
+    "zh-hans": "小尺寸",
+    "zh-hant": "小尺寸"
+  },
+  "Pumpkaboo-Small": {
+    "ja": "ちいさいサイズ",
+    "zh-hans": "小尺寸",
+    "zh-hant": "小尺寸"
+  },
+  "Large Pumpkaboo": {
+    "ja": "おおきいサイズ",
+    "zh-hans": "大尺寸",
+    "zh-hant": "大尺寸"
+  },
+  "Pumpkaboo-Large": {
+    "ja": "おおきいサイズ",
+    "zh-hans": "大尺寸",
+    "zh-hant": "大尺寸"
+  },
+  "Super Pumpkaboo": {
+    "ja": "とくだいサイズ",
+    "zh-hans": "特大尺寸",
+    "zh-hant": "特大尺寸"
+  },
+  "Pumpkaboo-Super": {
+    "ja": "とくだいサイズ",
+    "zh-hans": "特大尺寸",
+    "zh-hant": "特大尺寸"
+  },
+  "Small Gourgeist": {
+    "ja": "ちいさいサイズ",
+    "zh-hans": "小尺寸",
+    "zh-hant": "小尺寸"
+  },
+  "Gourgeist-Small": {
+    "ja": "ちいさいサイズ",
+    "zh-hans": "小尺寸",
+    "zh-hant": "小尺寸"
+  },
+  "Unremarkable Form Sinistcha": {
+    "ja": "ボンサクのすがた",
+    "zh-hans": "凡作的样子",
+    "zh-hant": "凡作的樣子"
+  },
+  "Sinistcha-Unremarkable": {
+    "ja": "ボンサクのすがた",
+    "zh-hans": "凡作的样子",
+    "zh-hant": "凡作的樣子"
+  },
+  "Large Gourgeist": {
+    "ja": "おおきいサイズ",
+    "zh-hans": "大尺寸",
+    "zh-hant": "大尺寸"
+  },
+  "Gourgeist-Large": {
+    "ja": "おおきいサイズ",
+    "zh-hans": "大尺寸",
+    "zh-hant": "大尺寸"
+  },
+  "Super Gourgeist": {
+    "ja": "とくだいサイズ",
+    "zh-hans": "特大尺寸",
+    "zh-hant": "特大尺寸"
+  },
+  "Gourgeist-Super": {
+    "ja": "とくだいサイズ",
+    "zh-hans": "特大尺寸",
+    "zh-hant": "特大尺寸"
+  },
+  "Neutral Xerneas": {
+    "ja": "リラックスモード",
+    "zh-hans": "放松模式",
+    "zh-hant": "放鬆模式"
+  },
+  "Xerneas-Neutral": {
+    "ja": "リラックスモード",
+    "zh-hans": "放松模式",
+    "zh-hant": "放鬆模式"
+  },
+  "Mega Venusaur": {
+    "ja": "メガフシギバナ",
+    "zh-hans": "超级妙蛙花",
+    "zh-hant": "超級妙蛙花"
+  },
+  "Venusaur-Mega": {
+    "ja": "メガフシギバナ",
+    "zh-hans": "超级妙蛙花",
+    "zh-hant": "超級妙蛙花"
+  },
+  "Mega Charizard X": {
+    "ja": "メガリザードンＸ",
+    "zh-hans": "超级喷火龙Ｘ",
+    "zh-hant": "超級噴火龍Ｘ"
+  },
+  "Charizard-Mega-X": {
+    "ja": "メガリザードンＸ",
+    "zh-hans": "超级喷火龙Ｘ",
+    "zh-hant": "超級噴火龍Ｘ"
+  },
+  "Mega Charizard Y": {
+    "ja": "メガリザードンＹ",
+    "zh-hans": "超级喷火龙Ｙ",
+    "zh-hant": "超級噴火龍Ｙ"
+  },
+  "Charizard-Mega-Y": {
+    "ja": "メガリザードンＹ",
+    "zh-hans": "超级喷火龙Ｙ",
+    "zh-hant": "超級噴火龍Ｙ"
+  },
+  "Mega Blastoise": {
+    "ja": "メガカメックス",
+    "zh-hans": "超级水箭龟",
+    "zh-hant": "超級水箭龜"
+  },
+  "Blastoise-Mega": {
+    "ja": "メガカメックス",
+    "zh-hans": "超级水箭龟",
+    "zh-hant": "超級水箭龜"
+  },
+  "Mega Alakazam": {
+    "ja": "メガフーディン",
+    "zh-hans": "超级胡地",
+    "zh-hant": "超級胡地"
+  },
+  "Alakazam-Mega": {
+    "ja": "メガフーディン",
+    "zh-hans": "超级胡地",
+    "zh-hant": "超級胡地"
+  },
+  "Mega Gengar": {
+    "ja": "メガゲンガー",
+    "zh-hans": "超级耿鬼",
+    "zh-hant": "超級耿鬼"
+  },
+  "Gengar-Mega": {
+    "ja": "メガゲンガー",
+    "zh-hans": "超级耿鬼",
+    "zh-hant": "超級耿鬼"
+  },
+  "Mega Kangaskhan": {
+    "ja": "メガガルーラ",
+    "zh-hans": "超级袋兽",
+    "zh-hant": "超級袋獸"
+  },
+  "Kangaskhan-Mega": {
+    "ja": "メガガルーラ",
+    "zh-hans": "超级袋兽",
+    "zh-hant": "超級袋獸"
+  },
+  "Mega Pinsir": {
+    "ja": "メガカイロス",
+    "zh-hans": "超级凯罗斯",
+    "zh-hant": "超級凱羅斯"
+  },
+  "Pinsir-Mega": {
+    "ja": "メガカイロス",
+    "zh-hans": "超级凯罗斯",
+    "zh-hant": "超級凱羅斯"
+  },
+  "Mega Gyarados": {
+    "ja": "メガギャラドス",
+    "zh-hans": "超级暴鲤龙",
+    "zh-hant": "超級暴鯉龍"
+  },
+  "Gyarados-Mega": {
+    "ja": "メガギャラドス",
+    "zh-hans": "超级暴鲤龙",
+    "zh-hant": "超級暴鯉龍"
+  },
+  "Mega Aerodactyl": {
+    "ja": "メガプテラ",
+    "zh-hans": "超级化石翼龙",
+    "zh-hant": "超級化石翼龍"
+  },
+  "Aerodactyl-Mega": {
+    "ja": "メガプテラ",
+    "zh-hans": "超级化石翼龙",
+    "zh-hant": "超級化石翼龍"
+  },
+  "Mega Mewtwo X": {
+    "ja": "メガミュウツーＸ",
+    "zh-hans": "超级超梦Ｘ",
+    "zh-hant": "超級超夢Ｘ"
+  },
+  "Mewtwo-Mega-X": {
+    "ja": "メガミュウツーＸ",
+    "zh-hans": "超级超梦Ｘ",
+    "zh-hant": "超級超夢Ｘ"
+  },
+  "Mega Mewtwo Y": {
+    "ja": "メガミュウツーＹ",
+    "zh-hans": "超级超梦Ｙ",
+    "zh-hant": "超級超夢Ｙ"
+  },
+  "Mewtwo-Mega-Y": {
+    "ja": "メガミュウツーＹ",
+    "zh-hans": "超级超梦Ｙ",
+    "zh-hant": "超級超夢Ｙ"
+  },
+  "Mega Ampharos": {
+    "ja": "メガデンリュウ",
+    "zh-hans": "超级电龙",
+    "zh-hant": "超級電龍"
+  },
+  "Ampharos-Mega": {
+    "ja": "メガデンリュウ",
+    "zh-hans": "超级电龙",
+    "zh-hant": "超級電龍"
+  },
+  "Mega Scizor": {
+    "ja": "メガハッサム",
+    "zh-hans": "超级巨钳螳螂",
+    "zh-hant": "超級巨鉗螳螂"
+  },
+  "Scizor-Mega": {
+    "ja": "メガハッサム",
+    "zh-hans": "超级巨钳螳螂",
+    "zh-hant": "超級巨鉗螳螂"
+  },
+  "Mega Heracross": {
+    "ja": "メガヘラクロス",
+    "zh-hans": "超级赫拉克罗斯",
+    "zh-hant": "超級赫拉克羅斯"
+  },
+  "Heracross-Mega": {
+    "ja": "メガヘラクロス",
+    "zh-hans": "超级赫拉克罗斯",
+    "zh-hant": "超級赫拉克羅斯"
+  },
+  "Mega Houndoom": {
+    "ja": "メガヘルガー",
+    "zh-hans": "超级黑鲁加",
+    "zh-hant": "超級黑魯加"
+  },
+  "Houndoom-Mega": {
+    "ja": "メガヘルガー",
+    "zh-hans": "超级黑鲁加",
+    "zh-hant": "超級黑魯加"
+  },
+  "Mega Tyranitar": {
+    "ja": "メガバンギラス",
+    "zh-hans": "超级班基拉斯",
+    "zh-hant": "超級班基拉斯"
+  },
+  "Tyranitar-Mega": {
+    "ja": "メガバンギラス",
+    "zh-hans": "超级班基拉斯",
+    "zh-hant": "超級班基拉斯"
+  },
+  "Mega Blaziken": {
+    "ja": "メガバシャーモ",
+    "zh-hans": "超级火焰鸡",
+    "zh-hant": "超級火焰雞"
+  },
+  "Blaziken-Mega": {
+    "ja": "メガバシャーモ",
+    "zh-hans": "超级火焰鸡",
+    "zh-hant": "超級火焰雞"
+  },
+  "Mega Gardevoir": {
+    "ja": "メガサーナイト",
+    "zh-hans": "超级沙奈朵",
+    "zh-hant": "超級沙奈朵"
+  },
+  "Gardevoir-Mega": {
+    "ja": "メガサーナイト",
+    "zh-hans": "超级沙奈朵",
+    "zh-hant": "超級沙奈朵"
+  },
+  "Mega Mawile": {
+    "ja": "メガクチート",
+    "zh-hans": "超级大嘴娃",
+    "zh-hant": "超級大嘴娃"
+  },
+  "Mawile-Mega": {
+    "ja": "メガクチート",
+    "zh-hans": "超级大嘴娃",
+    "zh-hant": "超級大嘴娃"
+  },
+  "Mega Aggron": {
+    "ja": "メガボスゴドラ",
+    "zh-hans": "超级波士可多拉",
+    "zh-hant": "超級波士可多拉"
+  },
+  "Aggron-Mega": {
+    "ja": "メガボスゴドラ",
+    "zh-hans": "超级波士可多拉",
+    "zh-hant": "超級波士可多拉"
+  },
+  "Mega Medicham": {
+    "ja": "メガチャーレム",
+    "zh-hans": "超级恰雷姆",
+    "zh-hant": "超級恰雷姆"
+  },
+  "Medicham-Mega": {
+    "ja": "メガチャーレム",
+    "zh-hans": "超级恰雷姆",
+    "zh-hant": "超級恰雷姆"
+  },
+  "Mega Manectric": {
+    "ja": "メガライボルト",
+    "zh-hans": "超级雷电兽",
+    "zh-hant": "超級雷電獸"
+  },
+  "Manectric-Mega": {
+    "ja": "メガライボルト",
+    "zh-hans": "超级雷电兽",
+    "zh-hant": "超級雷電獸"
+  },
+  "Mega Banette": {
+    "ja": "メガジュペッタ",
+    "zh-hans": "超级诅咒娃娃",
+    "zh-hant": "超級詛咒娃娃"
+  },
+  "Banette-Mega": {
+    "ja": "メガジュペッタ",
+    "zh-hans": "超级诅咒娃娃",
+    "zh-hant": "超級詛咒娃娃"
+  },
+  "Mega Absol": {
+    "ja": "メガアブソル",
+    "zh-hans": "超级阿勃梭鲁",
+    "zh-hant": "超級阿勃梭魯"
+  },
+  "Absol-Mega": {
+    "ja": "メガアブソル",
+    "zh-hans": "超级阿勃梭鲁",
+    "zh-hant": "超級阿勃梭魯"
+  },
+  "Mega Garchomp": {
+    "ja": "メガガブリアス",
+    "zh-hans": "超级烈咬陆鲨",
+    "zh-hant": "超級烈咬陸鯊"
+  },
+  "Garchomp-Mega": {
+    "ja": "メガガブリアス",
+    "zh-hans": "超级烈咬陆鲨",
+    "zh-hant": "超級烈咬陸鯊"
+  },
+  "Mega Lucario": {
+    "ja": "メガルカリオ",
+    "zh-hans": "超级路卡利欧",
+    "zh-hant": "超級路卡利歐"
+  },
+  "Lucario-Mega": {
+    "ja": "メガルカリオ",
+    "zh-hans": "超级路卡利欧",
+    "zh-hant": "超級路卡利歐"
+  },
+  "Mega Abomasnow": {
+    "ja": "メガユキノオー",
+    "zh-hans": "超级暴雪王",
+    "zh-hant": "超級暴雪王"
+  },
+  "Abomasnow-Mega": {
+    "ja": "メガユキノオー",
+    "zh-hans": "超级暴雪王",
+    "zh-hant": "超級暴雪王"
+  },
+  "Mega Latias": {
+    "ja": "メガラティアス",
+    "zh-hans": "超级拉帝亚斯",
+    "zh-hant": "超級拉帝亞斯"
+  },
+  "Latias-Mega": {
+    "ja": "メガラティアス",
+    "zh-hans": "超级拉帝亚斯",
+    "zh-hant": "超級拉帝亞斯"
+  },
+  "Mega Latios": {
+    "ja": "メガラティオス",
+    "zh-hans": "超级拉帝欧斯",
+    "zh-hant": "超級拉帝歐斯"
+  },
+  "Latios-Mega": {
+    "ja": "メガラティオス",
+    "zh-hans": "超级拉帝欧斯",
+    "zh-hant": "超級拉帝歐斯"
+  },
+  "Mega Swampert": {
+    "ja": "メガラグラージ",
+    "zh-hans": "超级巨沼怪",
+    "zh-hant": "超級巨沼怪"
+  },
+  "Swampert-Mega": {
+    "ja": "メガラグラージ",
+    "zh-hans": "超级巨沼怪",
+    "zh-hant": "超級巨沼怪"
+  },
+  "Mega Sceptile": {
+    "ja": "メガジュカイン",
+    "zh-hans": "超级蜥蜴王",
+    "zh-hant": "超級蜥蜴王"
+  },
+  "Sceptile-Mega": {
+    "ja": "メガジュカイン",
+    "zh-hans": "超级蜥蜴王",
+    "zh-hant": "超級蜥蜴王"
+  },
+  "Mega Sableye": {
+    "ja": "メガヤミラミ",
+    "zh-hans": "超级勾魂眼",
+    "zh-hant": "超級勾魂眼"
+  },
+  "Sableye-Mega": {
+    "ja": "メガヤミラミ",
+    "zh-hans": "超级勾魂眼",
+    "zh-hant": "超級勾魂眼"
+  },
+  "Mega Altaria": {
+    "ja": "メガチルタリス",
+    "zh-hans": "超级七夕青鸟",
+    "zh-hant": "超級七夕青鳥"
+  },
+  "Altaria-Mega": {
+    "ja": "メガチルタリス",
+    "zh-hans": "超级七夕青鸟",
+    "zh-hant": "超級七夕青鳥"
+  },
+  "Teal Mask Ogerpon": {
+    "ja": "みどりのめん",
+    "zh-hans": "碧草面具",
+    "zh-hant": "碧草面具"
+  },
+  "Ogerpon": {
+    "ja": "みどりのめん",
+    "zh-hans": "碧草面具",
+    "zh-hant": "碧草面具"
+  },
+  "Mega Gallade": {
+    "ja": "メガエルレイド",
+    "zh-hans": "超级艾路雷朵",
+    "zh-hant": "超級艾路雷朵"
+  },
+  "Gallade-Mega": {
+    "ja": "メガエルレイド",
+    "zh-hans": "超级艾路雷朵",
+    "zh-hant": "超級艾路雷朵"
+  },
+  "Mega Audino": {
+    "ja": "メガタブンネ",
+    "zh-hans": "超级差不多娃娃",
+    "zh-hant": "超級差不多娃娃"
+  },
+  "Audino-Mega": {
+    "ja": "メガタブンネ",
+    "zh-hans": "超级差不多娃娃",
+    "zh-hant": "超級差不多娃娃"
+  },
+  "Mega Sharpedo": {
+    "ja": "メガサメハダー",
+    "zh-hans": "超级巨牙鲨",
+    "zh-hant": "超級巨牙鯊"
+  },
+  "Sharpedo-Mega": {
+    "ja": "メガサメハダー",
+    "zh-hans": "超级巨牙鲨",
+    "zh-hant": "超級巨牙鯊"
+  },
+  "Mega Slowbro": {
+    "ja": "メガヤドラン",
+    "zh-hans": "超级呆壳兽",
+    "zh-hant": "超級呆殼獸"
+  },
+  "Slowbro-Mega": {
+    "ja": "メガヤドラン",
+    "zh-hans": "超级呆壳兽",
+    "zh-hant": "超級呆殼獸"
+  },
+  "Mega Steelix": {
+    "ja": "メガハガネール",
+    "zh-hans": "超级大钢蛇",
+    "zh-hant": "超級大鋼蛇"
+  },
+  "Steelix-Mega": {
+    "ja": "メガハガネール",
+    "zh-hans": "超级大钢蛇",
+    "zh-hant": "超級大鋼蛇"
+  },
+  "Mega Pidgeot": {
+    "ja": "メガピジョット",
+    "zh-hans": "超级大比鸟",
+    "zh-hant": "超級大比鳥"
+  },
+  "Pidgeot-Mega": {
+    "ja": "メガピジョット",
+    "zh-hans": "超级大比鸟",
+    "zh-hant": "超級大比鳥"
+  },
+  "Mega Glalie": {
+    "ja": "メガオニゴーリ",
+    "zh-hans": "超级冰鬼护",
+    "zh-hant": "超級冰鬼護"
+  },
+  "Glalie-Mega": {
+    "ja": "メガオニゴーリ",
+    "zh-hans": "超级冰鬼护",
+    "zh-hant": "超級冰鬼護"
+  },
+  "Mega Diancie": {
+    "ja": "メガディアンシー",
+    "zh-hans": "超级蒂安希",
+    "zh-hant": "超級蒂安希"
+  },
+  "Diancie-Mega": {
+    "ja": "メガディアンシー",
+    "zh-hans": "超级蒂安希",
+    "zh-hant": "超級蒂安希"
+  },
+  "Mega Metagross": {
+    "ja": "メガメタグロス",
+    "zh-hans": "超级巨金怪",
+    "zh-hant": "超級巨金怪"
+  },
+  "Metagross-Mega": {
+    "ja": "メガメタグロス",
+    "zh-hans": "超级巨金怪",
+    "zh-hant": "超級巨金怪"
+  },
+  "Primal Kyogre": {
+    "ja": "ゲンシカイキのすがた",
+    "zh-hans": "原始回归的样子",
+    "zh-hant": "原始回歸的樣子"
+  },
+  "Kyogre-Primal": {
+    "ja": "ゲンシカイキのすがた",
+    "zh-hans": "原始回归的样子",
+    "zh-hant": "原始回歸的樣子"
+  },
+  "Primal Groudon": {
+    "ja": "ゲンシカイキのすがた",
+    "zh-hans": "原始回归的样子",
+    "zh-hant": "原始回歸的樣子"
+  },
+  "Groudon-Primal": {
+    "ja": "ゲンシカイキのすがた",
+    "zh-hans": "原始回归的样子",
+    "zh-hant": "原始回歸的樣子"
+  },
+  "Mega Rayquaza": {
+    "ja": "メガレックウザ",
+    "zh-hans": "超级烈空坐",
+    "zh-hant": "超級烈空坐"
+  },
+  "Rayquaza-Mega": {
+    "ja": "メガレックウザ",
+    "zh-hans": "超级烈空坐",
+    "zh-hant": "超級烈空坐"
+  },
+  "Hoopa Unbound": {
+    "ja": "ときはなたれしフーパ",
+    "zh-hans": "解放胡帕",
+    "zh-hant": "解放胡帕"
+  },
+  "Hoopa-Unbound": {
+    "ja": "ときはなたれしフーパ",
+    "zh-hans": "解放胡帕",
+    "zh-hant": "解放胡帕"
+  },
+  "Mega Camerupt": {
+    "ja": "メガバクーダ",
+    "zh-hans": "超级喷火驼",
+    "zh-hant": "超級噴火駝"
+  },
+  "Camerupt-Mega": {
+    "ja": "メガバクーダ",
+    "zh-hans": "超级喷火驼",
+    "zh-hant": "超級噴火駝"
+  },
+  "Mega Lopunny": {
+    "ja": "メガミミロップ",
+    "zh-hans": "超级长耳兔",
+    "zh-hant": "超級長耳兔"
+  },
+  "Lopunny-Mega": {
+    "ja": "メガミミロップ",
+    "zh-hans": "超级长耳兔",
+    "zh-hant": "超級長耳兔"
+  },
+  "Mega Salamence": {
+    "ja": "メガボーマンダ",
+    "zh-hans": "超级暴飞龙",
+    "zh-hant": "超級暴飛龍"
+  },
+  "Salamence-Mega": {
+    "ja": "メガボーマンダ",
+    "zh-hans": "超级暴飞龙",
+    "zh-hant": "超級暴飛龍"
+  },
+  "Mega Beedrill": {
+    "ja": "メガスピアー",
+    "zh-hans": "超级大针蜂",
+    "zh-hant": "超級大針蜂"
+  },
+  "Beedrill-Mega": {
+    "ja": "メガスピアー",
+    "zh-hans": "超级大针蜂",
+    "zh-hant": "超級大針蜂"
+  },
+  "Alolan Rattata": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Rattata-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Raticate": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Raticate-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Original Cap Pikachu": {
+    "ja": "オリジナルキャップ",
+    "zh-hans": "初始帽子",
+    "zh-hant": "初始帽子"
+  },
+  "Pikachu-Original-Cap": {
+    "ja": "オリジナルキャップ",
+    "zh-hans": "初始帽子",
+    "zh-hant": "初始帽子"
+  },
+  "Hoenn Cap Pikachu": {
+    "ja": "ホウエンキャップ",
+    "zh-hans": "丰缘帽子",
+    "zh-hant": "豐緣帽子"
+  },
+  "Pikachu-Hoenn-Cap": {
+    "ja": "ホウエンキャップ",
+    "zh-hans": "丰缘帽子",
+    "zh-hant": "豐緣帽子"
+  },
+  "Sinnoh Cap Pikachu": {
+    "ja": "シンオウキャップ",
+    "zh-hans": "神奥帽子",
+    "zh-hant": "神奧帽子"
+  },
+  "Pikachu-Sinnoh-Cap": {
+    "ja": "シンオウキャップ",
+    "zh-hans": "神奥帽子",
+    "zh-hant": "神奧帽子"
+  },
+  "Unova Cap Pikachu": {
+    "ja": "イッシュキャップ",
+    "zh-hans": "合众帽子",
+    "zh-hant": "合眾帽子"
+  },
+  "Pikachu-Unova-Cap": {
+    "ja": "イッシュキャップ",
+    "zh-hans": "合众帽子",
+    "zh-hant": "合眾帽子"
+  },
+  "Kalos Cap Pikachu": {
+    "ja": "カロスキャップ",
+    "zh-hans": "卡洛斯帽子",
+    "zh-hant": "卡洛斯帽子"
+  },
+  "Pikachu-Kalos-Cap": {
+    "ja": "カロスキャップ",
+    "zh-hans": "卡洛斯帽子",
+    "zh-hant": "卡洛斯帽子"
+  },
+  "Alola Cap Pikachu": {
+    "ja": "アローラキャップ",
+    "zh-hans": "阿罗拉帽子",
+    "zh-hant": "阿羅拉帽子"
+  },
+  "Pikachu-Alola-Cap": {
+    "ja": "アローラキャップ",
+    "zh-hans": "阿罗拉帽子",
+    "zh-hant": "阿羅拉帽子"
+  },
+  "Alolan Raichu": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Raichu-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Sandshrew": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Sandshrew-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Sandslash": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Sandslash-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Vulpix": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Vulpix-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Ninetales": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Ninetales-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Diglett": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Diglett-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Dugtrio": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Dugtrio-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Meowth": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Meowth-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Persian": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Persian-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Geodude": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Geodude-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Graveler": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Graveler-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Golem": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Golem-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Grimer": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Grimer-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Muk": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Muk-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Exeggutor": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Exeggutor-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Alolan Marowak": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Marowak-Alola": {
+    "ja": "アローラのすがた",
+    "zh-hans": "阿罗拉的样子",
+    "zh-hant": "阿羅拉的樣子"
+  },
+  "Ash’s Greninja": {
+    "ja": "サトシゲッコウガ",
+    "zh-hans": "小智版甲贺忍蛙",
+    "zh-hant": "小智版甲賀忍蛙"
+  },
+  "Greninja-Ash": {
+    "ja": "サトシゲッコウガ",
+    "zh-hans": "小智版甲贺忍蛙",
+    "zh-hant": "小智版甲賀忍蛙"
+  },
+  "10% Zygarde": {
+    "ja": "１０％フォルム",
+    "zh-hans": "１０％形态",
+    "zh-hant": "１０％形態"
+  },
+  "Zygarde-10-Power-Construct": {
+    "ja": "１０％フォルム",
+    "zh-hans": "１０％形态",
+    "zh-hant": "１０％形態"
+  },
+  "50% Zygarde": {
+    "ja": "５０％フォルム",
+    "zh-hans": "５０％形态",
+    "zh-hant": "５０％形態"
+  },
+  "Zygarde-50-Power-Construct": {
+    "ja": "５０％フォルム",
+    "zh-hans": "５０％形态",
+    "zh-hant": "５０％形態"
+  },
+  "Complete Zygarde": {
+    "ja": "パーフェクトフォルム",
+    "zh-hans": "完全体形态",
+    "zh-hant": "完全體形態"
+  },
+  "Zygarde-Complete": {
+    "ja": "パーフェクトフォルム",
+    "zh-hans": "完全体形态",
+    "zh-hant": "完全體形態"
+  },
+  "Pom-pom Oricorio": {
+    "ja": "ぱちぱちスタイル",
+    "zh-hans": "啪滋啪滋风格",
+    "zh-hant": "啪滋啪滋風格"
+  },
+  "Oricorio-Pom-Pom": {
+    "ja": "ぱちぱちスタイル",
+    "zh-hans": "啪滋啪滋风格",
+    "zh-hant": "啪滋啪滋風格"
+  },
+  "Pa’u Oricorio": {
+    "ja": "ふらふらスタイル",
+    "zh-hans": "呼拉呼拉风格",
+    "zh-hant": "呼拉呼拉風格"
+  },
+  "Oricorio-Pau": {
+    "ja": "ふらふらスタイル",
+    "zh-hans": "呼拉呼拉风格",
+    "zh-hant": "呼拉呼拉風格"
+  },
+  "Sensu Oricorio": {
+    "ja": "まいまいスタイル",
+    "zh-hans": "轻盈轻盈风格",
+    "zh-hant": "輕盈輕盈風格"
+  },
+  "Oricorio-Sensu": {
+    "ja": "まいまいスタイル",
+    "zh-hans": "轻盈轻盈风格",
+    "zh-hant": "輕盈輕盈風格"
+  },
+  "Midnight Lycanroc": {
+    "ja": "まよなかのすがた",
+    "zh-hans": "黑夜的样子",
+    "zh-hant": "黑夜的樣子"
+  },
+  "Lycanroc-Midnight": {
+    "ja": "まよなかのすがた",
+    "zh-hans": "黑夜的样子",
+    "zh-hant": "黑夜的樣子"
+  },
+  "School Wishiwashi": {
+    "ja": "むれたすがた",
+    "zh-hans": "鱼群的样子",
+    "zh-hant": "魚群的樣子"
+  },
+  "Wishiwashi-School": {
+    "ja": "むれたすがた",
+    "zh-hans": "鱼群的样子",
+    "zh-hant": "魚群的樣子"
+  },
+  "Type: Fighting": {
+    "ja": "タイプ：ファイト",
+    "zh-hans": "属性：战斗",
+    "zh-hant": "屬性：戰鬥"
+  },
+  "Silvally-Fighting": {
+    "ja": "タイプ：ファイト",
+    "zh-hans": "属性：战斗",
+    "zh-hant": "屬性：戰鬥"
+  },
+  "Type: Flying": {
+    "ja": "タイプ：フライング",
+    "zh-hans": "属性：飞翔",
+    "zh-hant": "屬性：飛翔"
+  },
+  "Silvally-Flying": {
+    "ja": "タイプ：フライング",
+    "zh-hans": "属性：飞翔",
+    "zh-hant": "屬性：飛翔"
+  },
+  "Type: Poison": {
+    "ja": "タイプ：ポイズン",
+    "zh-hans": "属性：毒",
+    "zh-hant": "屬性：毒"
+  },
+  "Silvally-Poison": {
+    "ja": "タイプ：ポイズン",
+    "zh-hans": "属性：毒",
+    "zh-hant": "屬性：毒"
+  },
+  "Type: Ground": {
+    "ja": "タイプ：グラウンド",
+    "zh-hans": "属性：大地",
+    "zh-hant": "屬性：大地"
+  },
+  "Silvally-Ground": {
+    "ja": "タイプ：グラウンド",
+    "zh-hans": "属性：大地",
+    "zh-hant": "屬性：大地"
+  },
+  "Type: Rock": {
+    "ja": "タイプ：ロック",
+    "zh-hans": "属性：岩石",
+    "zh-hant": "屬性：岩石"
+  },
+  "Silvally-Rock": {
+    "ja": "タイプ：ロック",
+    "zh-hans": "属性：岩石",
+    "zh-hant": "屬性：岩石"
+  },
+  "Type: Bug": {
+    "ja": "タイプ：バグ",
+    "zh-hans": "属性：虫子",
+    "zh-hant": "屬性：蟲子"
+  },
+  "Silvally-Bug": {
+    "ja": "タイプ：バグ",
+    "zh-hans": "属性：虫子",
+    "zh-hant": "屬性：蟲子"
+  },
+  "Type: Ghost": {
+    "ja": "タイプ：ゴースト",
+    "zh-hans": "属性：幽灵",
+    "zh-hant": "屬性：幽靈"
+  },
+  "Silvally-Ghost": {
+    "ja": "タイプ：ゴースト",
+    "zh-hans": "属性：幽灵",
+    "zh-hant": "屬性：幽靈"
+  },
+  "Type: Steel": {
+    "ja": "タイプ：スチール",
+    "zh-hans": "属性：钢铁",
+    "zh-hant": "屬性：鋼鐵"
+  },
+  "Silvally-Steel": {
+    "ja": "タイプ：スチール",
+    "zh-hans": "属性：钢铁",
+    "zh-hant": "屬性：鋼鐵"
+  },
+  "Normal Form Terapagos": {
+    "ja": "ノーマルフォルム"
+  },
+  "Terapagos": {
+    "ja": "ノーマルフォルム"
+  },
+  "Type: Fire": {
+    "ja": "タイプ：ファイヤー",
+    "zh-hans": "属性：火焰",
+    "zh-hant": "屬性：火焰"
+  },
+  "Silvally-Fire": {
+    "ja": "タイプ：ファイヤー",
+    "zh-hans": "属性：火焰",
+    "zh-hant": "屬性：火焰"
+  },
+  "Type: Water": {
+    "ja": "タイプ：ウオーター",
+    "zh-hans": "属性：清水",
+    "zh-hant": "屬性：清水"
+  },
+  "Silvally-Water": {
+    "ja": "タイプ：ウオーター",
+    "zh-hans": "属性：清水",
+    "zh-hant": "屬性：清水"
+  },
+  "Type: Grass": {
+    "ja": "タイプ：グラス",
+    "zh-hans": "属性：青草",
+    "zh-hant": "屬性：青草"
+  },
+  "Silvally-Grass": {
+    "ja": "タイプ：グラス",
+    "zh-hans": "属性：青草",
+    "zh-hant": "屬性：青草"
+  },
+  "Type: Electric": {
+    "ja": "タイプ：エレクトロ",
+    "zh-hans": "属性：电子",
+    "zh-hant": "屬性：電子"
+  },
+  "Silvally-Electric": {
+    "ja": "タイプ：エレクトロ",
+    "zh-hans": "属性：电子",
+    "zh-hant": "屬性：電子"
+  },
+  "Type: Psychic": {
+    "ja": "タイプ：サイキック",
+    "zh-hans": "属性：精神",
+    "zh-hant": "屬性：精神"
+  },
+  "Silvally-Psychic": {
+    "ja": "タイプ：サイキック",
+    "zh-hans": "属性：精神",
+    "zh-hant": "屬性：精神"
+  },
+  "Type: Ice": {
+    "ja": "タイプ：アイス",
+    "zh-hans": "属性：冰雪",
+    "zh-hant": "屬性：冰雪"
+  },
+  "Silvally-Ice": {
+    "ja": "タイプ：アイス",
+    "zh-hans": "属性：冰雪",
+    "zh-hant": "屬性：冰雪"
+  },
+  "Type: Dragon": {
+    "ja": "タイプ：ドラゴン",
+    "zh-hans": "属性：龙",
+    "zh-hant": "屬性：龍"
+  },
+  "Silvally-Dragon": {
+    "ja": "タイプ：ドラゴン",
+    "zh-hans": "属性：龙",
+    "zh-hant": "屬性：龍"
+  },
+  "Type: Dark": {
+    "ja": "タイプ：ダーク",
+    "zh-hans": "属性：黑暗",
+    "zh-hant": "屬性：黑暗"
+  },
+  "Silvally-Dark": {
+    "ja": "タイプ：ダーク",
+    "zh-hans": "属性：黑暗",
+    "zh-hant": "屬性：黑暗"
+  },
+  "Type: Fairy": {
+    "ja": "タイプ：フェアリー",
+    "zh-hans": "属性：妖精",
+    "zh-hant": "屬性：妖精"
+  },
+  "Silvally-Fairy": {
+    "ja": "タイプ：フェアリー",
+    "zh-hans": "属性：妖精",
+    "zh-hant": "屬性：妖精"
+  },
+  "Orange Meteor Minior": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Minior-Orange-Meteor": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Yellow Meteor Minior": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Minior-Yellow-Meteor": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Green Meteor Minior": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Minior-Green-Meteor": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Blue Meteor Minior": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Minior-Blue-Meteor": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Indigo Meteor Minior": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Minior-Indigo-Meteor": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Violet Meteor Minior": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Minior-Violet-Meteor": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Red Core Minior": {
+    "ja": "あかいろのコア",
+    "zh-hans": "红色核心",
+    "zh-hant": "紅色核心"
+  },
+  "Minior-Red": {
+    "ja": "あかいろのコア",
+    "zh-hans": "红色核心",
+    "zh-hant": "紅色核心"
+  },
+  "Orange Core Minior": {
+    "ja": "だいだいいろのコア",
+    "zh-hans": "橙色核心",
+    "zh-hant": "橙色核心"
+  },
+  "Minior-Orange": {
+    "ja": "だいだいいろのコア",
+    "zh-hans": "橙色核心",
+    "zh-hant": "橙色核心"
+  },
+  "Yellow Core Minior": {
+    "ja": "きいろのコア",
+    "zh-hans": "黄色核心",
+    "zh-hant": "黃色核心"
+  },
+  "Minior-Yellow": {
+    "ja": "きいろのコア",
+    "zh-hans": "黄色核心",
+    "zh-hant": "黃色核心"
+  },
+  "Green Core Minior": {
+    "ja": "みどりいろのコア",
+    "zh-hans": "绿色核心",
+    "zh-hant": "綠色核心"
+  },
+  "Minior-Green": {
+    "ja": "みどりいろのコア",
+    "zh-hans": "绿色核心",
+    "zh-hant": "綠色核心"
+  },
+  "Blue Core Minior": {
+    "ja": "みずいろのコア",
+    "zh-hans": "浅蓝色核心",
+    "zh-hant": "淺藍色核心"
+  },
+  "Minior-Blue": {
+    "ja": "みずいろのコア",
+    "zh-hans": "浅蓝色核心",
+    "zh-hant": "淺藍色核心"
+  },
+  "Indigo Core Minior": {
+    "ja": "あおいろのコア",
+    "zh-hans": "蓝色核心",
+    "zh-hant": "藍色核心"
+  },
+  "Minior-Indigo": {
+    "ja": "あおいろのコア",
+    "zh-hans": "蓝色核心",
+    "zh-hant": "藍色核心"
+  },
+  "Violet Core Minior": {
+    "ja": "むらさきいろのコア",
+    "zh-hans": "紫色核心",
+    "zh-hant": "紫色核心"
+  },
+  "Minior-Violet": {
+    "ja": "むらさきいろのコア",
+    "zh-hans": "紫色核心",
+    "zh-hant": "紫色核心"
+  },
+  "Busted Mimikyu": {
+    "ja": "ばれたすがた",
+    "zh-hans": "现形的样子",
+    "zh-hant": "現形的樣子"
+  },
+  "Mimikyu-Busted": {
+    "ja": "ばれたすがた",
+    "zh-hans": "现形的样子",
+    "zh-hant": "現形的樣子"
+  },
+  "Original Magearna": {
+    "ja": "５００ねんまえのいろ",
+    "zh-hans": "５００年前的颜色",
+    "zh-hant": "５００年前的顏色"
+  },
+  "Magearna-Original": {
+    "ja": "５００ねんまえのいろ",
+    "zh-hans": "５００年前的颜色",
+    "zh-hant": "５００年前的顏色"
+  },
+  "Partner Cap Pikachu": {
+    "ja": "キミにきめたキャップ",
+    "zh-hans": "就决定是你了之帽子",
+    "zh-hant": "就決定是你了之帽子"
+  },
+  "Pikachu-Partner-Cap": {
+    "ja": "キミにきめたキャップ",
+    "zh-hans": "就决定是你了之帽子",
+    "zh-hant": "就決定是你了之帽子"
+  },
+  "Own Tempo Rockruff": {
+    "ja": "イワンコ（マイペース）"
+  },
+  "Rockruff-Own-Tempo": {
+    "ja": "イワンコ（マイペース）"
+  },
+  "Dusk Lycanroc": {
+    "ja": "たそがれのすがた",
+    "zh-hans": "黄昏的样子",
+    "zh-hant": "黃昏的樣子"
+  },
+  "Lycanroc-Dusk": {
+    "ja": "たそがれのすがた",
+    "zh-hans": "黄昏的样子",
+    "zh-hant": "黃昏的樣子"
+  },
+  "Dusk Necrozma": {
+    "ja": "たそがれのたてがみ",
+    "zh-hans": "黄昏之鬃",
+    "zh-hant": "黃昏之鬃"
+  },
+  "Necrozma-Dusk": {
+    "ja": "たそがれのたてがみ",
+    "zh-hans": "黄昏之鬃",
+    "zh-hant": "黃昏之鬃"
+  },
+  "Dawn Necrozma": {
+    "ja": "あかつきのつばさ",
+    "zh-hans": "拂晓之翼",
+    "zh-hant": "拂曉之翼"
+  },
+  "Necrozma-Dawn": {
+    "ja": "あかつきのつばさ",
+    "zh-hans": "拂晓之翼",
+    "zh-hant": "拂曉之翼"
+  },
+  "Ultra Necrozma": {
+    "ja": "ウルトラネクロズマ",
+    "zh-hans": "究极奈克洛兹玛",
+    "zh-hant": "究極奈克洛茲瑪"
+  },
+  "Necrozma-Ultra": {
+    "ja": "ウルトラネクロズマ",
+    "zh-hans": "究极奈克洛兹玛",
+    "zh-hant": "究極奈克洛茲瑪"
+  },
+  "World Cap Pikachu": {
+    "ja": "ワールドキャップ",
+    "zh-hans": "世界帽子",
+    "zh-hant": "世界帽子"
+  },
+  "Pikachu-World-Cap": {
+    "ja": "ワールドキャップ",
+    "zh-hans": "世界帽子",
+    "zh-hant": "世界帽子"
+  },
+  "Galarian Meowth": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Meowth-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Ponyta": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Ponyta-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Rapidash": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Rapidash-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Slowpoke": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Slowpoke-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Slowbro": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Slowbro-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Farfetch’d": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Farfetchd-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Weezing": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Weezing-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Mr. Mime": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Mr-Mime-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Articuno": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Articuno-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Zapdos": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Zapdos-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Moltres": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Moltres-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Slowking": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Slowking-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Corsola": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Corsola-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Zigzagoon": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Zigzagoon-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Linoone": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Linoone-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Darumaka": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Darumaka-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Standard Galarian Darmanitan": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Darmanitan-Galar-Standard": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Zen Galarian Darmanitan": {
+    "ja": "ダルマモード",
+    "zh-hans": "达摩模式",
+    "zh-hant": "達摩模式"
+  },
+  "Darmanitan-Galar-Zen": {
+    "ja": "ダルマモード",
+    "zh-hans": "达摩模式",
+    "zh-hant": "達摩模式"
+  },
+  "Galarian Yamask": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Yamask-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Galarian Stunfisk": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Stunfisk-Galar": {
+    "ja": "ガラルのすがた",
+    "zh-hans": "伽勒尔的样子",
+    "zh-hant": "伽勒爾的樣子"
+  },
+  "Zygarde-10": {
+    "ja": "１０％フォルム",
+    "zh-hans": "１０％形态",
+    "zh-hant": "１０％形態"
+  },
+  "Gulping Cramorant": {
+    "ja": "うのみのすがた",
+    "zh-hans": "一口吞的样子",
+    "zh-hant": "一口吞的樣子"
+  },
+  "Cramorant-Gulping": {
+    "ja": "うのみのすがた",
+    "zh-hans": "一口吞的样子",
+    "zh-hant": "一口吞的樣子"
+  },
+  "Gorging Cramorant": {
+    "ja": "まるのみのすがた",
+    "zh-hans": "大口吞的样子",
+    "zh-hant": "大口吞的樣子"
+  },
+  "Cramorant-Gorging": {
+    "ja": "まるのみのすがた",
+    "zh-hans": "大口吞的样子",
+    "zh-hant": "大口吞的樣子"
+  },
+  "Low Key Toxtricity": {
+    "ja": "ローなすがた",
+    "zh-hans": "低调的样子",
+    "zh-hant": "低調的樣子"
+  },
+  "Toxtricity-Low-Key": {
+    "ja": "ローなすがた",
+    "zh-hans": "低调的样子",
+    "zh-hant": "低調的樣子"
+  },
+  "Antique Sinistea": {
+    "ja": "しんさくフォルム"
+  },
+  "Sinistea-Antique": {
+    "ja": "しんさくフォルム"
+  },
+  "Antique Polteageist": {
+    "ja": "しんさくフォルム"
+  },
+  "Polteageist-Antique": {
+    "ja": "しんさくフォルム"
+  },
+  "Ruby Cream Strawberry Sweet Alcremie": {
+    "ja": "ミルキィルビー",
+    "zh-hans": "奶香红钻",
+    "zh-hant": "奶香紅鑽"
+  },
+  "Alcremie-Ruby-Cream-Strawberry-Sweet": {
+    "ja": "ミルキィルビー",
+    "zh-hans": "奶香红钻",
+    "zh-hant": "奶香紅鑽"
+  },
+  "Matcha Cream Strawberry Sweet Alcremie": {
+    "ja": "ミルキィまっちゃ",
+    "zh-hans": "奶香抹茶",
+    "zh-hant": "奶香抹茶"
+  },
+  "Alcremie-Matcha-Cream-Strawberry-Sweet": {
+    "ja": "ミルキィまっちゃ",
+    "zh-hans": "奶香抹茶",
+    "zh-hant": "奶香抹茶"
+  },
+  "Mint Cream Strawberry Sweet Alcremie": {
+    "ja": "ミルキィミント",
+    "zh-hans": "奶香薄荷",
+    "zh-hant": "奶香薄荷"
+  },
+  "Alcremie-Mint-Cream-Strawberry-Sweet": {
+    "ja": "ミルキィミント",
+    "zh-hans": "奶香薄荷",
+    "zh-hant": "奶香薄荷"
+  },
+  "Lemon Cream Strawberry Sweet Alcremie": {
+    "ja": "ミルキィレモン",
+    "zh-hans": "奶香柠檬",
+    "zh-hant": "奶香檸檬"
+  },
+  "Alcremie-Lemon-Cream-Strawberry-Sweet": {
+    "ja": "ミルキィレモン",
+    "zh-hans": "奶香柠檬",
+    "zh-hant": "奶香檸檬"
+  },
+  "Salted Cream Strawberry Sweet Alcremie": {
+    "ja": "ミルキィソルト",
+    "zh-hans": "奶香雪盐",
+    "zh-hant": "奶香雪鹽"
+  },
+  "Alcremie-Salted-Cream-Strawberry-Sweet": {
+    "ja": "ミルキィソルト",
+    "zh-hans": "奶香雪盐",
+    "zh-hant": "奶香雪鹽"
+  },
+  "Ruby Swirl Strawberry Sweet Alcremie": {
+    "ja": "ルビーミックス",
+    "zh-hans": "红钻综合",
+    "zh-hant": "紅鑽綜合"
+  },
+  "Alcremie-Ruby-Swirl-Strawberry-Sweet": {
+    "ja": "ルビーミックス",
+    "zh-hans": "红钻综合",
+    "zh-hant": "紅鑽綜合"
+  },
+  "Caramel Swirl Strawberry Sweet Alcremie": {
+    "ja": "キャラメルミックス",
+    "zh-hans": "焦糖综合",
+    "zh-hant": "焦糖綜合"
+  },
+  "Alcremie-Caramel-Swirl-Strawberry-Sweet": {
+    "ja": "キャラメルミックス",
+    "zh-hans": "焦糖综合",
+    "zh-hant": "焦糖綜合"
+  },
+  "Rainbow Swirl Strawberry Sweet Alcremie": {
+    "ja": "トリプルミックス",
+    "zh-hans": "三色综合",
+    "zh-hant": "三色綜合"
+  },
+  "Alcremie-Rainbow-Swirl-Strawberry-Sweet": {
+    "ja": "トリプルミックス",
+    "zh-hans": "三色综合",
+    "zh-hant": "三色綜合"
+  },
+  "Noice Eiscue": {
+    "ja": "ナイスフェイス",
+    "zh-hans": "解冻头",
+    "zh-hant": "解凍頭"
+  },
+  "Eiscue-Noice": {
+    "ja": "ナイスフェイス",
+    "zh-hans": "解冻头",
+    "zh-hant": "解凍頭"
+  },
+  "Female Indeedee": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Indeedee-Female": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Hangry Morpeko": {
+    "ja": "はらぺこもよう",
+    "zh-hans": "空腹花纹",
+    "zh-hant": "空腹花紋"
+  },
+  "Morpeko-Hangry": {
+    "ja": "はらぺこもよう",
+    "zh-hans": "空腹花纹",
+    "zh-hant": "空腹花紋"
+  },
+  "Crowned Zacian": {
+    "ja": "けんのおう",
+    "zh-hans": "剑之王",
+    "zh-hant": "劍之王"
+  },
+  "Zacian-Crowned": {
+    "ja": "けんのおう",
+    "zh-hans": "剑之王",
+    "zh-hant": "劍之王"
+  },
+  "Crowned Zamazenta": {
+    "ja": "たてのおう",
+    "zh-hans": "盾之王",
+    "zh-hant": "盾之王"
+  },
+  "Zamazenta-Crowned": {
+    "ja": "たてのおう",
+    "zh-hans": "盾之王",
+    "zh-hant": "盾之王"
+  },
+  "Eternamax Eternatus": {
+    "ja": "ムゲンダイマックス",
+    "zh-hans": "无极巨化",
+    "zh-hant": "無極巨化"
+  },
+  "Eternatus-Eternamax": {
+    "ja": "ムゲンダイマックス",
+    "zh-hans": "无极巨化",
+    "zh-hant": "無極巨化"
+  },
+  "Rapid Strike Urshifu": {
+    "ja": "れんげきのかた",
+    "zh-hans": "连击流",
+    "zh-hant": "連擊流"
+  },
+  "Urshifu-Rapid-Strike": {
+    "ja": "れんげきのかた",
+    "zh-hans": "连击流",
+    "zh-hant": "連擊流"
+  },
+  "Dada Zarude": {
+    "ja": "とうちゃん",
+    "zh-hans": "阿爸",
+    "zh-hant": "阿爸"
+  },
+  "Zarude-Dada": {
+    "ja": "とうちゃん",
+    "zh-hans": "阿爸",
+    "zh-hant": "阿爸"
+  },
+  "Ice Calyrex": {
+    "ja": "はくばじょうのすがた",
+    "zh-hans": "骑白马的样子",
+    "zh-hant": "騎白馬的樣子"
+  },
+  "Calyrex-Ice": {
+    "ja": "はくばじょうのすがた",
+    "zh-hans": "骑白马的样子",
+    "zh-hant": "騎白馬的樣子"
+  },
+  "Shadow Calyrex": {
+    "ja": "こくばじょうのすがた",
+    "zh-hans": "骑黑马的样子",
+    "zh-hant": "騎黑馬的樣子"
+  },
+  "Calyrex-Shadow": {
+    "ja": "こくばじょうのすがた",
+    "zh-hans": "骑黑马的样子",
+    "zh-hant": "騎黑馬的樣子"
+  },
+  "Hisuian Growlithe": {
+    "ja": "ヒスイのすがた"
+  },
+  "Growlithe-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Arcanine": {
+    "ja": "ヒスイのすがた"
+  },
+  "Arcanine-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Voltorb": {
+    "ja": "ヒスイのすがた"
+  },
+  "Voltorb-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Electrode": {
+    "ja": "ヒスイのすがた"
+  },
+  "Electrode-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Typhlosion": {
+    "ja": "ヒスイのすがた"
+  },
+  "Typhlosion-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Qwilfish": {
+    "ja": "ヒスイのすがた"
+  },
+  "Qwilfish-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Sneasel": {
+    "ja": "ヒスイのすがた"
+  },
+  "Sneasel-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Samurott": {
+    "ja": "ヒスイのすがた"
+  },
+  "Samurott-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Lilligant": {
+    "ja": "ヒスイのすがた"
+  },
+  "Lilligant-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Zorua": {
+    "ja": "ヒスイのすがた"
+  },
+  "Zorua-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Zoroark": {
+    "ja": "ヒスイのすがた"
+  },
+  "Zoroark-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Braviary": {
+    "ja": "ヒスイのすがた"
+  },
+  "Braviary-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Sliggoo": {
+    "ja": "ヒスイのすがた"
+  },
+  "Sliggoo-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Goodra": {
+    "ja": "ヒスイのすがた"
+  },
+  "Goodra-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Avalugg": {
+    "ja": "ヒスイのすがた"
+  },
+  "Avalugg-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Hisuian Decidueye": {
+    "ja": "ヒスイのすがた"
+  },
+  "Decidueye-Hisui": {
+    "ja": "ヒスイのすがた"
+  },
+  "Origin Dialga": {
+    "ja": "オリジンフォルム"
+  },
+  "Dialga-Origin": {
+    "ja": "オリジンフォルム"
+  },
+  "Origin Palkia": {
+    "ja": "オリジンフォルム"
+  },
+  "Palkia-Origin": {
+    "ja": "オリジンフォルム"
+  },
+  "White-Striped Basculin": {
+    "ja": "しろすじのすがた"
+  },
+  "Basculin-White-Striped": {
+    "ja": "しろすじのすがた"
+  },
+  "Female Basculegion": {
+    "ja": "メスのすがた"
+  },
+  "Basculegion-Female": {
+    "ja": "メスのすがた"
+  },
+  "Therian Enamorus": {
+    "ja": "れいじゅうフォルム"
+  },
+  "Enamorus-Therian": {
+    "ja": "れいじゅうフォルム"
+  },
+  "Paldean Tauros (Combat Breed)": {
+    "ja": "パルデアのすがた"
+  },
+  "Tauros-Paldea-Combat-Breed": {
+    "ja": "パルデアのすがた"
+  },
+  "Paldean Tauros (Blaze Breed)": {
+    "ja": "パルデアのすがた"
+  },
+  "Tauros-Paldea-Blaze-Breed": {
+    "ja": "パルデアのすがた"
+  },
+  "Paldean Tauros (Aqua Breed)": {
+    "ja": "パルデアのすがた"
+  },
+  "Tauros-Paldea-Aqua-Breed": {
+    "ja": "パルデアのすがた"
+  },
+  "Paldean Wooper": {
+    "ja": "パルデアのすがた"
+  },
+  "Wooper-Paldea": {
+    "ja": "パルデアのすがた"
+  },
+  "Female Oinkologne": {
+    "ja": "メスのすがた"
+  },
+  "Oinkologne-Female": {
+    "ja": "メスのすがた"
+  },
+  "Three-Segment Form Dudunsparce": {
+    "ja": "みつふしフォルム"
+  },
+  "Dudunsparce-Three-Segment": {
+    "ja": "みつふしフォルム"
+  },
+  "Hero Form Palafin": {
+    "ja": "マイティフォルム"
+  },
+  "Palafin-Hero": {
+    "ja": "マイティフォルム"
+  },
+  "Maushold (Family of Three)": {
+    "ja": "３びきかぞく"
+  },
+  "Maushold-Family-Of-Three": {
+    "ja": "３びきかぞく"
+  },
+  "Droopy Form Tatsugiri": {
+    "ja": "たれたすがた"
+  },
+  "Tatsugiri-Droopy": {
+    "ja": "たれたすがた"
+  },
+  "Stretchy Form Tatsugiri": {
+    "ja": "のびたすがた"
+  },
+  "Tatsugiri-Stretchy": {
+    "ja": "のびたすがた"
+  },
+  "Blue Plumage Squawkabilly": {
+    "ja": "ブルーフェザー"
+  },
+  "Squawkabilly-Blue-Plumage": {
+    "ja": "ブルーフェザー"
+  },
+  "Yellow Plumage Squawkabilly": {
+    "ja": "イエローフェザー"
+  },
+  "Squawkabilly-Yellow-Plumage": {
+    "ja": "イエローフェザー"
+  },
+  "White Plumage Squawkabilly": {
+    "ja": "ホワイトフェザー"
+  },
+  "Squawkabilly-White-Plumage": {
+    "ja": "ホワイトフェザー"
+  },
+  "Roaming Form Gimmighoul": {
+    "ja": "とほフォルム"
+  },
+  "Gimmighoul-Roaming": {
+    "ja": "とほフォルム"
+  },
+  "Limited Build": {
+    "ja": "せいげんけいたい"
+  },
+  "Koraidon-Limited-Build": {
+    "ja": "せいげんけいたい"
+  },
+  "Sprinting Build": {
+    "ja": "しっそうけいたい"
+  },
+  "Koraidon-Sprinting-Build": {
+    "ja": "しっそうけいたい"
+  },
+  "Swimming Build": {
+    "ja": "ゆうえいけいたい"
+  },
+  "Koraidon-Swimming-Build": {
+    "ja": "ゆうえいけいたい"
+  },
+  "Gliding Build": {
+    "ja": "かっくうけいたい"
+  },
+  "Koraidon-Gliding-Build": {
+    "ja": "かっくうけいたい"
+  },
+  "Low-Power Mode": {
+    "ja": "リミテッドモード"
+  },
+  "Miraidon-Low-Power-Mode": {
+    "ja": "リミテッドモード"
+  },
+  "Drive Mode": {
+    "ja": "ドライブモード"
+  },
+  "Miraidon-Drive-Mode": {
+    "ja": "ドライブモード"
+  },
+  "Aquatic Mode": {
+    "ja": "フロートモード"
+  },
+  "Miraidon-Aquatic-Mode": {
+    "ja": "フロートモード"
+  },
+  "Glide Mode": {
+    "ja": "グライドモード"
+  },
+  "Miraidon-Glide-Mode": {
+    "ja": "グライドモード"
+  },
+  "Bloodmoon Ursaluna": {
+    "ja": "アカツキ",
+    "zh-hans": "赫月",
+    "zh-hant": "赫月"
+  },
+  "Ursaluna-Bloodmoon": {
+    "ja": "アカツキ",
+    "zh-hans": "赫月",
+    "zh-hant": "赫月"
+  },
+  "Wellspring Mask Ogerpon": {
+    "ja": "いどのめん",
+    "zh-hans": "水井面具",
+    "zh-hant": "水井面具"
+  },
+  "Ogerpon-Wellspring-Mask": {
+    "ja": "いどのめん",
+    "zh-hans": "水井面具",
+    "zh-hant": "水井面具"
+  },
+  "Hearthflame Mask Ogerpon": {
+    "ja": "かまどのめん",
+    "zh-hans": "火灶面具",
+    "zh-hant": "火灶面具"
+  },
+  "Ogerpon-Hearthflame-Mask": {
+    "ja": "かまどのめん",
+    "zh-hans": "火灶面具",
+    "zh-hant": "火灶面具"
+  },
+  "Cornerstone Mask Ogerpon": {
+    "ja": "いしずえのめん",
+    "zh-hans": "礎石面具",
+    "zh-hant": "礎石面具"
+  },
+  "Ogerpon-Cornerstone-Mask": {
+    "ja": "いしずえのめん",
+    "zh-hans": "礎石面具",
+    "zh-hant": "礎石面具"
+  },
+  "Terastal Form Terapagos": {
+    "ja": "テラスタルフォルム"
+  },
+  "Terapagos-Terastal": {
+    "ja": "テラスタルフォルム"
+  },
+  "Stellar Form Terapagos": {
+    "ja": "ステラフォルム"
+  },
+  "Terapagos-Stellar": {
+    "ja": "ステラフォルム"
+  },
+  "Artisan Form Poltchageist": {
+    "ja": "タカイモノのすがた",
+    "zh-hans": "高档货的样子",
+    "zh-hant": "高檔貨的樣子"
+  },
+  "Poltchageist-Artisan": {
+    "ja": "タカイモノのすがた",
+    "zh-hans": "高档货的样子",
+    "zh-hant": "高檔貨的樣子"
+  },
+  "Masterpiece Form Sinistcha": {
+    "ja": "ケッサクのすがた",
+    "zh-hans": "杰作的样子",
+    "zh-hant": "傑作的樣子"
+  },
+  "Sinistcha-Masterpiece": {
+    "ja": "ケッサクのすがた",
+    "zh-hans": "杰作的样子",
+    "zh-hant": "傑作的樣子"
+  },
+  "Female Pyroar": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Pyroar-Female": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Female Frillish": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Frillish-Female": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Female Jellicent": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Jellicent-Female": {
+    "ja": "メスのすがた",
+    "zh-hans": "雌性的样子",
+    "zh-hant": "雌性的樣子"
+  },
+  "Normal": {
+    "ja": "ポワルンのすがた",
+    "zh-hans": "飘浮泡泡的样子",
+    "zh-hant": "飄浮泡泡的樣子"
+  },
+  "Castform": {
+    "ja": "ポワルンのすがた",
+    "zh-hans": "飘浮泡泡的样子",
+    "zh-hant": "飄浮泡泡的樣子"
+  },
+  "Kyogre": {
+    "ja": "カイオーガのすがた",
+    "zh-hans": "盖欧卡的样子",
+    "zh-hant": "蓋歐卡的樣子"
+  },
+  "Groudon": {
+    "ja": "グラードンのすがた",
+    "zh-hans": "固拉多的样子",
+    "zh-hant": "固拉多的樣子"
+  },
+  "Normal Deoxys": {
+    "ja": "ノーマルフォルム",
+    "zh-hans": "普通形态",
+    "zh-hant": "普通形態"
+  },
+  "Deoxys-Normal": {
+    "ja": "ノーマルフォルム",
+    "zh-hans": "普通形态",
+    "zh-hant": "普通形態"
+  },
+  "Plant Wormadam": {
+    "ja": "くさきのミノ",
+    "zh-hans": "草木蓑衣",
+    "zh-hant": "草木蓑衣"
+  },
+  "Wormadam-Plant": {
+    "ja": "くさきのミノ",
+    "zh-hans": "草木蓑衣",
+    "zh-hant": "草木蓑衣"
+  },
+  "Overcast Cherrim": {
+    "ja": "ネガフォルム",
+    "zh-hans": "阴天形态",
+    "zh-hant": "陰天形態"
+  },
+  "Cherrim-Overcast": {
+    "ja": "ネガフォルム",
+    "zh-hans": "阴天形态",
+    "zh-hant": "陰天形態"
+  },
+  "West Shellos": {
+    "ja": "にしのうみ",
+    "zh-hans": "西海",
+    "zh-hant": "西海"
+  },
+  "Shellos-West": {
+    "ja": "にしのうみ",
+    "zh-hans": "西海",
+    "zh-hant": "西海"
+  },
+  "West Gastrodon": {
+    "ja": "にしのうみ",
+    "zh-hans": "西海",
+    "zh-hant": "西海"
+  },
+  "Gastrodon-West": {
+    "ja": "にしのうみ",
+    "zh-hans": "西海",
+    "zh-hant": "西海"
+  },
+  "Rotom": {
+    "ja": "ロトムのすがた",
+    "zh-hans": "洛托姆的样子",
+    "zh-hant": "洛托姆的樣子"
+  },
+  "Altered Giratina": {
+    "ja": "アナザーフォルム",
+    "zh-hans": "别种形态",
+    "zh-hant": "別種形態"
+  },
+  "Giratina-Altered": {
+    "ja": "アナザーフォルム",
+    "zh-hans": "别种形态",
+    "zh-hant": "別種形態"
+  },
+  "Land Shaymin": {
+    "ja": "ランドフォルム",
+    "zh-hans": "陆上形态",
+    "zh-hant": "陸上形態"
+  },
+  "Shaymin-Land": {
+    "ja": "ランドフォルム",
+    "zh-hans": "陆上形态",
+    "zh-hant": "陸上形態"
+  },
+  "Red-Striped Basculin": {
+    "ja": "あかすじのすがた",
+    "zh-hans": "红条纹的样子",
+    "zh-hant": "紅條紋的樣子"
+  },
+  "Basculin-Red-Striped": {
+    "ja": "あかすじのすがた",
+    "zh-hans": "红条纹的样子",
+    "zh-hant": "紅條紋的樣子"
+  },
+  "Standard Darmanitan": {
+    "ja": "ノーマルモード",
+    "zh-hans": "普通模式",
+    "zh-hant": "普通模式"
+  },
+  "Darmanitan-Standard": {
+    "ja": "ノーマルモード",
+    "zh-hans": "普通模式",
+    "zh-hant": "普通模式"
+  },
+  "Male Frillish": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Frillish-Male": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Male Jellicent": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Jellicent-Male": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Incarnate Tornadus": {
+    "ja": "けしんフォルム",
+    "zh-hans": "化身形态",
+    "zh-hant": "化身形態"
+  },
+  "Tornadus-Incarnate": {
+    "ja": "けしんフォルム",
+    "zh-hans": "化身形态",
+    "zh-hant": "化身形態"
+  },
+  "Incarnate Thundurus": {
+    "ja": "けしんフォルム",
+    "zh-hans": "化身形态",
+    "zh-hant": "化身形態"
+  },
+  "Thundurus-Incarnate": {
+    "ja": "けしんフォルム",
+    "zh-hans": "化身形态",
+    "zh-hant": "化身形態"
+  },
+  "Incarnate Landorus": {
+    "ja": "けしんフォルム",
+    "zh-hans": "化身形态",
+    "zh-hant": "化身形態"
+  },
+  "Landorus-Incarnate": {
+    "ja": "けしんフォルム",
+    "zh-hans": "化身形态",
+    "zh-hant": "化身形態"
+  },
+  "Kyurem": {
+    "ja": "キュレムのすがた",
+    "zh-hans": "酋雷姆的样子",
+    "zh-hant": "酋雷姆的樣子"
+  },
+  "Ordinary Keldeo": {
+    "ja": "いつものすがた",
+    "zh-hans": "平常的样子",
+    "zh-hant": "平常的樣子"
+  },
+  "Keldeo-Ordinary": {
+    "ja": "いつものすがた",
+    "zh-hans": "平常的样子",
+    "zh-hant": "平常的樣子"
+  },
+  "Aria Meloetta": {
+    "ja": "ボイスフォルム",
+    "zh-hans": "歌声形态",
+    "zh-hant": "歌聲形態"
+  },
+  "Meloetta-Aria": {
+    "ja": "ボイスフォルム",
+    "zh-hans": "歌声形态",
+    "zh-hant": "歌聲形態"
+  },
+  "Male Pyroar": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Pyroar-Male": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Male Meowstic": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Meowstic-Male": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Shield Aegislash": {
+    "ja": "シールドフォルム",
+    "zh-hans": "盾牌形态",
+    "zh-hant": "盾牌形態"
+  },
+  "Aegislash-Shield": {
+    "ja": "シールドフォルム",
+    "zh-hans": "盾牌形态",
+    "zh-hant": "盾牌形態"
+  },
+  "Average Pumpkaboo": {
+    "ja": "ふつうのサイズ",
+    "zh-hans": "普通尺寸",
+    "zh-hant": "普通尺寸"
+  },
+  "Pumpkaboo-Average": {
+    "ja": "ふつうのサイズ",
+    "zh-hans": "普通尺寸",
+    "zh-hant": "普通尺寸"
+  },
+  "Average Gourgeist": {
+    "ja": "ふつうのサイズ",
+    "zh-hans": "普通尺寸",
+    "zh-hant": "普通尺寸"
+  },
+  "Gourgeist-Average": {
+    "ja": "ふつうのサイズ",
+    "zh-hans": "普通尺寸",
+    "zh-hant": "普通尺寸"
+  },
+  "Active Xerneas": {
+    "ja": "アクティブモード",
+    "zh-hans": "活跃模式",
+    "zh-hant": "活躍模式"
+  },
+  "Xerneas-Active": {
+    "ja": "アクティブモード",
+    "zh-hans": "活跃模式",
+    "zh-hant": "活躍模式"
+  },
+  "50% Forme": {
+    "ja": "５０％フォルム",
+    "zh-hans": "５０％形态",
+    "zh-hant": "５０％形態"
+  },
+  "Zygarde-50": {
+    "ja": "５０％フォルム",
+    "zh-hans": "５０％形态",
+    "zh-hant": "５０％形態"
+  },
+  "Confined Hoopa": {
+    "ja": "いましめられしフーパ",
+    "zh-hans": "惩戒胡帕",
+    "zh-hant": "懲戒胡帕"
+  },
+  "Hoopa": {
+    "ja": "いましめられしフーパ",
+    "zh-hans": "惩戒胡帕",
+    "zh-hant": "懲戒胡帕"
+  },
+  "Baile Oricorio": {
+    "ja": "めらめらスタイル",
+    "zh-hans": "热辣热辣风格",
+    "zh-hant": "熱辣熱辣風格"
+  },
+  "Oricorio-Baile": {
+    "ja": "めらめらスタイル",
+    "zh-hans": "热辣热辣风格",
+    "zh-hant": "熱辣熱辣風格"
+  },
+  "Midday Lycanroc": {
+    "ja": "まひるのすがた",
+    "zh-hans": "白昼的样子",
+    "zh-hant": "白晝的樣子"
+  },
+  "Lycanroc-Midday": {
+    "ja": "まひるのすがた",
+    "zh-hans": "白昼的样子",
+    "zh-hant": "白晝的樣子"
+  },
+  "Solo Wishiwashi": {
+    "ja": "たんどくのすがた",
+    "zh-hans": "单独的样子",
+    "zh-hant": "單獨的樣子"
+  },
+  "Wishiwashi-Solo": {
+    "ja": "たんどくのすがた",
+    "zh-hans": "单独的样子",
+    "zh-hant": "單獨的樣子"
+  },
+  "Type: Normal": {
+    "ja": "タイプ：ノーマル",
+    "zh-hans": "属性：一般",
+    "zh-hant": "屬性：一般"
+  },
+  "Silvally-Normal": {
+    "ja": "タイプ：ノーマル",
+    "zh-hans": "属性：一般",
+    "zh-hant": "屬性：一般"
+  },
+  "Red Meteor Minior": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Minior-Red-Meteor": {
+    "ja": "りゅうせいのすがた",
+    "zh-hans": "流星的样子",
+    "zh-hant": "流星的樣子"
+  },
+  "Disguised Mimikyu": {
+    "ja": "ばけたすがた",
+    "zh-hans": "化形的样子",
+    "zh-hant": "化形的樣子"
+  },
+  "Mimikyu-Disguised": {
+    "ja": "ばけたすがた",
+    "zh-hans": "化形的样子",
+    "zh-hant": "化形的樣子"
+  },
+  "Amped Toxtricity": {
+    "ja": "ハイなすがた",
+    "zh-hans": "高调的样子",
+    "zh-hant": "高調的樣子"
+  },
+  "Toxtricity-Amped": {
+    "ja": "ハイなすがた",
+    "zh-hans": "高调的样子",
+    "zh-hant": "高調的樣子"
+  },
+  "Phony Sinistea": {
+    "ja": "がんさくフォルム"
+  },
+  "Sinistea-Phony": {
+    "ja": "がんさくフォルム"
+  },
+  "Phony Polteageist": {
+    "ja": "がんさくフォルム"
+  },
+  "Polteageist-Phony": {
+    "ja": "がんさくフォルム"
+  },
+  "Vanilla Cream Strawberry Sweet Alcremie": {
+    "ja": "ミルキィバニラ",
+    "zh-hans": "奶香香草",
+    "zh-hant": "奶香香草"
+  },
+  "Alcremie-Vanilla-Cream-Strawberry-Sweet": {
+    "ja": "ミルキィバニラ",
+    "zh-hans": "奶香香草",
+    "zh-hant": "奶香香草"
+  },
+  "Ice Eiscue": {
+    "ja": "アイスフェイス",
+    "zh-hans": "结冻头",
+    "zh-hant": "結凍頭"
+  },
+  "Eiscue-Ice": {
+    "ja": "アイスフェイス",
+    "zh-hans": "结冻头",
+    "zh-hant": "結凍頭"
+  },
+  "Male Indeedee": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Indeedee-Male": {
+    "ja": "オスのすがた",
+    "zh-hans": "雄性的样子",
+    "zh-hant": "雄性的樣子"
+  },
+  "Full Belly Morpeko": {
+    "ja": "まんぷくもよう",
+    "zh-hans": "满腹花纹",
+    "zh-hant": "滿腹花紋"
+  },
+  "Morpeko-Full-Belly": {
+    "ja": "まんぷくもよう",
+    "zh-hans": "满腹花纹",
+    "zh-hant": "滿腹花紋"
+  },
+  "Zacian": {
+    "ja": "れきせんのゆうしゃ",
+    "zh-hans": "百战勇者",
+    "zh-hant": "百戰勇者"
+  },
+  "Zamazenta": {
+    "ja": "れきせんのゆうしゃ",
+    "zh-hans": "百战勇者",
+    "zh-hant": "百戰勇者"
+  },
+  "Single Strike Urshifu": {
+    "ja": "いちげきのかた",
+    "zh-hans": "一击流",
+    "zh-hant": "一擊流"
+  },
+  "Urshifu-Single-Strike": {
+    "ja": "いちげきのかた",
+    "zh-hans": "一击流",
+    "zh-hant": "一擊流"
+  },
+  "Male Basculegion": {
+    "ja": "オスのすがた"
+  },
+  "Basculegion-Male": {
+    "ja": "オスのすがた"
+  },
+  "Incarnate Enamorus": {
+    "ja": "けしんフォルム"
+  },
+  "Enamorus-Incarnate": {
+    "ja": "けしんフォルム"
+  },
+  "Male Oinkologne": {
+    "ja": "オスのすがた"
+  },
+  "Oinkologne-Male": {
+    "ja": "オスのすがた"
+  },
+  "Maushold (Family of Four)": {
+    "ja": "４ひきかぞく"
+  },
+  "Maushold-Family-Of-Four": {
+    "ja": "４ひきかぞく"
+  },
+  "Green Plumage Squawkabilly": {
+    "ja": "グリーンフェザー"
+  },
+  "Squawkabilly-Green-Plumage": {
+    "ja": "グリーンフェザー"
+  },
+  "Zero Form Palafin": {
+    "ja": "ナイーブフォルム"
+  },
+  "Palafin-Zero": {
+    "ja": "ナイーブフォルム"
+  },
+  "Curly Form Tatsugiri": {
+    "ja": "そったすがた"
+  },
+  "Tatsugiri-Curly": {
+    "ja": "そったすがた"
+  },
+  "Two-Segment Form Dudunsparce": {
+    "ja": "ふたふしフォルム"
+  },
+  "Dudunsparce-Two-Segment": {
+    "ja": "ふたふしフォルム"
+  },
+  "Chest Form Gimmighoul": {
+    "ja": "はこフォルム"
+  },
+  "Gimmighoul-Chest": {
+    "ja": "はこフォルム"
+  }
+}
