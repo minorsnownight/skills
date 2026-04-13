@@ -20,7 +20,10 @@ description: >
 python scripts/get-dict.py
 ```
 
-该脚本会自动克隆 PokeAPI/api-data 到 `temp/pokeapi-data/` 并生成 7 个字典 JSON 到 `dict/`。
+该脚本会自动克隆 pokemon-dataset-zh 到 `temp/pokemon-dataset-zh/` 并通过三层策略生成字典 JSON 到 `dict/`：
+- 第 1 层：从 pokemon-dataset-zh 直接提取
+- 第 2 层：根据中文形态名模式规则生成
+- 第 3 层：从 `dict/alias.json` 合并手动映射
 
 ### 2. 翻译队伍
 
@@ -29,6 +32,26 @@ python scripts/get-pokepast.py <url1> [url2] ...
 ```
 
 输出中文 Showdown 格式文本到 stdout，元数据 JSON 到 stderr（以 `[META]` 开头）。
+
+### 2.5 处理未解析术语
+
+如果 get-pokepast.py 输出中包含 `[UNRESOLVED]` 标记的术语：
+
+1. 分析未解析的英文术语，尝试拆分（如 `Maushold-Four` → `Maushold` + `Four`）
+2. 搜索本地 `temp/pokemon-dataset-zh/` 数据，查找对应的中文翻译
+3. 将找到的映射添加到 `dict/alias.json`，格式与其他 dict 文件一致：
+   ```json
+   {
+     "EnglishName": {
+       "ja": "日本語名",
+       "zh-hans": "简体中文",
+       "zh-hant": "繁體中文"
+     }
+   }
+   ```
+   语言缺失则不填该字段。
+4. 重新运行 `python scripts/get-pokepast.py <urls>`
+5. 重复直到无未解析术语
 
 元数据格式：
 ```json

@@ -26,8 +26,6 @@ PokePast 队伍中文翻译脚本
 import json
 import os
 import re
-import ssl
-import subprocess
 import sys
 import urllib.request
 
@@ -36,7 +34,7 @@ SKILL_DIR = os.path.dirname(SCRIPT_DIR)
 DICT_DIR = os.path.join(SKILL_DIR, "dict")
 
 # 要加载的字典文件
-DICT_FILES = ["pokemon", "pokemon-forms", "moves", "abilities", "items", "types", "natures"]
+DICT_FILES = ["pokemon", "pokemon-forms", "moves", "abilities", "items", "types", "natures", "alias"]
 
 # 标签翻译
 LABEL_MAP = {
@@ -60,6 +58,9 @@ STAT_MAP = {
 # 队伍码匹配：10位字母数字
 TEAM_CODE_RE = re.compile(r'\b([A-Z0-9]{10})\b')
 
+# 未解析术语追踪
+unresolved_terms = set()
+
 
 def load_dicts():
     """加载所有字典文件，返回精确匹配和小写匹配两个索引"""
@@ -69,6 +70,8 @@ def load_dicts():
     for name in DICT_FILES:
         filepath = os.path.join(DICT_DIR, f"{name}.json")
         if not os.path.isfile(filepath):
+            if name == "alias":
+                continue  # alias.json 是可选的
             print(f"[警告] 字典文件不存在: {filepath}", file=sys.stderr)
             continue
         with open(filepath, "r", encoding="utf-8") as f:
@@ -85,31 +88,31 @@ def load_dicts():
 
 
 def translate(term, exact, lower):
-    """翻译术语，返回简中；找不到返回原文；简中缺失回退繁中"""
+    """翻译术语，返回简中；找不到返回原文，并记录未解析术语"""
     translations = exact.get(term) or lower.get(term.lower())
     if not translations:
+        _record_unresolved(term)
         return term
-    return translations.get("zh-hans") or translations.get("zh-hant") or term
+    zh = translations.get("zh-hans")
+    if zh:
+        return zh
+    # 有翻译条目但无简中，视为未解析
+    _record_unresolved(term)
+    return term
+
+
+def _record_unresolved(term):
+    """记录未解析术语，过滤纯数字和单字符"""
+    if term.isdigit() or len(term) <= 1:
+        return
+    unresolved_terms.add(term)
 
 
 def fetch_page(url):
-    """获取 PokePaste 页面 HTML，优先 urllib，失败则回退 curl"""
-    try:
-        ctx = ssl.create_default_context()
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=15, context=ctx) as resp:
-            return resp.read().decode("utf-8")
-    except Exception:
-        # urllib 失败时回退到 curl
-        result = subprocess.run(
-            ["curl", "-sL", url],
-            capture_output=True,
-            text=True,
-            timeout=15,
-        )
-        if result.returncode != 0:
-            raise RuntimeError(f"curl 也失败: {result.stderr}")
-        return result.stdout
+    """获取 PokePaste 页面 HTML"""
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        return resp.read().decode("utf-8")
 
 
 def extract_team_code(title):
@@ -317,6 +320,11 @@ def main():
             "url": r["url"],
         })
     print(f"\n[META]\n{json.dumps(meta, ensure_ascii=False)}", file=sys.stderr)
+
+    # 输出未解析术语
+    if unresolved_terms:
+        terms = sorted(unresolved_terms)
+        print(f"\n[UNRESOLVED] {', '.join(terms)}", file=sys.stderr)
 
 
 if __name__ == "__main__":
