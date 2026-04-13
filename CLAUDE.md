@@ -4,79 +4,99 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A Claude Code Skill that translates PokePaste team URLs into official Chinese Showdown format, queries current Pokemon Champions season rules, and generates strategy analysis Markdown documents.
+This is a **skills monorepo** for mew-skills — each subdirectory is a self-contained "skill" with its own SKILL.md contract, scripts, and assets. Skills are translation-only tools with no LLM or runtime network dependency beyond fetching source data.
+
+Current skill: **pokepaste-team-translator** — parses Pokepaste pages into structured English/Chinese JSON artifacts, validates them, produces deterministic review suggestions, and renders mobile-friendly HTML share cards.
 
 ## Commands
 
+All commands run from the skill subdirectory (e.g. `pokepaste-team-translator/`).
+
 ```bash
-# Generate dictionary files (first-time setup, requires git + internet)
-python get-pokemon-champions-teams-from-pokepast/scripts/get-dict.py
+# Rebuild translation dictionaries from temp/pokemon-dataset-zh/data/
+python3 scripts/build_dictionaries.py
 
-# Translate one or more PokePaste URLs to Chinese Showdown format
-python get-pokemon-champions-teams-from-pokepast/scripts/get-pokepast.py <url1> [url2] ...
+# Build full artifact set for one or more Pokepaste URLs
+python3 scripts/build_translated_team.py <url1> [url2] ...
 
-# Verify dictionary integrity
-python -c "import json; [print(f'{n}.json: {len(json.load(open(f\"get-pokemon-champions-teams-from-pokepast/dict/{n}.json\")))} 条') for n in ['pokemon','pokemon-forms','moves','abilities','items','types','natures','alias']]"
+# Single-URL translate (prints raw+zh JSON to stdout)
+python3 scripts/translate_pokepaste.py <url>
+
+# Validate a translated team pair
+python3 scripts/validate_team_json.py <team-raw.json> <team-zh.json>
+
+# Generate deterministic review suggestions
+python3 scripts/review_team_json.py <team-raw.json> <team-zh.json> <validation-report.json>
+
+# Render HTML share card
+python3 scripts/render_team_html.py <team-zh.json>
+
+# Run tests (from skill subdirectory)
+python3 -m pytest tests/
+# Or with unittest:
+python3 -m unittest discover -s tests
+# Run a single test class/method:
+python3 -m unittest tests.test_translation_pipeline.TranslationPipelineTest.test_parse_pokepaste_html_extracts_expected_metadata
 ```
-
-No build step, no test framework, no linting. Scripts use Python 3 stdlib only.
 
 ## Architecture
 
-Two-layer design: **Python scripts** handle data processing, **SKILL.md** orchestrates the full workflow including Claude-driven analysis.
+### Pipeline stages (sequential)
+
+1. **Fetch** — `fetch_pokepaste_html()` downloads raw HTML from pokepast.es
+2. **Parse** — `parse_pokepaste_html()` extracts structured English team data (`team-raw.json`)
+3. **Translate** — `translate_team()` applies dictionary lookups to produce Chinese fields (`team-zh.json`)
+4. **Validate** — `validate_translated_team()` checks structural completeness (`validation-report.json`)
+5. **Review** — `review_translation()` generates deterministic alias suggestions (`review-suggestions.json`)
+6. **Render** — `render_share_card_html()` produces the HTML share card (`share-card.html`)
+
+### Key design constraints
+
+- **No LLM dependency** — all translation is dictionary-based lookup
+- **Deterministic review** — same inputs always produce same review suggestions
+- **Validation ≠ Review** — validation is structural (missing fields, missing images); review is semantic (alias proposals, ambiguous findings). Keep them separate.
+- **Graceful degradation** — missing images or translations do not halt generation; they are reported in output artifacts
+
+### Module layout
 
 ```
-get-pokemon-champions-teams-from-pokepast/
-  SKILL.md        # Skill definition: 7-step workflow (check dict → translate → handle unresolved → season info → strategy → doc → review)
-  dict/           # 8 JSON dictionaries (pokemon, pokemon-forms, moves, abilities, items, types, natures, alias)
-  scripts/
-    get-dict.py   # Clones pokemon-dataset-zh → 3-layer build (extract + rules + alias merge) → writes dict/*.json
-    get-pokepast.py  # Fetches PokePaste HTML → parses team data → translates via dict → outputs Chinese Showdown text
-  temp/           # gitignored: pokemon-dataset-zh/ (cloned repo) + docs/ (generated Markdown)
+scripts/              # CLI entrypoints (one per pipeline stage)
+scripts/lib/          # Internal implementation (not a public interface)
+  dictionary_builder  # Rebuilds dict/ JSON from pokemon-dataset-zh source
+  translation_assets  # DictionaryBundle dataclass + image index builders
+  translation_pipeline # Core pipeline: fetch → parse → translate → artifacts
+  translation_validation # Structural validation logic
+  team_review         # Deterministic alias suggestion engine
+  html_rendering      # Template-based HTML share card rendering
+dict/                 # Pre-built en→zh translation mappings (JSON)
+assets/               # Template config + HTML templates
+temp/                 # Runtime data (gitignored): pokemon-dataset-zh clone, output
+tests/                # unittest-based tests with fixture HTML files
 ```
 
-### Data flow
+### Dictionary system
 
-1. `get-dict.py` clones `42arch/pokemon-dataset-zh` (shallow) into `temp/pokemon-dataset-zh/`, applies a 3-layer strategy:
-   - **Layer 1**: Direct extraction from `simple_pokedex.json`, `move_list.json`, `ability_list.json`, `item_list.json`, and form data from detail JSONs (image filenames → Showdown-style English names)
-   - **Layer 2**: Rule-based generation for common Chinese form name patterns (超级→-Mega, 阿罗拉的样子→-Alola, 起源形态→-Origin, etc.)
-   - **Layer 3**: Merge from `dict/alias.json` for irregular forms that can't be auto-generated
+- `dict/` contains flat `en→zh` string mappings for pokemon, moves, abilities, items, natures, types, and aliases
+- `DictionaryBundle` dataclass in `translation_assets.py` is the runtime interface: `translate_species()`, `translate_move()`, etc., with alias fallback
+- `dict/alias.json` is hand-curated; never modified as a runtime side effect
+- `dict/pokemon-images.json` and `dict/item-images.json` are built by scanning `temp/pokemon-dataset-zh/data/images/` during `build_dictionaries.py`
+- Image URL resolution: `image_base_url + relative_path` from `assets.json`
 
-   Output: `{EnglishName: "简体中文"}` mappings. `types.json` and `natures.json` are preserved (manually maintained). `alias.json` is preserved (user-maintained).
+### Output artifacts
 
-2. `get-pokepast.py` loads all 8 dict files into an exact-match index and a lowercase-fallback index. For each URL: fetches HTML, extracts team from `<article>/<pre>` elements, translates terms (keeps English if no translation found). Outputs translated text to stdout, metadata JSON to stderr (`[META]`), and unresolved terms to stderr (`[UNRESOLVED]`).
+For each team URL, `build_translated_team.py` writes to `temp/output/<slug>/`:
+- `team-raw.json` — parsed English team
+- `team-zh.json` — translated Chinese team with image URLs and unresolved terms
+- `validation-report.json` — structural issues only
+- `review-suggestions.json` — alias proposals and ambiguous findings
+- `share-card.html` — rendered HTML card
 
-### Translation rules
+The slug format: `YYYYMMDD-<team-name>-<author>-<team-code>`
 
-- Exact match first, then case-insensitive fallback
-- Only zh-hans used; no language fallback. If no translation found, keep English
-- Labels: `Ability:` → `特性:`, `Level:` → `等级:`, `EVs:` → `努力值:`, `IVs:` → `个体值:`, `Tera Type:` → `太晶属性:`, `xxx Nature` → `性格: xxx`
-- Stat abbreviations: Atk→攻击, Def→防御, SpA→特攻, SpD→特防, Spe→速度, HP stays HP
+## Data source
 
-### Unresolved term handling
+`temp/pokemon-dataset-zh/` is a git clone of an external Chinese Pokemon dataset. It must exist before `build_dictionaries.py` or tests can run. Clone it if missing.
 
-When `[UNRESOLVED]` appears in stderr, the SKILL.md workflow triggers an agent to:
-1. Search local `temp/pokemon-dataset-zh/` data for the missing translation
-2. Add found mappings to `dict/alias.json`
-3. Re-run `get-pokepast.py`
-4. Repeat until no unresolved terms remain
+## Commit style
 
-### SKILL.md workflow
-
-1. Check `dict/` exists and is non-empty; if not, run `get-dict.py`
-2. Run `get-pokepast.py` with user-provided URLs
-3. Handle unresolved terms (agent-driven, step 2.5)
-4. WebSearch for current Pokemon Champions season rules
-5. Claude writes strategy analysis (核心战术, 联防关系, 选出建议, 宝可梦角色)
-6. Generate Markdown doc per team to `temp/docs/`, named `YYYYMMDD-队伍名称-作者.md`
-7. Expert review pass for format/translation/strategy errors
-
-## Key conventions
-
-- Team code: 10-character alphanumeric at end of title (e.g. `FNWB95NJDH`)
-- Author: text before `'s ` in title
-- `temp/` is gitignored (contains cloned repo and generated docs)
-- `dict/alias.json` is user-maintained; `get-dict.py` preserves it (never overwrites)
-- `dict/types.json` and `dict/natures.json` are manually maintained; `get-dict.py` preserves them
-- All user-facing output in Simplified Chinese; technical terms/protocol names may stay English
-- Core principle: scripts handle what they can; agent only intervenes for decisions requiring judgment (e.g. resolving unknown terms)
+Conventional commits: `feat:`, `fix:`, `refactor:`, `docs:`.

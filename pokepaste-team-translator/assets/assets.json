@@ -1,0 +1,12 @@
+{
+  "image_source_base_url": "https://mewtwo.host/pmc/images/",
+  "templates": {
+    "compact-mobile": {
+      "html_template": "assets/templates/compact-mobile.html"
+    },
+    "pokepaste-like": {
+      "html_template": "assets/templates/pokepaste-like.html"
+    }
+  },
+  "default_template": "compact-mobile"
+}

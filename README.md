@@ -1,15 +1,23 @@
-- https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5
+# Skills
 
-- https://pokepast.es/
+A monorepo of self-contained skills. Each subdirectory is an independent skill with its own contract, scripts, and assets.
 
-- https://github.com/42arch/pokemon-dataset-zh
-- https://pokedex.starllow.com/
+## Skills
 
-- https://github.com/smogon/pokemon-showdown
-- https://play.pokemonshowdown.com/
+| Skill | Description |
+|-------|-------------|
+| [pokepaste-team-translator](./pokepaste-team-translator/) | Parse Pokepaste pages into structured English/Chinese JSON, validate translations, and render mobile-friendly HTML share cards |
 
+## Structure
 
-优化：
-1、修改生成字典脚本：
-dict 下所有生成的 json 文件均使用 英文：简体中文 的键值对格式如："Stench": "恶臭"，不再考虑日文和繁体中文
-2、
+```
+<skill-name>/
+  SKILL.md       # Skill contract and usage
+  scripts/       # CLI entrypoints
+  scripts/lib/   # Internal implementation
+  dict/          # Translation dictionaries
+  assets/        # Templates and configuration
+  tests/         # Test suite
+```
+
+Each skill is designed to be **deterministic and dependency-light** — no LLM calls, no runtime network beyond fetching source data.

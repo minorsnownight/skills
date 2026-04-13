@@ -1,1 +1,29 @@
-get-pokemon-champions-teams-from-pokepast/temp/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Project temp
+temp/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# oh-my-claudecode runtime
+.omc/

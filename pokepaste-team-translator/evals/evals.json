@@ -1,0 +1,23 @@
+{
+  "skill_name": "pokepaste-team-translator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Translate https://pokepast.es/50c3bdabb5fe8186 into structured Chinese artifacts and an HTML share card.",
+      "expected_output": "Produces team-raw.json, team-zh.json, validation-report.json, review-suggestions.json, and share-card.html with no unresolved translations.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Build artifacts for https://pokepast.es/65b7228ad81523a5 and keep structural validation separate from review suggestions.",
+      "expected_output": "validation-report.json contains only structural findings and review-suggestions.json remains deterministic.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Render a mobile-friendly HTML team card from https://pokepast.es/d9260baad4fd55f8 using configured asset URLs.",
+      "expected_output": "share-card.html uses configured image URLs, translated species names, and the selected template.",
+      "files": []
+    }
+  ]
+}

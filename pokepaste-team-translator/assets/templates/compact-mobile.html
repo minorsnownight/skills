@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{team_title}}</title>
+    <style>
+      :root {
+        --bg: #f5f5f4;
+        --panel: #fffdfa;
+        --line: #ddd6d3;
+        --text: #1c1917;
+        --muted: #78716c;
+        --accent: #b91c1c;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        padding: 18px;
+        background: var(--bg);
+        color: var(--text);
+        font-family: "PingFang SC", "Noto Sans SC", sans-serif;
+      }
+      .share-card {
+        max-width: 760px;
+        margin: 0 auto;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        padding: 18px;
+      }
+      .header {
+        margin-bottom: 12px;
+      }
+      .title {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.35;
+      }
+      .code {
+        margin-top: 4px;
+        font-size: 12px;
+        color: var(--muted);
+      }
+      .divider {
+        height: 1px;
+        background: var(--line);
+        margin: 12px 0;
+      }
+      .pokemon-row {
+        display: grid;
+        grid-template-columns: 104px 1fr;
+        gap: 12px;
+        padding: 10px 0;
+        border-bottom: 1px solid var(--line);
+      }
+      .pokemon-row:last-child { border-bottom: 0; }
+      .art {
+        position: relative;
+        min-height: 92px;
+      }
+      .pokemon-image {
+        width: 92px;
+        height: 92px;
+        object-fit: contain;
+      }
+      .item-image {
+        position: absolute;
+        right: 4px;
+        bottom: 4px;
+        width: 28px;
+        height: 28px;
+        object-fit: contain;
+        background: rgba(255,255,255,0.92);
+        border-radius: 999px;
+        padding: 3px;
+      }
+      .name-line {
+        display: flex;
+        gap: 8px;
+        align-items: baseline;
+        margin-bottom: 4px;
+      }
+      .name-zh { font-size: 16px; font-weight: 700; }
+      .name-en { font-size: 12px; color: var(--muted); }
+      .meta-line {
+        display: flex;
+        gap: 6px;
+        font-size: 12px;
+        line-height: 1.45;
+        margin-bottom: 2px;
+      }
+      .label { color: var(--accent); min-width: 36px; }
+      .moves {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px 10px;
+        font-size: 12px;
+        line-height: 1.45;
+        margin-top: 2px;
+      }
+      .move { color: var(--text); }
+    </style>
+  </head>
+  <body>
+    <main class="share-card" data-template="{{template_name}}">
+      <header class="header">
+        <div class="title">{{team_title}}</div>
+        <div class="code">队伍码 {{team_code}}</div>
+      </header>
+      <div class="divider"></div>
+      <section class="team-list">
+        {{team_rows}}
+      </section>
+    </main>
+  </body>
+</html>
