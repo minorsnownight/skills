@@ -1,6482 +1,1622 @@
 {
-  "Pound": {
-    "ja": "はたく",
-    "zh-hans": "拍击"
-  },
-  "Karate Chop": {
-    "ja": "からてチョップ",
-    "zh-hans": "空手劈"
-  },
-  "Karate-Chop": {
-    "ja": "からてチョップ",
-    "zh-hans": "空手劈"
-  },
-  "Double Slap": {
-    "ja": "おうふくビンタ",
-    "zh-hans": "连环巴掌"
-  },
-  "Double-Slap": {
-    "ja": "おうふくビンタ",
-    "zh-hans": "连环巴掌"
-  },
-  "Comet Punch": {
-    "ja": "れんぞくパンチ",
-    "zh-hans": "连续拳"
-  },
-  "Comet-Punch": {
-    "ja": "れんぞくパンチ",
-    "zh-hans": "连续拳"
-  },
-  "Mega Punch": {
-    "ja": "メガトンパンチ",
-    "zh-hans": "百万吨重拳"
-  },
-  "Mega-Punch": {
-    "ja": "メガトンパンチ",
-    "zh-hans": "百万吨重拳"
-  },
-  "Pay Day": {
-    "ja": "ネコにこばん",
-    "zh-hans": "聚宝功"
-  },
-  "Pay-Day": {
-    "ja": "ネコにこばん",
-    "zh-hans": "聚宝功"
-  },
-  "Fire Punch": {
-    "ja": "ほのおのパンチ",
-    "zh-hans": "火焰拳"
-  },
-  "Fire-Punch": {
-    "ja": "ほのおのパンチ",
-    "zh-hans": "火焰拳"
-  },
-  "Ice Punch": {
-    "ja": "れいとうパンチ",
-    "zh-hans": "冰冻拳"
-  },
-  "Ice-Punch": {
-    "ja": "れいとうパンチ",
-    "zh-hans": "冰冻拳"
-  },
-  "Thunder Punch": {
-    "ja": "かみなりパンチ",
-    "zh-hans": "雷电拳"
-  },
-  "Thunder-Punch": {
-    "ja": "かみなりパンチ",
-    "zh-hans": "雷电拳"
-  },
-  "Scratch": {
-    "ja": "ひっかく",
-    "zh-hans": "抓"
-  },
-  "Vise Grip": {
-    "ja": "はさむ",
-    "zh-hans": "夹住"
-  },
-  "Vise-Grip": {
-    "ja": "はさむ",
-    "zh-hans": "夹住"
-  },
-  "Guillotine": {
-    "ja": "ハサミギロチン",
-    "zh-hans": "极落钳"
-  },
-  "Razor Wind": {
-    "ja": "かまいたち",
-    "zh-hans": "旋风刀"
-  },
-  "Razor-Wind": {
-    "ja": "かまいたち",
-    "zh-hans": "旋风刀"
-  },
-  "Swords Dance": {
-    "ja": "つるぎのまい",
-    "zh-hans": "剑舞"
-  },
-  "Swords-Dance": {
-    "ja": "つるぎのまい",
-    "zh-hans": "剑舞"
-  },
-  "Cut": {
-    "ja": "いあいぎり",
-    "zh-hans": "居合劈"
-  },
-  "Gust": {
-    "ja": "かぜおこし",
-    "zh-hans": "起风"
-  },
-  "Wing Attack": {
-    "ja": "つばさでうつ",
-    "zh-hans": "翅膀攻击"
-  },
-  "Wing-Attack": {
-    "ja": "つばさでうつ",
-    "zh-hans": "翅膀攻击"
-  },
-  "Whirlwind": {
-    "ja": "ふきとばし",
-    "zh-hans": "吹飞"
-  },
-  "Fly": {
-    "ja": "そらをとぶ",
-    "zh-hans": "飞翔"
-  },
-  "Bind": {
-    "ja": "しめつける",
-    "zh-hans": "绑紧"
-  },
-  "Slam": {
-    "ja": "たたきつける",
-    "zh-hans": "摔打"
-  },
-  "Vine Whip": {
-    "ja": "つるのムチ",
-    "zh-hans": "藤鞭"
-  },
-  "Vine-Whip": {
-    "ja": "つるのムチ",
-    "zh-hans": "藤鞭"
-  },
-  "Stomp": {
-    "ja": "ふみつけ",
-    "zh-hans": "踩踏"
-  },
-  "Double Kick": {
-    "ja": "にどげり",
-    "zh-hans": "二连踢"
-  },
-  "Double-Kick": {
-    "ja": "にどげり",
-    "zh-hans": "二连踢"
-  },
-  "Mega Kick": {
-    "ja": "メガトンキック",
-    "zh-hans": "百万吨重踢"
-  },
-  "Mega-Kick": {
-    "ja": "メガトンキック",
-    "zh-hans": "百万吨重踢"
-  },
-  "Jump Kick": {
-    "ja": "とびげり",
-    "zh-hans": "飞踢"
-  },
-  "Jump-Kick": {
-    "ja": "とびげり",
-    "zh-hans": "飞踢"
-  },
-  "Rolling Kick": {
-    "ja": "まわしげり",
-    "zh-hans": "回旋踢"
-  },
-  "Rolling-Kick": {
-    "ja": "まわしげり",
-    "zh-hans": "回旋踢"
-  },
-  "Sand Attack": {
-    "ja": "すなかけ",
-    "zh-hans": "泼沙"
-  },
-  "Sand-Attack": {
-    "ja": "すなかけ",
-    "zh-hans": "泼沙"
-  },
-  "Headbutt": {
-    "ja": "ずつき",
-    "zh-hans": "头锤"
-  },
-  "Horn Attack": {
-    "ja": "つのでつく",
-    "zh-hans": "角撞"
-  },
-  "Horn-Attack": {
-    "ja": "つのでつく",
-    "zh-hans": "角撞"
-  },
-  "Fury Attack": {
-    "ja": "みだれづき",
-    "zh-hans": "乱击"
-  },
-  "Fury-Attack": {
-    "ja": "みだれづき",
-    "zh-hans": "乱击"
-  },
-  "Horn Drill": {
-    "ja": "つのドリル",
-    "zh-hans": "角钻"
-  },
-  "Horn-Drill": {
-    "ja": "つのドリル",
-    "zh-hans": "角钻"
-  },
-  "Tackle": {
-    "ja": "たいあたり",
-    "zh-hans": "撞击"
-  },
-  "Body Slam": {
-    "ja": "のしかかり",
-    "zh-hans": "泰山压顶"
-  },
-  "Body-Slam": {
-    "ja": "のしかかり",
-    "zh-hans": "泰山压顶"
-  },
-  "Wrap": {
-    "ja": "まきつく",
-    "zh-hans": "紧束"
-  },
-  "Take Down": {
-    "ja": "とっしん",
-    "zh-hans": "猛撞"
-  },
-  "Take-Down": {
-    "ja": "とっしん",
-    "zh-hans": "猛撞"
-  },
-  "Thrash": {
-    "ja": "あばれる",
-    "zh-hans": "大闹一番"
-  },
-  "Double-Edge": {
-    "ja": "すてみタックル",
-    "zh-hans": "舍身冲撞"
-  },
-  "Tail Whip": {
-    "ja": "しっぽをふる",
-    "zh-hans": "摇尾巴"
-  },
-  "Tail-Whip": {
-    "ja": "しっぽをふる",
-    "zh-hans": "摇尾巴"
-  },
-  "Poison Sting": {
-    "ja": "どくばり",
-    "zh-hans": "毒针"
-  },
-  "Poison-Sting": {
-    "ja": "どくばり",
-    "zh-hans": "毒针"
-  },
-  "Twineedle": {
-    "ja": "ダブルニードル",
-    "zh-hans": "双针"
-  },
-  "Pin Missile": {
-    "ja": "ミサイルばり",
-    "zh-hans": "飞弹针"
-  },
-  "Pin-Missile": {
-    "ja": "ミサイルばり",
-    "zh-hans": "飞弹针"
-  },
-  "Leer": {
-    "ja": "にらみつける",
-    "zh-hans": "瞪眼"
-  },
-  "Bite": {
-    "ja": "かみつく",
-    "zh-hans": "咬住"
-  },
-  "Growl": {
-    "ja": "なきごえ",
-    "zh-hans": "叫声"
-  },
-  "Roar": {
-    "ja": "ほえる",
-    "zh-hans": "吼叫"
-  },
-  "Sing": {
-    "ja": "うたう",
-    "zh-hans": "唱歌"
-  },
-  "Supersonic": {
-    "ja": "ちょうおんぱ",
-    "zh-hans": "超音波"
-  },
-  "Sonic Boom": {
-    "ja": "ソニックブーム",
-    "zh-hans": "音爆"
-  },
-  "Sonic-Boom": {
-    "ja": "ソニックブーム",
-    "zh-hans": "音爆"
-  },
-  "Disable": {
-    "ja": "かなしばり",
-    "zh-hans": "定身法"
-  },
-  "Acid": {
-    "ja": "ようかいえき",
-    "zh-hans": "溶解液"
-  },
-  "Ember": {
-    "ja": "ひのこ",
-    "zh-hans": "火花"
-  },
-  "Flamethrower": {
-    "ja": "かえんほうしゃ",
-    "zh-hans": "喷射火焰"
-  },
-  "Mist": {
-    "ja": "しろいきり",
-    "zh-hans": "白雾"
-  },
-  "Water Gun": {
-    "ja": "みずでっぽう",
-    "zh-hans": "水枪"
-  },
-  "Water-Gun": {
-    "ja": "みずでっぽう",
-    "zh-hans": "水枪"
-  },
-  "Hydro Pump": {
-    "ja": "ハイドロポンプ",
-    "zh-hans": "水炮"
-  },
-  "Hydro-Pump": {
-    "ja": "ハイドロポンプ",
-    "zh-hans": "水炮"
-  },
-  "Surf": {
-    "ja": "なみのり",
-    "zh-hans": "冲浪"
-  },
-  "Ice Beam": {
-    "ja": "れいとうビーム",
-    "zh-hans": "冰冻光束"
-  },
-  "Ice-Beam": {
-    "ja": "れいとうビーム",
-    "zh-hans": "冰冻光束"
-  },
-  "Blizzard": {
-    "ja": "ふぶき",
-    "zh-hans": "暴风雪"
-  },
-  "Psybeam": {
-    "ja": "サイケこうせん",
-    "zh-hans": "幻象光线"
-  },
-  "Bubble Beam": {
-    "ja": "バブルこうせん",
-    "zh-hans": "泡沫光线"
-  },
-  "Bubble-Beam": {
-    "ja": "バブルこうせん",
-    "zh-hans": "泡沫光线"
-  },
-  "Aurora Beam": {
-    "ja": "オーロラビーム",
-    "zh-hans": "极光束"
-  },
-  "Aurora-Beam": {
-    "ja": "オーロラビーム",
-    "zh-hans": "极光束"
-  },
-  "Hyper Beam": {
-    "ja": "はかいこうせん",
-    "zh-hans": "破坏光线"
-  },
-  "Hyper-Beam": {
-    "ja": "はかいこうせん",
-    "zh-hans": "破坏光线"
-  },
-  "Peck": {
-    "ja": "つつく",
-    "zh-hans": "啄"
-  },
-  "Drill Peck": {
-    "ja": "ドリルくちばし",
-    "zh-hans": "啄钻"
-  },
-  "Drill-Peck": {
-    "ja": "ドリルくちばし",
-    "zh-hans": "啄钻"
-  },
-  "Submission": {
-    "ja": "じごくぐるま",
-    "zh-hans": "深渊翻滚"
-  },
-  "Low Kick": {
-    "ja": "けたぐり",
-    "zh-hans": "踢倒"
-  },
-  "Low-Kick": {
-    "ja": "けたぐり",
-    "zh-hans": "踢倒"
-  },
-  "Counter": {
-    "ja": "カウンター",
-    "zh-hans": "双倍奉还"
-  },
-  "Seismic Toss": {
-    "ja": "ちきゅうなげ",
-    "zh-hans": "地球上投"
-  },
-  "Seismic-Toss": {
-    "ja": "ちきゅうなげ",
-    "zh-hans": "地球上投"
-  },
-  "Strength": {
-    "ja": "かいりき",
-    "zh-hans": "怪力"
-  },
-  "Absorb": {
-    "ja": "すいとる",
-    "zh-hans": "吸取"
-  },
-  "Mega Drain": {
-    "ja": "メガドレイン",
-    "zh-hans": "超级吸取"
-  },
-  "Mega-Drain": {
-    "ja": "メガドレイン",
-    "zh-hans": "超级吸取"
-  },
-  "Leech Seed": {
-    "ja": "やどりぎのタネ",
-    "zh-hans": "寄生种子"
-  },
-  "Leech-Seed": {
-    "ja": "やどりぎのタネ",
-    "zh-hans": "寄生种子"
-  },
-  "Growth": {
-    "ja": "せいちょう",
-    "zh-hans": "生长"
-  },
-  "Razor Leaf": {
-    "ja": "はっぱカッター",
-    "zh-hans": "飞叶快刀"
-  },
-  "Razor-Leaf": {
-    "ja": "はっぱカッター",
-    "zh-hans": "飞叶快刀"
-  },
-  "Solar Beam": {
-    "ja": "ソーラービーム",
-    "zh-hans": "日光束"
-  },
-  "Solar-Beam": {
-    "ja": "ソーラービーム",
-    "zh-hans": "日光束"
-  },
-  "Poison Powder": {
-    "ja": "どくのこな",
-    "zh-hans": "毒粉"
-  },
-  "Poison-Powder": {
-    "ja": "どくのこな",
-    "zh-hans": "毒粉"
-  },
-  "Stun Spore": {
-    "ja": "しびれごな",
-    "zh-hans": "麻痹粉"
-  },
-  "Stun-Spore": {
-    "ja": "しびれごな",
-    "zh-hans": "麻痹粉"
-  },
-  "Sleep Powder": {
-    "ja": "ねむりごな",
-    "zh-hans": "催眠粉"
-  },
-  "Sleep-Powder": {
-    "ja": "ねむりごな",
-    "zh-hans": "催眠粉"
-  },
-  "Petal Dance": {
-    "ja": "はなびらのまい",
-    "zh-hans": "花瓣舞"
-  },
-  "Petal-Dance": {
-    "ja": "はなびらのまい",
-    "zh-hans": "花瓣舞"
-  },
-  "String Shot": {
-    "ja": "いとをはく",
-    "zh-hans": "吐丝"
-  },
-  "String-Shot": {
-    "ja": "いとをはく",
-    "zh-hans": "吐丝"
-  },
-  "Dragon Rage": {
-    "ja": "りゅうのいかり",
-    "zh-hans": "龙之怒"
-  },
-  "Dragon-Rage": {
-    "ja": "りゅうのいかり",
-    "zh-hans": "龙之怒"
-  },
-  "Fire Spin": {
-    "ja": "ほのおのうず",
-    "zh-hans": "火焰旋涡"
-  },
-  "Fire-Spin": {
-    "ja": "ほのおのうず",
-    "zh-hans": "火焰旋涡"
-  },
-  "Thunder Shock": {
-    "ja": "でんきショック",
-    "zh-hans": "电击"
-  },
-  "Thunder-Shock": {
-    "ja": "でんきショック",
-    "zh-hans": "电击"
-  },
-  "Thunderbolt": {
-    "ja": "１０まんボルト",
-    "zh-hans": "十万伏特"
-  },
-  "Thunder Wave": {
-    "ja": "でんじは",
-    "zh-hans": "电磁波"
-  },
-  "Thunder-Wave": {
-    "ja": "でんじは",
-    "zh-hans": "电磁波"
-  },
-  "Thunder": {
-    "ja": "かみなり",
-    "zh-hans": "打雷"
-  },
-  "Rock Throw": {
-    "ja": "いわおとし",
-    "zh-hans": "落石"
-  },
-  "Rock-Throw": {
-    "ja": "いわおとし",
-    "zh-hans": "落石"
-  },
-  "Earthquake": {
-    "ja": "じしん",
-    "zh-hans": "地震"
-  },
-  "Fissure": {
-    "ja": "じわれ",
-    "zh-hans": "地裂"
-  },
-  "Dig": {
-    "ja": "あなをほる",
-    "zh-hans": "挖洞"
-  },
-  "Toxic": {
-    "ja": "どくどく",
-    "zh-hans": "剧毒"
-  },
-  "Confusion": {
-    "ja": "ねんりき",
-    "zh-hans": "念力"
-  },
-  "Psychic": {
-    "ja": "サイコキネシス",
-    "zh-hans": "精神强念"
-  },
-  "Hypnosis": {
-    "ja": "さいみんじゅつ",
-    "zh-hans": "催眠术"
-  },
-  "Meditate": {
-    "ja": "ヨガのポーズ",
-    "zh-hans": "瑜伽姿势"
-  },
-  "Agility": {
-    "ja": "こうそくいどう",
-    "zh-hans": "高速移动"
-  },
-  "Quick Attack": {
-    "ja": "でんこうせっか",
-    "zh-hans": "电光一闪"
-  },
-  "Quick-Attack": {
-    "ja": "でんこうせっか",
-    "zh-hans": "电光一闪"
-  },
-  "Rage": {
-    "ja": "いかり",
-    "zh-hans": "愤怒"
-  },
-  "Teleport": {
-    "ja": "テレポート",
-    "zh-hans": "瞬间移动"
-  },
-  "Night Shade": {
-    "ja": "ナイトヘッド",
-    "zh-hans": "黑夜魔影"
-  },
-  "Night-Shade": {
-    "ja": "ナイトヘッド",
-    "zh-hans": "黑夜魔影"
-  },
-  "Mimic": {
-    "ja": "ものまね",
-    "zh-hans": "模仿"
-  },
-  "Screech": {
-    "ja": "いやなおと",
-    "zh-hans": "刺耳声"
-  },
-  "Double Team": {
-    "ja": "かげぶんしん",
-    "zh-hans": "影子分身"
-  },
-  "Double-Team": {
-    "ja": "かげぶんしん",
-    "zh-hans": "影子分身"
-  },
-  "Recover": {
-    "ja": "じこさいせい",
-    "zh-hans": "自我再生"
-  },
-  "Harden": {
-    "ja": "かたくなる",
-    "zh-hans": "变硬"
-  },
-  "Minimize": {
-    "ja": "ちいさくなる",
-    "zh-hans": "变小"
-  },
-  "Smokescreen": {
-    "ja": "えんまく",
-    "zh-hans": "烟幕"
-  },
-  "Confuse Ray": {
-    "ja": "あやしいひかり",
-    "zh-hans": "奇异之光"
-  },
-  "Confuse-Ray": {
-    "ja": "あやしいひかり",
-    "zh-hans": "奇异之光"
-  },
-  "Withdraw": {
-    "ja": "からにこもる",
-    "zh-hans": "缩入壳中"
-  },
-  "Defense Curl": {
-    "ja": "まるくなる",
-    "zh-hans": "变圆"
-  },
-  "Defense-Curl": {
-    "ja": "まるくなる",
-    "zh-hans": "变圆"
-  },
-  "Barrier": {
-    "ja": "バリアー",
-    "zh-hans": "屏障"
-  },
-  "Light Screen": {
-    "ja": "ひかりのかべ",
-    "zh-hans": "光墙"
-  },
-  "Light-Screen": {
-    "ja": "ひかりのかべ",
-    "zh-hans": "光墙"
-  },
-  "Haze": {
-    "ja": "くろいきり",
-    "zh-hans": "黑雾"
-  },
-  "Reflect": {
-    "ja": "リフレクター",
-    "zh-hans": "反射壁"
-  },
-  "Focus Energy": {
-    "ja": "きあいだめ",
-    "zh-hans": "聚气"
-  },
-  "Focus-Energy": {
-    "ja": "きあいだめ",
-    "zh-hans": "聚气"
-  },
-  "Bide": {
-    "ja": "がまん",
-    "zh-hans": "忍耐"
-  },
-  "Metronome": {
-    "ja": "ゆびをふる",
-    "zh-hans": "挥指"
-  },
-  "Mirror Move": {
-    "ja": "オウムがえし",
-    "zh-hans": "鹦鹉学舌"
-  },
-  "Mirror-Move": {
-    "ja": "オウムがえし",
-    "zh-hans": "鹦鹉学舌"
-  },
-  "Self-Destruct": {
-    "ja": "じばく",
-    "zh-hans": "玉石俱碎"
-  },
-  "Egg Bomb": {
-    "ja": "タマゴばくだん",
-    "zh-hans": "炸蛋"
-  },
-  "Egg-Bomb": {
-    "ja": "タマゴばくだん",
-    "zh-hans": "炸蛋"
-  },
-  "Lick": {
-    "ja": "したでなめる",
-    "zh-hans": "舌舔"
-  },
-  "Smog": {
-    "ja": "スモッグ",
-    "zh-hans": "浊雾"
-  },
-  "Sludge": {
-    "ja": "ヘドロこうげき",
-    "zh-hans": "污泥攻击"
-  },
-  "Bone Club": {
-    "ja": "ホネこんぼう",
-    "zh-hans": "骨棒"
-  },
-  "Bone-Club": {
-    "ja": "ホネこんぼう",
-    "zh-hans": "骨棒"
-  },
-  "Fire Blast": {
-    "ja": "だいもんじ",
-    "zh-hans": "大字爆炎"
-  },
-  "Fire-Blast": {
-    "ja": "だいもんじ",
-    "zh-hans": "大字爆炎"
-  },
-  "Waterfall": {
-    "ja": "たきのぼり",
-    "zh-hans": "攀瀑"
-  },
-  "Clamp": {
-    "ja": "からではさむ",
-    "zh-hans": "贝壳夹击"
-  },
-  "Swift": {
-    "ja": "スピードスター",
-    "zh-hans": "高速星星"
-  },
-  "Skull Bash": {
-    "ja": "ロケットずつき",
-    "zh-hans": "火箭头锤"
-  },
-  "Skull-Bash": {
-    "ja": "ロケットずつき",
-    "zh-hans": "火箭头锤"
-  },
-  "Spike Cannon": {
-    "ja": "とげキャノン",
-    "zh-hans": "尖刺加农炮"
-  },
-  "Spike-Cannon": {
-    "ja": "とげキャノン",
-    "zh-hans": "尖刺加农炮"
-  },
-  "Constrict": {
-    "ja": "からみつく",
-    "zh-hans": "缠绕"
-  },
-  "Amnesia": {
-    "ja": "ドわすれ",
-    "zh-hans": "瞬间失忆"
-  },
-  "Kinesis": {
-    "ja": "スプーンまげ",
-    "zh-hans": "折弯汤匙"
-  },
-  "Soft-Boiled": {
-    "ja": "タマゴうみ",
-    "zh-hans": "生蛋"
-  },
-  "High Jump Kick": {
-    "ja": "とびひざげり",
-    "zh-hans": "飞膝踢"
-  },
-  "High-Jump-Kick": {
-    "ja": "とびひざげり",
-    "zh-hans": "飞膝踢"
-  },
-  "Glare": {
-    "ja": "へびにらみ",
-    "zh-hans": "大蛇瞪眼"
-  },
-  "Dream Eater": {
-    "ja": "ゆめくい",
-    "zh-hans": "食梦"
-  },
-  "Dream-Eater": {
-    "ja": "ゆめくい",
-    "zh-hans": "食梦"
-  },
-  "Poison Gas": {
-    "ja": "どくガス",
-    "zh-hans": "毒瓦斯"
-  },
-  "Poison-Gas": {
-    "ja": "どくガス",
-    "zh-hans": "毒瓦斯"
-  },
-  "Barrage": {
-    "ja": "たまなげ",
-    "zh-hans": "投球"
-  },
-  "Leech Life": {
-    "ja": "きゅうけつ",
-    "zh-hans": "汲取"
-  },
-  "Leech-Life": {
-    "ja": "きゅうけつ",
-    "zh-hans": "汲取"
-  },
-  "Lovely Kiss": {
-    "ja": "あくまのキッス",
-    "zh-hans": "恶魔之吻"
-  },
-  "Lovely-Kiss": {
-    "ja": "あくまのキッス",
-    "zh-hans": "恶魔之吻"
-  },
-  "Sky Attack": {
-    "ja": "ゴッドバード",
-    "zh-hans": "神鸟猛击"
-  },
-  "Sky-Attack": {
-    "ja": "ゴッドバード",
-    "zh-hans": "神鸟猛击"
-  },
-  "Transform": {
-    "ja": "へんしん",
-    "zh-hans": "变身"
-  },
-  "Bubble": {
-    "ja": "あわ",
-    "zh-hans": "泡沫"
-  },
-  "Dizzy Punch": {
-    "ja": "ピヨピヨパンチ",
-    "zh-hans": "迷昏拳"
-  },
-  "Dizzy-Punch": {
-    "ja": "ピヨピヨパンチ",
-    "zh-hans": "迷昏拳"
-  },
-  "Spore": {
-    "ja": "キノコのほうし",
-    "zh-hans": "蘑菇孢子"
-  },
-  "Flash": {
-    "ja": "フラッシュ",
-    "zh-hans": "闪光"
-  },
-  "Psywave": {
-    "ja": "サイコウェーブ",
-    "zh-hans": "精神波"
-  },
-  "Splash": {
-    "ja": "はねる",
-    "zh-hans": "跃起"
-  },
-  "Acid Armor": {
-    "ja": "とける",
-    "zh-hans": "溶化"
-  },
-  "Acid-Armor": {
-    "ja": "とける",
-    "zh-hans": "溶化"
-  },
-  "Crabhammer": {
-    "ja": "クラブハンマー",
-    "zh-hans": "蟹钳锤"
-  },
-  "Explosion": {
-    "ja": "だいばくはつ",
-    "zh-hans": "大爆炸"
-  },
-  "Fury Swipes": {
-    "ja": "みだれひっかき",
-    "zh-hans": "乱抓"
-  },
-  "Fury-Swipes": {
-    "ja": "みだれひっかき",
-    "zh-hans": "乱抓"
-  },
-  "Bonemerang": {
-    "ja": "ホネブーメラン",
-    "zh-hans": "骨头回力镖"
-  },
-  "Rest": {
-    "ja": "ねむる",
-    "zh-hans": "睡觉"
-  },
-  "Rock Slide": {
-    "ja": "いわなだれ",
-    "zh-hans": "岩崩"
-  },
-  "Rock-Slide": {
-    "ja": "いわなだれ",
-    "zh-hans": "岩崩"
-  },
-  "Hyper Fang": {
-    "ja": "ひっさつまえば",
-    "zh-hans": "终结门牙"
-  },
-  "Hyper-Fang": {
-    "ja": "ひっさつまえば",
-    "zh-hans": "终结门牙"
-  },
-  "Sharpen": {
-    "ja": "かくばる",
-    "zh-hans": "棱角化"
-  },
-  "Conversion": {
-    "ja": "テクスチャー",
-    "zh-hans": "纹理"
-  },
-  "Tri Attack": {
-    "ja": "トライアタック",
-    "zh-hans": "三重攻击"
-  },
-  "Tri-Attack": {
-    "ja": "トライアタック",
-    "zh-hans": "三重攻击"
-  },
-  "Super Fang": {
-    "ja": "いかりのまえば",
-    "zh-hans": "愤怒门牙"
-  },
-  "Super-Fang": {
-    "ja": "いかりのまえば",
-    "zh-hans": "愤怒门牙"
-  },
-  "Slash": {
-    "ja": "きりさく",
-    "zh-hans": "劈开"
-  },
-  "Substitute": {
-    "ja": "みがわり",
-    "zh-hans": "替身"
-  },
-  "Struggle": {
-    "ja": "わるあがき",
-    "zh-hans": "挣扎"
-  },
-  "Sketch": {
-    "ja": "スケッチ",
-    "zh-hans": "写生"
-  },
-  "Triple Kick": {
-    "ja": "トリプルキック",
-    "zh-hans": "三连踢"
-  },
-  "Triple-Kick": {
-    "ja": "トリプルキック",
-    "zh-hans": "三连踢"
-  },
-  "Thief": {
-    "ja": "どろぼう",
-    "zh-hans": "小偷"
-  },
-  "Spider Web": {
-    "ja": "クモのす",
-    "zh-hans": "蛛网"
-  },
-  "Spider-Web": {
-    "ja": "クモのす",
-    "zh-hans": "蛛网"
-  },
-  "Mind Reader": {
-    "ja": "こころのめ",
-    "zh-hans": "心之眼"
-  },
-  "Mind-Reader": {
-    "ja": "こころのめ",
-    "zh-hans": "心之眼"
-  },
-  "Nightmare": {
-    "ja": "あくむ",
-    "zh-hans": "恶梦"
-  },
-  "Flame Wheel": {
-    "ja": "かえんぐるま",
-    "zh-hans": "火焰轮"
-  },
-  "Flame-Wheel": {
-    "ja": "かえんぐるま",
-    "zh-hans": "火焰轮"
-  },
-  "Snore": {
-    "ja": "いびき",
-    "zh-hans": "打鼾"
-  },
-  "Curse": {
-    "ja": "のろい",
-    "zh-hans": "咒术"
-  },
-  "Flail": {
-    "ja": "じたばた",
-    "zh-hans": "抓狂"
-  },
-  "Conversion 2": {
-    "ja": "テクスチャー２",
-    "zh-hans": "纹理２"
-  },
-  "Conversion-2": {
-    "ja": "テクスチャー２",
-    "zh-hans": "纹理２"
-  },
-  "Aeroblast": {
-    "ja": "エアロブラスト",
-    "zh-hans": "气旋攻击"
-  },
-  "Cotton Spore": {
-    "ja": "わたほうし",
-    "zh-hans": "棉孢子"
-  },
-  "Cotton-Spore": {
-    "ja": "わたほうし",
-    "zh-hans": "棉孢子"
-  },
-  "Reversal": {
-    "ja": "きしかいせい",
-    "zh-hans": "绝处逢生"
-  },
-  "Spite": {
-    "ja": "うらみ",
-    "zh-hans": "怨恨"
-  },
-  "Powder Snow": {
-    "ja": "こなゆき",
-    "zh-hans": "细雪"
-  },
-  "Powder-Snow": {
-    "ja": "こなゆき",
-    "zh-hans": "细雪"
-  },
-  "Protect": {
-    "ja": "まもる",
-    "zh-hans": "守住"
-  },
-  "Mach Punch": {
-    "ja": "マッハパンチ",
-    "zh-hans": "音速拳"
-  },
-  "Mach-Punch": {
-    "ja": "マッハパンチ",
-    "zh-hans": "音速拳"
-  },
-  "Scary Face": {
-    "ja": "こわいかお",
-    "zh-hans": "可怕面孔"
-  },
-  "Scary-Face": {
-    "ja": "こわいかお",
-    "zh-hans": "可怕面孔"
-  },
-  "Feint Attack": {
-    "ja": "だましうち",
-    "zh-hans": "出奇一击"
-  },
-  "Feint-Attack": {
-    "ja": "だましうち",
-    "zh-hans": "出奇一击"
-  },
-  "Sweet Kiss": {
-    "ja": "てんしのキッス",
-    "zh-hans": "天使之吻"
-  },
-  "Sweet-Kiss": {
-    "ja": "てんしのキッス",
-    "zh-hans": "天使之吻"
-  },
-  "Belly Drum": {
-    "ja": "はらだいこ",
-    "zh-hans": "腹鼓"
-  },
-  "Belly-Drum": {
-    "ja": "はらだいこ",
-    "zh-hans": "腹鼓"
-  },
-  "Sludge Bomb": {
-    "ja": "ヘドロばくだん",
-    "zh-hans": "污泥炸弹"
-  },
-  "Sludge-Bomb": {
-    "ja": "ヘドロばくだん",
-    "zh-hans": "污泥炸弹"
-  },
-  "Mud-Slap": {
-    "ja": "どろかけ",
-    "zh-hans": "掷泥"
-  },
-  "Octazooka": {
-    "ja": "オクタンほう",
-    "zh-hans": "章鱼桶炮"
-  },
-  "Spikes": {
-    "ja": "まきびし",
-    "zh-hans": "撒菱"
-  },
-  "Zap Cannon": {
-    "ja": "でんじほう",
-    "zh-hans": "电磁炮"
-  },
-  "Zap-Cannon": {
-    "ja": "でんじほう",
-    "zh-hans": "电磁炮"
-  },
-  "Foresight": {
-    "ja": "みやぶる",
-    "zh-hans": "识破"
-  },
-  "Destiny Bond": {
-    "ja": "みちづれ",
-    "zh-hans": "同命"
-  },
-  "Destiny-Bond": {
-    "ja": "みちづれ",
-    "zh-hans": "同命"
-  },
-  "Perish Song": {
-    "ja": "ほろびのうた",
-    "zh-hans": "终焉之歌"
-  },
-  "Perish-Song": {
-    "ja": "ほろびのうた",
-    "zh-hans": "终焉之歌"
-  },
-  "Icy Wind": {
-    "ja": "こごえるかぜ",
-    "zh-hans": "冰冻之风"
-  },
-  "Icy-Wind": {
-    "ja": "こごえるかぜ",
-    "zh-hans": "冰冻之风"
-  },
-  "Detect": {
-    "ja": "みきり",
-    "zh-hans": "看穿"
-  },
-  "Bone Rush": {
-    "ja": "ボーンラッシュ",
-    "zh-hans": "骨棒乱打"
-  },
-  "Bone-Rush": {
-    "ja": "ボーンラッシュ",
-    "zh-hans": "骨棒乱打"
-  },
-  "Lock-On": {
-    "ja": "ロックオン",
-    "zh-hans": "锁定"
-  },
-  "Outrage": {
-    "ja": "げきりん",
-    "zh-hans": "逆鳞"
-  },
-  "Sandstorm": {
-    "ja": "すなあらし",
-    "zh-hans": "沙暴"
-  },
-  "Giga Drain": {
-    "ja": "ギガドレイン",
-    "zh-hans": "终极吸取"
-  },
-  "Giga-Drain": {
-    "ja": "ギガドレイン",
-    "zh-hans": "终极吸取"
-  },
-  "Endure": {
-    "ja": "こらえる",
-    "zh-hans": "挺住"
-  },
-  "Charm": {
-    "ja": "あまえる",
-    "zh-hans": "撒娇"
-  },
-  "Rollout": {
-    "ja": "ころがる",
-    "zh-hans": "滚动"
-  },
-  "False Swipe": {
-    "ja": "みねうち",
-    "zh-hans": "点到为止"
-  },
-  "False-Swipe": {
-    "ja": "みねうち",
-    "zh-hans": "点到为止"
-  },
-  "Swagger": {
-    "ja": "いばる",
-    "zh-hans": "虚张声势"
-  },
-  "Milk Drink": {
-    "ja": "ミルクのみ",
-    "zh-hans": "喝牛奶"
-  },
-  "Milk-Drink": {
-    "ja": "ミルクのみ",
-    "zh-hans": "喝牛奶"
-  },
-  "Spark": {
-    "ja": "スパーク",
-    "zh-hans": "电光"
-  },
-  "Fury Cutter": {
-    "ja": "れんぞくぎり",
-    "zh-hans": "连斩"
-  },
-  "Fury-Cutter": {
-    "ja": "れんぞくぎり",
-    "zh-hans": "连斩"
-  },
-  "Steel Wing": {
-    "ja": "はがねのつばさ",
-    "zh-hans": "钢翼"
-  },
-  "Steel-Wing": {
-    "ja": "はがねのつばさ",
-    "zh-hans": "钢翼"
-  },
-  "Mean Look": {
-    "ja": "くろいまなざし",
-    "zh-hans": "黑色目光"
-  },
-  "Mean-Look": {
-    "ja": "くろいまなざし",
-    "zh-hans": "黑色目光"
-  },
-  "Attract": {
-    "ja": "メロメロ",
-    "zh-hans": "迷人"
-  },
-  "Sleep Talk": {
-    "ja": "ねごと",
-    "zh-hans": "梦话"
-  },
-  "Sleep-Talk": {
-    "ja": "ねごと",
-    "zh-hans": "梦话"
-  },
-  "Heal Bell": {
-    "ja": "いやしのすず",
-    "zh-hans": "治愈铃声"
-  },
-  "Heal-Bell": {
-    "ja": "いやしのすず",
-    "zh-hans": "治愈铃声"
-  },
-  "Return": {
-    "ja": "おんがえし",
-    "zh-hans": "报恩"
-  },
-  "Present": {
-    "ja": "プレゼント",
-    "zh-hans": "礼物"
-  },
-  "Frustration": {
-    "ja": "やつあたり",
-    "zh-hans": "迁怒"
-  },
-  "Safeguard": {
-    "ja": "しんぴのまもり",
-    "zh-hans": "神秘守护"
-  },
-  "Pain Split": {
-    "ja": "いたみわけ",
-    "zh-hans": "分担痛楚"
-  },
-  "Pain-Split": {
-    "ja": "いたみわけ",
-    "zh-hans": "分担痛楚"
-  },
-  "Sacred Fire": {
-    "ja": "せいなるほのお",
-    "zh-hans": "神圣之火"
-  },
-  "Sacred-Fire": {
-    "ja": "せいなるほのお",
-    "zh-hans": "神圣之火"
-  },
-  "Magnitude": {
-    "ja": "マグニチュード",
-    "zh-hans": "震级"
-  },
-  "Dynamic Punch": {
-    "ja": "ばくれつパンチ",
-    "zh-hans": "爆裂拳"
-  },
-  "Dynamic-Punch": {
-    "ja": "ばくれつパンチ",
-    "zh-hans": "爆裂拳"
-  },
-  "Megahorn": {
-    "ja": "メガホーン",
-    "zh-hans": "超级角击"
-  },
-  "Dragon Breath": {
-    "ja": "りゅうのいぶき",
-    "zh-hans": "龙息"
-  },
-  "Dragon-Breath": {
-    "ja": "りゅうのいぶき",
-    "zh-hans": "龙息"
-  },
-  "Baton Pass": {
-    "ja": "バトンタッチ",
-    "zh-hans": "接棒"
-  },
-  "Baton-Pass": {
-    "ja": "バトンタッチ",
-    "zh-hans": "接棒"
-  },
-  "Encore": {
-    "ja": "アンコール",
-    "zh-hans": "再来一次"
-  },
-  "Pursuit": {
-    "ja": "おいうち",
-    "zh-hans": "追打"
-  },
-  "Rapid Spin": {
-    "ja": "こうそくスピン",
-    "zh-hans": "高速旋转"
-  },
-  "Rapid-Spin": {
-    "ja": "こうそくスピン",
-    "zh-hans": "高速旋转"
-  },
-  "Sweet Scent": {
-    "ja": "あまいかおり",
-    "zh-hans": "甜甜香气"
-  },
-  "Sweet-Scent": {
-    "ja": "あまいかおり",
-    "zh-hans": "甜甜香气"
-  },
-  "Iron Tail": {
-    "ja": "アイアンテール",
-    "zh-hans": "铁尾"
-  },
-  "Iron-Tail": {
-    "ja": "アイアンテール",
-    "zh-hans": "铁尾"
-  },
-  "Metal Claw": {
-    "ja": "メタルクロー",
-    "zh-hans": "金属爪"
-  },
-  "Metal-Claw": {
-    "ja": "メタルクロー",
-    "zh-hans": "金属爪"
-  },
-  "Vital Throw": {
-    "ja": "あてみなげ",
-    "zh-hans": "借力摔"
-  },
-  "Vital-Throw": {
-    "ja": "あてみなげ",
-    "zh-hans": "借力摔"
-  },
-  "Morning Sun": {
-    "ja": "あさのひざし",
-    "zh-hans": "晨光"
-  },
-  "Morning-Sun": {
-    "ja": "あさのひざし",
-    "zh-hans": "晨光"
-  },
-  "Synthesis": {
-    "ja": "こうごうせい",
-    "zh-hans": "光合作用"
-  },
-  "Moonlight": {
-    "ja": "つきのひかり",
-    "zh-hans": "月光"
-  },
-  "Hidden Power": {
-    "ja": "めざめるパワー",
-    "zh-hans": "觉醒力量"
-  },
-  "Hidden-Power": {
-    "ja": "めざめるパワー",
-    "zh-hans": "觉醒力量"
-  },
-  "Cross Chop": {
-    "ja": "クロスチョップ",
-    "zh-hans": "十字劈"
-  },
-  "Cross-Chop": {
-    "ja": "クロスチョップ",
-    "zh-hans": "十字劈"
-  },
-  "Twister": {
-    "ja": "たつまき",
-    "zh-hans": "龙卷风"
-  },
-  "Rain Dance": {
-    "ja": "あまごい",
-    "zh-hans": "求雨"
-  },
-  "Rain-Dance": {
-    "ja": "あまごい",
-    "zh-hans": "求雨"
-  },
-  "Sunny Day": {
-    "ja": "にほんばれ",
-    "zh-hans": "大晴天"
-  },
-  "Sunny-Day": {
-    "ja": "にほんばれ",
-    "zh-hans": "大晴天"
-  },
-  "Crunch": {
-    "ja": "かみくだく",
-    "zh-hans": "咬碎"
-  },
-  "Mirror Coat": {
-    "ja": "ミラーコート",
-    "zh-hans": "镜面反射"
-  },
-  "Mirror-Coat": {
-    "ja": "ミラーコート",
-    "zh-hans": "镜面反射"
-  },
-  "Psych Up": {
-    "ja": "じこあんじ",
-    "zh-hans": "自我暗示"
-  },
-  "Psych-Up": {
-    "ja": "じこあんじ",
-    "zh-hans": "自我暗示"
-  },
-  "Extreme Speed": {
-    "ja": "しんそく",
-    "zh-hans": "神速"
-  },
-  "Extreme-Speed": {
-    "ja": "しんそく",
-    "zh-hans": "神速"
-  },
-  "Ancient Power": {
-    "ja": "げんしのちから",
-    "zh-hans": "原始之力"
-  },
-  "Ancient-Power": {
-    "ja": "げんしのちから",
-    "zh-hans": "原始之力"
-  },
-  "Shadow Ball": {
-    "ja": "シャドーボール",
-    "zh-hans": "暗影球"
-  },
-  "Shadow-Ball": {
-    "ja": "シャドーボール",
-    "zh-hans": "暗影球"
-  },
-  "Future Sight": {
-    "ja": "みらいよち",
-    "zh-hans": "预知未来"
-  },
-  "Future-Sight": {
-    "ja": "みらいよち",
-    "zh-hans": "预知未来"
-  },
-  "Rock Smash": {
-    "ja": "いわくだき",
-    "zh-hans": "碎岩"
-  },
-  "Rock-Smash": {
-    "ja": "いわくだき",
-    "zh-hans": "碎岩"
-  },
-  "Whirlpool": {
-    "ja": "うずしお",
-    "zh-hans": "潮旋"
-  },
-  "Beat Up": {
-    "ja": "ふくろだたき",
-    "zh-hans": "围攻"
-  },
-  "Beat-Up": {
-    "ja": "ふくろだたき",
-    "zh-hans": "围攻"
-  },
-  "Fake Out": {
-    "ja": "ねこだまし",
-    "zh-hans": "击掌奇袭"
-  },
-  "Fake-Out": {
-    "ja": "ねこだまし",
-    "zh-hans": "击掌奇袭"
-  },
-  "Uproar": {
-    "ja": "さわぐ",
-    "zh-hans": "吵闹"
-  },
-  "Stockpile": {
-    "ja": "たくわえる",
-    "zh-hans": "蓄力"
-  },
-  "Spit Up": {
-    "ja": "はきだす",
-    "zh-hans": "喷出"
-  },
-  "Spit-Up": {
-    "ja": "はきだす",
-    "zh-hans": "喷出"
-  },
-  "Swallow": {
-    "ja": "のみこむ",
-    "zh-hans": "吞下"
-  },
-  "Heat Wave": {
-    "ja": "ねっぷう",
-    "zh-hans": "热风"
-  },
-  "Heat-Wave": {
-    "ja": "ねっぷう",
-    "zh-hans": "热风"
-  },
-  "Hail": {
-    "ja": "あられ",
-    "zh-hans": "冰雹"
-  },
-  "Torment": {
-    "ja": "いちゃもん",
-    "zh-hans": "无理取闹"
-  },
-  "Flatter": {
-    "ja": "おだてる",
-    "zh-hans": "吹捧"
-  },
-  "Will-O-Wisp": {
-    "ja": "おにび",
-    "zh-hans": "磷火"
-  },
-  "Memento": {
-    "ja": "おきみやげ",
-    "zh-hans": "临别礼物"
-  },
-  "Facade": {
-    "ja": "からげんき",
-    "zh-hans": "硬撑"
-  },
-  "Focus Punch": {
-    "ja": "きあいパンチ",
-    "zh-hans": "真气拳"
-  },
-  "Focus-Punch": {
-    "ja": "きあいパンチ",
-    "zh-hans": "真气拳"
-  },
-  "Smelling Salts": {
-    "ja": "きつけ",
-    "zh-hans": "清醒"
-  },
-  "Smelling-Salts": {
-    "ja": "きつけ",
-    "zh-hans": "清醒"
-  },
-  "Follow Me": {
-    "ja": "このゆびとまれ",
-    "zh-hans": "看我嘛"
-  },
-  "Follow-Me": {
-    "ja": "このゆびとまれ",
-    "zh-hans": "看我嘛"
-  },
-  "Nature Power": {
-    "ja": "しぜんのちから",
-    "zh-hans": "自然之力"
-  },
-  "Nature-Power": {
-    "ja": "しぜんのちから",
-    "zh-hans": "自然之力"
-  },
-  "Charge": {
-    "ja": "じゅうでん",
-    "zh-hans": "充电"
-  },
-  "Taunt": {
-    "ja": "ちょうはつ",
-    "zh-hans": "挑衅"
-  },
-  "Helping Hand": {
-    "ja": "てだすけ",
-    "zh-hans": "帮助"
-  },
-  "Helping-Hand": {
-    "ja": "てだすけ",
-    "zh-hans": "帮助"
-  },
-  "Trick": {
-    "ja": "トリック",
-    "zh-hans": "戏法"
-  },
-  "Role Play": {
-    "ja": "なりきり",
-    "zh-hans": "扮演"
-  },
-  "Role-Play": {
-    "ja": "なりきり",
-    "zh-hans": "扮演"
-  },
-  "Wish": {
-    "ja": "ねがいごと",
-    "zh-hans": "祈愿"
-  },
-  "Assist": {
-    "ja": "ねこのて",
-    "zh-hans": "借助"
-  },
-  "Ingrain": {
-    "ja": "ねをはる",
-    "zh-hans": "扎根"
-  },
-  "Superpower": {
-    "ja": "ばかぢから",
-    "zh-hans": "蛮力"
-  },
-  "Magic Coat": {
-    "ja": "マジックコート",
-    "zh-hans": "魔法反射"
-  },
-  "Magic-Coat": {
-    "ja": "マジックコート",
-    "zh-hans": "魔法反射"
-  },
-  "Recycle": {
-    "ja": "リサイクル",
-    "zh-hans": "回收利用"
-  },
-  "Revenge": {
-    "ja": "リベンジ",
-    "zh-hans": "报复"
-  },
-  "Brick Break": {
-    "ja": "かわらわり",
-    "zh-hans": "劈瓦"
-  },
-  "Brick-Break": {
-    "ja": "かわらわり",
-    "zh-hans": "劈瓦"
-  },
-  "Yawn": {
-    "ja": "あくび",
-    "zh-hans": "哈欠"
-  },
-  "Knock Off": {
-    "ja": "はたきおとす",
-    "zh-hans": "拍落"
-  },
-  "Knock-Off": {
-    "ja": "はたきおとす",
-    "zh-hans": "拍落"
-  },
-  "Endeavor": {
-    "ja": "がむしゃら",
-    "zh-hans": "蛮干"
-  },
-  "Eruption": {
-    "ja": "ふんか",
-    "zh-hans": "喷火"
-  },
-  "Skill Swap": {
-    "ja": "スキルスワップ",
-    "zh-hans": "特性互换"
-  },
-  "Skill-Swap": {
-    "ja": "スキルスワップ",
-    "zh-hans": "特性互换"
-  },
-  "Imprison": {
-    "ja": "ふういん",
-    "zh-hans": "封印"
-  },
-  "Refresh": {
-    "ja": "リフレッシュ",
-    "zh-hans": "焕然一新"
-  },
-  "Grudge": {
-    "ja": "おんねん",
-    "zh-hans": "怨念"
-  },
-  "Snatch": {
-    "ja": "よこどり",
-    "zh-hans": "化为己用"
-  },
-  "Secret Power": {
-    "ja": "ひみつのちから",
-    "zh-hans": "秘密之力"
-  },
-  "Secret-Power": {
-    "ja": "ひみつのちから",
-    "zh-hans": "秘密之力"
-  },
-  "Dive": {
-    "ja": "ダイビング",
-    "zh-hans": "潜水"
-  },
-  "Arm Thrust": {
-    "ja": "つっぱり",
-    "zh-hans": "猛推"
-  },
-  "Arm-Thrust": {
-    "ja": "つっぱり",
-    "zh-hans": "猛推"
-  },
-  "Camouflage": {
-    "ja": "ほごしょく",
-    "zh-hans": "保护色"
-  },
-  "Tail Glow": {
-    "ja": "ほたるび",
-    "zh-hans": "萤火"
-  },
-  "Tail-Glow": {
-    "ja": "ほたるび",
-    "zh-hans": "萤火"
-  },
-  "Luster Purge": {
-    "ja": "ラスターパージ",
-    "zh-hans": "洁净光芒"
-  },
-  "Luster-Purge": {
-    "ja": "ラスターパージ",
-    "zh-hans": "洁净光芒"
-  },
-  "Mist Ball": {
-    "ja": "ミストボール",
-    "zh-hans": "薄雾球"
-  },
-  "Mist-Ball": {
-    "ja": "ミストボール",
-    "zh-hans": "薄雾球"
-  },
-  "Feather Dance": {
-    "ja": "フェザーダンス",
-    "zh-hans": "羽毛舞"
-  },
-  "Feather-Dance": {
-    "ja": "フェザーダンス",
-    "zh-hans": "羽毛舞"
-  },
-  "Teeter Dance": {
-    "ja": "フラフラダンス",
-    "zh-hans": "摇晃舞"
-  },
-  "Teeter-Dance": {
-    "ja": "フラフラダンス",
-    "zh-hans": "摇晃舞"
-  },
-  "Blaze Kick": {
-    "ja": "ブレイズキック",
-    "zh-hans": "火焰踢"
-  },
-  "Blaze-Kick": {
-    "ja": "ブレイズキック",
-    "zh-hans": "火焰踢"
-  },
-  "Mud Sport": {
-    "ja": "どろあそび",
-    "zh-hans": "玩泥巴"
-  },
-  "Mud-Sport": {
-    "ja": "どろあそび",
-    "zh-hans": "玩泥巴"
-  },
-  "Ice Ball": {
-    "ja": "アイスボール",
-    "zh-hans": "冰球"
-  },
-  "Ice-Ball": {
-    "ja": "アイスボール",
-    "zh-hans": "冰球"
-  },
-  "Needle Arm": {
-    "ja": "ニードルアーム",
-    "zh-hans": "尖刺臂"
-  },
-  "Needle-Arm": {
-    "ja": "ニードルアーム",
-    "zh-hans": "尖刺臂"
-  },
-  "Slack Off": {
-    "ja": "なまける",
-    "zh-hans": "偷懒"
-  },
-  "Slack-Off": {
-    "ja": "なまける",
-    "zh-hans": "偷懒"
-  },
-  "Hyper Voice": {
-    "ja": "ハイパーボイス",
-    "zh-hans": "巨声"
-  },
-  "Hyper-Voice": {
-    "ja": "ハイパーボイス",
-    "zh-hans": "巨声"
-  },
-  "Poison Fang": {
-    "ja": "どくどくのキバ",
-    "zh-hans": "剧毒牙"
-  },
-  "Poison-Fang": {
-    "ja": "どくどくのキバ",
-    "zh-hans": "剧毒牙"
-  },
-  "Crush Claw": {
-    "ja": "ブレイククロー",
-    "zh-hans": "撕裂爪"
-  },
-  "Crush-Claw": {
-    "ja": "ブレイククロー",
-    "zh-hans": "撕裂爪"
-  },
-  "Blast Burn": {
-    "ja": "ブラストバーン",
-    "zh-hans": "爆炸烈焰"
-  },
-  "Blast-Burn": {
-    "ja": "ブラストバーン",
-    "zh-hans": "爆炸烈焰"
-  },
-  "Hydro Cannon": {
-    "ja": "ハイドロカノン",
-    "zh-hans": "加农水炮"
-  },
-  "Hydro-Cannon": {
-    "ja": "ハイドロカノン",
-    "zh-hans": "加农水炮"
-  },
-  "Meteor Mash": {
-    "ja": "コメットパンチ",
-    "zh-hans": "彗星拳"
-  },
-  "Meteor-Mash": {
-    "ja": "コメットパンチ",
-    "zh-hans": "彗星拳"
-  },
-  "Astonish": {
-    "ja": "おどろかす",
-    "zh-hans": "惊吓"
-  },
-  "Weather Ball": {
-    "ja": "ウェザーボール",
-    "zh-hans": "气象球"
-  },
-  "Weather-Ball": {
-    "ja": "ウェザーボール",
-    "zh-hans": "气象球"
-  },
-  "Aromatherapy": {
-    "ja": "アロマセラピー",
-    "zh-hans": "芳香治疗"
-  },
-  "Fake Tears": {
-    "ja": "うそなき",
-    "zh-hans": "假哭"
-  },
-  "Fake-Tears": {
-    "ja": "うそなき",
-    "zh-hans": "假哭"
-  },
-  "Air Cutter": {
-    "ja": "エアカッター",
-    "zh-hans": "空气利刃"
-  },
-  "Air-Cutter": {
-    "ja": "エアカッター",
-    "zh-hans": "空气利刃"
-  },
-  "Overheat": {
-    "ja": "オーバーヒート",
-    "zh-hans": "过热"
-  },
-  "Odor Sleuth": {
-    "ja": "かぎわける",
-    "zh-hans": "气味侦测"
-  },
-  "Odor-Sleuth": {
-    "ja": "かぎわける",
-    "zh-hans": "气味侦测"
-  },
-  "Rock Tomb": {
-    "ja": "がんせきふうじ",
-    "zh-hans": "岩石封锁"
-  },
-  "Rock-Tomb": {
-    "ja": "がんせきふうじ",
-    "zh-hans": "岩石封锁"
-  },
-  "Silver Wind": {
-    "ja": "ぎんいろのかぜ",
-    "zh-hans": "银色旋风"
-  },
-  "Silver-Wind": {
-    "ja": "ぎんいろのかぜ",
-    "zh-hans": "银色旋风"
-  },
-  "Metal Sound": {
-    "ja": "きんぞくおん",
-    "zh-hans": "金属音"
-  },
-  "Metal-Sound": {
-    "ja": "きんぞくおん",
-    "zh-hans": "金属音"
-  },
-  "Grass Whistle": {
-    "ja": "くさぶえ",
-    "zh-hans": "草笛"
-  },
-  "Grass-Whistle": {
-    "ja": "くさぶえ",
-    "zh-hans": "草笛"
-  },
-  "Tickle": {
-    "ja": "くすぐる",
-    "zh-hans": "挠痒"
-  },
-  "Cosmic Power": {
-    "ja": "コスモパワー",
-    "zh-hans": "宇宙力量"
-  },
-  "Cosmic-Power": {
-    "ja": "コスモパワー",
-    "zh-hans": "宇宙力量"
-  },
-  "Water Spout": {
-    "ja": "しおふき",
-    "zh-hans": "喷水"
-  },
-  "Water-Spout": {
-    "ja": "しおふき",
-    "zh-hans": "喷水"
-  },
-  "Signal Beam": {
-    "ja": "シグナルビーム",
-    "zh-hans": "信号光束"
-  },
-  "Signal-Beam": {
-    "ja": "シグナルビーム",
-    "zh-hans": "信号光束"
-  },
-  "Shadow Punch": {
-    "ja": "シャドーパンチ",
-    "zh-hans": "暗影拳"
-  },
-  "Shadow-Punch": {
-    "ja": "シャドーパンチ",
-    "zh-hans": "暗影拳"
-  },
-  "Extrasensory": {
-    "ja": "じんつうりき",
-    "zh-hans": "神通力"
-  },
-  "Sky Uppercut": {
-    "ja": "スカイアッパー",
-    "zh-hans": "冲天拳"
-  },
-  "Sky-Uppercut": {
-    "ja": "スカイアッパー",
-    "zh-hans": "冲天拳"
-  },
-  "Sand Tomb": {
-    "ja": "すなじごく",
-    "zh-hans": "流沙深渊"
-  },
-  "Sand-Tomb": {
-    "ja": "すなじごく",
-    "zh-hans": "流沙深渊"
-  },
-  "Sheer Cold": {
-    "ja": "ぜったいれいど",
-    "zh-hans": "绝对零度"
-  },
-  "Sheer-Cold": {
-    "ja": "ぜったいれいど",
-    "zh-hans": "绝对零度"
-  },
-  "Muddy Water": {
-    "ja": "だくりゅう",
-    "zh-hans": "浊流"
-  },
-  "Muddy-Water": {
-    "ja": "だくりゅう",
-    "zh-hans": "浊流"
-  },
-  "Bullet Seed": {
-    "ja": "タネマシンガン",
-    "zh-hans": "种子机关枪"
-  },
-  "Bullet-Seed": {
-    "ja": "タネマシンガン",
-    "zh-hans": "种子机关枪"
-  },
-  "Aerial Ace": {
-    "ja": "つばめがえし",
-    "zh-hans": "燕返"
-  },
-  "Aerial-Ace": {
-    "ja": "つばめがえし",
-    "zh-hans": "燕返"
-  },
-  "Icicle Spear": {
-    "ja": "つららばり",
-    "zh-hans": "冰锥"
-  },
-  "Icicle-Spear": {
-    "ja": "つららばり",
-    "zh-hans": "冰锥"
-  },
-  "Iron Defense": {
-    "ja": "てっぺき",
-    "zh-hans": "铁壁"
-  },
-  "Iron-Defense": {
-    "ja": "てっぺき",
-    "zh-hans": "铁壁"
-  },
-  "Block": {
-    "ja": "とおせんぼう",
-    "zh-hans": "挡路"
-  },
-  "Howl": {
-    "ja": "とおぼえ",
-    "zh-hans": "长嚎"
-  },
-  "Dragon Claw": {
-    "ja": "ドラゴンクロー",
-    "zh-hans": "龙爪"
-  },
-  "Dragon-Claw": {
-    "ja": "ドラゴンクロー",
-    "zh-hans": "龙爪"
-  },
-  "Frenzy Plant": {
-    "ja": "ハードプラント",
-    "zh-hans": "疯狂植物"
-  },
-  "Frenzy-Plant": {
-    "ja": "ハードプラント",
-    "zh-hans": "疯狂植物"
-  },
-  "Bulk Up": {
-    "ja": "ビルドアップ",
-    "zh-hans": "健美"
-  },
-  "Bulk-Up": {
-    "ja": "ビルドアップ",
-    "zh-hans": "健美"
-  },
-  "Bounce": {
-    "ja": "とびはねる",
-    "zh-hans": "弹跳"
-  },
-  "Mud Shot": {
-    "ja": "マッドショット",
-    "zh-hans": "泥巴射击"
-  },
-  "Mud-Shot": {
-    "ja": "マッドショット",
-    "zh-hans": "泥巴射击"
-  },
-  "Poison Tail": {
-    "ja": "ポイズンテール",
-    "zh-hans": "毒尾"
-  },
-  "Poison-Tail": {
-    "ja": "ポイズンテール",
-    "zh-hans": "毒尾"
-  },
-  "Covet": {
-    "ja": "ほしがる",
-    "zh-hans": "渴望"
-  },
-  "Volt Tackle": {
-    "ja": "ボルテッカー",
-    "zh-hans": "伏特攻击"
-  },
-  "Volt-Tackle": {
-    "ja": "ボルテッカー",
-    "zh-hans": "伏特攻击"
-  },
-  "Magical Leaf": {
-    "ja": "マジカルリーフ",
-    "zh-hans": "魔法叶"
-  },
-  "Magical-Leaf": {
-    "ja": "マジカルリーフ",
-    "zh-hans": "魔法叶"
-  },
-  "Water Sport": {
-    "ja": "みずあそび",
-    "zh-hans": "玩水"
-  },
-  "Water-Sport": {
-    "ja": "みずあそび",
-    "zh-hans": "玩水"
-  },
-  "Calm Mind": {
-    "ja": "めいそう",
-    "zh-hans": "冥想"
-  },
-  "Calm-Mind": {
-    "ja": "めいそう",
-    "zh-hans": "冥想"
-  },
-  "Leaf Blade": {
-    "ja": "リーフブレード",
-    "zh-hans": "叶刃"
-  },
-  "Leaf-Blade": {
-    "ja": "リーフブレード",
-    "zh-hans": "叶刃"
-  },
-  "Dragon Dance": {
-    "ja": "りゅうのまい",
-    "zh-hans": "龙之舞"
-  },
-  "Dragon-Dance": {
-    "ja": "りゅうのまい",
-    "zh-hans": "龙之舞"
-  },
-  "Rock Blast": {
-    "ja": "ロックブラスト",
-    "zh-hans": "岩石爆击"
-  },
-  "Rock-Blast": {
-    "ja": "ロックブラスト",
-    "zh-hans": "岩石爆击"
-  },
-  "Shock Wave": {
-    "ja": "でんげきは",
-    "zh-hans": "电击波"
-  },
-  "Shock-Wave": {
-    "ja": "でんげきは",
-    "zh-hans": "电击波"
-  },
-  "Water Pulse": {
-    "ja": "みずのはどう",
-    "zh-hans": "水之波动"
-  },
-  "Water-Pulse": {
-    "ja": "みずのはどう",
-    "zh-hans": "水之波动"
-  },
-  "Doom Desire": {
-    "ja": "はめつのねがい",
-    "zh-hans": "破灭之愿"
-  },
-  "Doom-Desire": {
-    "ja": "はめつのねがい",
-    "zh-hans": "破灭之愿"
-  },
-  "Psycho Boost": {
-    "ja": "サイコブースト",
-    "zh-hans": "精神突进"
-  },
-  "Psycho-Boost": {
-    "ja": "サイコブースト",
-    "zh-hans": "精神突进"
-  },
-  "Roost": {
-    "ja": "はねやすめ",
-    "zh-hans": "羽栖"
-  },
-  "Gravity": {
-    "ja": "じゅうりょく",
-    "zh-hans": "重力"
-  },
-  "Miracle Eye": {
-    "ja": "ミラクルアイ",
-    "zh-hans": "奇迹之眼"
-  },
-  "Miracle-Eye": {
-    "ja": "ミラクルアイ",
-    "zh-hans": "奇迹之眼"
-  },
-  "Wake-Up Slap": {
-    "ja": "めざましビンタ",
-    "zh-hans": "唤醒巴掌"
-  },
-  "Wake-Up-Slap": {
-    "ja": "めざましビンタ",
-    "zh-hans": "唤醒巴掌"
-  },
-  "Hammer Arm": {
-    "ja": "アームハンマー",
-    "zh-hans": "臂锤"
-  },
-  "Hammer-Arm": {
-    "ja": "アームハンマー",
-    "zh-hans": "臂锤"
-  },
-  "Gyro Ball": {
-    "ja": "ジャイロボール",
-    "zh-hans": "陀螺球"
-  },
-  "Gyro-Ball": {
-    "ja": "ジャイロボール",
-    "zh-hans": "陀螺球"
-  },
-  "Healing Wish": {
-    "ja": "いやしのねがい",
-    "zh-hans": "治愈之愿"
-  },
-  "Healing-Wish": {
-    "ja": "いやしのねがい",
-    "zh-hans": "治愈之愿"
-  },
-  "Brine": {
-    "ja": "しおみず",
-    "zh-hans": "盐水"
-  },
-  "Natural Gift": {
-    "ja": "しぜんのめぐみ",
-    "zh-hans": "自然之恩"
-  },
-  "Natural-Gift": {
-    "ja": "しぜんのめぐみ",
-    "zh-hans": "自然之恩"
-  },
-  "Feint": {
-    "ja": "フェイント",
-    "zh-hans": "佯攻"
-  },
-  "Pluck": {
-    "ja": "ついばむ",
-    "zh-hans": "啄食"
-  },
-  "Tailwind": {
-    "ja": "おいかぜ",
-    "zh-hans": "顺风"
-  },
-  "Acupressure": {
-    "ja": "つぼをつく",
-    "zh-hans": "点穴"
-  },
-  "Metal Burst": {
-    "ja": "メタルバースト",
-    "zh-hans": "金属爆炸"
-  },
-  "Metal-Burst": {
-    "ja": "メタルバースト",
-    "zh-hans": "金属爆炸"
-  },
-  "U-turn": {
-    "ja": "とんぼがえり",
-    "zh-hans": "急速折返"
-  },
-  "Close Combat": {
-    "ja": "インファイト",
-    "zh-hans": "近身战"
-  },
-  "Close-Combat": {
-    "ja": "インファイト",
-    "zh-hans": "近身战"
-  },
-  "Payback": {
-    "ja": "しっぺがえし",
-    "zh-hans": "以牙还牙"
-  },
-  "Assurance": {
-    "ja": "ダメおし",
-    "zh-hans": "恶意追击"
-  },
-  "Embargo": {
-    "ja": "さしおさえ",
-    "zh-hans": "查封"
-  },
-  "Fling": {
-    "ja": "なげつける",
-    "zh-hans": "投掷"
-  },
-  "Psycho Shift": {
-    "ja": "サイコシフト",
-    "zh-hans": "精神转移"
-  },
-  "Psycho-Shift": {
-    "ja": "サイコシフト",
-    "zh-hans": "精神转移"
-  },
-  "Trump Card": {
-    "ja": "きりふだ",
-    "zh-hans": "王牌"
-  },
-  "Trump-Card": {
-    "ja": "きりふだ",
-    "zh-hans": "王牌"
-  },
-  "Heal Block": {
-    "ja": "かいふくふうじ",
-    "zh-hans": "回复封锁"
-  },
-  "Heal-Block": {
-    "ja": "かいふくふうじ",
-    "zh-hans": "回复封锁"
-  },
-  "Wring Out": {
-    "ja": "しぼりとる",
-    "zh-hans": "绞紧"
-  },
-  "Wring-Out": {
-    "ja": "しぼりとる",
-    "zh-hans": "绞紧"
-  },
-  "Power Trick": {
-    "ja": "パワートリック",
-    "zh-hans": "力量戏法"
-  },
-  "Power-Trick": {
-    "ja": "パワートリック",
-    "zh-hans": "力量戏法"
-  },
-  "Gastro Acid": {
-    "ja": "いえき",
-    "zh-hans": "胃液"
-  },
-  "Gastro-Acid": {
-    "ja": "いえき",
-    "zh-hans": "胃液"
-  },
-  "Lucky Chant": {
-    "ja": "おまじない",
-    "zh-hans": "幸运咒语"
-  },
-  "Lucky-Chant": {
-    "ja": "おまじない",
-    "zh-hans": "幸运咒语"
-  },
-  "Me First": {
-    "ja": "さきどり",
-    "zh-hans": "抢先一步"
-  },
-  "Me-First": {
-    "ja": "さきどり",
-    "zh-hans": "抢先一步"
-  },
-  "Copycat": {
-    "ja": "まねっこ",
-    "zh-hans": "仿效"
-  },
-  "Power Swap": {
-    "ja": "パワースワップ",
-    "zh-hans": "力量互换"
-  },
-  "Power-Swap": {
-    "ja": "パワースワップ",
-    "zh-hans": "力量互换"
-  },
-  "Guard Swap": {
-    "ja": "ガードスワップ",
-    "zh-hans": "防守互换"
-  },
-  "Guard-Swap": {
-    "ja": "ガードスワップ",
-    "zh-hans": "防守互换"
-  },
-  "Punishment": {
-    "ja": "おしおき",
-    "zh-hans": "惩罚"
-  },
-  "Last Resort": {
-    "ja": "とっておき",
-    "zh-hans": "珍藏"
-  },
-  "Last-Resort": {
-    "ja": "とっておき",
-    "zh-hans": "珍藏"
-  },
-  "Worry Seed": {
-    "ja": "なやみのタネ",
-    "zh-hans": "烦恼种子"
-  },
-  "Worry-Seed": {
-    "ja": "なやみのタネ",
-    "zh-hans": "烦恼种子"
-  },
-  "Sucker Punch": {
-    "ja": "ふいうち",
-    "zh-hans": "突袭"
-  },
-  "Sucker-Punch": {
-    "ja": "ふいうち",
-    "zh-hans": "突袭"
-  },
-  "Toxic Spikes": {
-    "ja": "どくびし",
-    "zh-hans": "毒菱"
-  },
-  "Toxic-Spikes": {
-    "ja": "どくびし",
-    "zh-hans": "毒菱"
-  },
-  "Heart Swap": {
-    "ja": "ハートスワップ",
-    "zh-hans": "心灵互换"
-  },
-  "Heart-Swap": {
-    "ja": "ハートスワップ",
-    "zh-hans": "心灵互换"
-  },
-  "Aqua Ring": {
-    "ja": "アクアリング",
-    "zh-hans": "水流环"
-  },
-  "Aqua-Ring": {
-    "ja": "アクアリング",
-    "zh-hans": "水流环"
-  },
-  "Magnet Rise": {
-    "ja": "でんじふゆう",
-    "zh-hans": "电磁飘浮"
-  },
-  "Magnet-Rise": {
-    "ja": "でんじふゆう",
-    "zh-hans": "电磁飘浮"
-  },
-  "Flare Blitz": {
-    "ja": "フレアドライブ",
-    "zh-hans": "闪焰冲锋"
-  },
-  "Flare-Blitz": {
-    "ja": "フレアドライブ",
-    "zh-hans": "闪焰冲锋"
-  },
-  "Force Palm": {
-    "ja": "はっけい",
-    "zh-hans": "发劲"
-  },
-  "Force-Palm": {
-    "ja": "はっけい",
-    "zh-hans": "发劲"
-  },
-  "Aura Sphere": {
-    "ja": "はどうだん",
-    "zh-hans": "波导弹"
-  },
-  "Aura-Sphere": {
-    "ja": "はどうだん",
-    "zh-hans": "波导弹"
-  },
-  "Rock Polish": {
-    "ja": "ロックカット",
-    "zh-hans": "岩石打磨"
-  },
-  "Rock-Polish": {
-    "ja": "ロックカット",
-    "zh-hans": "岩石打磨"
-  },
-  "Poison Jab": {
-    "ja": "どくづき",
-    "zh-hans": "毒击"
-  },
-  "Poison-Jab": {
-    "ja": "どくづき",
-    "zh-hans": "毒击"
-  },
-  "Dark Pulse": {
-    "ja": "あくのはどう",
-    "zh-hans": "恶之波动"
-  },
-  "Dark-Pulse": {
-    "ja": "あくのはどう",
-    "zh-hans": "恶之波动"
-  },
-  "Night Slash": {
-    "ja": "つじぎり",
-    "zh-hans": "暗袭要害"
-  },
-  "Night-Slash": {
-    "ja": "つじぎり",
-    "zh-hans": "暗袭要害"
-  },
-  "Aqua Tail": {
-    "ja": "アクアテール",
-    "zh-hans": "水流尾"
-  },
-  "Aqua-Tail": {
-    "ja": "アクアテール",
-    "zh-hans": "水流尾"
-  },
-  "Seed Bomb": {
-    "ja": "タネばくだん",
-    "zh-hans": "种子炸弹"
-  },
-  "Seed-Bomb": {
-    "ja": "タネばくだん",
-    "zh-hans": "种子炸弹"
-  },
-  "Air Slash": {
-    "ja": "エアスラッシュ",
-    "zh-hans": "空气之刃"
-  },
-  "Air-Slash": {
-    "ja": "エアスラッシュ",
-    "zh-hans": "空气之刃"
-  },
-  "X-Scissor": {
-    "ja": "シザークロス",
-    "zh-hans": "十字剪"
-  },
-  "Bug Buzz": {
-    "ja": "むしのさざめき",
-    "zh-hans": "虫鸣"
-  },
-  "Bug-Buzz": {
-    "ja": "むしのさざめき",
-    "zh-hans": "虫鸣"
-  },
-  "Dragon Pulse": {
-    "ja": "りゅうのはどう",
-    "zh-hans": "龙之波动"
-  },
-  "Dragon-Pulse": {
-    "ja": "りゅうのはどう",
-    "zh-hans": "龙之波动"
-  },
-  "Dragon Rush": {
-    "ja": "ドラゴンダイブ",
-    "zh-hans": "龙之俯冲"
-  },
-  "Dragon-Rush": {
-    "ja": "ドラゴンダイブ",
-    "zh-hans": "龙之俯冲"
-  },
-  "Power Gem": {
-    "ja": "パワージェム",
-    "zh-hans": "力量宝石"
-  },
-  "Power-Gem": {
-    "ja": "パワージェム",
-    "zh-hans": "力量宝石"
-  },
-  "Drain Punch": {
-    "ja": "ドレインパンチ",
-    "zh-hans": "吸取拳"
-  },
-  "Drain-Punch": {
-    "ja": "ドレインパンチ",
-    "zh-hans": "吸取拳"
-  },
-  "Vacuum Wave": {
-    "ja": "しんくうは",
-    "zh-hans": "真空波"
-  },
-  "Vacuum-Wave": {
-    "ja": "しんくうは",
-    "zh-hans": "真空波"
-  },
-  "Focus Blast": {
-    "ja": "きあいだま",
-    "zh-hans": "真气弹"
-  },
-  "Focus-Blast": {
-    "ja": "きあいだま",
-    "zh-hans": "真气弹"
-  },
-  "Energy Ball": {
-    "ja": "エナジーボール",
-    "zh-hans": "能量球"
-  },
-  "Energy-Ball": {
-    "ja": "エナジーボール",
-    "zh-hans": "能量球"
-  },
-  "Brave Bird": {
-    "ja": "ブレイブバード",
-    "zh-hans": "勇鸟猛攻"
-  },
-  "Brave-Bird": {
-    "ja": "ブレイブバード",
-    "zh-hans": "勇鸟猛攻"
-  },
-  "Earth Power": {
-    "ja": "だいちのちから",
-    "zh-hans": "大地之力"
-  },
-  "Earth-Power": {
-    "ja": "だいちのちから",
-    "zh-hans": "大地之力"
-  },
-  "Switcheroo": {
-    "ja": "すりかえ",
-    "zh-hans": "掉包"
-  },
-  "Giga Impact": {
-    "ja": "ギガインパクト",
-    "zh-hans": "终极冲击"
-  },
-  "Giga-Impact": {
-    "ja": "ギガインパクト",
-    "zh-hans": "终极冲击"
-  },
-  "Nasty Plot": {
-    "ja": "わるだくみ",
-    "zh-hans": "诡计"
-  },
-  "Nasty-Plot": {
-    "ja": "わるだくみ",
-    "zh-hans": "诡计"
-  },
-  "Bullet Punch": {
-    "ja": "バレットパンチ",
-    "zh-hans": "子弹拳"
-  },
-  "Bullet-Punch": {
-    "ja": "バレットパンチ",
-    "zh-hans": "子弹拳"
-  },
-  "Avalanche": {
-    "ja": "ゆきなだれ",
-    "zh-hans": "雪崩"
-  },
-  "Ice Shard": {
-    "ja": "こおりのつぶて",
-    "zh-hans": "冰砾"
-  },
-  "Ice-Shard": {
-    "ja": "こおりのつぶて",
-    "zh-hans": "冰砾"
-  },
-  "Shadow Claw": {
-    "ja": "シャドークロー",
-    "zh-hans": "暗影爪"
-  },
-  "Shadow-Claw": {
-    "ja": "シャドークロー",
-    "zh-hans": "暗影爪"
-  },
-  "Thunder Fang": {
-    "ja": "かみなりのキバ",
-    "zh-hans": "雷电牙"
-  },
-  "Thunder-Fang": {
-    "ja": "かみなりのキバ",
-    "zh-hans": "雷电牙"
-  },
-  "Ice Fang": {
-    "ja": "こおりのキバ",
-    "zh-hans": "冰冻牙"
-  },
-  "Ice-Fang": {
-    "ja": "こおりのキバ",
-    "zh-hans": "冰冻牙"
-  },
-  "Fire Fang": {
-    "ja": "ほのおのキバ",
-    "zh-hans": "火焰牙"
-  },
-  "Fire-Fang": {
-    "ja": "ほのおのキバ",
-    "zh-hans": "火焰牙"
-  },
-  "Shadow Sneak": {
-    "ja": "かげうち",
-    "zh-hans": "影子偷袭"
-  },
-  "Shadow-Sneak": {
-    "ja": "かげうち",
-    "zh-hans": "影子偷袭"
-  },
-  "Mud Bomb": {
-    "ja": "どろばくだん",
-    "zh-hans": "泥巴炸弹"
-  },
-  "Mud-Bomb": {
-    "ja": "どろばくだん",
-    "zh-hans": "泥巴炸弹"
-  },
-  "Psycho Cut": {
-    "ja": "サイコカッター",
-    "zh-hans": "精神利刃"
-  },
-  "Psycho-Cut": {
-    "ja": "サイコカッター",
-    "zh-hans": "精神利刃"
-  },
-  "Zen Headbutt": {
-    "ja": "しねんのずつき",
-    "zh-hans": "意念头锤"
-  },
-  "Zen-Headbutt": {
-    "ja": "しねんのずつき",
-    "zh-hans": "意念头锤"
-  },
-  "Mirror Shot": {
-    "ja": "ミラーショット",
-    "zh-hans": "镜光射击"
-  },
-  "Mirror-Shot": {
-    "ja": "ミラーショット",
-    "zh-hans": "镜光射击"
-  },
-  "Flash Cannon": {
-    "ja": "ラスターカノン",
-    "zh-hans": "加农光炮"
-  },
-  "Flash-Cannon": {
-    "ja": "ラスターカノン",
-    "zh-hans": "加农光炮"
-  },
-  "Rock Climb": {
-    "ja": "ロッククライム",
-    "zh-hans": "攀岩"
-  },
-  "Rock-Climb": {
-    "ja": "ロッククライム",
-    "zh-hans": "攀岩"
-  },
-  "Defog": {
-    "ja": "きりばらい",
-    "zh-hans": "清除浓雾"
-  },
-  "Trick Room": {
-    "ja": "トリックルーム",
-    "zh-hans": "戏法空间"
-  },
-  "Trick-Room": {
-    "ja": "トリックルーム",
-    "zh-hans": "戏法空间"
-  },
-  "Draco Meteor": {
-    "ja": "りゅうせいぐん",
-    "zh-hans": "流星群"
-  },
-  "Draco-Meteor": {
-    "ja": "りゅうせいぐん",
-    "zh-hans": "流星群"
-  },
-  "Discharge": {
-    "ja": "ほうでん",
-    "zh-hans": "放电"
-  },
-  "Lava Plume": {
-    "ja": "ふんえん",
-    "zh-hans": "喷烟"
-  },
-  "Lava-Plume": {
-    "ja": "ふんえん",
-    "zh-hans": "喷烟"
-  },
-  "Leaf Storm": {
-    "ja": "リーフストーム",
-    "zh-hans": "飞叶风暴"
-  },
-  "Leaf-Storm": {
-    "ja": "リーフストーム",
-    "zh-hans": "飞叶风暴"
-  },
-  "Power Whip": {
-    "ja": "パワーウィップ",
-    "zh-hans": "强力鞭打"
-  },
-  "Power-Whip": {
-    "ja": "パワーウィップ",
-    "zh-hans": "强力鞭打"
-  },
-  "Rock Wrecker": {
-    "ja": "がんせきほう",
-    "zh-hans": "岩石炮"
-  },
-  "Rock-Wrecker": {
-    "ja": "がんせきほう",
-    "zh-hans": "岩石炮"
-  },
-  "Cross Poison": {
-    "ja": "クロスポイズン",
-    "zh-hans": "十字毒刃"
-  },
-  "Cross-Poison": {
-    "ja": "クロスポイズン",
-    "zh-hans": "十字毒刃"
-  },
-  "Gunk Shot": {
-    "ja": "ダストシュート",
-    "zh-hans": "垃圾射击"
-  },
-  "Gunk-Shot": {
-    "ja": "ダストシュート",
-    "zh-hans": "垃圾射击"
-  },
-  "Iron Head": {
-    "ja": "アイアンヘッド",
-    "zh-hans": "铁头"
-  },
-  "Iron-Head": {
-    "ja": "アイアンヘッド",
-    "zh-hans": "铁头"
-  },
-  "Magnet Bomb": {
-    "ja": "マグネットボム",
-    "zh-hans": "磁铁炸弹"
-  },
-  "Magnet-Bomb": {
-    "ja": "マグネットボム",
-    "zh-hans": "磁铁炸弹"
-  },
-  "Stone Edge": {
-    "ja": "ストーンエッジ",
-    "zh-hans": "尖石攻击"
-  },
-  "Stone-Edge": {
-    "ja": "ストーンエッジ",
-    "zh-hans": "尖石攻击"
-  },
-  "Captivate": {
-    "ja": "ゆうわく",
-    "zh-hans": "诱惑"
-  },
-  "Stealth Rock": {
-    "ja": "ステルスロック",
-    "zh-hans": "隐形岩"
-  },
-  "Stealth-Rock": {
-    "ja": "ステルスロック",
-    "zh-hans": "隐形岩"
-  },
-  "Grass Knot": {
-    "ja": "くさむすび",
-    "zh-hans": "打草结"
-  },
-  "Grass-Knot": {
-    "ja": "くさむすび",
-    "zh-hans": "打草结"
-  },
-  "Chatter": {
-    "ja": "おしゃべり",
-    "zh-hans": "喋喋不休"
-  },
-  "Judgment": {
-    "ja": "さばきのつぶて",
-    "zh-hans": "制裁光砾"
-  },
-  "Bug Bite": {
-    "ja": "むしくい",
-    "zh-hans": "虫咬"
-  },
-  "Bug-Bite": {
-    "ja": "むしくい",
-    "zh-hans": "虫咬"
-  },
-  "Charge Beam": {
-    "ja": "チャージビーム",
-    "zh-hans": "充电光束"
-  },
-  "Charge-Beam": {
-    "ja": "チャージビーム",
-    "zh-hans": "充电光束"
-  },
-  "Wood Hammer": {
-    "ja": "ウッドハンマー",
-    "zh-hans": "木槌"
-  },
-  "Wood-Hammer": {
-    "ja": "ウッドハンマー",
-    "zh-hans": "木槌"
-  },
-  "Aqua Jet": {
-    "ja": "アクアジェット",
-    "zh-hans": "水流喷射"
-  },
-  "Aqua-Jet": {
-    "ja": "アクアジェット",
-    "zh-hans": "水流喷射"
-  },
-  "Attack Order": {
-    "ja": "こうげきしれい",
-    "zh-hans": "攻击指令"
-  },
-  "Attack-Order": {
-    "ja": "こうげきしれい",
-    "zh-hans": "攻击指令"
-  },
-  "Defend Order": {
-    "ja": "ぼうぎょしれい",
-    "zh-hans": "防御指令"
-  },
-  "Defend-Order": {
-    "ja": "ぼうぎょしれい",
-    "zh-hans": "防御指令"
-  },
-  "Heal Order": {
-    "ja": "かいふくしれい",
-    "zh-hans": "回复指令"
-  },
-  "Heal-Order": {
-    "ja": "かいふくしれい",
-    "zh-hans": "回复指令"
-  },
-  "Head Smash": {
-    "ja": "もろはのずつき",
-    "zh-hans": "双刃头锤"
-  },
-  "Head-Smash": {
-    "ja": "もろはのずつき",
-    "zh-hans": "双刃头锤"
-  },
-  "Double Hit": {
-    "ja": "ダブルアタック",
-    "zh-hans": "二连击"
-  },
-  "Double-Hit": {
-    "ja": "ダブルアタック",
-    "zh-hans": "二连击"
-  },
-  "Roar of Time": {
-    "ja": "ときのほうこう",
-    "zh-hans": "时光咆哮"
-  },
-  "Roar-of-Time": {
-    "ja": "ときのほうこう",
-    "zh-hans": "时光咆哮"
-  },
-  "Spacial Rend": {
-    "ja": "あくうせつだん",
-    "zh-hans": "亚空裂斩"
-  },
-  "Spacial-Rend": {
-    "ja": "あくうせつだん",
-    "zh-hans": "亚空裂斩"
-  },
-  "Lunar Dance": {
-    "ja": "みかづきのまい",
-    "zh-hans": "新月舞"
-  },
-  "Lunar-Dance": {
-    "ja": "みかづきのまい",
-    "zh-hans": "新月舞"
-  },
-  "Crush Grip": {
-    "ja": "にぎりつぶす",
-    "zh-hans": "捏碎"
-  },
-  "Crush-Grip": {
-    "ja": "にぎりつぶす",
-    "zh-hans": "捏碎"
-  },
-  "Magma Storm": {
-    "ja": "マグマストーム",
-    "zh-hans": "熔岩风暴"
-  },
-  "Magma-Storm": {
-    "ja": "マグマストーム",
-    "zh-hans": "熔岩风暴"
-  },
-  "Dark Void": {
-    "ja": "ダークホール",
-    "zh-hans": "暗黑洞"
-  },
-  "Dark-Void": {
-    "ja": "ダークホール",
-    "zh-hans": "暗黑洞"
-  },
-  "Seed Flare": {
-    "ja": "シードフレア",
-    "zh-hans": "种子闪光"
-  },
-  "Seed-Flare": {
-    "ja": "シードフレア",
-    "zh-hans": "种子闪光"
-  },
-  "Ominous Wind": {
-    "ja": "あやしいかぜ",
-    "zh-hans": "奇异之风"
-  },
-  "Ominous-Wind": {
-    "ja": "あやしいかぜ",
-    "zh-hans": "奇异之风"
-  },
-  "Shadow Force": {
-    "ja": "シャドーダイブ",
-    "zh-hans": "暗影潜袭"
-  },
-  "Shadow-Force": {
-    "ja": "シャドーダイブ",
-    "zh-hans": "暗影潜袭"
-  },
-  "Hone Claws": {
-    "ja": "つめとぎ",
-    "zh-hans": "磨爪"
-  },
-  "Hone-Claws": {
-    "ja": "つめとぎ",
-    "zh-hans": "磨爪"
-  },
-  "Wide Guard": {
-    "ja": "ワイドガード",
-    "zh-hans": "广域防守"
-  },
-  "Wide-Guard": {
-    "ja": "ワイドガード",
-    "zh-hans": "广域防守"
-  },
-  "Guard Split": {
-    "ja": "ガードシェア",
-    "zh-hans": "防守平分"
-  },
-  "Guard-Split": {
-    "ja": "ガードシェア",
-    "zh-hans": "防守平分"
-  },
-  "Power Split": {
-    "ja": "パワーシェア",
-    "zh-hans": "力量平分"
-  },
-  "Power-Split": {
-    "ja": "パワーシェア",
-    "zh-hans": "力量平分"
-  },
-  "Wonder Room": {
-    "ja": "ワンダールーム",
-    "zh-hans": "奇妙空间"
-  },
-  "Wonder-Room": {
-    "ja": "ワンダールーム",
-    "zh-hans": "奇妙空间"
-  },
-  "Psyshock": {
-    "ja": "サイコショック",
-    "zh-hans": "精神冲击"
-  },
-  "Venoshock": {
-    "ja": "ベノムショック",
-    "zh-hans": "毒液冲击"
-  },
-  "Autotomize": {
-    "ja": "ボディパージ",
-    "zh-hans": "身体轻量化"
-  },
-  "Rage Powder": {
-    "ja": "いかりのこな",
-    "zh-hans": "愤怒粉"
-  },
-  "Rage-Powder": {
-    "ja": "いかりのこな",
-    "zh-hans": "愤怒粉"
-  },
-  "Telekinesis": {
-    "ja": "テレキネシス",
-    "zh-hans": "意念移物"
-  },
-  "Magic Room": {
-    "ja": "マジックルーム",
-    "zh-hans": "魔法空间"
-  },
-  "Magic-Room": {
-    "ja": "マジックルーム",
-    "zh-hans": "魔法空间"
-  },
-  "Smack Down": {
-    "ja": "うちおとす",
-    "zh-hans": "击落"
-  },
-  "Smack-Down": {
-    "ja": "うちおとす",
-    "zh-hans": "击落"
-  },
-  "Storm Throw": {
-    "ja": "やまあらし",
-    "zh-hans": "山岚摔"
-  },
-  "Storm-Throw": {
-    "ja": "やまあらし",
-    "zh-hans": "山岚摔"
-  },
-  "Flame Burst": {
-    "ja": "はじけるほのお",
-    "zh-hans": "烈焰溅射"
-  },
-  "Flame-Burst": {
-    "ja": "はじけるほのお",
-    "zh-hans": "烈焰溅射"
-  },
-  "Sludge Wave": {
-    "ja": "ヘドロウェーブ",
-    "zh-hans": "污泥波"
-  },
-  "Sludge-Wave": {
-    "ja": "ヘドロウェーブ",
-    "zh-hans": "污泥波"
-  },
-  "Quiver Dance": {
-    "ja": "ちょうのまい",
-    "zh-hans": "蝶舞"
-  },
-  "Quiver-Dance": {
-    "ja": "ちょうのまい",
-    "zh-hans": "蝶舞"
-  },
-  "Heavy Slam": {
-    "ja": "ヘビーボンバー",
-    "zh-hans": "重磅冲撞"
-  },
-  "Heavy-Slam": {
-    "ja": "ヘビーボンバー",
-    "zh-hans": "重磅冲撞"
-  },
-  "Synchronoise": {
-    "ja": "シンクロノイズ",
-    "zh-hans": "同步干扰"
-  },
-  "Electro Ball": {
-    "ja": "エレキボール",
-    "zh-hans": "电球"
-  },
-  "Electro-Ball": {
-    "ja": "エレキボール",
-    "zh-hans": "电球"
-  },
-  "Soak": {
-    "ja": "みずびたし",
-    "zh-hans": "浸水"
-  },
-  "Flame Charge": {
-    "ja": "ニトロチャージ",
-    "zh-hans": "蓄能焰袭"
-  },
-  "Flame-Charge": {
-    "ja": "ニトロチャージ",
-    "zh-hans": "蓄能焰袭"
-  },
-  "Coil": {
-    "ja": "とぐろをまく",
-    "zh-hans": "盘蜷"
-  },
-  "Low Sweep": {
-    "ja": "ローキック",
-    "zh-hans": "下盘踢"
-  },
-  "Low-Sweep": {
-    "ja": "ローキック",
-    "zh-hans": "下盘踢"
-  },
-  "Acid Spray": {
-    "ja": "アシッドボム",
-    "zh-hans": "酸液炸弹"
-  },
-  "Acid-Spray": {
-    "ja": "アシッドボム",
-    "zh-hans": "酸液炸弹"
-  },
-  "Foul Play": {
-    "ja": "イカサマ",
-    "zh-hans": "移花接木"
-  },
-  "Foul-Play": {
-    "ja": "イカサマ",
-    "zh-hans": "移花接木"
-  },
-  "Simple Beam": {
-    "ja": "シンプルビーム",
-    "zh-hans": "单纯光束"
-  },
-  "Simple-Beam": {
-    "ja": "シンプルビーム",
-    "zh-hans": "单纯光束"
-  },
-  "Entrainment": {
-    "ja": "なかまづくり",
-    "zh-hans": "找伙伴"
-  },
-  "After You": {
-    "ja": "おさきにどうぞ",
-    "zh-hans": "您先请"
-  },
-  "After-You": {
-    "ja": "おさきにどうぞ",
-    "zh-hans": "您先请"
-  },
-  "Round": {
-    "ja": "りんしょう",
-    "zh-hans": "轮唱"
-  },
-  "Echoed Voice": {
-    "ja": "エコーボイス",
-    "zh-hans": "回声"
-  },
-  "Echoed-Voice": {
-    "ja": "エコーボイス",
-    "zh-hans": "回声"
-  },
-  "Chip Away": {
-    "ja": "なしくずし",
-    "zh-hans": "逐步击破"
-  },
-  "Chip-Away": {
-    "ja": "なしくずし",
-    "zh-hans": "逐步击破"
-  },
-  "Clear Smog": {
-    "ja": "クリアスモッグ",
-    "zh-hans": "清除之烟"
-  },
-  "Clear-Smog": {
-    "ja": "クリアスモッグ",
-    "zh-hans": "清除之烟"
-  },
-  "Stored Power": {
-    "ja": "アシストパワー",
-    "zh-hans": "辅助力量"
-  },
-  "Stored-Power": {
-    "ja": "アシストパワー",
-    "zh-hans": "辅助力量"
-  },
-  "Quick Guard": {
-    "ja": "ファストガード",
-    "zh-hans": "快速防守"
-  },
-  "Quick-Guard": {
-    "ja": "ファストガード",
-    "zh-hans": "快速防守"
-  },
-  "Ally Switch": {
-    "ja": "サイドチェンジ",
-    "zh-hans": "交换场地"
-  },
-  "Ally-Switch": {
-    "ja": "サイドチェンジ",
-    "zh-hans": "交换场地"
-  },
-  "Scald": {
-    "ja": "ねっとう",
-    "zh-hans": "热水"
-  },
-  "Shell Smash": {
-    "ja": "からをやぶる",
-    "zh-hans": "破壳"
-  },
-  "Shell-Smash": {
-    "ja": "からをやぶる",
-    "zh-hans": "破壳"
-  },
-  "Heal Pulse": {
-    "ja": "いやしのはどう",
-    "zh-hans": "治愈波动"
-  },
-  "Heal-Pulse": {
-    "ja": "いやしのはどう",
-    "zh-hans": "治愈波动"
-  },
-  "Hex": {
-    "ja": "たたりめ",
-    "zh-hans": "祸不单行"
-  },
-  "Sky Drop": {
-    "ja": "フリーフォール",
-    "zh-hans": "自由落体"
-  },
-  "Sky-Drop": {
-    "ja": "フリーフォール",
-    "zh-hans": "自由落体"
-  },
-  "Shift Gear": {
-    "ja": "ギアチェンジ",
-    "zh-hans": "换档"
-  },
-  "Shift-Gear": {
-    "ja": "ギアチェンジ",
-    "zh-hans": "换档"
-  },
-  "Circle Throw": {
-    "ja": "ともえなげ",
-    "zh-hans": "巴投"
-  },
-  "Circle-Throw": {
-    "ja": "ともえなげ",
-    "zh-hans": "巴投"
-  },
-  "Incinerate": {
-    "ja": "やきつくす",
-    "zh-hans": "烧净"
-  },
-  "Quash": {
-    "ja": "さきおくり",
-    "zh-hans": "延后"
-  },
-  "Acrobatics": {
-    "ja": "アクロバット",
-    "zh-hans": "杂技"
-  },
-  "Reflect Type": {
-    "ja": "ミラータイプ",
-    "zh-hans": "镜面属性"
-  },
-  "Reflect-Type": {
-    "ja": "ミラータイプ",
-    "zh-hans": "镜面属性"
-  },
-  "Retaliate": {
-    "ja": "かたきうち",
-    "zh-hans": "报仇"
-  },
-  "Final Gambit": {
-    "ja": "いのちがけ",
-    "zh-hans": "搏命"
-  },
-  "Final-Gambit": {
-    "ja": "いのちがけ",
-    "zh-hans": "搏命"
-  },
-  "Bestow": {
-    "ja": "ギフトパス",
-    "zh-hans": "传递礼物"
-  },
-  "Inferno": {
-    "ja": "れんごく",
-    "zh-hans": "烈火深渊"
-  },
-  "Water Pledge": {
-    "ja": "みずのちかい",
-    "zh-hans": "水之誓约"
-  },
-  "Water-Pledge": {
-    "ja": "みずのちかい",
-    "zh-hans": "水之誓约"
-  },
-  "Fire Pledge": {
-    "ja": "ほのおのちかい",
-    "zh-hans": "火之誓约"
-  },
-  "Fire-Pledge": {
-    "ja": "ほのおのちかい",
-    "zh-hans": "火之誓约"
-  },
-  "Grass Pledge": {
-    "ja": "くさのちかい",
-    "zh-hans": "草之誓约"
-  },
-  "Grass-Pledge": {
-    "ja": "くさのちかい",
-    "zh-hans": "草之誓约"
-  },
-  "Volt Switch": {
-    "ja": "ボルトチェンジ",
-    "zh-hans": "伏特替换"
-  },
-  "Volt-Switch": {
-    "ja": "ボルトチェンジ",
-    "zh-hans": "伏特替换"
-  },
-  "Struggle Bug": {
-    "ja": "むしのていこう",
-    "zh-hans": "虫之抵抗"
-  },
-  "Struggle-Bug": {
-    "ja": "むしのていこう",
-    "zh-hans": "虫之抵抗"
-  },
-  "Bulldoze": {
-    "ja": "じならし",
-    "zh-hans": "重踏"
-  },
-  "Frost Breath": {
-    "ja": "こおりのいぶき",
-    "zh-hans": "冰息"
-  },
-  "Frost-Breath": {
-    "ja": "こおりのいぶき",
-    "zh-hans": "冰息"
-  },
-  "Dragon Tail": {
-    "ja": "ドラゴンテール",
-    "zh-hans": "龙尾"
-  },
-  "Dragon-Tail": {
-    "ja": "ドラゴンテール",
-    "zh-hans": "龙尾"
-  },
-  "Work Up": {
-    "ja": "ふるいたてる",
-    "zh-hans": "自我激励"
-  },
-  "Work-Up": {
-    "ja": "ふるいたてる",
-    "zh-hans": "自我激励"
-  },
-  "Electroweb": {
-    "ja": "エレキネット",
-    "zh-hans": "电网"
-  },
-  "Wild Charge": {
-    "ja": "ワイルドボルト",
-    "zh-hans": "疯狂伏特"
-  },
-  "Wild-Charge": {
-    "ja": "ワイルドボルト",
-    "zh-hans": "疯狂伏特"
-  },
-  "Drill Run": {
-    "ja": "ドリルライナー",
-    "zh-hans": "直冲钻"
-  },
-  "Drill-Run": {
-    "ja": "ドリルライナー",
-    "zh-hans": "直冲钻"
-  },
-  "Dual Chop": {
-    "ja": "ダブルチョップ",
-    "zh-hans": "二连劈"
-  },
-  "Dual-Chop": {
-    "ja": "ダブルチョップ",
-    "zh-hans": "二连劈"
-  },
-  "Heart Stamp": {
-    "ja": "ハートスタンプ",
-    "zh-hans": "爱心印章"
-  },
-  "Heart-Stamp": {
-    "ja": "ハートスタンプ",
-    "zh-hans": "爱心印章"
-  },
-  "Horn Leech": {
-    "ja": "ウッドホーン",
-    "zh-hans": "木角"
-  },
-  "Horn-Leech": {
-    "ja": "ウッドホーン",
-    "zh-hans": "木角"
-  },
-  "Sacred Sword": {
-    "ja": "せいなるつるぎ",
-    "zh-hans": "圣剑"
-  },
-  "Sacred-Sword": {
-    "ja": "せいなるつるぎ",
-    "zh-hans": "圣剑"
-  },
-  "Razor Shell": {
-    "ja": "シェルブレード",
-    "zh-hans": "贝壳刃"
-  },
-  "Razor-Shell": {
-    "ja": "シェルブレード",
-    "zh-hans": "贝壳刃"
-  },
-  "Heat Crash": {
-    "ja": "ヒートスタンプ",
-    "zh-hans": "高温重压"
-  },
-  "Heat-Crash": {
-    "ja": "ヒートスタンプ",
-    "zh-hans": "高温重压"
-  },
-  "Leaf Tornado": {
-    "ja": "グラスミキサー",
-    "zh-hans": "青草搅拌器"
-  },
-  "Leaf-Tornado": {
-    "ja": "グラスミキサー",
-    "zh-hans": "青草搅拌器"
-  },
-  "Steamroller": {
-    "ja": "ハードローラー",
-    "zh-hans": "疯狂滚压"
-  },
-  "Cotton Guard": {
-    "ja": "コットンガード",
-    "zh-hans": "棉花防守"
-  },
-  "Cotton-Guard": {
-    "ja": "コットンガード",
-    "zh-hans": "棉花防守"
-  },
-  "Night Daze": {
-    "ja": "ナイトバースト",
-    "zh-hans": "暗黑爆破"
-  },
-  "Night-Daze": {
-    "ja": "ナイトバースト",
-    "zh-hans": "暗黑爆破"
-  },
-  "Psystrike": {
-    "ja": "サイコブレイク",
-    "zh-hans": "精神击破"
-  },
-  "Tail Slap": {
-    "ja": "スイープビンタ",
-    "zh-hans": "扫尾拍打"
-  },
-  "Tail-Slap": {
-    "ja": "スイープビンタ",
-    "zh-hans": "扫尾拍打"
-  },
-  "Hurricane": {
-    "ja": "ぼうふう",
-    "zh-hans": "暴风"
-  },
-  "Head Charge": {
-    "ja": "アフロブレイク",
-    "zh-hans": "爆炸头突击"
-  },
-  "Head-Charge": {
-    "ja": "アフロブレイク",
-    "zh-hans": "爆炸头突击"
-  },
-  "Gear Grind": {
-    "ja": "ギアソーサー",
-    "zh-hans": "齿轮飞盘"
-  },
-  "Gear-Grind": {
-    "ja": "ギアソーサー",
-    "zh-hans": "齿轮飞盘"
-  },
-  "Searing Shot": {
-    "ja": "かえんだん",
-    "zh-hans": "火焰弹"
-  },
-  "Searing-Shot": {
-    "ja": "かえんだん",
-    "zh-hans": "火焰弹"
-  },
-  "Techno Blast": {
-    "ja": "テクノバスター",
-    "zh-hans": "高科技光炮"
-  },
-  "Techno-Blast": {
-    "ja": "テクノバスター",
-    "zh-hans": "高科技光炮"
-  },
-  "Relic Song": {
-    "ja": "いにしえのうた",
-    "zh-hans": "古老之歌"
-  },
-  "Relic-Song": {
-    "ja": "いにしえのうた",
-    "zh-hans": "古老之歌"
-  },
-  "Secret Sword": {
-    "ja": "しんぴのつるぎ",
-    "zh-hans": "神秘之剑"
-  },
-  "Secret-Sword": {
-    "ja": "しんぴのつるぎ",
-    "zh-hans": "神秘之剑"
-  },
-  "Glaciate": {
-    "ja": "こごえるせかい",
-    "zh-hans": "冰封世界"
-  },
-  "Bolt Strike": {
-    "ja": "らいげき",
-    "zh-hans": "雷击"
-  },
-  "Bolt-Strike": {
-    "ja": "らいげき",
-    "zh-hans": "雷击"
-  },
-  "Blue Flare": {
-    "ja": "あおいほのお",
-    "zh-hans": "青焰"
-  },
-  "Blue-Flare": {
-    "ja": "あおいほのお",
-    "zh-hans": "青焰"
-  },
-  "Fiery Dance": {
-    "ja": "ほのおのまい",
-    "zh-hans": "火之舞"
-  },
-  "Fiery-Dance": {
-    "ja": "ほのおのまい",
-    "zh-hans": "火之舞"
-  },
-  "Freeze Shock": {
-    "ja": "フリーズボルト",
-    "zh-hans": "冰冻伏特"
-  },
-  "Freeze-Shock": {
-    "ja": "フリーズボルト",
-    "zh-hans": "冰冻伏特"
-  },
-  "Ice Burn": {
-    "ja": "コールドフレア",
-    "zh-hans": "极寒冷焰"
-  },
-  "Ice-Burn": {
-    "ja": "コールドフレア",
-    "zh-hans": "极寒冷焰"
-  },
-  "Snarl": {
-    "ja": "バークアウト",
-    "zh-hans": "大声咆哮"
-  },
-  "Icicle Crash": {
-    "ja": "つららおとし",
-    "zh-hans": "冰柱坠击"
-  },
-  "Icicle-Crash": {
-    "ja": "つららおとし",
-    "zh-hans": "冰柱坠击"
-  },
-  "V-create": {
-    "ja": "Ｖジェネレート",
-    "zh-hans": "Ｖ热焰"
-  },
-  "Fusion Flare": {
-    "ja": "クロスフレイム",
-    "zh-hans": "交错火焰"
-  },
-  "Fusion-Flare": {
-    "ja": "クロスフレイム",
-    "zh-hans": "交错火焰"
-  },
-  "Fusion Bolt": {
-    "ja": "クロスサンダー",
-    "zh-hans": "交错闪电"
-  },
-  "Fusion-Bolt": {
-    "ja": "クロスサンダー",
-    "zh-hans": "交错闪电"
-  },
-  "Flying Press": {
-    "ja": "フライングプレス",
-    "zh-hans": "飞身重压"
-  },
-  "Flying-Press": {
-    "ja": "フライングプレス",
-    "zh-hans": "飞身重压"
-  },
-  "Mat Block": {
-    "ja": "たたみがえし",
-    "zh-hans": "掀榻榻米"
-  },
-  "Mat-Block": {
-    "ja": "たたみがえし",
-    "zh-hans": "掀榻榻米"
-  },
-  "Belch": {
-    "ja": "ゲップ",
-    "zh-hans": "打嗝"
-  },
-  "Rototiller": {
-    "ja": "たがやす",
-    "zh-hans": "耕地"
-  },
-  "Sticky Web": {
-    "ja": "ねばねばネット",
-    "zh-hans": "黏黏网"
-  },
-  "Sticky-Web": {
-    "ja": "ねばねばネット",
-    "zh-hans": "黏黏网"
-  },
-  "Fell Stinger": {
-    "ja": "とどめばり",
-    "zh-hans": "致命针刺"
-  },
-  "Fell-Stinger": {
-    "ja": "とどめばり",
-    "zh-hans": "致命针刺"
-  },
-  "Phantom Force": {
-    "ja": "ゴーストダイブ",
-    "zh-hans": "潜灵奇袭"
-  },
-  "Phantom-Force": {
-    "ja": "ゴーストダイブ",
-    "zh-hans": "潜灵奇袭"
-  },
-  "Trick-or-Treat": {
-    "ja": "ハロウィン",
-    "zh-hans": "万圣夜"
-  },
-  "Noble Roar": {
-    "ja": "おたけび",
-    "zh-hans": "战吼"
-  },
-  "Noble-Roar": {
-    "ja": "おたけび",
-    "zh-hans": "战吼"
-  },
-  "Ion Deluge": {
-    "ja": "プラズマシャワー",
-    "zh-hans": "等离子浴"
-  },
-  "Ion-Deluge": {
-    "ja": "プラズマシャワー",
-    "zh-hans": "等离子浴"
-  },
-  "Parabolic Charge": {
-    "ja": "パラボラチャージ",
-    "zh-hans": "抛物面充电"
-  },
-  "Parabolic-Charge": {
-    "ja": "パラボラチャージ",
-    "zh-hans": "抛物面充电"
-  },
-  "Forest's Curse": {
-    "ja": "もりののろい",
-    "zh-hans": "森林咒术"
-  },
-  "Forest's-Curse": {
-    "ja": "もりののろい",
-    "zh-hans": "森林咒术"
-  },
-  "Petal Blizzard": {
-    "ja": "はなふぶき",
-    "zh-hans": "落英缤纷"
-  },
-  "Petal-Blizzard": {
-    "ja": "はなふぶき",
-    "zh-hans": "落英缤纷"
-  },
-  "Freeze-Dry": {
-    "ja": "フリーズドライ",
-    "zh-hans": "冷冻干燥"
-  },
-  "Disarming Voice": {
-    "ja": "チャームボイス",
-    "zh-hans": "魅惑之声"
-  },
-  "Disarming-Voice": {
-    "ja": "チャームボイス",
-    "zh-hans": "魅惑之声"
-  },
-  "Parting Shot": {
-    "ja": "すてゼリフ",
-    "zh-hans": "抛下狠话"
-  },
-  "Parting-Shot": {
-    "ja": "すてゼリフ",
-    "zh-hans": "抛下狠话"
-  },
-  "Topsy-Turvy": {
-    "ja": "ひっくりかえす",
-    "zh-hans": "颠倒"
-  },
-  "Draining Kiss": {
-    "ja": "ドレインキッス",
-    "zh-hans": "吸取之吻"
-  },
-  "Draining-Kiss": {
-    "ja": "ドレインキッス",
-    "zh-hans": "吸取之吻"
-  },
-  "Crafty Shield": {
-    "ja": "トリックガード",
-    "zh-hans": "戏法防守"
-  },
-  "Crafty-Shield": {
-    "ja": "トリックガード",
-    "zh-hans": "戏法防守"
-  },
-  "Flower Shield": {
-    "ja": "フラワーガード",
-    "zh-hans": "鲜花防守"
-  },
-  "Flower-Shield": {
-    "ja": "フラワーガード",
-    "zh-hans": "鲜花防守"
-  },
-  "Grassy Terrain": {
-    "ja": "グラスフィールド",
-    "zh-hans": "青草场地"
-  },
-  "Grassy-Terrain": {
-    "ja": "グラスフィールド",
-    "zh-hans": "青草场地"
-  },
-  "Misty Terrain": {
-    "ja": "ミストフィールド",
-    "zh-hans": "薄雾场地"
-  },
-  "Misty-Terrain": {
-    "ja": "ミストフィールド",
-    "zh-hans": "薄雾场地"
-  },
-  "Electrify": {
-    "ja": "そうでん",
-    "zh-hans": "输电"
-  },
-  "Play Rough": {
-    "ja": "じゃれつく",
-    "zh-hans": "嬉闹"
-  },
-  "Play-Rough": {
-    "ja": "じゃれつく",
-    "zh-hans": "嬉闹"
-  },
-  "Fairy Wind": {
-    "ja": "ようせいのかぜ",
-    "zh-hans": "妖精之风"
-  },
-  "Fairy-Wind": {
-    "ja": "ようせいのかぜ",
-    "zh-hans": "妖精之风"
-  },
-  "Moonblast": {
-    "ja": "ムーンフォース",
-    "zh-hans": "月亮之力"
-  },
-  "Boomburst": {
-    "ja": "ばくおんぱ",
-    "zh-hans": "爆音波"
-  },
-  "Fairy Lock": {
-    "ja": "フェアリーロック",
-    "zh-hans": "妖精之锁"
-  },
-  "Fairy-Lock": {
-    "ja": "フェアリーロック",
-    "zh-hans": "妖精之锁"
-  },
-  "King's Shield": {
-    "ja": "キングシールド",
-    "zh-hans": "王者盾牌"
-  },
-  "King's-Shield": {
-    "ja": "キングシールド",
-    "zh-hans": "王者盾牌"
-  },
-  "Play Nice": {
-    "ja": "なかよくする",
-    "zh-hans": "和睦相处"
-  },
-  "Play-Nice": {
-    "ja": "なかよくする",
-    "zh-hans": "和睦相处"
-  },
-  "Confide": {
-    "ja": "ないしょばなし",
-    "zh-hans": "密语"
-  },
-  "Diamond Storm": {
-    "ja": "ダイヤストーム",
-    "zh-hans": "钻石风暴"
-  },
-  "Diamond-Storm": {
-    "ja": "ダイヤストーム",
-    "zh-hans": "钻石风暴"
-  },
-  "Steam Eruption": {
-    "ja": "スチームバースト",
-    "zh-hans": "蒸汽爆炸"
-  },
-  "Steam-Eruption": {
-    "ja": "スチームバースト",
-    "zh-hans": "蒸汽爆炸"
-  },
-  "Hyperspace Hole": {
-    "ja": "いじげんホール",
-    "zh-hans": "异次元洞"
-  },
-  "Hyperspace-Hole": {
-    "ja": "いじげんホール",
-    "zh-hans": "异次元洞"
-  },
-  "Water Shuriken": {
-    "ja": "みずしゅりけん",
-    "zh-hans": "飞水手里剑"
-  },
-  "Water-Shuriken": {
-    "ja": "みずしゅりけん",
-    "zh-hans": "飞水手里剑"
-  },
-  "Mystical Fire": {
-    "ja": "マジカルフレイム",
-    "zh-hans": "魔法火焰"
-  },
-  "Mystical-Fire": {
-    "ja": "マジカルフレイム",
-    "zh-hans": "魔法火焰"
-  },
-  "Spiky Shield": {
-    "ja": "ニードルガード",
-    "zh-hans": "尖刺防守"
-  },
-  "Spiky-Shield": {
-    "ja": "ニードルガード",
-    "zh-hans": "尖刺防守"
-  },
-  "Aromatic Mist": {
-    "ja": "アロマミスト",
-    "zh-hans": "芳香薄雾"
-  },
-  "Aromatic-Mist": {
-    "ja": "アロマミスト",
-    "zh-hans": "芳香薄雾"
-  },
-  "Eerie Impulse": {
-    "ja": "かいでんぱ",
-    "zh-hans": "怪异电波"
-  },
-  "Eerie-Impulse": {
-    "ja": "かいでんぱ",
-    "zh-hans": "怪异电波"
-  },
-  "Venom Drench": {
-    "ja": "ベノムトラップ",
-    "zh-hans": "毒液陷阱"
-  },
-  "Venom-Drench": {
-    "ja": "ベノムトラップ",
-    "zh-hans": "毒液陷阱"
-  },
-  "Powder": {
-    "ja": "ふんじん",
-    "zh-hans": "粉尘"
-  },
-  "Geomancy": {
-    "ja": "ジオコントロール",
-    "zh-hans": "大地掌控"
-  },
-  "Magnetic Flux": {
-    "ja": "じばそうさ",
-    "zh-hans": "磁场操控"
-  },
-  "Magnetic-Flux": {
-    "ja": "じばそうさ",
-    "zh-hans": "磁场操控"
-  },
-  "Happy Hour": {
-    "ja": "ハッピータイム",
-    "zh-hans": "欢乐时光"
-  },
-  "Happy-Hour": {
-    "ja": "ハッピータイム",
-    "zh-hans": "欢乐时光"
-  },
-  "Electric Terrain": {
-    "ja": "エレキフィールド",
-    "zh-hans": "电气场地"
-  },
-  "Electric-Terrain": {
-    "ja": "エレキフィールド",
-    "zh-hans": "电气场地"
-  },
-  "Dazzling Gleam": {
-    "ja": "マジカルシャイン",
-    "zh-hans": "魔法闪耀"
-  },
-  "Dazzling-Gleam": {
-    "ja": "マジカルシャイン",
-    "zh-hans": "魔法闪耀"
-  },
-  "Celebrate": {
-    "ja": "おいわい",
-    "zh-hans": "庆祝"
-  },
-  "Hold Hands": {
-    "ja": "てをつなぐ",
-    "zh-hans": "牵手"
-  },
-  "Hold-Hands": {
-    "ja": "てをつなぐ",
-    "zh-hans": "牵手"
-  },
-  "Baby-Doll Eyes": {
-    "ja": "つぶらなひとみ",
-    "zh-hans": "圆瞳"
-  },
-  "Baby-Doll-Eyes": {
-    "ja": "つぶらなひとみ",
-    "zh-hans": "圆瞳"
-  },
-  "Nuzzle": {
-    "ja": "ほっぺすりすり",
-    "zh-hans": "蹭蹭脸颊"
-  },
-  "Hold Back": {
-    "ja": "てかげん",
-    "zh-hans": "手下留情"
-  },
-  "Hold-Back": {
-    "ja": "てかげん",
-    "zh-hans": "手下留情"
-  },
-  "Infestation": {
-    "ja": "まとわりつく",
-    "zh-hans": "纠缠不休"
-  },
-  "Power-Up Punch": {
-    "ja": "グロウパンチ",
-    "zh-hans": "增强拳"
-  },
-  "Power-Up-Punch": {
-    "ja": "グロウパンチ",
-    "zh-hans": "增强拳"
-  },
-  "Oblivion Wing": {
-    "ja": "デスウイング",
-    "zh-hans": "归天之翼"
-  },
-  "Oblivion-Wing": {
-    "ja": "デスウイング",
-    "zh-hans": "归天之翼"
-  },
-  "Thousand Arrows": {
-    "ja": "サウザンアロー",
-    "zh-hans": "千箭齐发"
-  },
-  "Thousand-Arrows": {
-    "ja": "サウザンアロー",
-    "zh-hans": "千箭齐发"
-  },
-  "Thousand Waves": {
-    "ja": "サウザンウェーブ",
-    "zh-hans": "千波激荡"
-  },
-  "Thousand-Waves": {
-    "ja": "サウザンウェーブ",
-    "zh-hans": "千波激荡"
-  },
-  "Land's Wrath": {
-    "ja": "グランドフォース",
-    "zh-hans": "大地神力"
-  },
-  "Land's-Wrath": {
-    "ja": "グランドフォース",
-    "zh-hans": "大地神力"
-  },
-  "Light of Ruin": {
-    "ja": "はめつのひかり",
-    "zh-hans": "破灭之光"
-  },
-  "Light-of-Ruin": {
-    "ja": "はめつのひかり",
-    "zh-hans": "破灭之光"
-  },
-  "Origin Pulse": {
-    "ja": "こんげんのはどう",
-    "zh-hans": "根源波动"
-  },
-  "Origin-Pulse": {
-    "ja": "こんげんのはどう",
-    "zh-hans": "根源波动"
-  },
-  "Precipice Blades": {
-    "ja": "だんがいのつるぎ",
-    "zh-hans": "断崖之剑"
-  },
-  "Precipice-Blades": {
-    "ja": "だんがいのつるぎ",
-    "zh-hans": "断崖之剑"
-  },
-  "Dragon Ascent": {
-    "ja": "ガリョウテンセイ",
-    "zh-hans": "画龙点睛"
-  },
-  "Dragon-Ascent": {
-    "ja": "ガリョウテンセイ",
-    "zh-hans": "画龙点睛"
-  },
-  "Hyperspace Fury": {
-    "ja": "いじげんラッシュ",
-    "zh-hans": "异次元猛攻"
-  },
-  "Hyperspace-Fury": {
-    "ja": "いじげんラッシュ",
-    "zh-hans": "异次元猛攻"
-  },
-  "Breakneck Blitz": {
-    "ja": "ウルトラダッシュアタック",
-    "zh-hans": "究极无敌大冲撞"
-  },
-  "Breakneck-Blitz": {
-    "ja": "ウルトラダッシュアタック",
-    "zh-hans": "究极无敌大冲撞"
-  },
-  "All-Out Pummeling": {
-    "ja": "ぜんりょくむそうげきれつけん",
-    "zh-hans": "全力无双激烈拳"
-  },
-  "All-Out-Pummeling": {
-    "ja": "ぜんりょくむそうげきれつけん",
-    "zh-hans": "全力无双激烈拳"
-  },
-  "Supersonic Skystrike": {
-    "ja": "ファイナルダイブクラッシュ",
-    "zh-hans": "极速俯冲轰烈撞"
-  },
-  "Supersonic-Skystrike": {
-    "ja": "ファイナルダイブクラッシュ",
-    "zh-hans": "极速俯冲轰烈撞"
-  },
-  "Acid Downpour": {
-    "ja": "アシッドポイズンデリート",
-    "zh-hans": "强酸剧毒灭绝雨"
-  },
-  "Acid-Downpour": {
-    "ja": "アシッドポイズンデリート",
-    "zh-hans": "强酸剧毒灭绝雨"
-  },
-  "Tectonic Rage": {
-    "ja": "ライジングランドオーバー",
-    "zh-hans": "地隆啸天大终结"
-  },
-  "Tectonic-Rage": {
-    "ja": "ライジングランドオーバー",
-    "zh-hans": "地隆啸天大终结"
-  },
-  "Continental Crush": {
-    "ja": "ワールズエンドフォール",
-    "zh-hans": "毁天灭地巨岩坠"
-  },
-  "Continental-Crush": {
-    "ja": "ワールズエンドフォール",
-    "zh-hans": "毁天灭地巨岩坠"
-  },
-  "Savage Spin-Out": {
-    "ja": "ぜったいほしょくかいてんざん",
-    "zh-hans": "绝对捕食回旋斩"
-  },
-  "Savage-Spin-Out": {
-    "ja": "ぜったいほしょくかいてんざん",
-    "zh-hans": "绝对捕食回旋斩"
-  },
-  "Never-Ending Nightmare": {
-    "ja": "むげんあんやへのいざない",
-    "zh-hans": "无尽暗夜之诱惑"
-  },
-  "Never-Ending-Nightmare": {
-    "ja": "むげんあんやへのいざない",
-    "zh-hans": "无尽暗夜之诱惑"
-  },
-  "Corkscrew Crash": {
-    "ja": "ちょうぜつらせんれんげき",
-    "zh-hans": "超绝螺旋连击"
-  },
-  "Corkscrew-Crash": {
-    "ja": "ちょうぜつらせんれんげき",
-    "zh-hans": "超绝螺旋连击"
-  },
-  "Inferno Overdrive": {
-    "ja": "ダイナミックフルフレイム",
-    "zh-hans": "超强极限爆焰弹"
-  },
-  "Inferno-Overdrive": {
-    "ja": "ダイナミックフルフレイム",
-    "zh-hans": "超强极限爆焰弹"
-  },
-  "Hydro Vortex": {
-    "ja": "スーパーアクアトルネード",
-    "zh-hans": "超级水流大漩涡"
-  },
-  "Hydro-Vortex": {
-    "ja": "スーパーアクアトルネード",
-    "zh-hans": "超级水流大漩涡"
-  },
-  "Bloom Doom": {
-    "ja": "ブルームシャインエクストラ",
-    "zh-hans": "绚烂缤纷花怒放"
-  },
-  "Bloom-Doom": {
-    "ja": "ブルームシャインエクストラ",
-    "zh-hans": "绚烂缤纷花怒放"
-  },
-  "Gigavolt Havoc": {
-    "ja": "スパーキングギガボルト",
-    "zh-hans": "终极伏特狂雷闪"
-  },
-  "Gigavolt-Havoc": {
-    "ja": "スパーキングギガボルト",
-    "zh-hans": "终极伏特狂雷闪"
-  },
-  "Shattered Psyche": {
-    "ja": "マキシマムサイブレイカー",
-    "zh-hans": "至高精神破坏波"
-  },
-  "Shattered-Psyche": {
-    "ja": "マキシマムサイブレイカー",
-    "zh-hans": "至高精神破坏波"
-  },
-  "Subzero Slammer": {
-    "ja": "レイジングジオフリーズ",
-    "zh-hans": "激狂大地万里冰"
-  },
-  "Subzero-Slammer": {
-    "ja": "レイジングジオフリーズ",
-    "zh-hans": "激狂大地万里冰"
-  },
-  "Devastating Drake": {
-    "ja": "アルティメットドラゴンバーン",
-    "zh-hans": "究极巨龙震天地"
-  },
-  "Devastating-Drake": {
-    "ja": "アルティメットドラゴンバーン",
-    "zh-hans": "究极巨龙震天地"
-  },
-  "Black Hole Eclipse": {
-    "ja": "ブラックホールイクリプス",
-    "zh-hans": "黑洞吞噬万物灭"
-  },
-  "Black-Hole-Eclipse": {
-    "ja": "ブラックホールイクリプス",
-    "zh-hans": "黑洞吞噬万物灭"
-  },
-  "Twinkle Tackle": {
-    "ja": "ラブリースターインパクト",
-    "zh-hans": "可爱星星飞天撞"
-  },
-  "Twinkle-Tackle": {
-    "ja": "ラブリースターインパクト",
-    "zh-hans": "可爱星星飞天撞"
-  },
-  "Catastropika": {
-    "ja": "ひっさつのピカチュート",
-    "zh-hans": "皮卡皮卡必杀击"
-  },
-  "Shore Up": {
-    "ja": "すなあつめ",
-    "zh-hans": "集沙"
-  },
-  "Shore-Up": {
-    "ja": "すなあつめ",
-    "zh-hans": "集沙"
-  },
-  "First Impression": {
-    "ja": "であいがしら",
-    "zh-hans": "迎头一击"
-  },
-  "First-Impression": {
-    "ja": "であいがしら",
-    "zh-hans": "迎头一击"
-  },
-  "Baneful Bunker": {
-    "ja": "トーチカ",
-    "zh-hans": "碉堡"
-  },
-  "Baneful-Bunker": {
-    "ja": "トーチカ",
-    "zh-hans": "碉堡"
-  },
-  "Spirit Shackle": {
-    "ja": "かげぬい",
-    "zh-hans": "缝影"
-  },
-  "Spirit-Shackle": {
-    "ja": "かげぬい",
-    "zh-hans": "缝影"
-  },
-  "Darkest Lariat": {
-    "ja": "ＤＤラリアット",
-    "zh-hans": "ＤＤ金勾臂"
-  },
-  "Darkest-Lariat": {
-    "ja": "ＤＤラリアット",
-    "zh-hans": "ＤＤ金勾臂"
-  },
-  "Sparkling Aria": {
-    "ja": "うたかたのアリア",
-    "zh-hans": "泡影的咏叹调"
-  },
-  "Sparkling-Aria": {
-    "ja": "うたかたのアリア",
-    "zh-hans": "泡影的咏叹调"
-  },
-  "Ice Hammer": {
-    "ja": "アイスハンマー",
-    "zh-hans": "冰锤"
-  },
-  "Ice-Hammer": {
-    "ja": "アイスハンマー",
-    "zh-hans": "冰锤"
-  },
-  "Floral Healing": {
-    "ja": "フラワーヒール",
-    "zh-hans": "花疗"
-  },
-  "Floral-Healing": {
-    "ja": "フラワーヒール",
-    "zh-hans": "花疗"
-  },
-  "High Horsepower": {
-    "ja": "１０まんばりき",
-    "zh-hans": "十万马力"
-  },
-  "High-Horsepower": {
-    "ja": "１０まんばりき",
-    "zh-hans": "十万马力"
-  },
-  "Strength Sap": {
-    "ja": "ちからをすいとる",
-    "zh-hans": "吸取力量"
-  },
-  "Strength-Sap": {
-    "ja": "ちからをすいとる",
-    "zh-hans": "吸取力量"
-  },
-  "Solar Blade": {
-    "ja": "ソーラーブレード",
-    "zh-hans": "日光刃"
-  },
-  "Solar-Blade": {
-    "ja": "ソーラーブレード",
-    "zh-hans": "日光刃"
-  },
-  "Leafage": {
-    "ja": "このは",
-    "zh-hans": "树叶"
-  },
-  "Spotlight": {
-    "ja": "スポットライト",
-    "zh-hans": "聚光灯"
-  },
-  "Toxic Thread": {
-    "ja": "どくのいと",
-    "zh-hans": "毒丝"
-  },
-  "Toxic-Thread": {
-    "ja": "どくのいと",
-    "zh-hans": "毒丝"
-  },
-  "Laser Focus": {
-    "ja": "とぎすます",
-    "zh-hans": "磨砺"
-  },
-  "Laser-Focus": {
-    "ja": "とぎすます",
-    "zh-hans": "磨砺"
-  },
-  "Gear Up": {
-    "ja": "アシストギア",
-    "zh-hans": "辅助齿轮"
-  },
-  "Gear-Up": {
-    "ja": "アシストギア",
-    "zh-hans": "辅助齿轮"
-  },
-  "Throat Chop": {
-    "ja": "じごくづき",
-    "zh-hans": "深渊突刺"
-  },
-  "Throat-Chop": {
-    "ja": "じごくづき",
-    "zh-hans": "深渊突刺"
-  },
-  "Pollen Puff": {
-    "ja": "かふんだんご",
-    "zh-hans": "花粉团"
-  },
-  "Pollen-Puff": {
-    "ja": "かふんだんご",
-    "zh-hans": "花粉团"
-  },
-  "Anchor Shot": {
-    "ja": "アンカーショット",
-    "zh-hans": "掷锚"
-  },
-  "Anchor-Shot": {
-    "ja": "アンカーショット",
-    "zh-hans": "掷锚"
-  },
-  "Psychic Terrain": {
-    "ja": "サイコフィールド",
-    "zh-hans": "精神场地"
-  },
-  "Psychic-Terrain": {
-    "ja": "サイコフィールド",
-    "zh-hans": "精神场地"
-  },
-  "Lunge": {
-    "ja": "とびかかる",
-    "zh-hans": "猛扑"
-  },
-  "Fire Lash": {
-    "ja": "ほのおのムチ",
-    "zh-hans": "火焰鞭"
-  },
-  "Fire-Lash": {
-    "ja": "ほのおのムチ",
-    "zh-hans": "火焰鞭"
-  },
-  "Power Trip": {
-    "ja": "つけあがる",
-    "zh-hans": "嚣张"
-  },
-  "Power-Trip": {
-    "ja": "つけあがる",
-    "zh-hans": "嚣张"
-  },
-  "Burn Up": {
-    "ja": "もえつきる",
-    "zh-hans": "燃尽"
-  },
-  "Burn-Up": {
-    "ja": "もえつきる",
-    "zh-hans": "燃尽"
-  },
-  "Speed Swap": {
-    "ja": "スピードスワップ",
-    "zh-hans": "速度互换"
-  },
-  "Speed-Swap": {
-    "ja": "スピードスワップ",
-    "zh-hans": "速度互换"
-  },
-  "Smart Strike": {
-    "ja": "スマートホーン",
-    "zh-hans": "修长之角"
-  },
-  "Smart-Strike": {
-    "ja": "スマートホーン",
-    "zh-hans": "修长之角"
-  },
-  "Purify": {
-    "ja": "じょうか",
-    "zh-hans": "净化"
-  },
-  "Revelation Dance": {
-    "ja": "めざめるダンス",
-    "zh-hans": "觉醒之舞"
-  },
-  "Revelation-Dance": {
-    "ja": "めざめるダンス",
-    "zh-hans": "觉醒之舞"
-  },
-  "Core Enforcer": {
-    "ja": "コアパニッシャー",
-    "zh-hans": "核心惩罚者"
-  },
-  "Core-Enforcer": {
-    "ja": "コアパニッシャー",
-    "zh-hans": "核心惩罚者"
-  },
-  "Trop Kick": {
-    "ja": "トロピカルキック",
-    "zh-hans": "热带踢"
-  },
-  "Trop-Kick": {
-    "ja": "トロピカルキック",
-    "zh-hans": "热带踢"
-  },
-  "Instruct": {
-    "ja": "さいはい",
-    "zh-hans": "号令"
-  },
-  "Beak Blast": {
-    "ja": "くちばしキャノン",
-    "zh-hans": "鸟嘴加农炮"
-  },
-  "Beak-Blast": {
-    "ja": "くちばしキャノン",
-    "zh-hans": "鸟嘴加农炮"
-  },
-  "Clanging Scales": {
-    "ja": "スケイルノイズ",
-    "zh-hans": "鳞片噪音"
-  },
-  "Clanging-Scales": {
-    "ja": "スケイルノイズ",
-    "zh-hans": "鳞片噪音"
-  },
-  "Dragon Hammer": {
-    "ja": "ドラゴンハンマー",
-    "zh-hans": "龙锤"
-  },
-  "Dragon-Hammer": {
-    "ja": "ドラゴンハンマー",
-    "zh-hans": "龙锤"
-  },
-  "Brutal Swing": {
-    "ja": "ぶんまわす",
-    "zh-hans": "狂舞挥打"
-  },
-  "Brutal-Swing": {
-    "ja": "ぶんまわす",
-    "zh-hans": "狂舞挥打"
-  },
-  "Aurora Veil": {
-    "ja": "オーロラベール",
-    "zh-hans": "极光幕"
-  },
-  "Aurora-Veil": {
-    "ja": "オーロラベール",
-    "zh-hans": "极光幕"
-  },
-  "Sinister Arrow Raid": {
-    "ja": "シャドーアローズストライク",
-    "zh-hans": "遮天蔽日暗影箭"
-  },
-  "Sinister-Arrow-Raid": {
-    "ja": "シャドーアローズストライク",
-    "zh-hans": "遮天蔽日暗影箭"
-  },
-  "Malicious Moonsault": {
-    "ja": "ハイパーダーククラッシャー",
-    "zh-hans": "极恶飞跃粉碎击"
-  },
-  "Malicious-Moonsault": {
-    "ja": "ハイパーダーククラッシャー",
-    "zh-hans": "极恶飞跃粉碎击"
-  },
-  "Oceanic Operetta": {
-    "ja": "わだつみのシンフォニア",
-    "zh-hans": "海神庄严交响乐"
-  },
-  "Oceanic-Operetta": {
-    "ja": "わだつみのシンフォニア",
-    "zh-hans": "海神庄严交响乐"
-  },
-  "Guardian of Alola": {
-    "ja": "ガーディアン・デ・アローラ",
-    "zh-hans": "巨人卫士・阿罗拉"
-  },
-  "Guardian-of-Alola": {
-    "ja": "ガーディアン・デ・アローラ",
-    "zh-hans": "巨人卫士・阿罗拉"
-  },
-  "Soul-Stealing 7-Star Strike": {
-    "ja": "しちせいだっこんたい",
-    "zh-hans": "七星夺魂腿"
-  },
-  "Soul-Stealing-7-Star-Strike": {
-    "ja": "しちせいだっこんたい",
-    "zh-hans": "七星夺魂腿"
-  },
-  "Stoked Sparksurfer": {
-    "ja": "ライトニングサーフライド",
-    "zh-hans": "驾雷驭电戏冲浪"
-  },
-  "Stoked-Sparksurfer": {
-    "ja": "ライトニングサーフライド",
-    "zh-hans": "驾雷驭电戏冲浪"
-  },
-  "Pulverizing Pancake": {
-    "ja": "ほんきをだす　こうげき",
-    "zh-hans": "认真起来大爆击"
-  },
-  "Pulverizing-Pancake": {
-    "ja": "ほんきをだす　こうげき",
-    "zh-hans": "认真起来大爆击"
-  },
-  "Extreme Evoboost": {
-    "ja": "ナインエボルブースト",
-    "zh-hans": "九彩昇华齐聚顶"
-  },
-  "Extreme-Evoboost": {
-    "ja": "ナインエボルブースト",
-    "zh-hans": "九彩昇华齐聚顶"
-  },
-  "Genesis Supernova": {
-    "ja": "オリジンズスーパーノヴァ",
-    "zh-hans": "起源超新星大爆炸"
-  },
-  "Genesis-Supernova": {
-    "ja": "オリジンズスーパーノヴァ",
-    "zh-hans": "起源超新星大爆炸"
-  },
-  "Shell Trap": {
-    "ja": "トラップシェル",
-    "zh-hans": "陷阱甲壳"
-  },
-  "Shell-Trap": {
-    "ja": "トラップシェル",
-    "zh-hans": "陷阱甲壳"
-  },
-  "Fleur Cannon": {
-    "ja": "フルールカノン",
-    "zh-hans": "花朵加农炮"
-  },
-  "Fleur-Cannon": {
-    "ja": "フルールカノン",
-    "zh-hans": "花朵加农炮"
-  },
-  "Psychic Fangs": {
-    "ja": "サイコファング",
-    "zh-hans": "精神之牙"
-  },
-  "Psychic-Fangs": {
-    "ja": "サイコファング",
-    "zh-hans": "精神之牙"
-  },
-  "Stomping Tantrum": {
-    "ja": "じだんだ",
-    "zh-hans": "跺脚"
-  },
-  "Stomping-Tantrum": {
-    "ja": "じだんだ",
-    "zh-hans": "跺脚"
-  },
-  "Shadow Bone": {
-    "ja": "シャドーボーン",
-    "zh-hans": "暗影之骨"
-  },
-  "Shadow-Bone": {
-    "ja": "シャドーボーン",
-    "zh-hans": "暗影之骨"
-  },
-  "Accelerock": {
-    "ja": "アクセルロック",
-    "zh-hans": "冲岩"
-  },
-  "Liquidation": {
-    "ja": "アクアブレイク",
-    "zh-hans": "水流裂破"
-  },
-  "Prismatic Laser": {
-    "ja": "プリズムレーザー",
-    "zh-hans": "棱镜镭射"
-  },
-  "Prismatic-Laser": {
-    "ja": "プリズムレーザー",
-    "zh-hans": "棱镜镭射"
-  },
-  "Spectral Thief": {
-    "ja": "シャドースチール",
-    "zh-hans": "暗影偷盗"
-  },
-  "Spectral-Thief": {
-    "ja": "シャドースチール",
-    "zh-hans": "暗影偷盗"
-  },
-  "Sunsteel Strike": {
-    "ja": "メテオドライブ",
-    "zh-hans": "流星闪冲"
-  },
-  "Sunsteel-Strike": {
-    "ja": "メテオドライブ",
-    "zh-hans": "流星闪冲"
-  },
-  "Moongeist Beam": {
-    "ja": "シャドーレイ",
-    "zh-hans": "暗影之光"
-  },
-  "Moongeist-Beam": {
-    "ja": "シャドーレイ",
-    "zh-hans": "暗影之光"
-  },
-  "Tearful Look": {
-    "ja": "なみだめ",
-    "zh-hans": "泪眼汪汪"
-  },
-  "Tearful-Look": {
-    "ja": "なみだめ",
-    "zh-hans": "泪眼汪汪"
-  },
-  "Zing Zap": {
-    "ja": "びりびりちくちく",
-    "zh-hans": "麻麻刺刺"
-  },
-  "Zing-Zap": {
-    "ja": "びりびりちくちく",
-    "zh-hans": "麻麻刺刺"
-  },
-  "Nature's Madness": {
-    "ja": "しぜんのいかり",
-    "zh-hans": "自然之怒"
-  },
-  "Nature's-Madness": {
-    "ja": "しぜんのいかり",
-    "zh-hans": "自然之怒"
-  },
-  "Multi-Attack": {
-    "ja": "マルチアタック",
-    "zh-hans": "多属性攻击"
-  },
-  "10,000,000 Volt Thunderbolt": {
-    "ja": "１０００まんボルト",
-    "zh-hans": "千万伏特"
-  },
-  "10,000,000-Volt-Thunderbolt": {
-    "ja": "１０００まんボルト",
-    "zh-hans": "千万伏特"
-  },
-  "Mind Blown": {
-    "ja": "ビックリヘッド",
-    "zh-hans": "惊爆大头"
-  },
-  "Mind-Blown": {
-    "ja": "ビックリヘッド",
-    "zh-hans": "惊爆大头"
-  },
-  "Plasma Fists": {
-    "ja": "プラズマフィスト",
-    "zh-hans": "等离子闪电拳"
-  },
-  "Plasma-Fists": {
-    "ja": "プラズマフィスト",
-    "zh-hans": "等离子闪电拳"
-  },
-  "Photon Geyser": {
-    "ja": "フォトンゲイザー",
-    "zh-hans": "光子喷涌"
-  },
-  "Photon-Geyser": {
-    "ja": "フォトンゲイザー",
-    "zh-hans": "光子喷涌"
-  },
-  "Clangorous Soulblaze": {
-    "ja": "ブレイジングソウルビート",
-    "zh-hans": "炽魂热舞烈音爆"
-  },
-  "Clangorous-Soulblaze": {
-    "ja": "ブレイジングソウルビート",
-    "zh-hans": "炽魂热舞烈音爆"
-  },
-  "Splintered Stormshards": {
-    "ja": "ラジアルエッジストーム",
-    "zh-hans": "狼啸石牙飓风暴"
-  },
-  "Splintered-Stormshards": {
-    "ja": "ラジアルエッジストーム",
-    "zh-hans": "狼啸石牙飓风暴"
-  },
-  "Let's Snuggle Forever": {
-    "ja": "ぽかぼかフレンドタイム",
-    "zh-hans": "亲密无间大乱揍"
-  },
-  "Let's-Snuggle-Forever": {
-    "ja": "ぽかぼかフレンドタイム",
-    "zh-hans": "亲密无间大乱揍"
-  },
-  "Searing Sunraze Smash": {
-    "ja": "サンシャインスマッシャー",
-    "zh-hans": "日光回旋下苍穹"
-  },
-  "Searing-Sunraze-Smash": {
-    "ja": "サンシャインスマッシャー",
-    "zh-hans": "日光回旋下苍穹"
-  },
-  "Menacing Moonraze Maelstrom": {
-    "ja": "ムーンライトブラスター",
-    "zh-hans": "月华飞溅落灵霄"
-  },
-  "Menacing-Moonraze-Maelstrom": {
-    "ja": "ムーンライトブラスター",
-    "zh-hans": "月华飞溅落灵霄"
-  },
-  "Light That Burns the Sky": {
-    "ja": "てんこがすめつぼうのひかり",
-    "zh-hans": "焚天灭世炽光爆"
-  },
-  "Light-That-Burns-the-Sky": {
-    "ja": "てんこがすめつぼうのひかり",
-    "zh-hans": "焚天灭世炽光爆"
-  },
-  "Zippy Zap": {
-    "ja": "ばちばちアクセル",
-    "zh-hans": "电电加速"
-  },
-  "Zippy-Zap": {
-    "ja": "ばちばちアクセル",
-    "zh-hans": "电电加速"
-  },
-  "Splishy Splash": {
-    "ja": "ざぶざぶサーフ",
-    "zh-hans": "滔滔冲浪"
-  },
-  "Splishy-Splash": {
-    "ja": "ざぶざぶサーフ",
-    "zh-hans": "滔滔冲浪"
-  },
-  "Floaty Fall": {
-    "ja": "ふわふわフォール",
-    "zh-hans": "飘飘坠落"
-  },
-  "Floaty-Fall": {
-    "ja": "ふわふわフォール",
-    "zh-hans": "飘飘坠落"
-  },
-  "Pika Papow": {
-    "ja": "ピカピカサンダー",
-    "zh-hans": "闪闪雷光"
-  },
-  "Pika-Papow": {
-    "ja": "ピカピカサンダー",
-    "zh-hans": "闪闪雷光"
-  },
-  "Bouncy Bubble": {
-    "ja": "いきいきバブル",
-    "zh-hans": "活活气泡"
-  },
-  "Bouncy-Bubble": {
-    "ja": "いきいきバブル",
-    "zh-hans": "活活气泡"
-  },
-  "Buzzy Buzz": {
-    "ja": "びりびりエレキ",
-    "zh-hans": "麻麻电击"
-  },
-  "Buzzy-Buzz": {
-    "ja": "びりびりエレキ",
-    "zh-hans": "麻麻电击"
-  },
-  "Sizzly Slide": {
-    "ja": "めらめらバーン",
-    "zh-hans": "熊熊火爆"
-  },
-  "Sizzly-Slide": {
-    "ja": "めらめらバーン",
-    "zh-hans": "熊熊火爆"
-  },
-  "Glitzy Glow": {
-    "ja": "どばどばオーラ",
-    "zh-hans": "哗哗气场"
-  },
-  "Glitzy-Glow": {
-    "ja": "どばどばオーラ",
-    "zh-hans": "哗哗气场"
-  },
-  "Baddy Bad": {
-    "ja": "わるわるゾーン",
-    "zh-hans": "坏坏领域"
-  },
-  "Baddy-Bad": {
-    "ja": "わるわるゾーン",
-    "zh-hans": "坏坏领域"
-  },
-  "Sappy Seed": {
-    "ja": "すくすくボンバー",
-    "zh-hans": "茁茁炸弹"
-  },
-  "Sappy-Seed": {
-    "ja": "すくすくボンバー",
-    "zh-hans": "茁茁炸弹"
-  },
-  "Freezy Frost": {
-    "ja": "こちこちフロスト",
-    "zh-hans": "冰冰霜冻"
-  },
-  "Freezy-Frost": {
-    "ja": "こちこちフロスト",
-    "zh-hans": "冰冰霜冻"
-  },
-  "Sparkly Swirl": {
-    "ja": "きらきらストーム",
-    "zh-hans": "亮亮风暴"
-  },
-  "Sparkly-Swirl": {
-    "ja": "きらきらストーム",
-    "zh-hans": "亮亮风暴"
-  },
-  "Veevee Volley": {
-    "ja": "ブイブイブレイク",
-    "zh-hans": "砰砰击破"
-  },
-  "Veevee-Volley": {
-    "ja": "ブイブイブレイク",
-    "zh-hans": "砰砰击破"
-  },
-  "Double Iron Bash": {
-    "ja": "ダブルパンツァー",
-    "zh-hans": "钢拳双击"
-  },
-  "Double-Iron-Bash": {
-    "ja": "ダブルパンツァー",
-    "zh-hans": "钢拳双击"
-  },
-  "Max Guard": {
-    "ja": "ダイウォール",
-    "zh-hans": "极巨防壁"
-  },
-  "Max-Guard": {
-    "ja": "ダイウォール",
-    "zh-hans": "极巨防壁"
-  },
-  "Dynamax Cannon": {
-    "ja": "ダイマックスほう",
-    "zh-hans": "极巨炮"
-  },
-  "Dynamax-Cannon": {
-    "ja": "ダイマックスほう",
-    "zh-hans": "极巨炮"
-  },
-  "Snipe Shot": {
-    "ja": "ねらいうち",
-    "zh-hans": "狙击"
-  },
-  "Snipe-Shot": {
-    "ja": "ねらいうち",
-    "zh-hans": "狙击"
-  },
-  "Jaw Lock": {
-    "ja": "くらいつく",
-    "zh-hans": "紧咬不放"
-  },
-  "Jaw-Lock": {
-    "ja": "くらいつく",
-    "zh-hans": "紧咬不放"
-  },
-  "Stuff Cheeks": {
-    "ja": "ほおばる",
-    "zh-hans": "大快朵颐"
-  },
-  "Stuff-Cheeks": {
-    "ja": "ほおばる",
-    "zh-hans": "大快朵颐"
-  },
-  "No Retreat": {
-    "ja": "はいすいのじん",
-    "zh-hans": "背水一战"
-  },
-  "No-Retreat": {
-    "ja": "はいすいのじん",
-    "zh-hans": "背水一战"
-  },
-  "Tar Shot": {
-    "ja": "タールショット",
-    "zh-hans": "沥青射击"
-  },
-  "Tar-Shot": {
-    "ja": "タールショット",
-    "zh-hans": "沥青射击"
-  },
-  "Magic Powder": {
-    "ja": "まほうのこな",
-    "zh-hans": "魔法粉"
-  },
-  "Magic-Powder": {
-    "ja": "まほうのこな",
-    "zh-hans": "魔法粉"
-  },
-  "Dragon Darts": {
-    "ja": "ドラゴンアロー",
-    "zh-hans": "龙箭"
-  },
-  "Dragon-Darts": {
-    "ja": "ドラゴンアロー",
-    "zh-hans": "龙箭"
-  },
-  "Teatime": {
-    "ja": "おちゃかい",
-    "zh-hans": "茶会"
-  },
-  "Octolock": {
-    "ja": "たこがため",
-    "zh-hans": "蛸固"
-  },
-  "Bolt Beak": {
-    "ja": "でんげきくちばし",
-    "zh-hans": "电喙"
-  },
-  "Bolt-Beak": {
-    "ja": "でんげきくちばし",
-    "zh-hans": "电喙"
-  },
-  "Fishious Rend": {
-    "ja": "エラがみ",
-    "zh-hans": "鳃咬"
-  },
-  "Fishious-Rend": {
-    "ja": "エラがみ",
-    "zh-hans": "鳃咬"
-  },
-  "Court Change": {
-    "ja": "コートチェンジ",
-    "zh-hans": "换场"
-  },
-  "Court-Change": {
-    "ja": "コートチェンジ",
-    "zh-hans": "换场"
-  },
-  "Max Flare": {
-    "ja": "ダイバーン",
-    "zh-hans": "极巨火爆"
-  },
-  "Max-Flare": {
-    "ja": "ダイバーン",
-    "zh-hans": "极巨火爆"
-  },
-  "Max Flutterby": {
-    "ja": "ダイワーム",
-    "zh-hans": "极巨虫蛊"
-  },
-  "Max-Flutterby": {
-    "ja": "ダイワーム",
-    "zh-hans": "极巨虫蛊"
-  },
-  "Max Lightning": {
-    "ja": "ダイサンダー",
-    "zh-hans": "极巨闪电"
-  },
-  "Max-Lightning": {
-    "ja": "ダイサンダー",
-    "zh-hans": "极巨闪电"
-  },
-  "Max Strike": {
-    "ja": "ダイアタック",
-    "zh-hans": "极巨攻击"
-  },
-  "Max-Strike": {
-    "ja": "ダイアタック",
-    "zh-hans": "极巨攻击"
-  },
-  "Max Knuckle": {
-    "ja": "ダイナックル",
-    "zh-hans": "极巨拳斗"
-  },
-  "Max-Knuckle": {
-    "ja": "ダイナックル",
-    "zh-hans": "极巨拳斗"
-  },
-  "Max Phantasm": {
-    "ja": "ダイホロウ",
-    "zh-hans": "极巨幽魂"
-  },
-  "Max-Phantasm": {
-    "ja": "ダイホロウ",
-    "zh-hans": "极巨幽魂"
-  },
-  "Max Hailstorm": {
-    "ja": "ダイアイス",
-    "zh-hans": "极巨寒冰"
-  },
-  "Max-Hailstorm": {
-    "ja": "ダイアイス",
-    "zh-hans": "极巨寒冰"
-  },
-  "Max Ooze": {
-    "ja": "ダイアシッド",
-    "zh-hans": "极巨酸毒"
-  },
-  "Max-Ooze": {
-    "ja": "ダイアシッド",
-    "zh-hans": "极巨酸毒"
-  },
-  "Max Geyser": {
-    "ja": "ダイストリーム",
-    "zh-hans": "极巨水流"
-  },
-  "Max-Geyser": {
-    "ja": "ダイストリーム",
-    "zh-hans": "极巨水流"
-  },
-  "Max Airstream": {
-    "ja": "ダイジェット",
-    "zh-hans": "极巨飞冲"
-  },
-  "Max-Airstream": {
-    "ja": "ダイジェット",
-    "zh-hans": "极巨飞冲"
-  },
-  "Max Starfall": {
-    "ja": "ダイフェアリー",
-    "zh-hans": "极巨妖精"
-  },
-  "Max-Starfall": {
-    "ja": "ダイフェアリー",
-    "zh-hans": "极巨妖精"
-  },
-  "Max Wyrmwind": {
-    "ja": "ダイドラグーン",
-    "zh-hans": "极巨龙骑"
-  },
-  "Max-Wyrmwind": {
-    "ja": "ダイドラグーン",
-    "zh-hans": "极巨龙骑"
-  },
-  "Max Mindstorm": {
-    "ja": "ダイサイコ",
-    "zh-hans": "极巨超能"
-  },
-  "Max-Mindstorm": {
-    "ja": "ダイサイコ",
-    "zh-hans": "极巨超能"
-  },
-  "Max Rockfall": {
-    "ja": "ダイロック",
-    "zh-hans": "极巨岩石"
-  },
-  "Max-Rockfall": {
-    "ja": "ダイロック",
-    "zh-hans": "极巨岩石"
-  },
-  "Max Quake": {
-    "ja": "ダイアース",
-    "zh-hans": "极巨大地"
-  },
-  "Max-Quake": {
-    "ja": "ダイアース",
-    "zh-hans": "极巨大地"
-  },
-  "Max Darkness": {
-    "ja": "ダイアーク",
-    "zh-hans": "极巨恶霸"
-  },
-  "Max-Darkness": {
-    "ja": "ダイアーク",
-    "zh-hans": "极巨恶霸"
-  },
-  "Max Overgrowth": {
-    "ja": "ダイソウゲン",
-    "zh-hans": "极巨草原"
-  },
-  "Max-Overgrowth": {
-    "ja": "ダイソウゲン",
-    "zh-hans": "极巨草原"
-  },
-  "Max Steelspike": {
-    "ja": "ダイスチル",
-    "zh-hans": "极巨钢铁"
-  },
-  "Max-Steelspike": {
-    "ja": "ダイスチル",
-    "zh-hans": "极巨钢铁"
-  },
-  "Clangorous Soul": {
-    "ja": "ソウルビート",
-    "zh-hans": "魂舞烈音爆"
-  },
-  "Clangorous-Soul": {
-    "ja": "ソウルビート",
-    "zh-hans": "魂舞烈音爆"
-  },
-  "Body Press": {
-    "ja": "ボディプレス",
-    "zh-hans": "扑击"
-  },
-  "Body-Press": {
-    "ja": "ボディプレス",
-    "zh-hans": "扑击"
-  },
-  "Decorate": {
-    "ja": "デコレーション",
-    "zh-hans": "装饰"
-  },
-  "Drum Beating": {
-    "ja": "ドラムアタック",
-    "zh-hans": "鼓击"
-  },
-  "Drum-Beating": {
-    "ja": "ドラムアタック",
-    "zh-hans": "鼓击"
-  },
-  "Snap Trap": {
-    "ja": "トラバサミ",
-    "zh-hans": "捕兽夹"
-  },
-  "Snap-Trap": {
-    "ja": "トラバサミ",
-    "zh-hans": "捕兽夹"
-  },
-  "Pyro Ball": {
-    "ja": "かえんボール",
-    "zh-hans": "火焰球"
-  },
-  "Pyro-Ball": {
-    "ja": "かえんボール",
-    "zh-hans": "火焰球"
-  },
-  "Behemoth Blade": {
-    "ja": "きょじゅうざん",
-    "zh-hans": "巨兽斩"
-  },
-  "Behemoth-Blade": {
-    "ja": "きょじゅうざん",
-    "zh-hans": "巨兽斩"
-  },
-  "Behemoth Bash": {
-    "ja": "きょじゅうだん",
-    "zh-hans": "巨兽弹"
-  },
-  "Behemoth-Bash": {
-    "ja": "きょじゅうだん",
-    "zh-hans": "巨兽弹"
-  },
-  "Aura Wheel": {
-    "ja": "オーラぐるま",
-    "zh-hans": "气场轮"
-  },
-  "Aura-Wheel": {
-    "ja": "オーラぐるま",
-    "zh-hans": "气场轮"
-  },
-  "Breaking Swipe": {
-    "ja": "ワイドブレイカー",
-    "zh-hans": "广域破坏"
-  },
-  "Breaking-Swipe": {
-    "ja": "ワイドブレイカー",
-    "zh-hans": "广域破坏"
-  },
-  "Branch Poke": {
-    "ja": "えだづき",
-    "zh-hans": "木枝突刺"
-  },
-  "Branch-Poke": {
-    "ja": "えだづき",
-    "zh-hans": "木枝突刺"
-  },
-  "Overdrive": {
-    "ja": "オーバードライブ",
-    "zh-hans": "破音"
-  },
-  "Apple Acid": {
-    "ja": "りんごさん",
-    "zh-hans": "苹果酸"
-  },
-  "Apple-Acid": {
-    "ja": "りんごさん",
-    "zh-hans": "苹果酸"
-  },
-  "Grav Apple": {
-    "ja": "Ｇのちから",
-    "zh-hans": "万有引力"
-  },
-  "Grav-Apple": {
-    "ja": "Ｇのちから",
-    "zh-hans": "万有引力"
-  },
-  "Spirit Break": {
-    "ja": "ソウルクラッシュ",
-    "zh-hans": "灵魂冲击"
-  },
-  "Spirit-Break": {
-    "ja": "ソウルクラッシュ",
-    "zh-hans": "灵魂冲击"
-  },
-  "Strange Steam": {
-    "ja": "ワンダースチーム",
-    "zh-hans": "神奇蒸汽"
-  },
-  "Strange-Steam": {
-    "ja": "ワンダースチーム",
-    "zh-hans": "神奇蒸汽"
-  },
-  "Life Dew": {
-    "ja": "いのちのしずく",
-    "zh-hans": "生命水滴"
-  },
-  "Life-Dew": {
-    "ja": "いのちのしずく",
-    "zh-hans": "生命水滴"
-  },
-  "Obstruct": {
-    "ja": "ブロッキング",
-    "zh-hans": "拦堵"
-  },
-  "False Surrender": {
-    "ja": "どげざつき",
-    "zh-hans": "假跪真撞"
-  },
-  "False-Surrender": {
-    "ja": "どげざつき",
-    "zh-hans": "假跪真撞"
-  },
-  "Meteor Assault": {
-    "ja": "スターアサルト",
-    "zh-hans": "流星突击"
-  },
-  "Meteor-Assault": {
-    "ja": "スターアサルト",
-    "zh-hans": "流星突击"
-  },
-  "Eternabeam": {
-    "ja": "ムゲンダイビーム",
-    "zh-hans": "无极光束"
-  },
-  "Steel Beam": {
-    "ja": "てっていこうせん",
-    "zh-hans": "铁蹄光线"
-  },
-  "Steel-Beam": {
-    "ja": "てっていこうせん",
-    "zh-hans": "铁蹄光线"
-  },
-  "G-Max Wildfire": {
-    "ja": "キョダイゴクエン",
-    "zh-hans": "超极巨深渊灭焰"
-  },
-  "G-Max-Wildfire": {
-    "ja": "キョダイゴクエン",
-    "zh-hans": "超极巨深渊灭焰"
-  },
-  "G-Max Befuddle": {
-    "ja": "キョダイコワク",
-    "zh-hans": "超极巨蝶影蛊惑"
-  },
-  "G-Max-Befuddle": {
-    "ja": "キョダイコワク",
-    "zh-hans": "超极巨蝶影蛊惑"
-  },
-  "G-Max Volt Crash": {
-    "ja": "キョダイバンライ",
-    "zh-hans": "超极巨万雷轰顶"
-  },
-  "G-Max-Volt-Crash": {
-    "ja": "キョダイバンライ",
-    "zh-hans": "超极巨万雷轰顶"
-  },
-  "G-Max Gold Rush": {
-    "ja": "キョダイコバン",
-    "zh-hans": "超极巨特大金币"
-  },
-  "G-Max-Gold-Rush": {
-    "ja": "キョダイコバン",
-    "zh-hans": "超极巨特大金币"
-  },
-  "G-Max Chi Strike": {
-    "ja": "キョダイシンゲキ",
-    "zh-hans": "超极巨会心一击"
-  },
-  "G-Max-Chi-Strike": {
-    "ja": "キョダイシンゲキ",
-    "zh-hans": "超极巨会心一击"
-  },
-  "G-Max Terror": {
-    "ja": "キョダイゲンエイ",
-    "zh-hans": "超极巨幻影幽魂"
-  },
-  "G-Max-Terror": {
-    "ja": "キョダイゲンエイ",
-    "zh-hans": "超极巨幻影幽魂"
-  },
-  "G-Max Resonance": {
-    "ja": "キョダイセンリツ",
-    "zh-hans": "超极巨极光旋律"
-  },
-  "G-Max-Resonance": {
-    "ja": "キョダイセンリツ",
-    "zh-hans": "超极巨极光旋律"
-  },
-  "G-Max Cuddle": {
-    "ja": "キョダイホーヨー",
-    "zh-hans": "超极巨热情拥抱"
-  },
-  "G-Max-Cuddle": {
-    "ja": "キョダイホーヨー",
-    "zh-hans": "超极巨热情拥抱"
-  },
-  "G-Max Replenish": {
-    "ja": "キョダイサイセイ",
-    "zh-hans": "超极巨资源再生"
-  },
-  "G-Max-Replenish": {
-    "ja": "キョダイサイセイ",
-    "zh-hans": "超极巨资源再生"
-  },
-  "G-Max Malodor": {
-    "ja": "キョダイシュウキ",
-    "zh-hans": "超极巨臭气冲天"
-  },
-  "G-Max-Malodor": {
-    "ja": "キョダイシュウキ",
-    "zh-hans": "超极巨臭气冲天"
-  },
-  "G-Max Stonesurge": {
-    "ja": "キョダイガンジン",
-    "zh-hans": "超极巨岩阵以待"
-  },
-  "G-Max-Stonesurge": {
-    "ja": "キョダイガンジン",
-    "zh-hans": "超极巨岩阵以待"
-  },
-  "G-Max Wind Rage": {
-    "ja": "キョダイフウゲキ",
-    "zh-hans": "超极巨旋风袭卷"
-  },
-  "G-Max-Wind-Rage": {
-    "ja": "キョダイフウゲキ",
-    "zh-hans": "超极巨旋风袭卷"
-  },
-  "G-Max Stun Shock": {
-    "ja": "キョダイカンデン",
-    "zh-hans": "超极巨异毒电场"
-  },
-  "G-Max-Stun-Shock": {
-    "ja": "キョダイカンデン",
-    "zh-hans": "超极巨异毒电场"
-  },
-  "G-Max Finale": {
-    "ja": "キョダイダンエン",
-    "zh-hans": "超极巨幸福圆满"
-  },
-  "G-Max-Finale": {
-    "ja": "キョダイダンエン",
-    "zh-hans": "超极巨幸福圆满"
-  },
-  "G-Max Depletion": {
-    "ja": "キョダイゲンスイ",
-    "zh-hans": "超极巨劣化衰变"
-  },
-  "G-Max-Depletion": {
-    "ja": "キョダイゲンスイ",
-    "zh-hans": "超极巨劣化衰变"
-  },
-  "G-Max Gravitas": {
-    "ja": "キョダイテンドウ",
-    "zh-hans": "超极巨天道七星"
-  },
-  "G-Max-Gravitas": {
-    "ja": "キョダイテンドウ",
-    "zh-hans": "超极巨天道七星"
-  },
-  "G-Max Volcalith": {
-    "ja": "キョダイフンセキ",
-    "zh-hans": "超极巨炎石喷发"
-  },
-  "G-Max-Volcalith": {
-    "ja": "キョダイフンセキ",
-    "zh-hans": "超极巨炎石喷发"
-  },
-  "G-Max Sandblast": {
-    "ja": "キョダイサジン",
-    "zh-hans": "超极巨沙尘漫天"
-  },
-  "G-Max-Sandblast": {
-    "ja": "キョダイサジン",
-    "zh-hans": "超极巨沙尘漫天"
-  },
-  "G-Max Snooze": {
-    "ja": "キョダイスイマ",
-    "zh-hans": "超极巨睡魔降临"
-  },
-  "G-Max-Snooze": {
-    "ja": "キョダイスイマ",
-    "zh-hans": "超极巨睡魔降临"
-  },
-  "G-Max Tartness": {
-    "ja": "キョダイサンゲキ",
-    "zh-hans": "超极巨酸不溜丢"
-  },
-  "G-Max-Tartness": {
-    "ja": "キョダイサンゲキ",
-    "zh-hans": "超极巨酸不溜丢"
-  },
-  "G-Max Sweetness": {
-    "ja": "キョダイカンロ",
-    "zh-hans": "超极巨琼浆玉液"
-  },
-  "G-Max-Sweetness": {
-    "ja": "キョダイカンロ",
-    "zh-hans": "超极巨琼浆玉液"
-  },
-  "G-Max Smite": {
-    "ja": "キョダイテンバツ",
-    "zh-hans": "超极巨天谴雷诛"
-  },
-  "G-Max-Smite": {
-    "ja": "キョダイテンバツ",
-    "zh-hans": "超极巨天谴雷诛"
-  },
-  "G-Max Steelsurge": {
-    "ja": "キョダイコウジン",
-    "zh-hans": "超极巨钢铁阵法"
-  },
-  "G-Max-Steelsurge": {
-    "ja": "キョダイコウジン",
-    "zh-hans": "超极巨钢铁阵法"
-  },
-  "G-Max Meltdown": {
-    "ja": "キョダイユウゲキ",
-    "zh-hans": "超极巨液金熔击"
-  },
-  "G-Max-Meltdown": {
-    "ja": "キョダイユウゲキ",
-    "zh-hans": "超极巨液金熔击"
-  },
-  "G-Max Foam Burst": {
-    "ja": "キョダイホウマツ",
-    "zh-hans": "超极巨激漩泡涡"
-  },
-  "G-Max-Foam-Burst": {
-    "ja": "キョダイホウマツ",
-    "zh-hans": "超极巨激漩泡涡"
-  },
-  "G-Max Centiferno": {
-    "ja": "キョダイヒャッカ",
-    "zh-hans": "超极巨百火焚野"
-  },
-  "G-Max-Centiferno": {
-    "ja": "キョダイヒャッカ",
-    "zh-hans": "超极巨百火焚野"
-  },
-  "Expanding Force": {
-    "ja": "ワイドフォース",
-    "zh-hans": "广域战力"
-  },
-  "Expanding-Force": {
-    "ja": "ワイドフォース",
-    "zh-hans": "广域战力"
-  },
-  "Steel Roller": {
-    "ja": "アイアンローラー",
-    "zh-hans": "铁滚轮"
-  },
-  "Steel-Roller": {
-    "ja": "アイアンローラー",
-    "zh-hans": "铁滚轮"
-  },
-  "Scale Shot": {
-    "ja": "スケイルショット",
-    "zh-hans": "鳞射"
-  },
-  "Scale-Shot": {
-    "ja": "スケイルショット",
-    "zh-hans": "鳞射"
-  },
-  "Meteor Beam": {
-    "ja": "メテオビーム",
-    "zh-hans": "流星光束"
-  },
-  "Meteor-Beam": {
-    "ja": "メテオビーム",
-    "zh-hans": "流星光束"
-  },
-  "Shell Side Arm": {
-    "ja": "シェルアームズ",
-    "zh-hans": "臂贝武器"
-  },
-  "Shell-Side-Arm": {
-    "ja": "シェルアームズ",
-    "zh-hans": "臂贝武器"
-  },
-  "Misty Explosion": {
-    "ja": "ミストバースト",
-    "zh-hans": "薄雾炸裂"
-  },
-  "Misty-Explosion": {
-    "ja": "ミストバースト",
-    "zh-hans": "薄雾炸裂"
-  },
-  "Grassy Glide": {
-    "ja": "グラススライダー",
-    "zh-hans": "青草滑梯"
-  },
-  "Grassy-Glide": {
-    "ja": "グラススライダー",
-    "zh-hans": "青草滑梯"
-  },
-  "Rising Voltage": {
-    "ja": "ライジングボルト",
-    "zh-hans": "电力上升"
-  },
-  "Rising-Voltage": {
-    "ja": "ライジングボルト",
-    "zh-hans": "电力上升"
-  },
-  "Terrain Pulse": {
-    "ja": "だいちのはどう",
-    "zh-hans": "大地波动"
-  },
-  "Terrain-Pulse": {
-    "ja": "だいちのはどう",
-    "zh-hans": "大地波动"
-  },
-  "Skitter Smack": {
-    "ja": "はいよるいちげき",
-    "zh-hans": "爬击"
-  },
-  "Skitter-Smack": {
-    "ja": "はいよるいちげき",
-    "zh-hans": "爬击"
-  },
-  "Burning Jealousy": {
-    "ja": "しっとのほのお",
-    "zh-hans": "妒火"
-  },
-  "Burning-Jealousy": {
-    "ja": "しっとのほのお",
-    "zh-hans": "妒火"
-  },
-  "Lash Out": {
-    "ja": "うっぷんばらし",
-    "zh-hans": "泄愤"
-  },
-  "Lash-Out": {
-    "ja": "うっぷんばらし",
-    "zh-hans": "泄愤"
-  },
-  "Poltergeist": {
-    "ja": "ポルターガイスト",
-    "zh-hans": "灵骚"
-  },
-  "Corrosive Gas": {
-    "ja": "ふしょくガス",
-    "zh-hans": "腐蚀气体"
-  },
-  "Corrosive-Gas": {
-    "ja": "ふしょくガス",
-    "zh-hans": "腐蚀气体"
-  },
-  "Coaching": {
-    "ja": "コーチング",
-    "zh-hans": "指导"
-  },
-  "Flip Turn": {
-    "ja": "クイックターン",
-    "zh-hans": "快速折返"
-  },
-  "Flip-Turn": {
-    "ja": "クイックターン",
-    "zh-hans": "快速折返"
-  },
-  "Triple Axel": {
-    "ja": "トリプルアクセル",
-    "zh-hans": "三旋击"
-  },
-  "Triple-Axel": {
-    "ja": "トリプルアクセル",
-    "zh-hans": "三旋击"
-  },
-  "Dual Wingbeat": {
-    "ja": "ダブルウイング",
-    "zh-hans": "双翼"
-  },
-  "Dual-Wingbeat": {
-    "ja": "ダブルウイング",
-    "zh-hans": "双翼"
-  },
-  "Scorching Sands": {
-    "ja": "ねっさのだいち",
-    "zh-hans": "热沙大地"
-  },
-  "Scorching-Sands": {
-    "ja": "ねっさのだいち",
-    "zh-hans": "热沙大地"
-  },
-  "Jungle Healing": {
-    "ja": "ジャングルヒール",
-    "zh-hans": "丛林治疗"
-  },
-  "Jungle-Healing": {
-    "ja": "ジャングルヒール",
-    "zh-hans": "丛林治疗"
-  },
-  "Wicked Blow": {
-    "ja": "あんこくきょうだ",
-    "zh-hans": "暗冥强击"
-  },
-  "Wicked-Blow": {
-    "ja": "あんこくきょうだ",
-    "zh-hans": "暗冥强击"
-  },
-  "Surging Strikes": {
-    "ja": "すいりゅうれんだ",
-    "zh-hans": "水流连打"
-  },
-  "Surging-Strikes": {
-    "ja": "すいりゅうれんだ",
-    "zh-hans": "水流连打"
-  },
-  "G-Max Drum Solo": {
-    "ja": "キョダイコランダ",
-    "zh-hans": "超极巨狂擂乱打"
-  },
-  "G-Max-Drum-Solo": {
-    "ja": "キョダイコランダ",
-    "zh-hans": "超极巨狂擂乱打"
-  },
-  "G-Max Fireball": {
-    "ja": "キョダイカキュウ",
-    "zh-hans": "超极巨破阵火球"
-  },
-  "G-Max-Fireball": {
-    "ja": "キョダイカキュウ",
-    "zh-hans": "超极巨破阵火球"
-  },
-  "G-Max Hydrosnipe": {
-    "ja": "キョダイソゲキ",
-    "zh-hans": "超极巨狙击神射"
-  },
-  "G-Max-Hydrosnipe": {
-    "ja": "キョダイソゲキ",
-    "zh-hans": "超极巨狙击神射"
-  },
-  "G-Max Vine Lash": {
-    "ja": "キョダイベンタツ",
-    "zh-hans": "超极巨灰飞鞭灭"
-  },
-  "G-Max-Vine-Lash": {
-    "ja": "キョダイベンタツ",
-    "zh-hans": "超极巨灰飞鞭灭"
-  },
-  "G-Max Cannonade": {
-    "ja": "キョダイホウゲキ",
-    "zh-hans": "超极巨水炮轰灭"
-  },
-  "G-Max-Cannonade": {
-    "ja": "キョダイホウゲキ",
-    "zh-hans": "超极巨水炮轰灭"
-  },
-  "G-Max One Blow": {
-    "ja": "キョダイイチゲキ",
-    "zh-hans": "超极巨夺命一击"
-  },
-  "G-Max-One-Blow": {
-    "ja": "キョダイイチゲキ",
-    "zh-hans": "超极巨夺命一击"
-  },
-  "G-Max Rapid Flow": {
-    "ja": "キョダイレンゲキ",
-    "zh-hans": "超极巨流水连击"
-  },
-  "G-Max-Rapid-Flow": {
-    "ja": "キョダイレンゲキ",
-    "zh-hans": "超极巨流水连击"
-  },
-  "Thunder Cage": {
-    "ja": "サンダープリズン",
-    "zh-hans": "雷电囚笼"
-  },
-  "Thunder-Cage": {
-    "ja": "サンダープリズン",
-    "zh-hans": "雷电囚笼"
-  },
-  "Dragon Energy": {
-    "ja": "ドラゴンエナジー",
-    "zh-hans": "巨龙威能"
-  },
-  "Dragon-Energy": {
-    "ja": "ドラゴンエナジー",
-    "zh-hans": "巨龙威能"
-  },
-  "Freezing Glare": {
-    "ja": "いてつくしせん",
-    "zh-hans": "冰冷视线"
-  },
-  "Freezing-Glare": {
-    "ja": "いてつくしせん",
-    "zh-hans": "冰冷视线"
-  },
-  "Fiery Wrath": {
-    "ja": "もえあがるいかり",
-    "zh-hans": "怒火中烧"
-  },
-  "Fiery-Wrath": {
-    "ja": "もえあがるいかり",
-    "zh-hans": "怒火中烧"
-  },
-  "Thunderous Kick": {
-    "ja": "らいめいげり",
-    "zh-hans": "雷鸣蹴击"
-  },
-  "Thunderous-Kick": {
-    "ja": "らいめいげり",
-    "zh-hans": "雷鸣蹴击"
-  },
-  "Glacial Lance": {
-    "ja": "ブリザードランス",
-    "zh-hans": "雪矛"
-  },
-  "Glacial-Lance": {
-    "ja": "ブリザードランス",
-    "zh-hans": "雪矛"
-  },
-  "Astral Barrage": {
-    "ja": "アストラルビット",
-    "zh-hans": "星碎"
-  },
-  "Astral-Barrage": {
-    "ja": "アストラルビット",
-    "zh-hans": "星碎"
-  },
-  "Eerie Spell": {
-    "ja": "ぶきみなじゅもん",
-    "zh-hans": "诡异咒语"
-  },
-  "Eerie-Spell": {
-    "ja": "ぶきみなじゅもん",
-    "zh-hans": "诡异咒语"
-  },
-  "Dire Claw": {
-    "ja": "フェイタルクロー",
-    "zh-hans": "克命爪"
-  },
-  "Dire-Claw": {
-    "ja": "フェイタルクロー",
-    "zh-hans": "克命爪"
-  },
-  "Psyshield Bash": {
-    "ja": "バリアーラッシュ",
-    "zh-hans": "屏障猛攻"
-  },
-  "Psyshield-Bash": {
-    "ja": "バリアーラッシュ",
-    "zh-hans": "屏障猛攻"
-  },
-  "Power Shift": {
-    "ja": "パワーシフト",
-    "zh-hans": "力量转换"
-  },
-  "Power-Shift": {
-    "ja": "パワーシフト",
-    "zh-hans": "力量转换"
-  },
-  "Stone Axe": {
-    "ja": "がんせきアックス",
-    "zh-hans": "岩斧"
-  },
-  "Stone-Axe": {
-    "ja": "がんせきアックス",
-    "zh-hans": "岩斧"
-  },
-  "Springtide Storm": {
-    "ja": "はるのあらし",
-    "zh-hans": "阳春风暴"
-  },
-  "Springtide-Storm": {
-    "ja": "はるのあらし",
-    "zh-hans": "阳春风暴"
-  },
-  "Mystical Power": {
-    "ja": "しんぴのちから",
-    "zh-hans": "神秘之力"
-  },
-  "Mystical-Power": {
-    "ja": "しんぴのちから",
-    "zh-hans": "神秘之力"
-  },
-  "Raging Fury": {
-    "ja": "だいふんげき",
-    "zh-hans": "大愤慨"
-  },
-  "Raging-Fury": {
-    "ja": "だいふんげき",
-    "zh-hans": "大愤慨"
-  },
-  "Wave Crash": {
-    "ja": "ウェーブタックル",
-    "zh-hans": "波动冲"
-  },
-  "Wave-Crash": {
-    "ja": "ウェーブタックル",
-    "zh-hans": "波动冲"
-  },
-  "Chloroblast": {
-    "ja": "クロロブラスト",
-    "zh-hans": "叶绿爆震"
-  },
-  "Mountain Gale": {
-    "ja": "ひょうざんおろし",
-    "zh-hans": "冰山风"
-  },
-  "Mountain-Gale": {
-    "ja": "ひょうざんおろし",
-    "zh-hans": "冰山风"
-  },
-  "Victory Dance": {
-    "ja": "しょうりのまい",
-    "zh-hans": "胜利之舞"
-  },
-  "Victory-Dance": {
-    "ja": "しょうりのまい",
-    "zh-hans": "胜利之舞"
-  },
-  "Headlong Rush": {
-    "ja": "ぶちかまし",
-    "zh-hans": "突飞猛扑"
-  },
-  "Headlong-Rush": {
-    "ja": "ぶちかまし",
-    "zh-hans": "突飞猛扑"
-  },
-  "Barb Barrage": {
-    "ja": "どくばりセンボン",
-    "zh-hans": "毒千针"
-  },
-  "Barb-Barrage": {
-    "ja": "どくばりセンボン",
-    "zh-hans": "毒千针"
-  },
-  "Esper Wing": {
-    "ja": "オーラウイング",
-    "zh-hans": "气场之翼"
-  },
-  "Esper-Wing": {
-    "ja": "オーラウイング",
-    "zh-hans": "气场之翼"
-  },
-  "Bitter Malice": {
-    "ja": "うらみつらみ",
-    "zh-hans": "冤冤相报"
-  },
-  "Bitter-Malice": {
-    "ja": "うらみつらみ",
-    "zh-hans": "冤冤相报"
-  },
-  "Shelter": {
-    "ja": "たてこもる",
-    "zh-hans": "闭关"
-  },
-  "Triple Arrows": {
-    "ja": "３ぼんのや",
-    "zh-hans": "三连箭"
-  },
-  "Triple-Arrows": {
-    "ja": "３ぼんのや",
-    "zh-hans": "三连箭"
-  },
-  "Infernal Parade": {
-    "ja": "ひゃっきやこう",
-    "zh-hans": "群魔乱舞"
-  },
-  "Infernal-Parade": {
-    "ja": "ひゃっきやこう",
-    "zh-hans": "群魔乱舞"
-  },
-  "Ceaseless Edge": {
-    "ja": "ひけん・ちえなみ",
-    "zh-hans": "秘剑・千重涛"
-  },
-  "Ceaseless-Edge": {
-    "ja": "ひけん・ちえなみ",
-    "zh-hans": "秘剑・千重涛"
-  },
-  "Bleakwind Storm": {
-    "ja": "こがらしあらし",
-    "zh-hans": "枯叶风暴"
-  },
-  "Bleakwind-Storm": {
-    "ja": "こがらしあらし",
-    "zh-hans": "枯叶风暴"
-  },
-  "Wildbolt Storm": {
-    "ja": "かみなりあらし",
-    "zh-hans": "鸣雷风暴"
-  },
-  "Wildbolt-Storm": {
-    "ja": "かみなりあらし",
-    "zh-hans": "鸣雷风暴"
-  },
-  "Sandsear Storm": {
-    "ja": "ねっさのあらし",
-    "zh-hans": "热沙风暴"
-  },
-  "Sandsear-Storm": {
-    "ja": "ねっさのあらし",
-    "zh-hans": "热沙风暴"
-  },
-  "Lunar Blessing": {
-    "ja": "みかづきのいのり",
-    "zh-hans": "新月祈祷"
-  },
-  "Lunar-Blessing": {
-    "ja": "みかづきのいのり",
-    "zh-hans": "新月祈祷"
-  },
-  "Take Heart": {
-    "ja": "ブレイブチャージ",
-    "zh-hans": "勇气填充"
-  },
-  "Take-Heart": {
-    "ja": "ブレイブチャージ",
-    "zh-hans": "勇气填充"
-  },
-  "Tera Blast": {
-    "ja": "テラバースト",
-    "zh-hans": "太晶爆发"
-  },
-  "Tera-Blast": {
-    "ja": "テラバースト",
-    "zh-hans": "太晶爆发"
-  },
-  "Silk Trap": {
-    "ja": "スレッドトラップ",
-    "zh-hans": "线阱"
-  },
-  "Silk-Trap": {
-    "ja": "スレッドトラップ",
-    "zh-hans": "线阱"
-  },
-  "Axe Kick": {
-    "ja": "かかとおとし",
-    "zh-hans": "下压踢"
-  },
-  "Axe-Kick": {
-    "ja": "かかとおとし",
-    "zh-hans": "下压踢"
-  },
-  "Last Respects": {
-    "ja": "おはかまいり",
-    "zh-hans": "扫墓"
-  },
-  "Last-Respects": {
-    "ja": "おはかまいり",
-    "zh-hans": "扫墓"
-  },
-  "Lumina Crash": {
-    "ja": "ルミナコリジョン",
-    "zh-hans": "琉光冲激"
-  },
-  "Lumina-Crash": {
-    "ja": "ルミナコリジョン",
-    "zh-hans": "琉光冲激"
-  },
-  "Order Up": {
-    "ja": "いっちょうあがり",
-    "zh-hans": "上菜"
-  },
-  "Order-Up": {
-    "ja": "いっちょうあがり",
-    "zh-hans": "上菜"
-  },
-  "Jet Punch": {
-    "ja": "ジェットパンチ",
-    "zh-hans": "喷射拳"
-  },
-  "Jet-Punch": {
-    "ja": "ジェットパンチ",
-    "zh-hans": "喷射拳"
-  },
-  "Spicy Extract": {
-    "ja": "ハバネロエキス",
-    "zh-hans": "辣椒精华"
-  },
-  "Spicy-Extract": {
-    "ja": "ハバネロエキス",
-    "zh-hans": "辣椒精华"
-  },
-  "Spin Out": {
-    "ja": "ホイールスピン",
-    "zh-hans": "疾速转轮"
-  },
-  "Spin-Out": {
-    "ja": "ホイールスピン",
-    "zh-hans": "疾速转轮"
-  },
-  "Population Bomb": {
-    "ja": "ネズミざん",
-    "zh-hans": "鼠数儿"
-  },
-  "Population-Bomb": {
-    "ja": "ネズミざん",
-    "zh-hans": "鼠数儿"
-  },
-  "Ice Spinner": {
-    "ja": "アイススピナー",
-    "zh-hans": "冰旋"
-  },
-  "Ice-Spinner": {
-    "ja": "アイススピナー",
-    "zh-hans": "冰旋"
-  },
-  "Glaive Rush": {
-    "ja": "きょけんとつげき",
-    "zh-hans": "巨剑突击"
-  },
-  "Glaive-Rush": {
-    "ja": "きょけんとつげき",
-    "zh-hans": "巨剑突击"
-  },
-  "Revival Blessing": {
-    "ja": "さいきのいのり",
-    "zh-hans": "复生祈祷"
-  },
-  "Revival-Blessing": {
-    "ja": "さいきのいのり",
-    "zh-hans": "复生祈祷"
-  },
-  "Salt Cure": {
-    "ja": "しおづけ",
-    "zh-hans": "盐腌"
-  },
-  "Salt-Cure": {
-    "ja": "しおづけ",
-    "zh-hans": "盐腌"
-  },
-  "Triple Dive": {
-    "ja": "トリプルダイブ",
-    "zh-hans": "三连钻"
-  },
-  "Triple-Dive": {
-    "ja": "トリプルダイブ",
-    "zh-hans": "三连钻"
-  },
-  "Mortal Spin": {
-    "ja": "キラースピン",
-    "zh-hans": "晶光转转"
-  },
-  "Mortal-Spin": {
-    "ja": "キラースピン",
-    "zh-hans": "晶光转转"
-  },
-  "Doodle": {
-    "ja": "うつしえ",
-    "zh-hans": "描绘"
-  },
-  "Fillet Away": {
-    "ja": "みをけずる",
-    "zh-hans": "甩肉"
-  },
-  "Fillet-Away": {
-    "ja": "みをけずる",
-    "zh-hans": "甩肉"
-  },
-  "Kowtow Cleave": {
-    "ja": "ドゲザン",
-    "zh-hans": "仆刀"
-  },
-  "Kowtow-Cleave": {
-    "ja": "ドゲザン",
-    "zh-hans": "仆刀"
-  },
-  "Flower Trick": {
-    "ja": "トリックフラワー",
-    "zh-hans": "千变万花"
-  },
-  "Flower-Trick": {
-    "ja": "トリックフラワー",
-    "zh-hans": "千变万花"
-  },
-  "Torch Song": {
-    "ja": "フレアソング",
-    "zh-hans": "闪焰高歌"
-  },
-  "Torch-Song": {
-    "ja": "フレアソング",
-    "zh-hans": "闪焰高歌"
-  },
-  "Aqua Step": {
-    "ja": "アクアステップ",
-    "zh-hans": "流水旋舞"
-  },
-  "Aqua-Step": {
-    "ja": "アクアステップ",
-    "zh-hans": "流水旋舞"
-  },
-  "Raging Bull": {
-    "ja": "レイジングブル",
-    "zh-hans": "怒牛"
-  },
-  "Raging-Bull": {
-    "ja": "レイジングブル",
-    "zh-hans": "怒牛"
-  },
-  "Make It Rain": {
-    "ja": "ゴールドラッシュ",
-    "zh-hans": "淘金潮"
-  },
-  "Make-It-Rain": {
-    "ja": "ゴールドラッシュ",
-    "zh-hans": "淘金潮"
-  },
-  "Psyblade": {
-    "ja": "サイコブレイド",
-    "zh-hans": "精神剑"
-  },
-  "Hydro Steam": {
-    "ja": "ハイドロスチーム",
-    "zh-hans": "水蒸气"
-  },
-  "Hydro-Steam": {
-    "ja": "ハイドロスチーム",
-    "zh-hans": "水蒸气"
-  },
-  "Ruination": {
-    "ja": "カタストロフィ",
-    "zh-hans": "大灾难"
-  },
-  "Collision Course": {
-    "ja": "アクセルブレイク",
-    "zh-hans": "全开猛撞"
-  },
-  "Collision-Course": {
-    "ja": "アクセルブレイク",
-    "zh-hans": "全开猛撞"
-  },
-  "Electro Drift": {
-    "ja": "イナズマドライブ",
-    "zh-hans": "闪电猛冲"
-  },
-  "Electro-Drift": {
-    "ja": "イナズマドライブ",
-    "zh-hans": "闪电猛冲"
-  },
-  "Shed Tail": {
-    "ja": "しっぽきり",
-    "zh-hans": "断尾"
-  },
-  "Shed-Tail": {
-    "ja": "しっぽきり",
-    "zh-hans": "断尾"
-  },
-  "Chilly Reception": {
-    "ja": "さむいギャグ",
-    "zh-hans": "冷笑话"
-  },
-  "Chilly-Reception": {
-    "ja": "さむいギャグ",
-    "zh-hans": "冷笑话"
-  },
-  "Tidy Up": {
-    "ja": "おかたづけ",
-    "zh-hans": "大扫除"
-  },
-  "Tidy-Up": {
-    "ja": "おかたづけ",
-    "zh-hans": "大扫除"
-  },
-  "Snowscape": {
-    "ja": "ゆきげしき",
-    "zh-hans": "雪景"
-  },
-  "Pounce": {
-    "ja": "とびつく",
-    "zh-hans": "虫扑"
-  },
-  "Trailblaze": {
-    "ja": "くさわけ",
-    "zh-hans": "起草"
-  },
-  "Chilling Water": {
-    "ja": "ひやみず",
-    "zh-hans": "泼冷水"
-  },
-  "Chilling-Water": {
-    "ja": "ひやみず",
-    "zh-hans": "泼冷水"
-  },
-  "Hyper Drill": {
-    "ja": "ハイパードリル",
-    "zh-hans": "强力钻"
-  },
-  "Hyper-Drill": {
-    "ja": "ハイパードリル",
-    "zh-hans": "强力钻"
-  },
-  "Twin Beam": {
-    "ja": "ツインビーム",
-    "zh-hans": "双光束"
-  },
-  "Twin-Beam": {
-    "ja": "ツインビーム",
-    "zh-hans": "双光束"
-  },
-  "Rage Fist": {
-    "ja": "ふんどのこぶし",
-    "zh-hans": "愤怒之拳"
-  },
-  "Rage-Fist": {
-    "ja": "ふんどのこぶし",
-    "zh-hans": "愤怒之拳"
-  },
-  "Armor Cannon": {
-    "ja": "アーマーキャノン",
-    "zh-hans": "铠农炮"
-  },
-  "Armor-Cannon": {
-    "ja": "アーマーキャノン",
-    "zh-hans": "铠农炮"
-  },
-  "Bitter Blade": {
-    "ja": "むねんのつるぎ",
-    "zh-hans": "悔念剑"
-  },
-  "Bitter-Blade": {
-    "ja": "むねんのつるぎ",
-    "zh-hans": "悔念剑"
-  },
-  "Double Shock": {
-    "ja": "でんこうそうげき",
-    "zh-hans": "电光双击"
-  },
-  "Double-Shock": {
-    "ja": "でんこうそうげき",
-    "zh-hans": "电光双击"
-  },
-  "Gigaton Hammer": {
-    "ja": "デカハンマー",
-    "zh-hans": "巨力锤"
-  },
-  "Gigaton-Hammer": {
-    "ja": "デカハンマー",
-    "zh-hans": "巨力锤"
-  },
-  "Comeuppance": {
-    "ja": "ほうふく",
-    "zh-hans": "复仇"
-  },
-  "Aqua Cutter": {
-    "ja": "アクアカッター",
-    "zh-hans": "水波刀"
-  },
-  "Aqua-Cutter": {
-    "ja": "アクアカッター",
-    "zh-hans": "水波刀"
-  },
-  "Blazing Torque": {
-    "ja": "バーンアクセル",
-    "zh-hans": "灼热暴冲"
-  },
-  "Blazing-Torque": {
-    "ja": "バーンアクセル",
-    "zh-hans": "灼热暴冲"
-  },
-  "Wicked Torque": {
-    "ja": "ダークアクセル",
-    "zh-hans": "黑暗暴冲"
-  },
-  "Wicked-Torque": {
-    "ja": "ダークアクセル",
-    "zh-hans": "黑暗暴冲"
-  },
-  "Noxious Torque": {
-    "ja": "ポイズンアクセル",
-    "zh-hans": "剧毒暴冲"
-  },
-  "Noxious-Torque": {
-    "ja": "ポイズンアクセル",
-    "zh-hans": "剧毒暴冲"
-  },
-  "Combat Torque": {
-    "ja": "ファイトアクセル",
-    "zh-hans": "格斗暴冲"
-  },
-  "Combat-Torque": {
-    "ja": "ファイトアクセル",
-    "zh-hans": "格斗暴冲"
-  },
-  "Magical Torque": {
-    "ja": "マジカルアクセル",
-    "zh-hans": "魔法暴冲"
-  },
-  "Magical-Torque": {
-    "ja": "マジカルアクセル",
-    "zh-hans": "魔法暴冲"
-  },
-  "Blood Moon": {
-    "ja": "ブラッドムーン",
-    "zh-hans": "血月"
-  },
-  "Blood-Moon": {
-    "ja": "ブラッドムーン",
-    "zh-hans": "血月"
-  },
-  "Matcha Gotcha": {
-    "ja": "シャカシャカほう",
-    "zh-hans": "刷刷茶炮"
-  },
-  "Matcha-Gotcha": {
-    "ja": "シャカシャカほう",
-    "zh-hans": "刷刷茶炮"
-  },
-  "Syrup Bomb‎": {
-    "ja": "みずあめボム‎",
-    "zh-hans": "糖浆炸弹"
-  },
-  "Syrup-Bomb‎": {
-    "ja": "みずあめボム‎",
-    "zh-hans": "糖浆炸弹"
-  },
-  "Ivy Cudgel": {
-    "ja": "ツタこんぼう",
-    "zh-hans": "棘藤棒"
-  },
-  "Ivy-Cudgel": {
-    "ja": "ツタこんぼう",
-    "zh-hans": "棘藤棒"
-  },
-  "Electro Shot": {
-    "ja": "エレクトロビーム",
-    "zh-hans": "电光束"
-  },
-  "Electro-Shot": {
-    "ja": "エレクトロビーム",
-    "zh-hans": "电光束"
-  },
-  "Tera Starstorm": {
-    "ja": "テラクラスター",
-    "zh-hans": "晶光星群"
-  },
-  "Tera-Starstorm": {
-    "ja": "テラクラスター",
-    "zh-hans": "晶光星群"
-  },
-  "Fickle Beam": {
-    "ja": "きまぐレーザー",
-    "zh-hans": "随机光"
-  },
-  "Fickle-Beam": {
-    "ja": "きまぐレーザー",
-    "zh-hans": "随机光"
-  },
-  "Burning Bulwark": {
-    "ja": "かえんのまもり",
-    "zh-hans": "火焰守护"
-  },
-  "Burning-Bulwark": {
-    "ja": "かえんのまもり",
-    "zh-hans": "火焰守护"
-  },
-  "Thunderclap": {
-    "ja": "じんらい",
-    "zh-hans": "迅雷"
-  },
-  "Mighty Cleave": {
-    "ja": "パワフルエッジ",
-    "zh-hans": "强刃攻击"
-  },
-  "Mighty-Cleave": {
-    "ja": "パワフルエッジ",
-    "zh-hans": "强刃攻击"
-  },
-  "Tachyon Cutter": {
-    "ja": "タキオンカッター",
-    "zh-hans": "迅子利刃"
-  },
-  "Tachyon-Cutter": {
-    "ja": "タキオンカッター",
-    "zh-hans": "迅子利刃"
-  },
-  "Hard Press": {
-    "ja": "ハードプレス",
-    "zh-hans": "硬压"
-  },
-  "Hard-Press": {
-    "ja": "ハードプレス",
-    "zh-hans": "硬压"
-  },
-  "Dragon Cheer": {
-    "ja": "ドラゴンエール",
-    "zh-hans": "龙声鼓舞"
-  },
-  "Dragon-Cheer": {
-    "ja": "ドラゴンエール",
-    "zh-hans": "龙声鼓舞"
-  },
-  "Alluring Voice": {
-    "ja": "みわくのボイス",
-    "zh-hans": "魅诱之声"
-  },
-  "Alluring-Voice": {
-    "ja": "みわくのボイス",
-    "zh-hans": "魅诱之声"
-  },
-  "Temper Flare": {
-    "ja": "やけっぱち",
-    "zh-hans": "豁出去"
-  },
-  "Temper-Flare": {
-    "ja": "やけっぱち",
-    "zh-hans": "豁出去"
-  },
-  "Supercell Slam": {
-    "ja": "サンダーダイブ",
-    "zh-hans": "闪电强袭"
-  },
-  "Supercell-Slam": {
-    "ja": "サンダーダイブ",
-    "zh-hans": "闪电强袭"
-  },
-  "Psychic Noise": {
-    "ja": "サイコノイズ",
-    "zh-hans": "精神噪音"
-  },
-  "Psychic-Noise": {
-    "ja": "サイコノイズ",
-    "zh-hans": "精神噪音"
-  },
-  "Upper Hand": {
-    "ja": "はやてがえし",
-    "zh-hans": "快手还击"
-  },
-  "Upper-Hand": {
-    "ja": "はやてがえし",
-    "zh-hans": "快手还击"
-  },
-  "Malignant Chain": {
-    "ja": "じゃどくのくさり",
-    "zh-hans": "邪毒锁链"
-  },
-  "Malignant-Chain": {
-    "ja": "じゃどくのくさり",
-    "zh-hans": "邪毒锁链"
-  },
-  "Nihil Light": {
-    "ja": "むにきすひかり",
-    "zh-hans": "归无之光"
-  },
-  "Nihil-Light": {
-    "ja": "むにきすひかり",
-    "zh-hans": "归无之光"
-  }
+  "Pound": "拍击",
+  "Karate Chop": "空手劈",
+  "Karate-Chop": "空手劈",
+  "Double Slap": "连环巴掌",
+  "Double-Slap": "连环巴掌",
+  "Comet Punch": "连续拳",
+  "Comet-Punch": "连续拳",
+  "Mega Punch": "百万吨重拳",
+  "Mega-Punch": "百万吨重拳",
+  "Pay Day": "聚宝功",
+  "Pay-Day": "聚宝功",
+  "Fire Punch": "火焰拳",
+  "Fire-Punch": "火焰拳",
+  "Ice Punch": "冰冻拳",
+  "Ice-Punch": "冰冻拳",
+  "Thunder Punch": "雷电拳",
+  "Thunder-Punch": "雷电拳",
+  "Scratch": "抓",
+  "Vise Grip": "夹住",
+  "Vise-Grip": "夹住",
+  "Guillotine": "极落钳",
+  "Razor Wind": "旋风刀",
+  "Razor-Wind": "旋风刀",
+  "Swords Dance": "剑舞",
+  "Swords-Dance": "剑舞",
+  "Cut": "居合劈",
+  "Gust": "起风",
+  "Wing Attack": "翅膀攻击",
+  "Wing-Attack": "翅膀攻击",
+  "Whirlwind": "吹飞",
+  "Fly": "飞翔",
+  "Bind": "绑紧",
+  "Slam": "摔打",
+  "Vine Whip": "藤鞭",
+  "Vine-Whip": "藤鞭",
+  "Stomp": "踩踏",
+  "Double Kick": "二连踢",
+  "Double-Kick": "二连踢",
+  "Mega Kick": "百万吨重踢",
+  "Mega-Kick": "百万吨重踢",
+  "Jump Kick": "飞踢",
+  "Jump-Kick": "飞踢",
+  "Rolling Kick": "回旋踢",
+  "Rolling-Kick": "回旋踢",
+  "Sand Attack": "泼沙",
+  "Sand-Attack": "泼沙",
+  "Headbutt": "头锤",
+  "Horn Attack": "角撞",
+  "Horn-Attack": "角撞",
+  "Fury Attack": "乱击",
+  "Fury-Attack": "乱击",
+  "Horn Drill": "角钻",
+  "Horn-Drill": "角钻",
+  "Tackle": "撞击",
+  "Body Slam": "泰山压顶",
+  "Body-Slam": "泰山压顶",
+  "Wrap": "紧束",
+  "Take Down": "猛撞",
+  "Take-Down": "猛撞",
+  "Thrash": "大闹一番",
+  "Double-Edge": "舍身冲撞",
+  "Tail Whip": "摇尾巴",
+  "Tail-Whip": "摇尾巴",
+  "Poison Sting": "毒针",
+  "Poison-Sting": "毒针",
+  "Twineedle": "双针",
+  "Pin Missile": "飞弹针",
+  "Pin-Missile": "飞弹针",
+  "Leer": "瞪眼",
+  "Bite": "咬住",
+  "Growl": "叫声",
+  "Roar": "吼叫",
+  "Sing": "唱歌",
+  "Supersonic": "超音波",
+  "Sonic Boom": "音爆",
+  "Sonic-Boom": "音爆",
+  "Disable": "定身法",
+  "Acid": "溶解液",
+  "Ember": "火花",
+  "Flamethrower": "喷射火焰",
+  "Mist": "白雾",
+  "Water Gun": "水枪",
+  "Water-Gun": "水枪",
+  "Hydro Pump": "水炮",
+  "Hydro-Pump": "水炮",
+  "Surf": "冲浪",
+  "Ice Beam": "冰冻光束",
+  "Ice-Beam": "冰冻光束",
+  "Blizzard": "暴风雪",
+  "Psybeam": "幻象光线",
+  "Bubble Beam": "泡沫光线",
+  "Bubble-Beam": "泡沫光线",
+  "Aurora Beam": "极光束",
+  "Aurora-Beam": "极光束",
+  "Hyper Beam": "破坏光线",
+  "Hyper-Beam": "破坏光线",
+  "Peck": "啄",
+  "Drill Peck": "啄钻",
+  "Drill-Peck": "啄钻",
+  "Submission": "深渊翻滚",
+  "Low Kick": "踢倒",
+  "Low-Kick": "踢倒",
+  "Counter": "双倍奉还",
+  "Seismic Toss": "地球上投",
+  "Seismic-Toss": "地球上投",
+  "Strength": "怪力",
+  "Absorb": "吸取",
+  "Mega Drain": "超级吸取",
+  "Mega-Drain": "超级吸取",
+  "Leech Seed": "寄生种子",
+  "Leech-Seed": "寄生种子",
+  "Growth": "生长",
+  "Razor Leaf": "飞叶快刀",
+  "Razor-Leaf": "飞叶快刀",
+  "Solar Beam": "日光束",
+  "Solar-Beam": "日光束",
+  "Poison Powder": "毒粉",
+  "Poison-Powder": "毒粉",
+  "Stun Spore": "麻痹粉",
+  "Stun-Spore": "麻痹粉",
+  "Sleep Powder": "催眠粉",
+  "Sleep-Powder": "催眠粉",
+  "Petal Dance": "花瓣舞",
+  "Petal-Dance": "花瓣舞",
+  "String Shot": "吐丝",
+  "String-Shot": "吐丝",
+  "Dragon Rage": "龙之怒",
+  "Dragon-Rage": "龙之怒",
+  "Fire Spin": "火焰旋涡",
+  "Fire-Spin": "火焰旋涡",
+  "Thunder Shock": "电击",
+  "Thunder-Shock": "电击",
+  "Thunderbolt": "十万伏特",
+  "Thunder Wave": "电磁波",
+  "Thunder-Wave": "电磁波",
+  "Thunder": "打雷",
+  "Rock Throw": "落石",
+  "Rock-Throw": "落石",
+  "Earthquake": "地震",
+  "Fissure": "地裂",
+  "Dig": "挖洞",
+  "Toxic": "剧毒",
+  "Confusion": "念力",
+  "Psychic": "精神强念",
+  "Hypnosis": "催眠术",
+  "Meditate": "瑜伽姿势",
+  "Agility": "高速移动",
+  "Quick Attack": "电光一闪",
+  "Quick-Attack": "电光一闪",
+  "Rage": "愤怒",
+  "Teleport": "瞬间移动",
+  "Night Shade": "黑夜魔影",
+  "Night-Shade": "黑夜魔影",
+  "Mimic": "模仿",
+  "Screech": "刺耳声",
+  "Double Team": "影子分身",
+  "Double-Team": "影子分身",
+  "Recover": "自我再生",
+  "Harden": "变硬",
+  "Minimize": "变小",
+  "Smokescreen": "烟幕",
+  "Confuse Ray": "奇异之光",
+  "Confuse-Ray": "奇异之光",
+  "Withdraw": "缩入壳中",
+  "Defense Curl": "变圆",
+  "Defense-Curl": "变圆",
+  "Barrier": "屏障",
+  "Light Screen": "光墙",
+  "Light-Screen": "光墙",
+  "Haze": "黑雾",
+  "Reflect": "反射壁",
+  "Focus Energy": "聚气",
+  "Focus-Energy": "聚气",
+  "Bide": "忍耐",
+  "Metronome": "挥指",
+  "Mirror Move": "鹦鹉学舌",
+  "Mirror-Move": "鹦鹉学舌",
+  "Self-Destruct": "玉石俱碎",
+  "Egg Bomb": "炸蛋",
+  "Egg-Bomb": "炸蛋",
+  "Lick": "舌舔",
+  "Smog": "浊雾",
+  "Sludge": "污泥攻击",
+  "Bone Club": "骨棒",
+  "Bone-Club": "骨棒",
+  "Fire Blast": "大字爆炎",
+  "Fire-Blast": "大字爆炎",
+  "Waterfall": "攀瀑",
+  "Clamp": "贝壳夹击",
+  "Swift": "高速星星",
+  "Skull Bash": "火箭头锤",
+  "Skull-Bash": "火箭头锤",
+  "Spike Cannon": "尖刺加农炮",
+  "Spike-Cannon": "尖刺加农炮",
+  "Constrict": "缠绕",
+  "Amnesia": "瞬间失忆",
+  "Kinesis": "折弯汤匙",
+  "Soft-Boiled": "生蛋",
+  "High Jump Kick": "飞膝踢",
+  "High-Jump-Kick": "飞膝踢",
+  "Glare": "大蛇瞪眼",
+  "Dream Eater": "食梦",
+  "Dream-Eater": "食梦",
+  "Poison Gas": "毒瓦斯",
+  "Poison-Gas": "毒瓦斯",
+  "Barrage": "投球",
+  "Leech Life": "汲取",
+  "Leech-Life": "汲取",
+  "Lovely Kiss": "恶魔之吻",
+  "Lovely-Kiss": "恶魔之吻",
+  "Sky Attack": "神鸟猛击",
+  "Sky-Attack": "神鸟猛击",
+  "Transform": "变身",
+  "Bubble": "泡沫",
+  "Dizzy Punch": "迷昏拳",
+  "Dizzy-Punch": "迷昏拳",
+  "Spore": "蘑菇孢子",
+  "Flash": "闪光",
+  "Psywave": "精神波",
+  "Splash": "跃起",
+  "Acid Armor": "溶化",
+  "Acid-Armor": "溶化",
+  "Crabhammer": "蟹钳锤",
+  "Explosion": "大爆炸",
+  "Fury Swipes": "乱抓",
+  "Fury-Swipes": "乱抓",
+  "Bonemerang": "骨头回力镖",
+  "Rest": "睡觉",
+  "Rock Slide": "岩崩",
+  "Rock-Slide": "岩崩",
+  "Hyper Fang": "终结门牙",
+  "Hyper-Fang": "终结门牙",
+  "Sharpen": "棱角化",
+  "Conversion": "纹理",
+  "Tri Attack": "三重攻击",
+  "Tri-Attack": "三重攻击",
+  "Super Fang": "愤怒门牙",
+  "Super-Fang": "愤怒门牙",
+  "Slash": "劈开",
+  "Substitute": "替身",
+  "Struggle": "挣扎",
+  "Sketch": "写生",
+  "Triple Kick": "三连踢",
+  "Triple-Kick": "三连踢",
+  "Thief": "小偷",
+  "Spider Web": "蛛网",
+  "Spider-Web": "蛛网",
+  "Mind Reader": "心之眼",
+  "Mind-Reader": "心之眼",
+  "Nightmare": "恶梦",
+  "Flame Wheel": "火焰轮",
+  "Flame-Wheel": "火焰轮",
+  "Snore": "打鼾",
+  "Curse": "咒术",
+  "Flail": "抓狂",
+  "Conversion 2": "纹理２",
+  "Conversion-2": "纹理２",
+  "Aeroblast": "气旋攻击",
+  "Cotton Spore": "棉孢子",
+  "Cotton-Spore": "棉孢子",
+  "Reversal": "绝处逢生",
+  "Spite": "怨恨",
+  "Powder Snow": "细雪",
+  "Powder-Snow": "细雪",
+  "Protect": "守住",
+  "Mach Punch": "音速拳",
+  "Mach-Punch": "音速拳",
+  "Scary Face": "可怕面孔",
+  "Scary-Face": "可怕面孔",
+  "Feint Attack": "出奇一击",
+  "Feint-Attack": "出奇一击",
+  "Sweet Kiss": "天使之吻",
+  "Sweet-Kiss": "天使之吻",
+  "Belly Drum": "腹鼓",
+  "Belly-Drum": "腹鼓",
+  "Sludge Bomb": "污泥炸弹",
+  "Sludge-Bomb": "污泥炸弹",
+  "Mud-Slap": "掷泥",
+  "Octazooka": "章鱼桶炮",
+  "Spikes": "撒菱",
+  "Zap Cannon": "电磁炮",
+  "Zap-Cannon": "电磁炮",
+  "Foresight": "识破",
+  "Destiny Bond": "同命",
+  "Destiny-Bond": "同命",
+  "Perish Song": "终焉之歌",
+  "Perish-Song": "终焉之歌",
+  "Icy Wind": "冰冻之风",
+  "Icy-Wind": "冰冻之风",
+  "Detect": "看穿",
+  "Bone Rush": "骨棒乱打",
+  "Bone-Rush": "骨棒乱打",
+  "Lock-On": "锁定",
+  "Outrage": "逆鳞",
+  "Sandstorm": "沙暴",
+  "Giga Drain": "终极吸取",
+  "Giga-Drain": "终极吸取",
+  "Endure": "挺住",
+  "Charm": "撒娇",
+  "Rollout": "滚动",
+  "False Swipe": "点到为止",
+  "False-Swipe": "点到为止",
+  "Swagger": "虚张声势",
+  "Milk Drink": "喝牛奶",
+  "Milk-Drink": "喝牛奶",
+  "Spark": "电光",
+  "Fury Cutter": "连斩",
+  "Fury-Cutter": "连斩",
+  "Steel Wing": "钢翼",
+  "Steel-Wing": "钢翼",
+  "Mean Look": "黑色目光",
+  "Mean-Look": "黑色目光",
+  "Attract": "迷人",
+  "Sleep Talk": "梦话",
+  "Sleep-Talk": "梦话",
+  "Heal Bell": "治愈铃声",
+  "Heal-Bell": "治愈铃声",
+  "Return": "报恩",
+  "Present": "礼物",
+  "Frustration": "迁怒",
+  "Safeguard": "神秘守护",
+  "Pain Split": "分担痛楚",
+  "Pain-Split": "分担痛楚",
+  "Sacred Fire": "神圣之火",
+  "Sacred-Fire": "神圣之火",
+  "Magnitude": "震级",
+  "Dynamic Punch": "爆裂拳",
+  "Dynamic-Punch": "爆裂拳",
+  "Megahorn": "超级角击",
+  "Dragon Breath": "龙息",
+  "Dragon-Breath": "龙息",
+  "Baton Pass": "接棒",
+  "Baton-Pass": "接棒",
+  "Encore": "再来一次",
+  "Pursuit": "追打",
+  "Rapid Spin": "高速旋转",
+  "Rapid-Spin": "高速旋转",
+  "Sweet Scent": "甜甜香气",
+  "Sweet-Scent": "甜甜香气",
+  "Iron Tail": "铁尾",
+  "Iron-Tail": "铁尾",
+  "Metal Claw": "金属爪",
+  "Metal-Claw": "金属爪",
+  "Vital Throw": "借力摔",
+  "Vital-Throw": "借力摔",
+  "Morning Sun": "晨光",
+  "Morning-Sun": "晨光",
+  "Synthesis": "光合作用",
+  "Moonlight": "月光",
+  "Hidden Power": "觉醒力量",
+  "Hidden-Power": "觉醒力量",
+  "Cross Chop": "十字劈",
+  "Cross-Chop": "十字劈",
+  "Twister": "龙卷风",
+  "Rain Dance": "求雨",
+  "Rain-Dance": "求雨",
+  "Sunny Day": "大晴天",
+  "Sunny-Day": "大晴天",
+  "Crunch": "咬碎",
+  "Mirror Coat": "镜面反射",
+  "Mirror-Coat": "镜面反射",
+  "Psych Up": "自我暗示",
+  "Psych-Up": "自我暗示",
+  "Extreme Speed": "神速",
+  "Extreme-Speed": "神速",
+  "Ancient Power": "原始之力",
+  "Ancient-Power": "原始之力",
+  "Shadow Ball": "暗影球",
+  "Shadow-Ball": "暗影球",
+  "Future Sight": "预知未来",
+  "Future-Sight": "预知未来",
+  "Rock Smash": "碎岩",
+  "Rock-Smash": "碎岩",
+  "Whirlpool": "潮旋",
+  "Beat Up": "围攻",
+  "Beat-Up": "围攻",
+  "Fake Out": "击掌奇袭",
+  "Fake-Out": "击掌奇袭",
+  "Uproar": "吵闹",
+  "Stockpile": "蓄力",
+  "Spit Up": "喷出",
+  "Spit-Up": "喷出",
+  "Swallow": "吞下",
+  "Heat Wave": "热风",
+  "Heat-Wave": "热风",
+  "Hail": "冰雹",
+  "Torment": "无理取闹",
+  "Flatter": "吹捧",
+  "Will-O-Wisp": "磷火",
+  "Memento": "临别礼物",
+  "Facade": "硬撑",
+  "Focus Punch": "真气拳",
+  "Focus-Punch": "真气拳",
+  "Smelling Salts": "清醒",
+  "Smelling-Salts": "清醒",
+  "Follow Me": "看我嘛",
+  "Follow-Me": "看我嘛",
+  "Nature Power": "自然之力",
+  "Nature-Power": "自然之力",
+  "Charge": "充电",
+  "Taunt": "挑衅",
+  "Helping Hand": "帮助",
+  "Helping-Hand": "帮助",
+  "Trick": "戏法",
+  "Role Play": "扮演",
+  "Role-Play": "扮演",
+  "Wish": "祈愿",
+  "Assist": "借助",
+  "Ingrain": "扎根",
+  "Superpower": "蛮力",
+  "Magic Coat": "魔法反射",
+  "Magic-Coat": "魔法反射",
+  "Recycle": "回收利用",
+  "Revenge": "报复",
+  "Brick Break": "劈瓦",
+  "Brick-Break": "劈瓦",
+  "Yawn": "哈欠",
+  "Knock Off": "拍落",
+  "Knock-Off": "拍落",
+  "Endeavor": "蛮干",
+  "Eruption": "喷火",
+  "Skill Swap": "特性互换",
+  "Skill-Swap": "特性互换",
+  "Imprison": "封印",
+  "Refresh": "焕然一新",
+  "Grudge": "怨念",
+  "Snatch": "化为己用",
+  "Secret Power": "秘密之力",
+  "Secret-Power": "秘密之力",
+  "Dive": "潜水",
+  "Arm Thrust": "猛推",
+  "Arm-Thrust": "猛推",
+  "Camouflage": "保护色",
+  "Tail Glow": "萤火",
+  "Tail-Glow": "萤火",
+  "Luster Purge": "洁净光芒",
+  "Luster-Purge": "洁净光芒",
+  "Mist Ball": "薄雾球",
+  "Mist-Ball": "薄雾球",
+  "Feather Dance": "羽毛舞",
+  "Feather-Dance": "羽毛舞",
+  "Teeter Dance": "摇晃舞",
+  "Teeter-Dance": "摇晃舞",
+  "Blaze Kick": "火焰踢",
+  "Blaze-Kick": "火焰踢",
+  "Mud Sport": "玩泥巴",
+  "Mud-Sport": "玩泥巴",
+  "Ice Ball": "冰球",
+  "Ice-Ball": "冰球",
+  "Needle Arm": "尖刺臂",
+  "Needle-Arm": "尖刺臂",
+  "Slack Off": "偷懒",
+  "Slack-Off": "偷懒",
+  "Hyper Voice": "巨声",
+  "Hyper-Voice": "巨声",
+  "Poison Fang": "剧毒牙",
+  "Poison-Fang": "剧毒牙",
+  "Crush Claw": "撕裂爪",
+  "Crush-Claw": "撕裂爪",
+  "Blast Burn": "爆炸烈焰",
+  "Blast-Burn": "爆炸烈焰",
+  "Hydro Cannon": "加农水炮",
+  "Hydro-Cannon": "加农水炮",
+  "Meteor Mash": "彗星拳",
+  "Meteor-Mash": "彗星拳",
+  "Astonish": "惊吓",
+  "Weather Ball": "气象球",
+  "Weather-Ball": "气象球",
+  "Aromatherapy": "芳香治疗",
+  "Fake Tears": "假哭",
+  "Fake-Tears": "假哭",
+  "Air Cutter": "空气利刃",
+  "Air-Cutter": "空气利刃",
+  "Overheat": "过热",
+  "Odor Sleuth": "气味侦测",
+  "Odor-Sleuth": "气味侦测",
+  "Rock Tomb": "岩石封锁",
+  "Rock-Tomb": "岩石封锁",
+  "Silver Wind": "银色旋风",
+  "Silver-Wind": "银色旋风",
+  "Metal Sound": "金属音",
+  "Metal-Sound": "金属音",
+  "Grass Whistle": "草笛",
+  "Grass-Whistle": "草笛",
+  "Tickle": "挠痒",
+  "Cosmic Power": "宇宙力量",
+  "Cosmic-Power": "宇宙力量",
+  "Water Spout": "喷水",
+  "Water-Spout": "喷水",
+  "Signal Beam": "信号光束",
+  "Signal-Beam": "信号光束",
+  "Shadow Punch": "暗影拳",
+  "Shadow-Punch": "暗影拳",
+  "Extrasensory": "神通力",
+  "Sky Uppercut": "冲天拳",
+  "Sky-Uppercut": "冲天拳",
+  "Sand Tomb": "流沙深渊",
+  "Sand-Tomb": "流沙深渊",
+  "Sheer Cold": "绝对零度",
+  "Sheer-Cold": "绝对零度",
+  "Muddy Water": "浊流",
+  "Muddy-Water": "浊流",
+  "Bullet Seed": "种子机关枪",
+  "Bullet-Seed": "种子机关枪",
+  "Aerial Ace": "燕返",
+  "Aerial-Ace": "燕返",
+  "Icicle Spear": "冰锥",
+  "Icicle-Spear": "冰锥",
+  "Iron Defense": "铁壁",
+  "Iron-Defense": "铁壁",
+  "Block": "挡路",
+  "Howl": "长嚎",
+  "Dragon Claw": "龙爪",
+  "Dragon-Claw": "龙爪",
+  "Frenzy Plant": "疯狂植物",
+  "Frenzy-Plant": "疯狂植物",
+  "Bulk Up": "健美",
+  "Bulk-Up": "健美",
+  "Bounce": "弹跳",
+  "Mud Shot": "泥巴射击",
+  "Mud-Shot": "泥巴射击",
+  "Poison Tail": "毒尾",
+  "Poison-Tail": "毒尾",
+  "Covet": "渴望",
+  "Volt Tackle": "伏特攻击",
+  "Volt-Tackle": "伏特攻击",
+  "Magical Leaf": "魔法叶",
+  "Magical-Leaf": "魔法叶",
+  "Water Sport": "玩水",
+  "Water-Sport": "玩水",
+  "Calm Mind": "冥想",
+  "Calm-Mind": "冥想",
+  "Leaf Blade": "叶刃",
+  "Leaf-Blade": "叶刃",
+  "Dragon Dance": "龙之舞",
+  "Dragon-Dance": "龙之舞",
+  "Rock Blast": "岩石爆击",
+  "Rock-Blast": "岩石爆击",
+  "Shock Wave": "电击波",
+  "Shock-Wave": "电击波",
+  "Water Pulse": "水之波动",
+  "Water-Pulse": "水之波动",
+  "Doom Desire": "破灭之愿",
+  "Doom-Desire": "破灭之愿",
+  "Psycho Boost": "精神突进",
+  "Psycho-Boost": "精神突进",
+  "Roost": "羽栖",
+  "Gravity": "重力",
+  "Miracle Eye": "奇迹之眼",
+  "Miracle-Eye": "奇迹之眼",
+  "Wake-Up Slap": "唤醒巴掌",
+  "Wake-Up-Slap": "唤醒巴掌",
+  "Hammer Arm": "臂锤",
+  "Hammer-Arm": "臂锤",
+  "Gyro Ball": "陀螺球",
+  "Gyro-Ball": "陀螺球",
+  "Healing Wish": "治愈之愿",
+  "Healing-Wish": "治愈之愿",
+  "Brine": "盐水",
+  "Natural Gift": "自然之恩",
+  "Natural-Gift": "自然之恩",
+  "Feint": "佯攻",
+  "Pluck": "啄食",
+  "Tailwind": "顺风",
+  "Acupressure": "点穴",
+  "Metal Burst": "金属爆炸",
+  "Metal-Burst": "金属爆炸",
+  "U-turn": "急速折返",
+  "Close Combat": "近身战",
+  "Close-Combat": "近身战",
+  "Payback": "以牙还牙",
+  "Assurance": "恶意追击",
+  "Embargo": "查封",
+  "Fling": "投掷",
+  "Psycho Shift": "精神转移",
+  "Psycho-Shift": "精神转移",
+  "Trump Card": "王牌",
+  "Trump-Card": "王牌",
+  "Heal Block": "回复封锁",
+  "Heal-Block": "回复封锁",
+  "Wring Out": "绞紧",
+  "Wring-Out": "绞紧",
+  "Power Trick": "力量戏法",
+  "Power-Trick": "力量戏法",
+  "Gastro Acid": "胃液",
+  "Gastro-Acid": "胃液",
+  "Lucky Chant": "幸运咒语",
+  "Lucky-Chant": "幸运咒语",
+  "Me First": "抢先一步",
+  "Me-First": "抢先一步",
+  "Copycat": "仿效",
+  "Power Swap": "力量互换",
+  "Power-Swap": "力量互换",
+  "Guard Swap": "防守互换",
+  "Guard-Swap": "防守互换",
+  "Punishment": "惩罚",
+  "Last Resort": "珍藏",
+  "Last-Resort": "珍藏",
+  "Worry Seed": "烦恼种子",
+  "Worry-Seed": "烦恼种子",
+  "Sucker Punch": "突袭",
+  "Sucker-Punch": "突袭",
+  "Toxic Spikes": "毒菱",
+  "Toxic-Spikes": "毒菱",
+  "Heart Swap": "心灵互换",
+  "Heart-Swap": "心灵互换",
+  "Aqua Ring": "水流环",
+  "Aqua-Ring": "水流环",
+  "Magnet Rise": "电磁飘浮",
+  "Magnet-Rise": "电磁飘浮",
+  "Flare Blitz": "闪焰冲锋",
+  "Flare-Blitz": "闪焰冲锋",
+  "Force Palm": "发劲",
+  "Force-Palm": "发劲",
+  "Aura Sphere": "波导弹",
+  "Aura-Sphere": "波导弹",
+  "Rock Polish": "岩石打磨",
+  "Rock-Polish": "岩石打磨",
+  "Poison Jab": "毒击",
+  "Poison-Jab": "毒击",
+  "Dark Pulse": "恶之波动",
+  "Dark-Pulse": "恶之波动",
+  "Night Slash": "暗袭要害",
+  "Night-Slash": "暗袭要害",
+  "Aqua Tail": "水流尾",
+  "Aqua-Tail": "水流尾",
+  "Seed Bomb": "种子炸弹",
+  "Seed-Bomb": "种子炸弹",
+  "Air Slash": "空气之刃",
+  "Air-Slash": "空气之刃",
+  "X-Scissor": "十字剪",
+  "Bug Buzz": "虫鸣",
+  "Bug-Buzz": "虫鸣",
+  "Dragon Pulse": "龙之波动",
+  "Dragon-Pulse": "龙之波动",
+  "Dragon Rush": "龙之俯冲",
+  "Dragon-Rush": "龙之俯冲",
+  "Power Gem": "力量宝石",
+  "Power-Gem": "力量宝石",
+  "Drain Punch": "吸取拳",
+  "Drain-Punch": "吸取拳",
+  "Vacuum Wave": "真空波",
+  "Vacuum-Wave": "真空波",
+  "Focus Blast": "真气弹",
+  "Focus-Blast": "真气弹",
+  "Energy Ball": "能量球",
+  "Energy-Ball": "能量球",
+  "Brave Bird": "勇鸟猛攻",
+  "Brave-Bird": "勇鸟猛攻",
+  "Earth Power": "大地之力",
+  "Earth-Power": "大地之力",
+  "Switcheroo": "掉包",
+  "Giga Impact": "终极冲击",
+  "Giga-Impact": "终极冲击",
+  "Nasty Plot": "诡计",
+  "Nasty-Plot": "诡计",
+  "Bullet Punch": "子弹拳",
+  "Bullet-Punch": "子弹拳",
+  "Avalanche": "雪崩",
+  "Ice Shard": "冰砾",
+  "Ice-Shard": "冰砾",
+  "Shadow Claw": "暗影爪",
+  "Shadow-Claw": "暗影爪",
+  "Thunder Fang": "雷电牙",
+  "Thunder-Fang": "雷电牙",
+  "Ice Fang": "冰冻牙",
+  "Ice-Fang": "冰冻牙",
+  "Fire Fang": "火焰牙",
+  "Fire-Fang": "火焰牙",
+  "Shadow Sneak": "影子偷袭",
+  "Shadow-Sneak": "影子偷袭",
+  "Mud Bomb": "泥巴炸弹",
+  "Mud-Bomb": "泥巴炸弹",
+  "Psycho Cut": "精神利刃",
+  "Psycho-Cut": "精神利刃",
+  "Zen Headbutt": "意念头锤",
+  "Zen-Headbutt": "意念头锤",
+  "Mirror Shot": "镜光射击",
+  "Mirror-Shot": "镜光射击",
+  "Flash Cannon": "加农光炮",
+  "Flash-Cannon": "加农光炮",
+  "Rock Climb": "攀岩",
+  "Rock-Climb": "攀岩",
+  "Defog": "清除浓雾",
+  "Trick Room": "戏法空间",
+  "Trick-Room": "戏法空间",
+  "Draco Meteor": "流星群",
+  "Draco-Meteor": "流星群",
+  "Discharge": "放电",
+  "Lava Plume": "喷烟",
+  "Lava-Plume": "喷烟",
+  "Leaf Storm": "飞叶风暴",
+  "Leaf-Storm": "飞叶风暴",
+  "Power Whip": "强力鞭打",
+  "Power-Whip": "强力鞭打",
+  "Rock Wrecker": "岩石炮",
+  "Rock-Wrecker": "岩石炮",
+  "Cross Poison": "十字毒刃",
+  "Cross-Poison": "十字毒刃",
+  "Gunk Shot": "垃圾射击",
+  "Gunk-Shot": "垃圾射击",
+  "Iron Head": "铁头",
+  "Iron-Head": "铁头",
+  "Magnet Bomb": "磁铁炸弹",
+  "Magnet-Bomb": "磁铁炸弹",
+  "Stone Edge": "尖石攻击",
+  "Stone-Edge": "尖石攻击",
+  "Captivate": "诱惑",
+  "Stealth Rock": "隐形岩",
+  "Stealth-Rock": "隐形岩",
+  "Grass Knot": "打草结",
+  "Grass-Knot": "打草结",
+  "Chatter": "喋喋不休",
+  "Judgment": "制裁光砾",
+  "Bug Bite": "虫咬",
+  "Bug-Bite": "虫咬",
+  "Charge Beam": "充电光束",
+  "Charge-Beam": "充电光束",
+  "Wood Hammer": "木槌",
+  "Wood-Hammer": "木槌",
+  "Aqua Jet": "水流喷射",
+  "Aqua-Jet": "水流喷射",
+  "Attack Order": "攻击指令",
+  "Attack-Order": "攻击指令",
+  "Defend Order": "防御指令",
+  "Defend-Order": "防御指令",
+  "Heal Order": "回复指令",
+  "Heal-Order": "回复指令",
+  "Head Smash": "双刃头锤",
+  "Head-Smash": "双刃头锤",
+  "Double Hit": "二连击",
+  "Double-Hit": "二连击",
+  "Roar of Time": "时光咆哮",
+  "Roar-of-Time": "时光咆哮",
+  "Spacial Rend": "亚空裂斩",
+  "Spacial-Rend": "亚空裂斩",
+  "Lunar Dance": "新月舞",
+  "Lunar-Dance": "新月舞",
+  "Crush Grip": "捏碎",
+  "Crush-Grip": "捏碎",
+  "Magma Storm": "熔岩风暴",
+  "Magma-Storm": "熔岩风暴",
+  "Dark Void": "暗黑洞",
+  "Dark-Void": "暗黑洞",
+  "Seed Flare": "种子闪光",
+  "Seed-Flare": "种子闪光",
+  "Ominous Wind": "奇异之风",
+  "Ominous-Wind": "奇异之风",
+  "Shadow Force": "暗影潜袭",
+  "Shadow-Force": "暗影潜袭",
+  "Hone Claws": "磨爪",
+  "Hone-Claws": "磨爪",
+  "Wide Guard": "广域防守",
+  "Wide-Guard": "广域防守",
+  "Guard Split": "防守平分",
+  "Guard-Split": "防守平分",
+  "Power Split": "力量平分",
+  "Power-Split": "力量平分",
+  "Wonder Room": "奇妙空间",
+  "Wonder-Room": "奇妙空间",
+  "Psyshock": "精神冲击",
+  "Venoshock": "毒液冲击",
+  "Autotomize": "身体轻量化",
+  "Rage Powder": "愤怒粉",
+  "Rage-Powder": "愤怒粉",
+  "Telekinesis": "意念移物",
+  "Magic Room": "魔法空间",
+  "Magic-Room": "魔法空间",
+  "Smack Down": "击落",
+  "Smack-Down": "击落",
+  "Storm Throw": "山岚摔",
+  "Storm-Throw": "山岚摔",
+  "Flame Burst": "烈焰溅射",
+  "Flame-Burst": "烈焰溅射",
+  "Sludge Wave": "污泥波",
+  "Sludge-Wave": "污泥波",
+  "Quiver Dance": "蝶舞",
+  "Quiver-Dance": "蝶舞",
+  "Heavy Slam": "重磅冲撞",
+  "Heavy-Slam": "重磅冲撞",
+  "Synchronoise": "同步干扰",
+  "Electro Ball": "电球",
+  "Electro-Ball": "电球",
+  "Soak": "浸水",
+  "Flame Charge": "蓄能焰袭",
+  "Flame-Charge": "蓄能焰袭",
+  "Coil": "盘蜷",
+  "Low Sweep": "下盘踢",
+  "Low-Sweep": "下盘踢",
+  "Acid Spray": "酸液炸弹",
+  "Acid-Spray": "酸液炸弹",
+  "Foul Play": "移花接木",
+  "Foul-Play": "移花接木",
+  "Simple Beam": "单纯光束",
+  "Simple-Beam": "单纯光束",
+  "Entrainment": "找伙伴",
+  "After You": "您先请",
+  "After-You": "您先请",
+  "Round": "轮唱",
+  "Echoed Voice": "回声",
+  "Echoed-Voice": "回声",
+  "Chip Away": "逐步击破",
+  "Chip-Away": "逐步击破",
+  "Clear Smog": "清除之烟",
+  "Clear-Smog": "清除之烟",
+  "Stored Power": "辅助力量",
+  "Stored-Power": "辅助力量",
+  "Quick Guard": "快速防守",
+  "Quick-Guard": "快速防守",
+  "Ally Switch": "交换场地",
+  "Ally-Switch": "交换场地",
+  "Scald": "热水",
+  "Shell Smash": "破壳",
+  "Shell-Smash": "破壳",
+  "Heal Pulse": "治愈波动",
+  "Heal-Pulse": "治愈波动",
+  "Hex": "祸不单行",
+  "Sky Drop": "自由落体",
+  "Sky-Drop": "自由落体",
+  "Shift Gear": "换档",
+  "Shift-Gear": "换档",
+  "Circle Throw": "巴投",
+  "Circle-Throw": "巴投",
+  "Incinerate": "烧净",
+  "Quash": "延后",
+  "Acrobatics": "杂技",
+  "Reflect Type": "镜面属性",
+  "Reflect-Type": "镜面属性",
+  "Retaliate": "报仇",
+  "Final Gambit": "搏命",
+  "Final-Gambit": "搏命",
+  "Bestow": "传递礼物",
+  "Inferno": "烈火深渊",
+  "Water Pledge": "水之誓约",
+  "Water-Pledge": "水之誓约",
+  "Fire Pledge": "火之誓约",
+  "Fire-Pledge": "火之誓约",
+  "Grass Pledge": "草之誓约",
+  "Grass-Pledge": "草之誓约",
+  "Volt Switch": "伏特替换",
+  "Volt-Switch": "伏特替换",
+  "Struggle Bug": "虫之抵抗",
+  "Struggle-Bug": "虫之抵抗",
+  "Bulldoze": "重踏",
+  "Frost Breath": "冰息",
+  "Frost-Breath": "冰息",
+  "Dragon Tail": "龙尾",
+  "Dragon-Tail": "龙尾",
+  "Work Up": "自我激励",
+  "Work-Up": "自我激励",
+  "Electroweb": "电网",
+  "Wild Charge": "疯狂伏特",
+  "Wild-Charge": "疯狂伏特",
+  "Drill Run": "直冲钻",
+  "Drill-Run": "直冲钻",
+  "Dual Chop": "二连劈",
+  "Dual-Chop": "二连劈",
+  "Heart Stamp": "爱心印章",
+  "Heart-Stamp": "爱心印章",
+  "Horn Leech": "木角",
+  "Horn-Leech": "木角",
+  "Sacred Sword": "圣剑",
+  "Sacred-Sword": "圣剑",
+  "Razor Shell": "贝壳刃",
+  "Razor-Shell": "贝壳刃",
+  "Heat Crash": "高温重压",
+  "Heat-Crash": "高温重压",
+  "Leaf Tornado": "青草搅拌器",
+  "Leaf-Tornado": "青草搅拌器",
+  "Steamroller": "疯狂滚压",
+  "Cotton Guard": "棉花防守",
+  "Cotton-Guard": "棉花防守",
+  "Night Daze": "暗黑爆破",
+  "Night-Daze": "暗黑爆破",
+  "Psystrike": "精神击破",
+  "Tail Slap": "扫尾拍打",
+  "Tail-Slap": "扫尾拍打",
+  "Hurricane": "暴风",
+  "Head Charge": "爆炸头突击",
+  "Head-Charge": "爆炸头突击",
+  "Gear Grind": "齿轮飞盘",
+  "Gear-Grind": "齿轮飞盘",
+  "Searing Shot": "火焰弹",
+  "Searing-Shot": "火焰弹",
+  "Techno Blast": "高科技光炮",
+  "Techno-Blast": "高科技光炮",
+  "Relic Song": "古老之歌",
+  "Relic-Song": "古老之歌",
+  "Secret Sword": "神秘之剑",
+  "Secret-Sword": "神秘之剑",
+  "Glaciate": "冰封世界",
+  "Bolt Strike": "雷击",
+  "Bolt-Strike": "雷击",
+  "Blue Flare": "青焰",
+  "Blue-Flare": "青焰",
+  "Fiery Dance": "火之舞",
+  "Fiery-Dance": "火之舞",
+  "Freeze Shock": "冰冻伏特",
+  "Freeze-Shock": "冰冻伏特",
+  "Ice Burn": "极寒冷焰",
+  "Ice-Burn": "极寒冷焰",
+  "Snarl": "大声咆哮",
+  "Icicle Crash": "冰柱坠击",
+  "Icicle-Crash": "冰柱坠击",
+  "V-create": "Ｖ热焰",
+  "Fusion Flare": "交错火焰",
+  "Fusion-Flare": "交错火焰",
+  "Fusion Bolt": "交错闪电",
+  "Fusion-Bolt": "交错闪电",
+  "Flying Press": "飞身重压",
+  "Flying-Press": "飞身重压",
+  "Mat Block": "掀榻榻米",
+  "Mat-Block": "掀榻榻米",
+  "Belch": "打嗝",
+  "Rototiller": "耕地",
+  "Sticky Web": "黏黏网",
+  "Sticky-Web": "黏黏网",
+  "Fell Stinger": "致命针刺",
+  "Fell-Stinger": "致命针刺",
+  "Phantom Force": "潜灵奇袭",
+  "Phantom-Force": "潜灵奇袭",
+  "Trick-or-Treat": "万圣夜",
+  "Noble Roar": "战吼",
+  "Noble-Roar": "战吼",
+  "Ion Deluge": "等离子浴",
+  "Ion-Deluge": "等离子浴",
+  "Parabolic Charge": "抛物面充电",
+  "Parabolic-Charge": "抛物面充电",
+  "Forest's Curse": "森林咒术",
+  "Forest's-Curse": "森林咒术",
+  "Petal Blizzard": "落英缤纷",
+  "Petal-Blizzard": "落英缤纷",
+  "Freeze-Dry": "冷冻干燥",
+  "Disarming Voice": "魅惑之声",
+  "Disarming-Voice": "魅惑之声",
+  "Parting Shot": "抛下狠话",
+  "Parting-Shot": "抛下狠话",
+  "Topsy-Turvy": "颠倒",
+  "Draining Kiss": "吸取之吻",
+  "Draining-Kiss": "吸取之吻",
+  "Crafty Shield": "戏法防守",
+  "Crafty-Shield": "戏法防守",
+  "Flower Shield": "鲜花防守",
+  "Flower-Shield": "鲜花防守",
+  "Grassy Terrain": "青草场地",
+  "Grassy-Terrain": "青草场地",
+  "Misty Terrain": "薄雾场地",
+  "Misty-Terrain": "薄雾场地",
+  "Electrify": "输电",
+  "Play Rough": "嬉闹",
+  "Play-Rough": "嬉闹",
+  "Fairy Wind": "妖精之风",
+  "Fairy-Wind": "妖精之风",
+  "Moonblast": "月亮之力",
+  "Boomburst": "爆音波",
+  "Fairy Lock": "妖精之锁",
+  "Fairy-Lock": "妖精之锁",
+  "King's Shield": "王者盾牌",
+  "King's-Shield": "王者盾牌",
+  "Play Nice": "和睦相处",
+  "Play-Nice": "和睦相处",
+  "Confide": "密语",
+  "Diamond Storm": "钻石风暴",
+  "Diamond-Storm": "钻石风暴",
+  "Steam Eruption": "蒸汽爆炸",
+  "Steam-Eruption": "蒸汽爆炸",
+  "Hyperspace Hole": "异次元洞",
+  "Hyperspace-Hole": "异次元洞",
+  "Water Shuriken": "飞水手里剑",
+  "Water-Shuriken": "飞水手里剑",
+  "Mystical Fire": "魔法火焰",
+  "Mystical-Fire": "魔法火焰",
+  "Spiky Shield": "尖刺防守",
+  "Spiky-Shield": "尖刺防守",
+  "Aromatic Mist": "芳香薄雾",
+  "Aromatic-Mist": "芳香薄雾",
+  "Eerie Impulse": "怪异电波",
+  "Eerie-Impulse": "怪异电波",
+  "Venom Drench": "毒液陷阱",
+  "Venom-Drench": "毒液陷阱",
+  "Powder": "粉尘",
+  "Geomancy": "大地掌控",
+  "Magnetic Flux": "磁场操控",
+  "Magnetic-Flux": "磁场操控",
+  "Happy Hour": "欢乐时光",
+  "Happy-Hour": "欢乐时光",
+  "Electric Terrain": "电气场地",
+  "Electric-Terrain": "电气场地",
+  "Dazzling Gleam": "魔法闪耀",
+  "Dazzling-Gleam": "魔法闪耀",
+  "Celebrate": "庆祝",
+  "Hold Hands": "牵手",
+  "Hold-Hands": "牵手",
+  "Baby-Doll Eyes": "圆瞳",
+  "Baby-Doll-Eyes": "圆瞳",
+  "Nuzzle": "蹭蹭脸颊",
+  "Hold Back": "手下留情",
+  "Hold-Back": "手下留情",
+  "Infestation": "纠缠不休",
+  "Power-Up Punch": "增强拳",
+  "Power-Up-Punch": "增强拳",
+  "Oblivion Wing": "归天之翼",
+  "Oblivion-Wing": "归天之翼",
+  "Thousand Arrows": "千箭齐发",
+  "Thousand-Arrows": "千箭齐发",
+  "Thousand Waves": "千波激荡",
+  "Thousand-Waves": "千波激荡",
+  "Land's Wrath": "大地神力",
+  "Land's-Wrath": "大地神力",
+  "Light of Ruin": "破灭之光",
+  "Light-of-Ruin": "破灭之光",
+  "Origin Pulse": "根源波动",
+  "Origin-Pulse": "根源波动",
+  "Precipice Blades": "断崖之剑",
+  "Precipice-Blades": "断崖之剑",
+  "Dragon Ascent": "画龙点睛",
+  "Dragon-Ascent": "画龙点睛",
+  "Hyperspace Fury": "异次元猛攻",
+  "Hyperspace-Fury": "异次元猛攻",
+  "Breakneck Blitz": "究极无敌大冲撞",
+  "Breakneck-Blitz": "究极无敌大冲撞",
+  "All-Out Pummeling": "全力无双激烈拳",
+  "All-Out-Pummeling": "全力无双激烈拳",
+  "Supersonic Skystrike": "极速俯冲轰烈撞",
+  "Supersonic-Skystrike": "极速俯冲轰烈撞",
+  "Acid Downpour": "强酸剧毒灭绝雨",
+  "Acid-Downpour": "强酸剧毒灭绝雨",
+  "Tectonic Rage": "地隆啸天大终结",
+  "Tectonic-Rage": "地隆啸天大终结",
+  "Continental Crush": "毁天灭地巨岩坠",
+  "Continental-Crush": "毁天灭地巨岩坠",
+  "Savage Spin-Out": "绝对捕食回旋斩",
+  "Savage-Spin-Out": "绝对捕食回旋斩",
+  "Never-Ending Nightmare": "无尽暗夜之诱惑",
+  "Never-Ending-Nightmare": "无尽暗夜之诱惑",
+  "Corkscrew Crash": "超绝螺旋连击",
+  "Corkscrew-Crash": "超绝螺旋连击",
+  "Inferno Overdrive": "超强极限爆焰弹",
+  "Inferno-Overdrive": "超强极限爆焰弹",
+  "Hydro Vortex": "超级水流大漩涡",
+  "Hydro-Vortex": "超级水流大漩涡",
+  "Bloom Doom": "绚烂缤纷花怒放",
+  "Bloom-Doom": "绚烂缤纷花怒放",
+  "Gigavolt Havoc": "终极伏特狂雷闪",
+  "Gigavolt-Havoc": "终极伏特狂雷闪",
+  "Shattered Psyche": "至高精神破坏波",
+  "Shattered-Psyche": "至高精神破坏波",
+  "Subzero Slammer": "激狂大地万里冰",
+  "Subzero-Slammer": "激狂大地万里冰",
+  "Devastating Drake": "究极巨龙震天地",
+  "Devastating-Drake": "究极巨龙震天地",
+  "Black Hole Eclipse": "黑洞吞噬万物灭",
+  "Black-Hole-Eclipse": "黑洞吞噬万物灭",
+  "Twinkle Tackle": "可爱星星飞天撞",
+  "Twinkle-Tackle": "可爱星星飞天撞",
+  "Catastropika": "皮卡皮卡必杀击",
+  "Shore Up": "集沙",
+  "Shore-Up": "集沙",
+  "First Impression": "迎头一击",
+  "First-Impression": "迎头一击",
+  "Baneful Bunker": "碉堡",
+  "Baneful-Bunker": "碉堡",
+  "Spirit Shackle": "缝影",
+  "Spirit-Shackle": "缝影",
+  "Darkest Lariat": "ＤＤ金勾臂",
+  "Darkest-Lariat": "ＤＤ金勾臂",
+  "Sparkling Aria": "泡影的咏叹调",
+  "Sparkling-Aria": "泡影的咏叹调",
+  "Ice Hammer": "冰锤",
+  "Ice-Hammer": "冰锤",
+  "Floral Healing": "花疗",
+  "Floral-Healing": "花疗",
+  "High Horsepower": "十万马力",
+  "High-Horsepower": "十万马力",
+  "Strength Sap": "吸取力量",
+  "Strength-Sap": "吸取力量",
+  "Solar Blade": "日光刃",
+  "Solar-Blade": "日光刃",
+  "Leafage": "树叶",
+  "Spotlight": "聚光灯",
+  "Toxic Thread": "毒丝",
+  "Toxic-Thread": "毒丝",
+  "Laser Focus": "磨砺",
+  "Laser-Focus": "磨砺",
+  "Gear Up": "辅助齿轮",
+  "Gear-Up": "辅助齿轮",
+  "Throat Chop": "深渊突刺",
+  "Throat-Chop": "深渊突刺",
+  "Pollen Puff": "花粉团",
+  "Pollen-Puff": "花粉团",
+  "Anchor Shot": "掷锚",
+  "Anchor-Shot": "掷锚",
+  "Psychic Terrain": "精神场地",
+  "Psychic-Terrain": "精神场地",
+  "Lunge": "猛扑",
+  "Fire Lash": "火焰鞭",
+  "Fire-Lash": "火焰鞭",
+  "Power Trip": "嚣张",
+  "Power-Trip": "嚣张",
+  "Burn Up": "燃尽",
+  "Burn-Up": "燃尽",
+  "Speed Swap": "速度互换",
+  "Speed-Swap": "速度互换",
+  "Smart Strike": "修长之角",
+  "Smart-Strike": "修长之角",
+  "Purify": "净化",
+  "Revelation Dance": "觉醒之舞",
+  "Revelation-Dance": "觉醒之舞",
+  "Core Enforcer": "核心惩罚者",
+  "Core-Enforcer": "核心惩罚者",
+  "Trop Kick": "热带踢",
+  "Trop-Kick": "热带踢",
+  "Instruct": "号令",
+  "Beak Blast": "鸟嘴加农炮",
+  "Beak-Blast": "鸟嘴加农炮",
+  "Clanging Scales": "鳞片噪音",
+  "Clanging-Scales": "鳞片噪音",
+  "Dragon Hammer": "龙锤",
+  "Dragon-Hammer": "龙锤",
+  "Brutal Swing": "狂舞挥打",
+  "Brutal-Swing": "狂舞挥打",
+  "Aurora Veil": "极光幕",
+  "Aurora-Veil": "极光幕",
+  "Sinister Arrow Raid": "遮天蔽日暗影箭",
+  "Sinister-Arrow-Raid": "遮天蔽日暗影箭",
+  "Malicious Moonsault": "极恶飞跃粉碎击",
+  "Malicious-Moonsault": "极恶飞跃粉碎击",
+  "Oceanic Operetta": "海神庄严交响乐",
+  "Oceanic-Operetta": "海神庄严交响乐",
+  "Guardian of Alola": "巨人卫士・阿罗拉",
+  "Guardian-of-Alola": "巨人卫士・阿罗拉",
+  "Soul-Stealing 7-Star Strike": "七星夺魂腿",
+  "Soul-Stealing-7-Star-Strike": "七星夺魂腿",
+  "Stoked Sparksurfer": "驾雷驭电戏冲浪",
+  "Stoked-Sparksurfer": "驾雷驭电戏冲浪",
+  "Pulverizing Pancake": "认真起来大爆击",
+  "Pulverizing-Pancake": "认真起来大爆击",
+  "Extreme Evoboost": "九彩昇华齐聚顶",
+  "Extreme-Evoboost": "九彩昇华齐聚顶",
+  "Genesis Supernova": "起源超新星大爆炸",
+  "Genesis-Supernova": "起源超新星大爆炸",
+  "Shell Trap": "陷阱甲壳",
+  "Shell-Trap": "陷阱甲壳",
+  "Fleur Cannon": "花朵加农炮",
+  "Fleur-Cannon": "花朵加农炮",
+  "Psychic Fangs": "精神之牙",
+  "Psychic-Fangs": "精神之牙",
+  "Stomping Tantrum": "跺脚",
+  "Stomping-Tantrum": "跺脚",
+  "Shadow Bone": "暗影之骨",
+  "Shadow-Bone": "暗影之骨",
+  "Accelerock": "冲岩",
+  "Liquidation": "水流裂破",
+  "Prismatic Laser": "棱镜镭射",
+  "Prismatic-Laser": "棱镜镭射",
+  "Spectral Thief": "暗影偷盗",
+  "Spectral-Thief": "暗影偷盗",
+  "Sunsteel Strike": "流星闪冲",
+  "Sunsteel-Strike": "流星闪冲",
+  "Moongeist Beam": "暗影之光",
+  "Moongeist-Beam": "暗影之光",
+  "Tearful Look": "泪眼汪汪",
+  "Tearful-Look": "泪眼汪汪",
+  "Zing Zap": "麻麻刺刺",
+  "Zing-Zap": "麻麻刺刺",
+  "Nature's Madness": "自然之怒",
+  "Nature's-Madness": "自然之怒",
+  "Multi-Attack": "多属性攻击",
+  "10,000,000 Volt Thunderbolt": "千万伏特",
+  "10,000,000-Volt-Thunderbolt": "千万伏特",
+  "Mind Blown": "惊爆大头",
+  "Mind-Blown": "惊爆大头",
+  "Plasma Fists": "等离子闪电拳",
+  "Plasma-Fists": "等离子闪电拳",
+  "Photon Geyser": "光子喷涌",
+  "Photon-Geyser": "光子喷涌",
+  "Clangorous Soulblaze": "炽魂热舞烈音爆",
+  "Clangorous-Soulblaze": "炽魂热舞烈音爆",
+  "Splintered Stormshards": "狼啸石牙飓风暴",
+  "Splintered-Stormshards": "狼啸石牙飓风暴",
+  "Let's Snuggle Forever": "亲密无间大乱揍",
+  "Let's-Snuggle-Forever": "亲密无间大乱揍",
+  "Searing Sunraze Smash": "日光回旋下苍穹",
+  "Searing-Sunraze-Smash": "日光回旋下苍穹",
+  "Menacing Moonraze Maelstrom": "月华飞溅落灵霄",
+  "Menacing-Moonraze-Maelstrom": "月华飞溅落灵霄",
+  "Light That Burns the Sky": "焚天灭世炽光爆",
+  "Light-That-Burns-the-Sky": "焚天灭世炽光爆",
+  "Zippy Zap": "电电加速",
+  "Zippy-Zap": "电电加速",
+  "Splishy Splash": "滔滔冲浪",
+  "Splishy-Splash": "滔滔冲浪",
+  "Floaty Fall": "飘飘坠落",
+  "Floaty-Fall": "飘飘坠落",
+  "Pika Papow": "闪闪雷光",
+  "Pika-Papow": "闪闪雷光",
+  "Bouncy Bubble": "活活气泡",
+  "Bouncy-Bubble": "活活气泡",
+  "Buzzy Buzz": "麻麻电击",
+  "Buzzy-Buzz": "麻麻电击",
+  "Sizzly Slide": "熊熊火爆",
+  "Sizzly-Slide": "熊熊火爆",
+  "Glitzy Glow": "哗哗气场",
+  "Glitzy-Glow": "哗哗气场",
+  "Baddy Bad": "坏坏领域",
+  "Baddy-Bad": "坏坏领域",
+  "Sappy Seed": "茁茁炸弹",
+  "Sappy-Seed": "茁茁炸弹",
+  "Freezy Frost": "冰冰霜冻",
+  "Freezy-Frost": "冰冰霜冻",
+  "Sparkly Swirl": "亮亮风暴",
+  "Sparkly-Swirl": "亮亮风暴",
+  "Veevee Volley": "砰砰击破",
+  "Veevee-Volley": "砰砰击破",
+  "Double Iron Bash": "钢拳双击",
+  "Double-Iron-Bash": "钢拳双击",
+  "Max Guard": "极巨防壁",
+  "Max-Guard": "极巨防壁",
+  "Dynamax Cannon": "极巨炮",
+  "Dynamax-Cannon": "极巨炮",
+  "Snipe Shot": "狙击",
+  "Snipe-Shot": "狙击",
+  "Jaw Lock": "紧咬不放",
+  "Jaw-Lock": "紧咬不放",
+  "Stuff Cheeks": "大快朵颐",
+  "Stuff-Cheeks": "大快朵颐",
+  "No Retreat": "背水一战",
+  "No-Retreat": "背水一战",
+  "Tar Shot": "沥青射击",
+  "Tar-Shot": "沥青射击",
+  "Magic Powder": "魔法粉",
+  "Magic-Powder": "魔法粉",
+  "Dragon Darts": "龙箭",
+  "Dragon-Darts": "龙箭",
+  "Teatime": "茶会",
+  "Octolock": "蛸固",
+  "Bolt Beak": "电喙",
+  "Bolt-Beak": "电喙",
+  "Fishious Rend": "鳃咬",
+  "Fishious-Rend": "鳃咬",
+  "Court Change": "换场",
+  "Court-Change": "换场",
+  "Max Flare": "极巨火爆",
+  "Max-Flare": "极巨火爆",
+  "Max Flutterby": "极巨虫蛊",
+  "Max-Flutterby": "极巨虫蛊",
+  "Max Lightning": "极巨闪电",
+  "Max-Lightning": "极巨闪电",
+  "Max Strike": "极巨攻击",
+  "Max-Strike": "极巨攻击",
+  "Max Knuckle": "极巨拳斗",
+  "Max-Knuckle": "极巨拳斗",
+  "Max Phantasm": "极巨幽魂",
+  "Max-Phantasm": "极巨幽魂",
+  "Max Hailstorm": "极巨寒冰",
+  "Max-Hailstorm": "极巨寒冰",
+  "Max Ooze": "极巨酸毒",
+  "Max-Ooze": "极巨酸毒",
+  "Max Geyser": "极巨水流",
+  "Max-Geyser": "极巨水流",
+  "Max Airstream": "极巨飞冲",
+  "Max-Airstream": "极巨飞冲",
+  "Max Starfall": "极巨妖精",
+  "Max-Starfall": "极巨妖精",
+  "Max Wyrmwind": "极巨龙骑",
+  "Max-Wyrmwind": "极巨龙骑",
+  "Max Mindstorm": "极巨超能",
+  "Max-Mindstorm": "极巨超能",
+  "Max Rockfall": "极巨岩石",
+  "Max-Rockfall": "极巨岩石",
+  "Max Quake": "极巨大地",
+  "Max-Quake": "极巨大地",
+  "Max Darkness": "极巨恶霸",
+  "Max-Darkness": "极巨恶霸",
+  "Max Overgrowth": "极巨草原",
+  "Max-Overgrowth": "极巨草原",
+  "Max Steelspike": "极巨钢铁",
+  "Max-Steelspike": "极巨钢铁",
+  "Clangorous Soul": "魂舞烈音爆",
+  "Clangorous-Soul": "魂舞烈音爆",
+  "Body Press": "扑击",
+  "Body-Press": "扑击",
+  "Decorate": "装饰",
+  "Drum Beating": "鼓击",
+  "Drum-Beating": "鼓击",
+  "Snap Trap": "捕兽夹",
+  "Snap-Trap": "捕兽夹",
+  "Pyro Ball": "火焰球",
+  "Pyro-Ball": "火焰球",
+  "Behemoth Blade": "巨兽斩",
+  "Behemoth-Blade": "巨兽斩",
+  "Behemoth Bash": "巨兽弹",
+  "Behemoth-Bash": "巨兽弹",
+  "Aura Wheel": "气场轮",
+  "Aura-Wheel": "气场轮",
+  "Breaking Swipe": "广域破坏",
+  "Breaking-Swipe": "广域破坏",
+  "Branch Poke": "木枝突刺",
+  "Branch-Poke": "木枝突刺",
+  "Overdrive": "破音",
+  "Apple Acid": "苹果酸",
+  "Apple-Acid": "苹果酸",
+  "Grav Apple": "万有引力",
+  "Grav-Apple": "万有引力",
+  "Spirit Break": "灵魂冲击",
+  "Spirit-Break": "灵魂冲击",
+  "Strange Steam": "神奇蒸汽",
+  "Strange-Steam": "神奇蒸汽",
+  "Life Dew": "生命水滴",
+  "Life-Dew": "生命水滴",
+  "Obstruct": "拦堵",
+  "False Surrender": "假跪真撞",
+  "False-Surrender": "假跪真撞",
+  "Meteor Assault": "流星突击",
+  "Meteor-Assault": "流星突击",
+  "Eternabeam": "无极光束",
+  "Steel Beam": "铁蹄光线",
+  "Steel-Beam": "铁蹄光线",
+  "G-Max Wildfire": "超极巨深渊灭焰",
+  "G-Max-Wildfire": "超极巨深渊灭焰",
+  "G-Max Befuddle": "超极巨蝶影蛊惑",
+  "G-Max-Befuddle": "超极巨蝶影蛊惑",
+  "G-Max Volt Crash": "超极巨万雷轰顶",
+  "G-Max-Volt-Crash": "超极巨万雷轰顶",
+  "G-Max Gold Rush": "超极巨特大金币",
+  "G-Max-Gold-Rush": "超极巨特大金币",
+  "G-Max Chi Strike": "超极巨会心一击",
+  "G-Max-Chi-Strike": "超极巨会心一击",
+  "G-Max Terror": "超极巨幻影幽魂",
+  "G-Max-Terror": "超极巨幻影幽魂",
+  "G-Max Resonance": "超极巨极光旋律",
+  "G-Max-Resonance": "超极巨极光旋律",
+  "G-Max Cuddle": "超极巨热情拥抱",
+  "G-Max-Cuddle": "超极巨热情拥抱",
+  "G-Max Replenish": "超极巨资源再生",
+  "G-Max-Replenish": "超极巨资源再生",
+  "G-Max Malodor": "超极巨臭气冲天",
+  "G-Max-Malodor": "超极巨臭气冲天",
+  "G-Max Stonesurge": "超极巨岩阵以待",
+  "G-Max-Stonesurge": "超极巨岩阵以待",
+  "G-Max Wind Rage": "超极巨旋风袭卷",
+  "G-Max-Wind-Rage": "超极巨旋风袭卷",
+  "G-Max Stun Shock": "超极巨异毒电场",
+  "G-Max-Stun-Shock": "超极巨异毒电场",
+  "G-Max Finale": "超极巨幸福圆满",
+  "G-Max-Finale": "超极巨幸福圆满",
+  "G-Max Depletion": "超极巨劣化衰变",
+  "G-Max-Depletion": "超极巨劣化衰变",
+  "G-Max Gravitas": "超极巨天道七星",
+  "G-Max-Gravitas": "超极巨天道七星",
+  "G-Max Volcalith": "超极巨炎石喷发",
+  "G-Max-Volcalith": "超极巨炎石喷发",
+  "G-Max Sandblast": "超极巨沙尘漫天",
+  "G-Max-Sandblast": "超极巨沙尘漫天",
+  "G-Max Snooze": "超极巨睡魔降临",
+  "G-Max-Snooze": "超极巨睡魔降临",
+  "G-Max Tartness": "超极巨酸不溜丢",
+  "G-Max-Tartness": "超极巨酸不溜丢",
+  "G-Max Sweetness": "超极巨琼浆玉液",
+  "G-Max-Sweetness": "超极巨琼浆玉液",
+  "G-Max Smite": "超极巨天谴雷诛",
+  "G-Max-Smite": "超极巨天谴雷诛",
+  "G-Max Steelsurge": "超极巨钢铁阵法",
+  "G-Max-Steelsurge": "超极巨钢铁阵法",
+  "G-Max Meltdown": "超极巨液金熔击",
+  "G-Max-Meltdown": "超极巨液金熔击",
+  "G-Max Foam Burst": "超极巨激漩泡涡",
+  "G-Max-Foam-Burst": "超极巨激漩泡涡",
+  "G-Max Centiferno": "超极巨百火焚野",
+  "G-Max-Centiferno": "超极巨百火焚野",
+  "Expanding Force": "广域战力",
+  "Expanding-Force": "广域战力",
+  "Steel Roller": "铁滚轮",
+  "Steel-Roller": "铁滚轮",
+  "Scale Shot": "鳞射",
+  "Scale-Shot": "鳞射",
+  "Meteor Beam": "流星光束",
+  "Meteor-Beam": "流星光束",
+  "Shell Side Arm": "臂贝武器",
+  "Shell-Side-Arm": "臂贝武器",
+  "Misty Explosion": "薄雾炸裂",
+  "Misty-Explosion": "薄雾炸裂",
+  "Grassy Glide": "青草滑梯",
+  "Grassy-Glide": "青草滑梯",
+  "Rising Voltage": "电力上升",
+  "Rising-Voltage": "电力上升",
+  "Terrain Pulse": "大地波动",
+  "Terrain-Pulse": "大地波动",
+  "Skitter Smack": "爬击",
+  "Skitter-Smack": "爬击",
+  "Burning Jealousy": "妒火",
+  "Burning-Jealousy": "妒火",
+  "Lash Out": "泄愤",
+  "Lash-Out": "泄愤",
+  "Poltergeist": "灵骚",
+  "Corrosive Gas": "腐蚀气体",
+  "Corrosive-Gas": "腐蚀气体",
+  "Coaching": "指导",
+  "Flip Turn": "快速折返",
+  "Flip-Turn": "快速折返",
+  "Triple Axel": "三旋击",
+  "Triple-Axel": "三旋击",
+  "Dual Wingbeat": "双翼",
+  "Dual-Wingbeat": "双翼",
+  "Scorching Sands": "热沙大地",
+  "Scorching-Sands": "热沙大地",
+  "Jungle Healing": "丛林治疗",
+  "Jungle-Healing": "丛林治疗",
+  "Wicked Blow": "暗冥强击",
+  "Wicked-Blow": "暗冥强击",
+  "Surging Strikes": "水流连打",
+  "Surging-Strikes": "水流连打",
+  "G-Max Drum Solo": "超极巨狂擂乱打",
+  "G-Max-Drum-Solo": "超极巨狂擂乱打",
+  "G-Max Fireball": "超极巨破阵火球",
+  "G-Max-Fireball": "超极巨破阵火球",
+  "G-Max Hydrosnipe": "超极巨狙击神射",
+  "G-Max-Hydrosnipe": "超极巨狙击神射",
+  "G-Max Vine Lash": "超极巨灰飞鞭灭",
+  "G-Max-Vine-Lash": "超极巨灰飞鞭灭",
+  "G-Max Cannonade": "超极巨水炮轰灭",
+  "G-Max-Cannonade": "超极巨水炮轰灭",
+  "G-Max One Blow": "超极巨夺命一击",
+  "G-Max-One-Blow": "超极巨夺命一击",
+  "G-Max Rapid Flow": "超极巨流水连击",
+  "G-Max-Rapid-Flow": "超极巨流水连击",
+  "Thunder Cage": "雷电囚笼",
+  "Thunder-Cage": "雷电囚笼",
+  "Dragon Energy": "巨龙威能",
+  "Dragon-Energy": "巨龙威能",
+  "Freezing Glare": "冰冷视线",
+  "Freezing-Glare": "冰冷视线",
+  "Fiery Wrath": "怒火中烧",
+  "Fiery-Wrath": "怒火中烧",
+  "Thunderous Kick": "雷鸣蹴击",
+  "Thunderous-Kick": "雷鸣蹴击",
+  "Glacial Lance": "雪矛",
+  "Glacial-Lance": "雪矛",
+  "Astral Barrage": "星碎",
+  "Astral-Barrage": "星碎",
+  "Eerie Spell": "诡异咒语",
+  "Eerie-Spell": "诡异咒语",
+  "Dire Claw": "克命爪",
+  "Dire-Claw": "克命爪",
+  "Psyshield Bash": "屏障猛攻",
+  "Psyshield-Bash": "屏障猛攻",
+  "Power Shift": "力量转换",
+  "Power-Shift": "力量转换",
+  "Stone Axe": "岩斧",
+  "Stone-Axe": "岩斧",
+  "Springtide Storm": "阳春风暴",
+  "Springtide-Storm": "阳春风暴",
+  "Mystical Power": "神秘之力",
+  "Mystical-Power": "神秘之力",
+  "Raging Fury": "大愤慨",
+  "Raging-Fury": "大愤慨",
+  "Wave Crash": "波动冲",
+  "Wave-Crash": "波动冲",
+  "Chloroblast": "叶绿爆震",
+  "Mountain Gale": "冰山风",
+  "Mountain-Gale": "冰山风",
+  "Victory Dance": "胜利之舞",
+  "Victory-Dance": "胜利之舞",
+  "Headlong Rush": "突飞猛扑",
+  "Headlong-Rush": "突飞猛扑",
+  "Barb Barrage": "毒千针",
+  "Barb-Barrage": "毒千针",
+  "Esper Wing": "气场之翼",
+  "Esper-Wing": "气场之翼",
+  "Bitter Malice": "冤冤相报",
+  "Bitter-Malice": "冤冤相报",
+  "Shelter": "闭关",
+  "Triple Arrows": "三连箭",
+  "Triple-Arrows": "三连箭",
+  "Infernal Parade": "群魔乱舞",
+  "Infernal-Parade": "群魔乱舞",
+  "Ceaseless Edge": "秘剑・千重涛",
+  "Ceaseless-Edge": "秘剑・千重涛",
+  "Bleakwind Storm": "枯叶风暴",
+  "Bleakwind-Storm": "枯叶风暴",
+  "Wildbolt Storm": "鸣雷风暴",
+  "Wildbolt-Storm": "鸣雷风暴",
+  "Sandsear Storm": "热沙风暴",
+  "Sandsear-Storm": "热沙风暴",
+  "Lunar Blessing": "新月祈祷",
+  "Lunar-Blessing": "新月祈祷",
+  "Take Heart": "勇气填充",
+  "Take-Heart": "勇气填充",
+  "Tera Blast": "太晶爆发",
+  "Tera-Blast": "太晶爆发",
+  "Silk Trap": "线阱",
+  "Silk-Trap": "线阱",
+  "Axe Kick": "下压踢",
+  "Axe-Kick": "下压踢",
+  "Last Respects": "扫墓",
+  "Last-Respects": "扫墓",
+  "Lumina Crash": "琉光冲激",
+  "Lumina-Crash": "琉光冲激",
+  "Order Up": "上菜",
+  "Order-Up": "上菜",
+  "Jet Punch": "喷射拳",
+  "Jet-Punch": "喷射拳",
+  "Spicy Extract": "辣椒精华",
+  "Spicy-Extract": "辣椒精华",
+  "Spin Out": "疾速转轮",
+  "Spin-Out": "疾速转轮",
+  "Population Bomb": "鼠数儿",
+  "Population-Bomb": "鼠数儿",
+  "Ice Spinner": "冰旋",
+  "Ice-Spinner": "冰旋",
+  "Glaive Rush": "巨剑突击",
+  "Glaive-Rush": "巨剑突击",
+  "Revival Blessing": "复生祈祷",
+  "Revival-Blessing": "复生祈祷",
+  "Salt Cure": "盐腌",
+  "Salt-Cure": "盐腌",
+  "Triple Dive": "三连钻",
+  "Triple-Dive": "三连钻",
+  "Mortal Spin": "晶光转转",
+  "Mortal-Spin": "晶光转转",
+  "Doodle": "描绘",
+  "Fillet Away": "甩肉",
+  "Fillet-Away": "甩肉",
+  "Kowtow Cleave": "仆刀",
+  "Kowtow-Cleave": "仆刀",
+  "Flower Trick": "千变万花",
+  "Flower-Trick": "千变万花",
+  "Torch Song": "闪焰高歌",
+  "Torch-Song": "闪焰高歌",
+  "Aqua Step": "流水旋舞",
+  "Aqua-Step": "流水旋舞",
+  "Raging Bull": "怒牛",
+  "Raging-Bull": "怒牛",
+  "Make It Rain": "淘金潮",
+  "Make-It-Rain": "淘金潮",
+  "Psyblade": "精神剑",
+  "Hydro Steam": "水蒸气",
+  "Hydro-Steam": "水蒸气",
+  "Ruination": "大灾难",
+  "Collision Course": "全开猛撞",
+  "Collision-Course": "全开猛撞",
+  "Electro Drift": "闪电猛冲",
+  "Electro-Drift": "闪电猛冲",
+  "Shed Tail": "断尾",
+  "Shed-Tail": "断尾",
+  "Chilly Reception": "冷笑话",
+  "Chilly-Reception": "冷笑话",
+  "Tidy Up": "大扫除",
+  "Tidy-Up": "大扫除",
+  "Snowscape": "雪景",
+  "Pounce": "虫扑",
+  "Trailblaze": "起草",
+  "Chilling Water": "泼冷水",
+  "Chilling-Water": "泼冷水",
+  "Hyper Drill": "强力钻",
+  "Hyper-Drill": "强力钻",
+  "Twin Beam": "双光束",
+  "Twin-Beam": "双光束",
+  "Rage Fist": "愤怒之拳",
+  "Rage-Fist": "愤怒之拳",
+  "Armor Cannon": "铠农炮",
+  "Armor-Cannon": "铠农炮",
+  "Bitter Blade": "悔念剑",
+  "Bitter-Blade": "悔念剑",
+  "Double Shock": "电光双击",
+  "Double-Shock": "电光双击",
+  "Gigaton Hammer": "巨力锤",
+  "Gigaton-Hammer": "巨力锤",
+  "Comeuppance": "复仇",
+  "Aqua Cutter": "水波刀",
+  "Aqua-Cutter": "水波刀",
+  "Blazing Torque": "灼热暴冲",
+  "Blazing-Torque": "灼热暴冲",
+  "Wicked Torque": "黑暗暴冲",
+  "Wicked-Torque": "黑暗暴冲",
+  "Noxious Torque": "剧毒暴冲",
+  "Noxious-Torque": "剧毒暴冲",
+  "Combat Torque": "格斗暴冲",
+  "Combat-Torque": "格斗暴冲",
+  "Magical Torque": "魔法暴冲",
+  "Magical-Torque": "魔法暴冲",
+  "Blood Moon": "血月",
+  "Blood-Moon": "血月",
+  "Matcha Gotcha": "刷刷茶炮",
+  "Matcha-Gotcha": "刷刷茶炮",
+  "Syrup Bomb‎": "糖浆炸弹",
+  "Syrup-Bomb‎": "糖浆炸弹",
+  "Ivy Cudgel": "棘藤棒",
+  "Ivy-Cudgel": "棘藤棒",
+  "Electro Shot": "电光束",
+  "Electro-Shot": "电光束",
+  "Tera Starstorm": "晶光星群",
+  "Tera-Starstorm": "晶光星群",
+  "Fickle Beam": "随机光",
+  "Fickle-Beam": "随机光",
+  "Burning Bulwark": "火焰守护",
+  "Burning-Bulwark": "火焰守护",
+  "Thunderclap": "迅雷",
+  "Mighty Cleave": "强刃攻击",
+  "Mighty-Cleave": "强刃攻击",
+  "Tachyon Cutter": "迅子利刃",
+  "Tachyon-Cutter": "迅子利刃",
+  "Hard Press": "硬压",
+  "Hard-Press": "硬压",
+  "Dragon Cheer": "龙声鼓舞",
+  "Dragon-Cheer": "龙声鼓舞",
+  "Alluring Voice": "魅诱之声",
+  "Alluring-Voice": "魅诱之声",
+  "Temper Flare": "豁出去",
+  "Temper-Flare": "豁出去",
+  "Supercell Slam": "闪电强袭",
+  "Supercell-Slam": "闪电强袭",
+  "Psychic Noise": "精神噪音",
+  "Psychic-Noise": "精神噪音",
+  "Upper Hand": "快手还击",
+  "Upper-Hand": "快手还击",
+  "Malignant Chain": "邪毒锁链",
+  "Malignant-Chain": "邪毒锁链",
+  "Nihil Light": "归无之光",
+  "Nihil-Light": "归无之光"
 }

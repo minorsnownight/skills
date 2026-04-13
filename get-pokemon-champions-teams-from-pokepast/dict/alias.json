@@ -1,733 +1,149 @@
 {
-  "Castform-Sunny": {
-    "ja": "たいようのすがた",
-    "zh-hans": "飘浮泡泡-太阳的样子",
-    "zh-hant": "太陽的樣子"
-  },
-  "Castform-Rainy": {
-    "ja": "あまみずのすがた",
-    "zh-hans": "飘浮泡泡-雨水的样子",
-    "zh-hant": "雨水的樣子"
-  },
-  "Castform-Snowy": {
-    "ja": "ゆきぐものすがた",
-    "zh-hans": "飘浮泡泡-雪云的样子",
-    "zh-hant": "雪雲的樣子"
-  },
-  "Deoxys-Attack": {
-    "ja": "アタックフォルム",
-    "zh-hans": "代欧奇希斯-攻击形态",
-    "zh-hant": "攻擊形態"
-  },
-  "Deoxys-Defense": {
-    "ja": "ディフェンスフォルム",
-    "zh-hans": "代欧奇希斯-防御形态",
-    "zh-hant": "防禦形態"
-  },
-  "Deoxys-Speed": {
-    "ja": "スピードフォルム",
-    "zh-hans": "代欧奇希斯-速度形态",
-    "zh-hant": "速度形態"
-  },
-  "Wormadam-Sandy": {
-    "ja": "すなちのミノ",
-    "zh-hans": "结草贵妇-砂土蓑衣",
-    "zh-hant": "砂土蓑衣"
-  },
-  "Wormadam-Trash": {
-    "ja": "ゴミのミノ",
-    "zh-hans": "结草贵妇-垃圾蓑衣",
-    "zh-hant": "垃圾蓑衣"
-  },
-  "Cherrim-Sunshine": {
-    "ja": "ポジフォルム",
-    "zh-hans": "樱花儿-晴天形态",
-    "zh-hant": "晴天形態"
-  },
-  "Shellos-East": {
-    "ja": "ひがしのうみ",
-    "zh-hans": "无壳海兔-东海",
-    "zh-hant": "東海"
-  },
-  "Gastrodon-East": {
-    "ja": "ひがしのうみ",
-    "zh-hans": "海兔兽-东海",
-    "zh-hant": "東海"
-  },
-  "Rotom-Heat": {
-    "ja": "ヒートロトム",
-    "zh-hans": "加热洛托姆",
-    "zh-hant": "加熱洛托姆"
-  },
-  "Rotom-Wash": {
-    "ja": "ウォッシュロトム",
-    "zh-hans": "清洗洛托姆",
-    "zh-hant": "清洗洛托姆"
-  },
-  "Rotom-Frost": {
-    "ja": "フロストロトム",
-    "zh-hans": "结冰洛托姆",
-    "zh-hant": "結冰洛托姆"
-  },
-  "Rotom-Fan": {
-    "ja": "スピンロトム",
-    "zh-hans": "旋转洛托姆",
-    "zh-hant": "旋轉洛托姆"
-  },
-  "Rotom-Mow": {
-    "ja": "カットロトム",
-    "zh-hans": "切割洛托姆",
-    "zh-hant": "切割洛托姆"
-  },
-  "Shaymin-Sky": {
-    "ja": "スカイフォルム",
-    "zh-hans": "谢米-天空形态",
-    "zh-hant": "天空形態"
-  },
-  "Basculin-Blue-Striped": {
-    "ja": "あおすじのすがた",
-    "zh-hans": "野蛮鲈鱼-蓝条纹的样子",
-    "zh-hant": "藍條紋的樣子"
-  },
-  "Darmanitan-Zen": {
-    "ja": "ダルマモード",
-    "zh-hans": "达摩狒狒-达摩模式",
-    "zh-hant": "達摩模式"
-  },
-  "Meloetta-Pirouette": {
-    "ja": "ステップフォルム",
-    "zh-hans": "美洛耶塔-舞步形态",
-    "zh-hant": "舞步形態"
-  },
-  "Kyurem-Black": {
-    "ja": "ブラックキュレム",
-    "zh-hans": "暗黑酋雷姆",
-    "zh-hant": "闇黑酋雷姆"
-  },
-  "Kyurem-White": {
-    "ja": "ホワイトキュレム",
-    "zh-hans": "焰白酋雷姆",
-    "zh-hant": "焰白酋雷姆"
-  },
-  "Keldeo-Resolute": {
-    "ja": "かくごのすがた",
-    "zh-hans": "凯路迪欧-觉悟的样子",
-    "zh-hant": "覺悟的樣子"
-  },
-  "Poltchageist-Counterfeit": {
-    "ja": "マガイモノのすがた",
-    "zh-hans": "斯魔茶-高檔貨的樣子",
-    "zh-hant": "冒牌貨的樣子"
-  },
-  "Aegislash-Blade": {
-    "ja": "ブレードフォルム",
-    "zh-hans": "坚盾剑怪-刀剑形态",
-    "zh-hant": "刀劍形態"
-  },
-  "Pumpkaboo-Small": {
-    "ja": "ちいさいサイズ",
-    "zh-hans": "南瓜精-小尺寸",
-    "zh-hant": "小尺寸"
-  },
-  "Pumpkaboo-Large": {
-    "ja": "おおきいサイズ",
-    "zh-hans": "南瓜精-大尺寸",
-    "zh-hant": "大尺寸"
-  },
-  "Pumpkaboo-Super": {
-    "ja": "とくだいサイズ",
-    "zh-hans": "南瓜精-特大尺寸",
-    "zh-hant": "特大尺寸"
-  },
-  "Gourgeist-Small": {
-    "ja": "ちいさいサイズ",
-    "zh-hans": "南瓜怪人-小尺寸",
-    "zh-hant": "小尺寸"
-  },
-  "Sinistcha-Unremarkable": {
-    "ja": "ボンサクのすがた",
-    "zh-hans": "来悲粗茶-凡作的样子",
-    "zh-hant": "凡作的樣子"
-  },
-  "Gourgeist-Large": {
-    "ja": "おおきいサイズ",
-    "zh-hans": "南瓜怪人-大尺寸",
-    "zh-hant": "大尺寸"
-  },
-  "Gourgeist-Super": {
-    "ja": "とくだいサイズ",
-    "zh-hans": "南瓜怪人-特大尺寸",
-    "zh-hant": "特大尺寸"
-  },
-  "Xerneas-Neutral": {
-    "ja": "リラックスモード",
-    "zh-hans": "哲尔尼亚斯-放松模式",
-    "zh-hant": "放鬆模式"
-  },
-  "Kyogre-Primal": {
-    "ja": "ゲンシカイキのすがた",
-    "zh-hans": "盖欧卡-原始回归的样子",
-    "zh-hant": "原始回歸的樣子"
-  },
-  "Groudon-Primal": {
-    "ja": "ゲンシカイキのすがた",
-    "zh-hans": "固拉多-原始回归的样子",
-    "zh-hant": "原始回歸的樣子"
-  },
-  "Hoopa-Unbound": {
-    "ja": "ときはなたれしフーパ",
-    "zh-hans": "解放胡帕",
-    "zh-hant": "解放胡帕"
-  },
-  "Pikachu-Original-Cap": {
-    "ja": "オリジナルキャップ",
-    "zh-hans": "皮卡丘-初始帽子",
-    "zh-hant": "初始帽子"
-  },
-  "Pikachu-Hoenn-Cap": {
-    "ja": "ホウエンキャップ",
-    "zh-hans": "皮卡丘-丰缘帽子",
-    "zh-hant": "豐緣帽子"
-  },
-  "Pikachu-Sinnoh-Cap": {
-    "ja": "シンオウキャップ",
-    "zh-hans": "皮卡丘-神奥帽子",
-    "zh-hant": "神奧帽子"
-  },
-  "Pikachu-Unova-Cap": {
-    "ja": "イッシュキャップ",
-    "zh-hans": "皮卡丘-合众帽子",
-    "zh-hant": "合眾帽子"
-  },
-  "Pikachu-Kalos-Cap": {
-    "ja": "カロスキャップ",
-    "zh-hans": "皮卡丘-卡洛斯帽子",
-    "zh-hant": "卡洛斯帽子"
-  },
-  "Pikachu-Alola-Cap": {
-    "ja": "アローラキャップ",
-    "zh-hans": "皮卡丘-阿罗拉帽子",
-    "zh-hant": "阿羅拉帽子"
-  },
-  "Greninja-Ash": {
-    "ja": "サトシゲッコウガ",
-    "zh-hans": "小智版甲贺忍蛙",
-    "zh-hant": "小智版甲賀忍蛙"
-  },
-  "Zygarde-10-Power-Construct": {
-    "ja": "１０％フォルム",
-    "zh-hans": "基格尔德-１０％形态",
-    "zh-hant": "１０％形態"
-  },
-  "Zygarde-50-Power-Construct": {
-    "ja": "５０％フォルム",
-    "zh-hans": "基格尔德-５０％形态",
-    "zh-hant": "５０％形態"
-  },
-  "Oricorio-Pom-Pom": {
-    "ja": "ぱちぱちスタイル",
-    "zh-hans": "花舞鸟-啪滋啪滋风格",
-    "zh-hant": "啪滋啪滋風格"
-  },
-  "Oricorio-Pau": {
-    "ja": "ふらふらスタイル",
-    "zh-hans": "花舞鸟-呼拉呼拉风格",
-    "zh-hant": "呼拉呼拉風格"
-  },
-  "Oricorio-Sensu": {
-    "ja": "まいまいスタイル",
-    "zh-hans": "花舞鸟-轻盈轻盈风格",
-    "zh-hant": "輕盈輕盈風格"
-  },
-  "Wishiwashi-School": {
-    "ja": "むれたすがた",
-    "zh-hans": "弱丁鱼-鱼群的样子",
-    "zh-hant": "魚群的樣子"
-  },
-  "Silvally-Fighting": {
-    "ja": "タイプ：ファイト",
-    "zh-hans": "银伴战兽-属性：战斗",
-    "zh-hant": "屬性：戰鬥"
-  },
-  "Silvally-Flying": {
-    "ja": "タイプ：フライング",
-    "zh-hans": "银伴战兽-属性：飞翔",
-    "zh-hant": "屬性：飛翔"
-  },
-  "Silvally-Poison": {
-    "ja": "タイプ：ポイズン",
-    "zh-hans": "银伴战兽-属性：毒",
-    "zh-hant": "屬性：毒"
-  },
-  "Silvally-Ground": {
-    "ja": "タイプ：グラウンド",
-    "zh-hans": "银伴战兽-属性：大地",
-    "zh-hant": "屬性：大地"
-  },
-  "Silvally-Rock": {
-    "ja": "タイプ：ロック",
-    "zh-hans": "银伴战兽-属性：岩石",
-    "zh-hant": "屬性：岩石"
-  },
-  "Silvally-Bug": {
-    "ja": "タイプ：バグ",
-    "zh-hans": "银伴战兽-属性：虫子",
-    "zh-hant": "屬性：蟲子"
-  },
-  "Silvally-Ghost": {
-    "ja": "タイプ：ゴースト",
-    "zh-hans": "银伴战兽-属性：幽灵",
-    "zh-hant": "屬性：幽靈"
-  },
-  "Silvally-Steel": {
-    "ja": "タイプ：スチール",
-    "zh-hans": "银伴战兽-属性：钢铁",
-    "zh-hant": "屬性：鋼鐵"
-  },
-  "Silvally-Fire": {
-    "ja": "タイプ：ファイヤー",
-    "zh-hans": "银伴战兽-属性：火焰",
-    "zh-hant": "屬性：火焰"
-  },
-  "Silvally-Water": {
-    "ja": "タイプ：ウオーター",
-    "zh-hans": "银伴战兽-属性：清水",
-    "zh-hant": "屬性：清水"
-  },
-  "Silvally-Grass": {
-    "ja": "タイプ：グラス",
-    "zh-hans": "银伴战兽-属性：青草",
-    "zh-hant": "屬性：青草"
-  },
-  "Silvally-Electric": {
-    "ja": "タイプ：エレクトロ",
-    "zh-hans": "银伴战兽-属性：电子",
-    "zh-hant": "屬性：電子"
-  },
-  "Silvally-Psychic": {
-    "ja": "タイプ：サイキック",
-    "zh-hans": "银伴战兽-属性：精神",
-    "zh-hant": "屬性：精神"
-  },
-  "Silvally-Ice": {
-    "ja": "タイプ：アイス",
-    "zh-hans": "银伴战兽-属性：冰雪",
-    "zh-hant": "屬性：冰雪"
-  },
-  "Silvally-Dragon": {
-    "ja": "タイプ：ドラゴン",
-    "zh-hans": "银伴战兽-属性：龙",
-    "zh-hant": "屬性：龍"
-  },
-  "Silvally-Dark": {
-    "ja": "タイプ：ダーク",
-    "zh-hans": "银伴战兽-属性：黑暗",
-    "zh-hant": "屬性：黑暗"
-  },
-  "Silvally-Fairy": {
-    "ja": "タイプ：フェアリー",
-    "zh-hans": "银伴战兽-属性：妖精",
-    "zh-hant": "屬性：妖精"
-  },
-  "Minior-Orange-Meteor": {
-    "ja": "りゅうせいのすがた",
-    "zh-hans": "小陨星-流星的样子",
-    "zh-hant": "流星的樣子"
-  },
-  "Minior-Yellow-Meteor": {
-    "ja": "りゅうせいのすがた",
-    "zh-hans": "小陨星-流星的样子",
-    "zh-hant": "流星的樣子"
-  },
-  "Minior-Green-Meteor": {
-    "ja": "りゅうせいのすがた",
-    "zh-hans": "小陨星-流星的样子",
-    "zh-hant": "流星的樣子"
-  },
-  "Minior-Blue-Meteor": {
-    "ja": "りゅうせいのすがた",
-    "zh-hans": "小陨星-流星的样子",
-    "zh-hant": "流星的樣子"
-  },
-  "Minior-Indigo-Meteor": {
-    "ja": "りゅうせいのすがた",
-    "zh-hans": "小陨星-流星的样子",
-    "zh-hant": "流星的樣子"
-  },
-  "Minior-Violet-Meteor": {
-    "ja": "りゅうせいのすがた",
-    "zh-hans": "小陨星-流星的样子",
-    "zh-hant": "流星的樣子"
-  },
-  "Minior-Red": {
-    "ja": "あかいろのコア",
-    "zh-hans": "小陨星-红色核心",
-    "zh-hant": "紅色核心"
-  },
-  "Minior-Orange": {
-    "ja": "だいだいいろのコア",
-    "zh-hans": "小陨星-橙色核心",
-    "zh-hant": "橙色核心"
-  },
-  "Minior-Yellow": {
-    "ja": "きいろのコア",
-    "zh-hans": "小陨星-黄色核心",
-    "zh-hant": "黃色核心"
-  },
-  "Minior-Green": {
-    "ja": "みどりいろのコア",
-    "zh-hans": "小陨星-绿色核心",
-    "zh-hant": "綠色核心"
-  },
-  "Minior-Blue": {
-    "ja": "みずいろのコア",
-    "zh-hans": "小陨星-浅蓝色核心",
-    "zh-hant": "淺藍色核心"
-  },
-  "Minior-Indigo": {
-    "ja": "あおいろのコア",
-    "zh-hans": "小陨星-蓝色核心",
-    "zh-hant": "藍色核心"
-  },
-  "Minior-Violet": {
-    "ja": "むらさきいろのコア",
-    "zh-hans": "小陨星-紫色核心",
-    "zh-hant": "紫色核心"
-  },
-  "Mimikyu-Busted": {
-    "ja": "ばれたすがた",
-    "zh-hans": "谜拟Ｑ-现形的样子",
-    "zh-hant": "現形的樣子"
-  },
-  "Magearna-Original": {
-    "ja": "５００ねんまえのいろ",
-    "zh-hans": "玛机雅娜-５００年前的颜色",
-    "zh-hant": "５００年前的顏色"
-  },
-  "Pikachu-Partner-Cap": {
-    "ja": "キミにきめたキャップ",
-    "zh-hans": "皮卡丘-就决定是你了之帽子",
-    "zh-hant": "就決定是你了之帽子"
-  },
-  "Necrozma-Dusk": {
-    "ja": "たそがれのたてがみ",
-    "zh-hans": "奈克洛兹玛-黄昏之鬃",
-    "zh-hant": "黃昏之鬃"
-  },
-  "Necrozma-Dawn": {
-    "ja": "あかつきのつばさ",
-    "zh-hans": "奈克洛兹玛-拂晓之翼",
-    "zh-hant": "拂曉之翼"
-  },
-  "Necrozma-Ultra": {
-    "ja": "ウルトラネクロズマ",
-    "zh-hans": "究极奈克洛兹玛",
-    "zh-hant": "究極奈克洛茲瑪"
-  },
-  "Pikachu-World-Cap": {
-    "ja": "ワールドキャップ",
-    "zh-hans": "皮卡丘-世界帽子",
-    "zh-hant": "世界帽子"
-  },
-  "Farfetchd-Galar": {
-    "ja": "ガラルのすがた",
-    "zh-hans": "伽勒尔的样子",
-    "zh-hant": "伽勒爾的樣子"
-  },
-  "Mr-Mime-Galar": {
-    "ja": "ガラルのすがた",
-    "zh-hans": "伽勒尔的样子",
-    "zh-hant": "伽勒爾的樣子"
-  },
-  "Darmanitan-Galar-Standard": {
-    "ja": "ガラルのすがた",
-    "zh-hans": "达摩狒狒-伽勒尔的样子",
-    "zh-hant": "伽勒爾的樣子"
-  },
-  "Darmanitan-Galar-Zen": {
-    "ja": "ダルマモード",
-    "zh-hans": "达摩狒狒-达摩模式",
-    "zh-hant": "達摩模式"
-  },
-  "Zygarde-10": {
-    "ja": "１０％フォルム",
-    "zh-hans": "基格尔德-１０％形态",
-    "zh-hant": "１０％形態"
-  },
-  "Cramorant-Gulping": {
-    "ja": "うのみのすがた",
-    "zh-hans": "古月鸟-一口吞的样子",
-    "zh-hant": "一口吞的樣子"
-  },
-  "Cramorant-Gorging": {
-    "ja": "まるのみのすがた",
-    "zh-hans": "古月鸟-大口吞的样子",
-    "zh-hant": "大口吞的樣子"
-  },
-  "Toxtricity-Low-Key": {
-    "ja": "ローなすがた",
-    "zh-hans": "颤弦蝾螈-低调的样子",
-    "zh-hant": "低調的樣子"
-  },
-  "Alcremie-Ruby-Cream-Strawberry-Sweet": {
-    "ja": "ミルキィルビー",
-    "zh-hans": "霜奶仙-奶香红钻",
-    "zh-hant": "奶香紅鑽"
-  },
-  "Alcremie-Matcha-Cream-Strawberry-Sweet": {
-    "ja": "ミルキィまっちゃ",
-    "zh-hans": "霜奶仙-奶香抹茶",
-    "zh-hant": "奶香抹茶"
-  },
-  "Alcremie-Mint-Cream-Strawberry-Sweet": {
-    "ja": "ミルキィミント",
-    "zh-hans": "霜奶仙-奶香薄荷",
-    "zh-hant": "奶香薄荷"
-  },
-  "Alcremie-Lemon-Cream-Strawberry-Sweet": {
-    "ja": "ミルキィレモン",
-    "zh-hans": "霜奶仙-奶香柠檬",
-    "zh-hant": "奶香檸檬"
-  },
-  "Alcremie-Salted-Cream-Strawberry-Sweet": {
-    "ja": "ミルキィソルト",
-    "zh-hans": "霜奶仙-奶香雪盐",
-    "zh-hant": "奶香雪鹽"
-  },
-  "Alcremie-Ruby-Swirl-Strawberry-Sweet": {
-    "ja": "ルビーミックス",
-    "zh-hans": "霜奶仙-红钻综合",
-    "zh-hant": "紅鑽綜合"
-  },
-  "Alcremie-Caramel-Swirl-Strawberry-Sweet": {
-    "ja": "キャラメルミックス",
-    "zh-hans": "霜奶仙-焦糖综合",
-    "zh-hant": "焦糖綜合"
-  },
-  "Alcremie-Rainbow-Swirl-Strawberry-Sweet": {
-    "ja": "トリプルミックス",
-    "zh-hans": "霜奶仙-三色综合",
-    "zh-hant": "三色綜合"
-  },
-  "Eiscue-Noice": {
-    "ja": "ナイスフェイス",
-    "zh-hans": "冰砌鹅-解冻头",
-    "zh-hant": "解凍頭"
-  },
-  "Morpeko-Hangry": {
-    "ja": "はらぺこもよう",
-    "zh-hans": "莫鲁贝可-空腹花纹",
-    "zh-hant": "空腹花紋"
-  },
-  "Zacian-Crowned": {
-    "ja": "けんのおう",
-    "zh-hans": "苍响-剑之王",
-    "zh-hant": "劍之王"
-  },
-  "Zamazenta-Crowned": {
-    "ja": "たてのおう",
-    "zh-hans": "藏玛然特-盾之王",
-    "zh-hant": "盾之王"
-  },
-  "Eternatus-Eternamax": {
-    "ja": "ムゲンダイマックス",
-    "zh-hans": "无极汰那-无极巨化",
-    "zh-hant": "無極巨化"
-  },
-  "Zarude-Dada": {
-    "ja": "とうちゃん",
-    "zh-hans": "萨戮德-阿爸",
-    "zh-hant": "阿爸"
-  },
-  "Calyrex-Ice": {
-    "ja": "はくばじょうのすがた",
-    "zh-hans": "蕾冠王-骑白马的样子",
-    "zh-hant": "騎白馬的樣子"
-  },
-  "Calyrex-Shadow": {
-    "ja": "こくばじょうのすがた",
-    "zh-hans": "蕾冠王-骑黑马的样子",
-    "zh-hant": "騎黑馬的樣子"
-  },
-  "Ursaluna-Bloodmoon": {
-    "ja": "アカツキ",
-    "zh-hans": "月月熊-赫月",
-    "zh-hant": "赫月"
-  },
-  "Ogerpon-Wellspring-Mask": {
-    "ja": "いどのめん",
-    "zh-hans": "厄诡椪-水井面具",
-    "zh-hant": "水井面具"
-  },
-  "Ogerpon-Hearthflame-Mask": {
-    "ja": "かまどのめん",
-    "zh-hans": "厄诡椪-火灶面具",
-    "zh-hant": "火灶面具"
-  },
-  "Ogerpon-Cornerstone-Mask": {
-    "ja": "いしずえのめん",
-    "zh-hans": "厄诡椪-礎石面具",
-    "zh-hant": "礎石面具"
-  },
-  "Poltchageist-Artisan": {
-    "ja": "タカイモノのすがた",
-    "zh-hans": "斯魔茶-高档货的样子",
-    "zh-hant": "高檔貨的樣子"
-  },
-  "Sinistcha-Masterpiece": {
-    "ja": "ケッサクのすがた",
-    "zh-hans": "来悲粗茶-杰作的样子",
-    "zh-hant": "傑作的樣子"
-  },
-  "Frillish-Female": {
-    "ja": "メスのすがた",
-    "zh-hans": "轻飘飘-雌性的样子",
-    "zh-hant": "雌性的樣子"
-  },
-  "Deoxys-Normal": {
-    "ja": "ノーマルフォルム",
-    "zh-hans": "代欧奇希斯-普通形态",
-    "zh-hant": "普通形態"
-  },
-  "Wormadam-Plant": {
-    "ja": "くさきのミノ",
-    "zh-hans": "结草贵妇-草木蓑衣",
-    "zh-hant": "草木蓑衣"
-  },
-  "Cherrim-Overcast": {
-    "ja": "ネガフォルム",
-    "zh-hans": "樱花儿-阴天形态",
-    "zh-hant": "陰天形態"
-  },
-  "Shellos-West": {
-    "ja": "にしのうみ",
-    "zh-hans": "无壳海兔-西海",
-    "zh-hant": "西海"
-  },
-  "Gastrodon-West": {
-    "ja": "にしのうみ",
-    "zh-hans": "海兔兽-西海",
-    "zh-hant": "西海"
-  },
-  "Giratina-Altered": {
-    "ja": "アナザーフォルム",
-    "zh-hans": "骑拉帝纳-别种形态",
-    "zh-hant": "別種形態"
-  },
-  "Shaymin-Land": {
-    "ja": "ランドフォルム",
-    "zh-hans": "谢米-陆上形态",
-    "zh-hant": "陸上形態"
-  },
-  "Basculin-Red-Striped": {
-    "ja": "あかすじのすがた",
-    "zh-hans": "野蛮鲈鱼-红条纹的样子",
-    "zh-hant": "紅條紋的樣子"
-  },
-  "Darmanitan-Standard": {
-    "ja": "ノーマルモード",
-    "zh-hans": "达摩狒狒-普通模式",
-    "zh-hant": "普通模式"
-  },
-  "Frillish-Male": {
-    "ja": "オスのすがた",
-    "zh-hans": "轻飘飘-雄性的样子",
-    "zh-hant": "雄性的樣子"
-  },
-  "Keldeo-Ordinary": {
-    "ja": "いつものすがた",
-    "zh-hans": "凯路迪欧-平常的样子",
-    "zh-hant": "平常的樣子"
-  },
-  "Meloetta-Aria": {
-    "ja": "ボイスフォルム",
-    "zh-hans": "美洛耶塔-歌声形态",
-    "zh-hant": "歌聲形態"
-  },
-  "Aegislash-Shield": {
-    "ja": "シールドフォルム",
-    "zh-hans": "坚盾剑怪-盾牌形态",
-    "zh-hant": "盾牌形態"
-  },
-  "Pumpkaboo-Average": {
-    "ja": "ふつうのサイズ",
-    "zh-hans": "南瓜精-普通尺寸",
-    "zh-hant": "普通尺寸"
-  },
-  "Gourgeist-Average": {
-    "ja": "ふつうのサイズ",
-    "zh-hans": "南瓜怪人-普通尺寸",
-    "zh-hant": "普通尺寸"
-  },
-  "Xerneas-Active": {
-    "ja": "アクティブモード",
-    "zh-hans": "哲尔尼亚斯-活跃模式",
-    "zh-hant": "活躍模式"
-  },
-  "Zygarde-50": {
-    "ja": "５０％フォルム",
-    "zh-hans": "基格尔德-５０％形态",
-    "zh-hant": "５０％形態"
-  },
-  "Oricorio-Baile": {
-    "ja": "めらめらスタイル",
-    "zh-hans": "花舞鸟-热辣热辣风格",
-    "zh-hant": "熱辣熱辣風格"
-  },
-  "Wishiwashi-Solo": {
-    "ja": "たんどくのすがた",
-    "zh-hans": "弱丁鱼-单独的样子",
-    "zh-hant": "單獨的樣子"
-  },
-  "Silvally-Normal": {
-    "ja": "タイプ：ノーマル",
-    "zh-hans": "银伴战兽-属性：一般",
-    "zh-hant": "屬性：一般"
-  },
-  "Minior-Red-Meteor": {
-    "ja": "りゅうせいのすがた",
-    "zh-hans": "小陨星-流星的样子",
-    "zh-hant": "流星的樣子"
-  },
-  "Mimikyu-Disguised": {
-    "ja": "ばけたすがた",
-    "zh-hans": "谜拟Ｑ-化形的样子",
-    "zh-hant": "化形的樣子"
-  },
-  "Toxtricity-Amped": {
-    "ja": "ハイなすがた",
-    "zh-hans": "颤弦蝾螈-高调的样子",
-    "zh-hant": "高調的樣子"
-  },
-  "Alcremie-Vanilla-Cream-Strawberry-Sweet": {
-    "ja": "ミルキィバニラ",
-    "zh-hans": "霜奶仙-奶香香草",
-    "zh-hant": "奶香香草"
-  },
-  "Eiscue-Ice": {
-    "ja": "アイスフェイス",
-    "zh-hans": "冰砌鹅-结冻头",
-    "zh-hant": "結凍頭"
-  },
-  "Morpeko-Full-Belly": {
-    "ja": "まんぷくもよう",
-    "zh-hans": "莫鲁贝可-满腹花纹",
-    "zh-hant": "滿腹花紋"
-  },
-  "Terapagos-Tera": {
-    "ja": "テラスタルフォルム",
-    "zh-hans": "太乐巴戈斯-太晶形态"
-  },
-  "Terapagos-Stellar": {
-    "ja": "ステラフォルム",
-    "zh-hans": "太乐巴戈斯-星晶形态"
-  },
-  "Palafin-Hero": {
-    "ja": "ヒーローフォルム",
-    "zh-hans": "海豚侠-全能形态"
-  },
-  "Floette-Eternal": {
-    "ja": "エターナルフラワー",
-    "zh-hans": "花叶蒂-永恒之花"
-  }
+  "Castform-Sunny": "飘浮泡泡-太阳的样子",
+  "Castform-Rainy": "飘浮泡泡-雨水的样子",
+  "Castform-Snowy": "飘浮泡泡-雪云的样子",
+  "Deoxys-Attack": "代欧奇希斯-攻击形态",
+  "Deoxys-Defense": "代欧奇希斯-防御形态",
+  "Deoxys-Speed": "代欧奇希斯-速度形态",
+  "Wormadam-Sandy": "结草贵妇-砂土蓑衣",
+  "Wormadam-Trash": "结草贵妇-垃圾蓑衣",
+  "Cherrim-Sunshine": "樱花儿-晴天形态",
+  "Shellos-East": "无壳海兔-东海",
+  "Gastrodon-East": "海兔兽-东海",
+  "Rotom-Heat": "加热洛托姆",
+  "Rotom-Wash": "清洗洛托姆",
+  "Rotom-Frost": "结冰洛托姆",
+  "Rotom-Fan": "旋转洛托姆",
+  "Rotom-Mow": "切割洛托姆",
+  "Shaymin-Sky": "谢米-天空形态",
+  "Basculin-Blue-Striped": "野蛮鲈鱼-蓝条纹的样子",
+  "Darmanitan-Zen": "达摩狒狒-达摩模式",
+  "Meloetta-Pirouette": "美洛耶塔-舞步形态",
+  "Kyurem-Black": "暗黑酋雷姆",
+  "Kyurem-White": "焰白酋雷姆",
+  "Keldeo-Resolute": "凯路迪欧-觉悟的样子",
+  "Poltchageist-Counterfeit": "斯魔茶-高檔貨的樣子",
+  "Aegislash-Blade": "坚盾剑怪-刀剑形态",
+  "Pumpkaboo-Small": "南瓜精-小尺寸",
+  "Pumpkaboo-Large": "南瓜精-大尺寸",
+  "Pumpkaboo-Super": "南瓜精-特大尺寸",
+  "Gourgeist-Small": "南瓜怪人-小尺寸",
+  "Sinistcha-Unremarkable": "来悲粗茶-凡作的样子",
+  "Gourgeist-Large": "南瓜怪人-大尺寸",
+  "Gourgeist-Super": "南瓜怪人-特大尺寸",
+  "Xerneas-Neutral": "哲尔尼亚斯-放松模式",
+  "Kyogre-Primal": "盖欧卡-原始回归的样子",
+  "Groudon-Primal": "固拉多-原始回归的样子",
+  "Hoopa-Unbound": "解放胡帕",
+  "Pikachu-Original-Cap": "皮卡丘-初始帽子",
+  "Pikachu-Hoenn-Cap": "皮卡丘-丰缘帽子",
+  "Pikachu-Sinnoh-Cap": "皮卡丘-神奥帽子",
+  "Pikachu-Unova-Cap": "皮卡丘-合众帽子",
+  "Pikachu-Kalos-Cap": "皮卡丘-卡洛斯帽子",
+  "Pikachu-Alola-Cap": "皮卡丘-阿罗拉帽子",
+  "Greninja-Ash": "小智版甲贺忍蛙",
+  "Zygarde-10-Power-Construct": "基格尔德-１０％形态",
+  "Zygarde-50-Power-Construct": "基格尔德-５０％形态",
+  "Oricorio-Pom-Pom": "花舞鸟-啪滋啪滋风格",
+  "Oricorio-Pau": "花舞鸟-呼拉呼拉风格",
+  "Oricorio-Sensu": "花舞鸟-轻盈轻盈风格",
+  "Wishiwashi-School": "弱丁鱼-鱼群的样子",
+  "Silvally-Fighting": "银伴战兽-属性：战斗",
+  "Silvally-Flying": "银伴战兽-属性：飞翔",
+  "Silvally-Poison": "银伴战兽-属性：毒",
+  "Silvally-Ground": "银伴战兽-属性：大地",
+  "Silvally-Rock": "银伴战兽-属性：岩石",
+  "Silvally-Bug": "银伴战兽-属性：虫子",
+  "Silvally-Ghost": "银伴战兽-属性：幽灵",
+  "Silvally-Steel": "银伴战兽-属性：钢铁",
+  "Silvally-Fire": "银伴战兽-属性：火焰",
+  "Silvally-Water": "银伴战兽-属性：清水",
+  "Silvally-Grass": "银伴战兽-属性：青草",
+  "Silvally-Electric": "银伴战兽-属性：电子",
+  "Silvally-Psychic": "银伴战兽-属性：精神",
+  "Silvally-Ice": "银伴战兽-属性：冰雪",
+  "Silvally-Dragon": "银伴战兽-属性：龙",
+  "Silvally-Dark": "银伴战兽-属性：黑暗",
+  "Silvally-Fairy": "银伴战兽-属性：妖精",
+  "Minior-Orange-Meteor": "小陨星-流星的样子",
+  "Minior-Yellow-Meteor": "小陨星-流星的样子",
+  "Minior-Green-Meteor": "小陨星-流星的样子",
+  "Minior-Blue-Meteor": "小陨星-流星的样子",
+  "Minior-Indigo-Meteor": "小陨星-流星的样子",
+  "Minior-Violet-Meteor": "小陨星-流星的样子",
+  "Minior-Red": "小陨星-红色核心",
+  "Minior-Orange": "小陨星-橙色核心",
+  "Minior-Yellow": "小陨星-黄色核心",
+  "Minior-Green": "小陨星-绿色核心",
+  "Minior-Blue": "小陨星-浅蓝色核心",
+  "Minior-Indigo": "小陨星-蓝色核心",
+  "Minior-Violet": "小陨星-紫色核心",
+  "Mimikyu-Busted": "谜拟Ｑ-现形的样子",
+  "Magearna-Original": "玛机雅娜-５００年前的颜色",
+  "Pikachu-Partner-Cap": "皮卡丘-就决定是你了之帽子",
+  "Necrozma-Dusk": "奈克洛兹玛-黄昏之鬃",
+  "Necrozma-Dawn": "奈克洛兹玛-拂晓之翼",
+  "Necrozma-Ultra": "究极奈克洛兹玛",
+  "Pikachu-World-Cap": "皮卡丘-世界帽子",
+  "Farfetchd-Galar": "伽勒尔的样子",
+  "Mr-Mime-Galar": "伽勒尔的样子",
+  "Darmanitan-Galar-Standard": "达摩狒狒-伽勒尔的样子",
+  "Darmanitan-Galar-Zen": "达摩狒狒-达摩模式",
+  "Zygarde-10": "基格尔德-１０％形态",
+  "Cramorant-Gulping": "古月鸟-一口吞的样子",
+  "Cramorant-Gorging": "古月鸟-大口吞的样子",
+  "Toxtricity-Low-Key": "颤弦蝾螈-低调的样子",
+  "Alcremie-Ruby-Cream-Strawberry-Sweet": "霜奶仙-奶香红钻",
+  "Alcremie-Matcha-Cream-Strawberry-Sweet": "霜奶仙-奶香抹茶",
+  "Alcremie-Mint-Cream-Strawberry-Sweet": "霜奶仙-奶香薄荷",
+  "Alcremie-Lemon-Cream-Strawberry-Sweet": "霜奶仙-奶香柠檬",
+  "Alcremie-Salted-Cream-Strawberry-Sweet": "霜奶仙-奶香雪盐",
+  "Alcremie-Ruby-Swirl-Strawberry-Sweet": "霜奶仙-红钻综合",
+  "Alcremie-Caramel-Swirl-Strawberry-Sweet": "霜奶仙-焦糖综合",
+  "Alcremie-Rainbow-Swirl-Strawberry-Sweet": "霜奶仙-三色综合",
+  "Eiscue-Noice": "冰砌鹅-解冻头",
+  "Morpeko-Hangry": "莫鲁贝可-空腹花纹",
+  "Zacian-Crowned": "苍响-剑之王",
+  "Zamazenta-Crowned": "藏玛然特-盾之王",
+  "Eternatus-Eternamax": "无极汰那-无极巨化",
+  "Zarude-Dada": "萨戮德-阿爸",
+  "Calyrex-Ice": "蕾冠王-骑白马的样子",
+  "Calyrex-Shadow": "蕾冠王-骑黑马的样子",
+  "Ursaluna-Bloodmoon": "月月熊-赫月",
+  "Ogerpon-Wellspring-Mask": "厄诡椪-水井面具",
+  "Ogerpon-Hearthflame-Mask": "厄诡椪-火灶面具",
+  "Ogerpon-Cornerstone-Mask": "厄诡椪-礎石面具",
+  "Poltchageist-Artisan": "斯魔茶-高档货的样子",
+  "Sinistcha-Masterpiece": "来悲粗茶-杰作的样子",
+  "Frillish-Female": "轻飘飘-雌性的样子",
+  "Deoxys-Normal": "代欧奇希斯-普通形态",
+  "Wormadam-Plant": "结草贵妇-草木蓑衣",
+  "Cherrim-Overcast": "樱花儿-阴天形态",
+  "Shellos-West": "无壳海兔-西海",
+  "Gastrodon-West": "海兔兽-西海",
+  "Giratina-Altered": "骑拉帝纳-别种形态",
+  "Shaymin-Land": "谢米-陆上形态",
+  "Basculin-Red-Striped": "野蛮鲈鱼-红条纹的样子",
+  "Darmanitan-Standard": "达摩狒狒-普通模式",
+  "Frillish-Male": "轻飘飘-雄性的样子",
+  "Keldeo-Ordinary": "凯路迪欧-平常的样子",
+  "Meloetta-Aria": "美洛耶塔-歌声形态",
+  "Aegislash-Shield": "坚盾剑怪-盾牌形态",
+  "Pumpkaboo-Average": "南瓜精-普通尺寸",
+  "Gourgeist-Average": "南瓜怪人-普通尺寸",
+  "Xerneas-Active": "哲尔尼亚斯-活跃模式",
+  "Zygarde-50": "基格尔德-５０％形态",
+  "Oricorio-Baile": "花舞鸟-热辣热辣风格",
+  "Wishiwashi-Solo": "弱丁鱼-单独的样子",
+  "Silvally-Normal": "银伴战兽-属性：一般",
+  "Minior-Red-Meteor": "小陨星-流星的样子",
+  "Mimikyu-Disguised": "谜拟Ｑ-化形的样子",
+  "Toxtricity-Amped": "颤弦蝾螈-高调的样子",
+  "Alcremie-Vanilla-Cream-Strawberry-Sweet": "霜奶仙-奶香香草",
+  "Eiscue-Ice": "冰砌鹅-结冻头",
+  "Morpeko-Full-Belly": "莫鲁贝可-满腹花纹",
+  "Terapagos-Tera": "太乐巴戈斯-太晶形态",
+  "Terapagos-Stellar": "太乐巴戈斯-星晶形态",
+  "Palafin-Hero": "海豚侠-全能形态",
+  "Floette-Eternal": "花叶蒂-永恒之花"
 }

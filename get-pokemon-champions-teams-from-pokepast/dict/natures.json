@@ -1,127 +1,27 @@
 {
-  "Hardy": {
-    "ja": "がんばりや",
-    "zh-hans": "勤奋",
-    "zh-hant": "勤奮"
-  },
-  "Hasty": {
-    "ja": "せっかち",
-    "zh-hans": "急躁",
-    "zh-hant": "急躁"
-  },
-  "Adamant": {
-    "ja": "いじっぱり",
-    "zh-hans": "固执",
-    "zh-hant": "固執"
-  },
-  "Impish": {
-    "ja": "わんぱく",
-    "zh-hans": "淘气",
-    "zh-hant": "淘氣"
-  },
-  "Bashful": {
-    "ja": "てれや",
-    "zh-hans": "害羞",
-    "zh-hant": "害羞"
-  },
-  "Careful": {
-    "ja": "しんちょう",
-    "zh-hans": "慎重",
-    "zh-hant": "慎重"
-  },
-  "Rash": {
-    "ja": "うっかりや",
-    "zh-hans": "马虎",
-    "zh-hant": "馬虎"
-  },
-  "Jolly": {
-    "ja": "ようき",
-    "zh-hans": "爽朗",
-    "zh-hant": "爽朗"
-  },
-  "Naughty": {
-    "ja": "やんちゃ",
-    "zh-hans": "顽皮",
-    "zh-hant": "頑皮"
-  },
-  "Lax": {
-    "ja": "のうてんき",
-    "zh-hans": "乐天",
-    "zh-hant": "樂天"
-  },
-  "Quirky": {
-    "ja": "きまぐれ",
-    "zh-hans": "浮躁",
-    "zh-hant": "浮躁"
-  },
-  "Bold": {
-    "ja": "ずぶとい",
-    "zh-hans": "大胆",
-    "zh-hant": "大膽"
-  },
-  "Naive": {
-    "ja": "むじゃき",
-    "zh-hans": "天真",
-    "zh-hant": "天真"
-  },
-  "Brave": {
-    "ja": "ゆうかん",
-    "zh-hans": "勇敢",
-    "zh-hant": "勇敢"
-  },
-  "Relaxed": {
-    "ja": "のんき",
-    "zh-hans": "悠闲",
-    "zh-hant": "悠閒"
-  },
-  "Quiet": {
-    "ja": "れいせい",
-    "zh-hans": "冷静",
-    "zh-hant": "冷靜"
-  },
-  "Sassy": {
-    "ja": "なまいき",
-    "zh-hans": "自大",
-    "zh-hant": "自大"
-  },
-  "Serious": {
-    "ja": "まじめ",
-    "zh-hans": "认真",
-    "zh-hant": "認真"
-  },
-  "Modest": {
-    "ja": "ひかえめ",
-    "zh-hans": "内敛",
-    "zh-hant": "內斂"
-  },
-  "Calm": {
-    "ja": "おだやか",
-    "zh-hans": "温和",
-    "zh-hant": "溫和"
-  },
-  "Timid": {
-    "ja": "おくびょう",
-    "zh-hans": "胆小",
-    "zh-hant": "膽小"
-  },
-  "Lonely": {
-    "ja": "さみしがり",
-    "zh-hans": "怕寂寞",
-    "zh-hant": "怕寂寞"
-  },
-  "Docile": {
-    "ja": "すなお",
-    "zh-hans": "坦率",
-    "zh-hant": "坦率"
-  },
-  "Mild": {
-    "ja": "おっとり",
-    "zh-hans": "慢吞吞",
-    "zh-hant": "慢吞吞"
-  },
-  "Gentle": {
-    "ja": "おとなしい",
-    "zh-hans": "温顺",
-    "zh-hant": "溫順"
-  }
+  "Hardy": "勤奋",
+  "Hasty": "急躁",
+  "Adamant": "固执",
+  "Impish": "淘气",
+  "Bashful": "害羞",
+  "Careful": "慎重",
+  "Rash": "马虎",
+  "Jolly": "爽朗",
+  "Naughty": "顽皮",
+  "Lax": "乐天",
+  "Quirky": "浮躁",
+  "Bold": "大胆",
+  "Naive": "天真",
+  "Brave": "勇敢",
+  "Relaxed": "悠闲",
+  "Quiet": "冷静",
+  "Sassy": "自大",
+  "Serious": "认真",
+  "Modest": "内敛",
+  "Calm": "温和",
+  "Timid": "胆小",
+  "Lonely": "怕寂寞",
+  "Docile": "坦率",
+  "Mild": "慢吞吞",
+  "Gentle": "温顺"
 }

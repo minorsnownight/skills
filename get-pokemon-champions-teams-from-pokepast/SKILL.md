@@ -42,14 +42,9 @@ python scripts/get-pokepast.py <url1> [url2] ...
 3. 将找到的映射添加到 `dict/alias.json`，格式与其他 dict 文件一致：
    ```json
    {
-     "EnglishName": {
-       "ja": "日本語名",
-       "zh-hans": "简体中文",
-       "zh-hant": "繁體中文"
-     }
+     "EnglishName": "简体中文"
    }
    ```
-   语言缺失则不填该字段。
 4. 重新运行 `python scripts/get-pokepast.py <urls>`
 5. 重复直到无未解析术语
 

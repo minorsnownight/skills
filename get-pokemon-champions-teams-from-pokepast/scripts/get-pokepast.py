@@ -89,16 +89,11 @@ def load_dicts():
 
 def translate(term, exact, lower):
     """翻译术语，返回简中；找不到返回原文，并记录未解析术语"""
-    translations = exact.get(term) or lower.get(term.lower())
-    if not translations:
+    zh = exact.get(term) or lower.get(term.lower())
+    if not zh:
         _record_unresolved(term)
         return term
-    zh = translations.get("zh-hans")
-    if zh:
-        return zh
-    # 有翻译条目但无简中，视为未解析
-    _record_unresolved(term)
-    return term
+    return zh
 
 
 def _record_unresolved(term):

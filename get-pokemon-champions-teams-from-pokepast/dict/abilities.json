@@ -1,1998 +1,501 @@
 {
-  "Stench": {
-    "ja": "あくしゅう",
-    "zh-hans": "恶臭"
-  },
-  "Drizzle": {
-    "ja": "あめふらし",
-    "zh-hans": "降雨"
-  },
-  "Speed Boost": {
-    "ja": "かそく",
-    "zh-hans": "加速"
-  },
-  "Speed-Boost": {
-    "ja": "かそく",
-    "zh-hans": "加速"
-  },
-  "Battle Armor": {
-    "ja": "カブトアーマー",
-    "zh-hans": "战斗盔甲"
-  },
-  "Battle-Armor": {
-    "ja": "カブトアーマー",
-    "zh-hans": "战斗盔甲"
-  },
-  "Sturdy": {
-    "ja": "がんじょう",
-    "zh-hans": "结实"
-  },
-  "Damp": {
-    "ja": "しめりけ",
-    "zh-hans": "湿气"
-  },
-  "Limber": {
-    "ja": "じゅうなん",
-    "zh-hans": "柔软"
-  },
-  "Sand Veil": {
-    "ja": "すながくれ",
-    "zh-hans": "沙隐"
-  },
-  "Sand-Veil": {
-    "ja": "すながくれ",
-    "zh-hans": "沙隐"
-  },
-  "Static": {
-    "ja": "せいでんき",
-    "zh-hans": "静电"
-  },
-  "Volt Absorb": {
-    "ja": "ちくでん",
-    "zh-hans": "蓄电"
-  },
-  "Volt-Absorb": {
-    "ja": "ちくでん",
-    "zh-hans": "蓄电"
-  },
-  "Water Absorb": {
-    "ja": "ちょすい",
-    "zh-hans": "储水"
-  },
-  "Water-Absorb": {
-    "ja": "ちょすい",
-    "zh-hans": "储水"
-  },
-  "Oblivious": {
-    "ja": "どんかん",
-    "zh-hans": "迟钝"
-  },
-  "Cloud Nine": {
-    "ja": "ノーてんき",
-    "zh-hans": "无关天气"
-  },
-  "Cloud-Nine": {
-    "ja": "ノーてんき",
-    "zh-hans": "无关天气"
-  },
-  "Compound Eyes": {
-    "ja": "ふくがん",
-    "zh-hans": "复眼"
-  },
-  "Compound-Eyes": {
-    "ja": "ふくがん",
-    "zh-hans": "复眼"
-  },
-  "Insomnia": {
-    "ja": "ふみん",
-    "zh-hans": "不眠"
-  },
-  "Color Change": {
-    "ja": "へんしょく",
-    "zh-hans": "变色"
-  },
-  "Color-Change": {
-    "ja": "へんしょく",
-    "zh-hans": "变色"
-  },
-  "Immunity": {
-    "ja": "めんえき",
-    "zh-hans": "免疫"
-  },
-  "Flash Fire": {
-    "ja": "もらいび",
-    "zh-hans": "引火"
-  },
-  "Flash-Fire": {
-    "ja": "もらいび",
-    "zh-hans": "引火"
-  },
-  "Shield Dust": {
-    "ja": "りんぷん",
-    "zh-hans": "鳞粉"
-  },
-  "Shield-Dust": {
-    "ja": "りんぷん",
-    "zh-hans": "鳞粉"
-  },
-  "Own Tempo": {
-    "ja": "マイペース",
-    "zh-hans": "我行我素"
-  },
-  "Own-Tempo": {
-    "ja": "マイペース",
-    "zh-hans": "我行我素"
-  },
-  "Suction Cups": {
-    "ja": "きゅうばん",
-    "zh-hans": "吸盘"
-  },
-  "Suction-Cups": {
-    "ja": "きゅうばん",
-    "zh-hans": "吸盘"
-  },
-  "Intimidate": {
-    "ja": "いかく",
-    "zh-hans": "威吓"
-  },
-  "Shadow Tag": {
-    "ja": "かげふみ",
-    "zh-hans": "踩影"
-  },
-  "Shadow-Tag": {
-    "ja": "かげふみ",
-    "zh-hans": "踩影"
-  },
-  "Rough Skin": {
-    "ja": "さめはだ",
-    "zh-hans": "粗糙皮肤"
-  },
-  "Rough-Skin": {
-    "ja": "さめはだ",
-    "zh-hans": "粗糙皮肤"
-  },
-  "Wonder Guard": {
-    "ja": "ふしぎなまもり",
-    "zh-hans": "神奇守护"
-  },
-  "Wonder-Guard": {
-    "ja": "ふしぎなまもり",
-    "zh-hans": "神奇守护"
-  },
-  "Levitate": {
-    "ja": "ふゆう",
-    "zh-hans": "飘浮"
-  },
-  "Effect Spore": {
-    "ja": "ほうし",
-    "zh-hans": "孢子"
-  },
-  "Effect-Spore": {
-    "ja": "ほうし",
-    "zh-hans": "孢子"
-  },
-  "Synchronize": {
-    "ja": "シンクロ",
-    "zh-hans": "同步"
-  },
-  "Clear Body": {
-    "ja": "クリアボディ",
-    "zh-hans": "恒净之躯"
-  },
-  "Clear-Body": {
-    "ja": "クリアボディ",
-    "zh-hans": "恒净之躯"
-  },
-  "Natural Cure": {
-    "ja": "しぜんかいふく",
-    "zh-hans": "自然回复"
-  },
-  "Natural-Cure": {
-    "ja": "しぜんかいふく",
-    "zh-hans": "自然回复"
-  },
-  "Lightning Rod": {
-    "ja": "ひらいしん",
-    "zh-hans": "避雷针"
-  },
-  "Lightning-Rod": {
-    "ja": "ひらいしん",
-    "zh-hans": "避雷针"
-  },
-  "Serene Grace": {
-    "ja": "てんのめぐみ",
-    "zh-hans": "天恩"
-  },
-  "Serene-Grace": {
-    "ja": "てんのめぐみ",
-    "zh-hans": "天恩"
-  },
-  "Swift Swim": {
-    "ja": "すいすい",
-    "zh-hans": "悠游自如"
-  },
-  "Swift-Swim": {
-    "ja": "すいすい",
-    "zh-hans": "悠游自如"
-  },
-  "Chlorophyll": {
-    "ja": "ようりょくそ",
-    "zh-hans": "叶绿素"
-  },
-  "Illuminate": {
-    "ja": "はっこう",
-    "zh-hans": "发光"
-  },
-  "Trace": {
-    "ja": "トレース",
-    "zh-hans": "复制"
-  },
-  "Huge Power": {
-    "ja": "ちからもち",
-    "zh-hans": "大力士"
-  },
-  "Huge-Power": {
-    "ja": "ちからもち",
-    "zh-hans": "大力士"
-  },
-  "Poison Point": {
-    "ja": "どくのトゲ",
-    "zh-hans": "毒刺"
-  },
-  "Poison-Point": {
-    "ja": "どくのトゲ",
-    "zh-hans": "毒刺"
-  },
-  "Inner Focus": {
-    "ja": "せいしんりょく",
-    "zh-hans": "精神力"
-  },
-  "Inner-Focus": {
-    "ja": "せいしんりょく",
-    "zh-hans": "精神力"
-  },
-  "Magma Armor": {
-    "ja": "マグマのよろい",
-    "zh-hans": "熔岩铠甲"
-  },
-  "Magma-Armor": {
-    "ja": "マグマのよろい",
-    "zh-hans": "熔岩铠甲"
-  },
-  "Water Veil": {
-    "ja": "みずのベール",
-    "zh-hans": "水幕"
-  },
-  "Water-Veil": {
-    "ja": "みずのベール",
-    "zh-hans": "水幕"
-  },
-  "Magnet Pull": {
-    "ja": "じりょく",
-    "zh-hans": "磁力"
-  },
-  "Magnet-Pull": {
-    "ja": "じりょく",
-    "zh-hans": "磁力"
-  },
-  "Soundproof": {
-    "ja": "ぼうおん",
-    "zh-hans": "隔音"
-  },
-  "Rain Dish": {
-    "ja": "あめうけざら",
-    "zh-hans": "雨盘"
-  },
-  "Rain-Dish": {
-    "ja": "あめうけざら",
-    "zh-hans": "雨盘"
-  },
-  "Sand Stream": {
-    "ja": "すなおこし",
-    "zh-hans": "扬沙"
-  },
-  "Sand-Stream": {
-    "ja": "すなおこし",
-    "zh-hans": "扬沙"
-  },
-  "Pressure": {
-    "ja": "プレッシャー",
-    "zh-hans": "压迫感"
-  },
-  "Thick Fat": {
-    "ja": "あついしぼう",
-    "zh-hans": "厚脂肪"
-  },
-  "Thick-Fat": {
-    "ja": "あついしぼう",
-    "zh-hans": "厚脂肪"
-  },
-  "Early Bird": {
-    "ja": "はやおき",
-    "zh-hans": "早起"
-  },
-  "Early-Bird": {
-    "ja": "はやおき",
-    "zh-hans": "早起"
-  },
-  "Flame Body": {
-    "ja": "ほのおのからだ",
-    "zh-hans": "火焰之躯"
-  },
-  "Flame-Body": {
-    "ja": "ほのおのからだ",
-    "zh-hans": "火焰之躯"
-  },
-  "Run Away": {
-    "ja": "にげあし",
-    "zh-hans": "逃跑"
-  },
-  "Run-Away": {
-    "ja": "にげあし",
-    "zh-hans": "逃跑"
-  },
-  "Keen Eye": {
-    "ja": "するどいめ",
-    "zh-hans": "锐利目光"
-  },
-  "Keen-Eye": {
-    "ja": "するどいめ",
-    "zh-hans": "锐利目光"
-  },
-  "Hyper Cutter": {
-    "ja": "かいりきバサミ",
-    "zh-hans": "怪力钳"
-  },
-  "Hyper-Cutter": {
-    "ja": "かいりきバサミ",
-    "zh-hans": "怪力钳"
-  },
-  "Pickup": {
-    "ja": "ものひろい",
-    "zh-hans": "捡拾"
-  },
-  "Truant": {
-    "ja": "なまけ",
-    "zh-hans": "懒惰"
-  },
-  "Hustle": {
-    "ja": "はりきり",
-    "zh-hans": "活力"
-  },
-  "Cute Charm": {
-    "ja": "メロメロボディ",
-    "zh-hans": "迷人之躯"
-  },
-  "Cute-Charm": {
-    "ja": "メロメロボディ",
-    "zh-hans": "迷人之躯"
-  },
-  "Plus": {
-    "ja": "プラス",
-    "zh-hans": "正电"
-  },
-  "Minus": {
-    "ja": "マイナス",
-    "zh-hans": "负电"
-  },
-  "Forecast": {
-    "ja": "てんきや",
-    "zh-hans": "阴晴不定"
-  },
-  "Sticky Hold": {
-    "ja": "ねんちゃく",
-    "zh-hans": "黏着"
-  },
-  "Sticky-Hold": {
-    "ja": "ねんちゃく",
-    "zh-hans": "黏着"
-  },
-  "Shed Skin": {
-    "ja": "だっぴ",
-    "zh-hans": "蜕皮"
-  },
-  "Shed-Skin": {
-    "ja": "だっぴ",
-    "zh-hans": "蜕皮"
-  },
-  "Guts": {
-    "ja": "こんじょう",
-    "zh-hans": "毅力"
-  },
-  "Marvel Scale": {
-    "ja": "ふしぎなうろこ",
-    "zh-hans": "神奇鳞片"
-  },
-  "Marvel-Scale": {
-    "ja": "ふしぎなうろこ",
-    "zh-hans": "神奇鳞片"
-  },
-  "Liquid Ooze": {
-    "ja": "ヘドロえき",
-    "zh-hans": "污泥浆"
-  },
-  "Liquid-Ooze": {
-    "ja": "ヘドロえき",
-    "zh-hans": "污泥浆"
-  },
-  "Overgrow": {
-    "ja": "しんりょく",
-    "zh-hans": "茂盛"
-  },
-  "Blaze": {
-    "ja": "もうか",
-    "zh-hans": "猛火"
-  },
-  "Torrent": {
-    "ja": "げきりゅう",
-    "zh-hans": "激流"
-  },
-  "Swarm": {
-    "ja": "むしのしらせ",
-    "zh-hans": "虫之预感"
-  },
-  "Rock Head": {
-    "ja": "いしあたま",
-    "zh-hans": "坚硬脑袋"
-  },
-  "Rock-Head": {
-    "ja": "いしあたま",
-    "zh-hans": "坚硬脑袋"
-  },
-  "Drought": {
-    "ja": "ひでり",
-    "zh-hans": "日照"
-  },
-  "Arena Trap": {
-    "ja": "ありじごく",
-    "zh-hans": "沙穴"
-  },
-  "Arena-Trap": {
-    "ja": "ありじごく",
-    "zh-hans": "沙穴"
-  },
-  "Vital Spirit": {
-    "ja": "やるき",
-    "zh-hans": "干劲"
-  },
-  "Vital-Spirit": {
-    "ja": "やるき",
-    "zh-hans": "干劲"
-  },
-  "White Smoke": {
-    "ja": "しろいけむり",
-    "zh-hans": "白色烟雾"
-  },
-  "White-Smoke": {
-    "ja": "しろいけむり",
-    "zh-hans": "白色烟雾"
-  },
-  "Pure Power": {
-    "ja": "ヨガパワー",
-    "zh-hans": "瑜伽之力"
-  },
-  "Pure-Power": {
-    "ja": "ヨガパワー",
-    "zh-hans": "瑜伽之力"
-  },
-  "Shell Armor": {
-    "ja": "シェルアーマー",
-    "zh-hans": "硬壳盔甲"
-  },
-  "Shell-Armor": {
-    "ja": "シェルアーマー",
-    "zh-hans": "硬壳盔甲"
-  },
-  "Cacophony": {
-    "ja": "そうおん",
-    "zh-hans": "杂音"
-  },
-  "Air Lock": {
-    "ja": "エアロック",
-    "zh-hans": "气闸"
-  },
-  "Air-Lock": {
-    "ja": "エアロック",
-    "zh-hans": "气闸"
-  },
-  "Tangled Feet": {
-    "ja": "ちどりあし",
-    "zh-hans": "蹒跚"
-  },
-  "Tangled-Feet": {
-    "ja": "ちどりあし",
-    "zh-hans": "蹒跚"
-  },
-  "Motor Drive": {
-    "ja": "でんきエンジン",
-    "zh-hans": "电气引擎"
-  },
-  "Motor-Drive": {
-    "ja": "でんきエンジン",
-    "zh-hans": "电气引擎"
-  },
-  "Rivalry": {
-    "ja": "とうそうしん",
-    "zh-hans": "斗争心"
-  },
-  "Steadfast": {
-    "ja": "ふくつのこころ",
-    "zh-hans": "不屈之心"
-  },
-  "Snow Cloak": {
-    "ja": "ゆきがくれ",
-    "zh-hans": "雪隐"
-  },
-  "Snow-Cloak": {
-    "ja": "ゆきがくれ",
-    "zh-hans": "雪隐"
-  },
-  "Gluttony": {
-    "ja": "くいしんぼう",
-    "zh-hans": "贪吃鬼"
-  },
-  "Anger Point": {
-    "ja": "いかりのつぼ",
-    "zh-hans": "愤怒穴位"
-  },
-  "Anger-Point": {
-    "ja": "いかりのつぼ",
-    "zh-hans": "愤怒穴位"
-  },
-  "Unburden": {
-    "ja": "かるわざ",
-    "zh-hans": "轻装"
-  },
-  "Heatproof": {
-    "ja": "たいねつ",
-    "zh-hans": "耐热"
-  },
-  "Simple": {
-    "ja": "たんじゅん",
-    "zh-hans": "单纯"
-  },
-  "Dry Skin": {
-    "ja": "かんそうはだ",
-    "zh-hans": "干燥皮肤"
-  },
-  "Dry-Skin": {
-    "ja": "かんそうはだ",
-    "zh-hans": "干燥皮肤"
-  },
-  "Download": {
-    "ja": "ダウンロード",
-    "zh-hans": "下载"
-  },
-  "Iron Fist": {
-    "ja": "てつのこぶし",
-    "zh-hans": "铁拳"
-  },
-  "Iron-Fist": {
-    "ja": "てつのこぶし",
-    "zh-hans": "铁拳"
-  },
-  "Poison Heal": {
-    "ja": "ポイズンヒール",
-    "zh-hans": "毒疗"
-  },
-  "Poison-Heal": {
-    "ja": "ポイズンヒール",
-    "zh-hans": "毒疗"
-  },
-  "Adaptability": {
-    "ja": "てきおうりょく",
-    "zh-hans": "适应力"
-  },
-  "Skill Link": {
-    "ja": "スキルリンク",
-    "zh-hans": "连续攻击"
-  },
-  "Skill-Link": {
-    "ja": "スキルリンク",
-    "zh-hans": "连续攻击"
-  },
-  "Hydration": {
-    "ja": "うるおいボディ",
-    "zh-hans": "湿润之躯"
-  },
-  "Solar Power": {
-    "ja": "サンパワー",
-    "zh-hans": "太阳之力"
-  },
-  "Solar-Power": {
-    "ja": "サンパワー",
-    "zh-hans": "太阳之力"
-  },
-  "Quick Feet": {
-    "ja": "はやあし",
-    "zh-hans": "飞毛腿"
-  },
-  "Quick-Feet": {
-    "ja": "はやあし",
-    "zh-hans": "飞毛腿"
-  },
-  "Normalize": {
-    "ja": "ノーマルスキン",
-    "zh-hans": "一般皮肤"
-  },
-  "Sniper": {
-    "ja": "スナイパー",
-    "zh-hans": "狙击手"
-  },
-  "Magic Guard": {
-    "ja": "マジックガード",
-    "zh-hans": "魔法防守"
-  },
-  "Magic-Guard": {
-    "ja": "マジックガード",
-    "zh-hans": "魔法防守"
-  },
-  "No Guard": {
-    "ja": "ノーガード",
-    "zh-hans": "无防守"
-  },
-  "No-Guard": {
-    "ja": "ノーガード",
-    "zh-hans": "无防守"
-  },
-  "Stall": {
-    "ja": "あとだし",
-    "zh-hans": "慢出"
-  },
-  "Technician": {
-    "ja": "テクニシャン",
-    "zh-hans": "技术高手"
-  },
-  "Leaf Guard": {
-    "ja": "リーフガード",
-    "zh-hans": "叶子防守"
-  },
-  "Leaf-Guard": {
-    "ja": "リーフガード",
-    "zh-hans": "叶子防守"
-  },
-  "Klutz": {
-    "ja": "ぶきよう",
-    "zh-hans": "笨拙"
-  },
-  "Mold Breaker": {
-    "ja": "かたやぶり",
-    "zh-hans": "破格"
-  },
-  "Mold-Breaker": {
-    "ja": "かたやぶり",
-    "zh-hans": "破格"
-  },
-  "Super Luck": {
-    "ja": "きょううん",
-    "zh-hans": "超幸运"
-  },
-  "Super-Luck": {
-    "ja": "きょううん",
-    "zh-hans": "超幸运"
-  },
-  "Aftermath": {
-    "ja": "ゆうばく",
-    "zh-hans": "引爆"
-  },
-  "Anticipation": {
-    "ja": "きけんよち",
-    "zh-hans": "危险预知"
-  },
-  "Forewarn": {
-    "ja": "よちむ",
-    "zh-hans": "预知梦"
-  },
-  "Unaware": {
-    "ja": "てんねん",
-    "zh-hans": "纯朴"
-  },
-  "Tinted Lens": {
-    "ja": "いろめがね",
-    "zh-hans": "有色眼镜"
-  },
-  "Tinted-Lens": {
-    "ja": "いろめがね",
-    "zh-hans": "有色眼镜"
-  },
-  "Filter": {
-    "ja": "フィルター",
-    "zh-hans": "过滤"
-  },
-  "Slow Start": {
-    "ja": "スロースタート",
-    "zh-hans": "慢启动"
-  },
-  "Slow-Start": {
-    "ja": "スロースタート",
-    "zh-hans": "慢启动"
-  },
-  "Scrappy": {
-    "ja": "きもったま",
-    "zh-hans": "胆量"
-  },
-  "Storm Drain": {
-    "ja": "よびみず",
-    "zh-hans": "引水"
-  },
-  "Storm-Drain": {
-    "ja": "よびみず",
-    "zh-hans": "引水"
-  },
-  "Ice Body": {
-    "ja": "アイスボディ",
-    "zh-hans": "冰冻之躯"
-  },
-  "Ice-Body": {
-    "ja": "アイスボディ",
-    "zh-hans": "冰冻之躯"
-  },
-  "Solid Rock": {
-    "ja": "ハードロック",
-    "zh-hans": "坚硬岩石"
-  },
-  "Solid-Rock": {
-    "ja": "ハードロック",
-    "zh-hans": "坚硬岩石"
-  },
-  "Snow Warning": {
-    "ja": "ゆきふらし",
-    "zh-hans": "降雪"
-  },
-  "Snow-Warning": {
-    "ja": "ゆきふらし",
-    "zh-hans": "降雪"
-  },
-  "Honey Gather": {
-    "ja": "みつあつめ",
-    "zh-hans": "采蜜"
-  },
-  "Honey-Gather": {
-    "ja": "みつあつめ",
-    "zh-hans": "采蜜"
-  },
-  "Frisk": {
-    "ja": "おみとおし",
-    "zh-hans": "察觉"
-  },
-  "Reckless": {
-    "ja": "すてみ",
-    "zh-hans": "舍身"
-  },
-  "Multitype": {
-    "ja": "マルチタイプ",
-    "zh-hans": "多属性"
-  },
-  "Flower Gift": {
-    "ja": "フラワーギフト",
-    "zh-hans": "花之礼"
-  },
-  "Flower-Gift": {
-    "ja": "フラワーギフト",
-    "zh-hans": "花之礼"
-  },
-  "Bad Dreams": {
-    "ja": "ナイトメア",
-    "zh-hans": "梦魇"
-  },
-  "Bad-Dreams": {
-    "ja": "ナイトメア",
-    "zh-hans": "梦魇"
-  },
-  "Pickpocket": {
-    "ja": "わるいてぐせ",
-    "zh-hans": "顺手牵羊"
-  },
-  "Sheer Force": {
-    "ja": "ちからずく",
-    "zh-hans": "强行"
-  },
-  "Sheer-Force": {
-    "ja": "ちからずく",
-    "zh-hans": "强行"
-  },
-  "Contrary": {
-    "ja": "あまのじゃく",
-    "zh-hans": "唱反调"
-  },
-  "Unnerve": {
-    "ja": "きんちょうかん",
-    "zh-hans": "紧张感"
-  },
-  "Defiant": {
-    "ja": "まけんき",
-    "zh-hans": "不服输"
-  },
-  "Defeatist": {
-    "ja": "よわき",
-    "zh-hans": "软弱"
-  },
-  "Cursed Body": {
-    "ja": "のろわれボディ",
-    "zh-hans": "诅咒之躯"
-  },
-  "Cursed-Body": {
-    "ja": "のろわれボディ",
-    "zh-hans": "诅咒之躯"
-  },
-  "Healer": {
-    "ja": "いやしのこころ",
-    "zh-hans": "治愈之心"
-  },
-  "Friend Guard": {
-    "ja": "フレンドガード",
-    "zh-hans": "友情防守"
-  },
-  "Friend-Guard": {
-    "ja": "フレンドガード",
-    "zh-hans": "友情防守"
-  },
-  "Weak Armor": {
-    "ja": "くだけるよろい",
-    "zh-hans": "碎裂铠甲"
-  },
-  "Weak-Armor": {
-    "ja": "くだけるよろい",
-    "zh-hans": "碎裂铠甲"
-  },
-  "Heavy Metal": {
-    "ja": "ヘヴィメタル",
-    "zh-hans": "重金属"
-  },
-  "Heavy-Metal": {
-    "ja": "ヘヴィメタル",
-    "zh-hans": "重金属"
-  },
-  "Light Metal": {
-    "ja": "ライトメタル",
-    "zh-hans": "轻金属"
-  },
-  "Light-Metal": {
-    "ja": "ライトメタル",
-    "zh-hans": "轻金属"
-  },
-  "Multiscale": {
-    "ja": "マルチスケイル",
-    "zh-hans": "多重鳞片"
-  },
-  "Toxic Boost": {
-    "ja": "どくぼうそう",
-    "zh-hans": "中毒激升"
-  },
-  "Toxic-Boost": {
-    "ja": "どくぼうそう",
-    "zh-hans": "中毒激升"
-  },
-  "Flare Boost": {
-    "ja": "ねつぼうそう",
-    "zh-hans": "受热激升"
-  },
-  "Flare-Boost": {
-    "ja": "ねつぼうそう",
-    "zh-hans": "受热激升"
-  },
-  "Harvest": {
-    "ja": "しゅうかく",
-    "zh-hans": "收获"
-  },
-  "Telepathy": {
-    "ja": "テレパシー",
-    "zh-hans": "心灵感应"
-  },
-  "Moody": {
-    "ja": "ムラっけ",
-    "zh-hans": "心情不定"
-  },
-  "Overcoat": {
-    "ja": "ぼうじん",
-    "zh-hans": "防尘"
-  },
-  "Poison Touch": {
-    "ja": "どくしゅ",
-    "zh-hans": "毒手"
-  },
-  "Poison-Touch": {
-    "ja": "どくしゅ",
-    "zh-hans": "毒手"
-  },
-  "Regenerator": {
-    "ja": "さいせいりょく",
-    "zh-hans": "再生力"
-  },
-  "Big Pecks": {
-    "ja": "はとむね",
-    "zh-hans": "健壮胸肌"
-  },
-  "Big-Pecks": {
-    "ja": "はとむね",
-    "zh-hans": "健壮胸肌"
-  },
-  "Sand Rush": {
-    "ja": "すなかき",
-    "zh-hans": "拨沙"
-  },
-  "Sand-Rush": {
-    "ja": "すなかき",
-    "zh-hans": "拨沙"
-  },
-  "Wonder Skin": {
-    "ja": "ミラクルスキン",
-    "zh-hans": "奇迹皮肤"
-  },
-  "Wonder-Skin": {
-    "ja": "ミラクルスキン",
-    "zh-hans": "奇迹皮肤"
-  },
-  "Analytic": {
-    "ja": "アナライズ",
-    "zh-hans": "分析"
-  },
-  "Illusion": {
-    "ja": "イリュージョン",
-    "zh-hans": "幻觉"
-  },
-  "Imposter": {
-    "ja": "かわりもの",
-    "zh-hans": "变身者"
-  },
-  "Infiltrator": {
-    "ja": "すりぬけ",
-    "zh-hans": "穿透"
-  },
-  "Mummy": {
-    "ja": "ミイラ",
-    "zh-hans": "木乃伊"
-  },
-  "Moxie": {
-    "ja": "じしんかじょう",
-    "zh-hans": "自信过度"
-  },
-  "Justified": {
-    "ja": "せいぎのこころ",
-    "zh-hans": "正义之心"
-  },
-  "Rattled": {
-    "ja": "びびり",
-    "zh-hans": "胆怯"
-  },
-  "Magic Bounce": {
-    "ja": "マジックミラー",
-    "zh-hans": "魔法镜"
-  },
-  "Magic-Bounce": {
-    "ja": "マジックミラー",
-    "zh-hans": "魔法镜"
-  },
-  "Sap Sipper": {
-    "ja": "そうしょく",
-    "zh-hans": "食草"
-  },
-  "Sap-Sipper": {
-    "ja": "そうしょく",
-    "zh-hans": "食草"
-  },
-  "Prankster": {
-    "ja": "いたずらごころ",
-    "zh-hans": "恶作剧之心"
-  },
-  "Sand Force": {
-    "ja": "すなのちから",
-    "zh-hans": "沙之力"
-  },
-  "Sand-Force": {
-    "ja": "すなのちから",
-    "zh-hans": "沙之力"
-  },
-  "Iron Barbs": {
-    "ja": "てつのトゲ",
-    "zh-hans": "铁刺"
-  },
-  "Iron-Barbs": {
-    "ja": "てつのトゲ",
-    "zh-hans": "铁刺"
-  },
-  "Zen Mode": {
-    "ja": "ダルマモード",
-    "zh-hans": "达摩模式"
-  },
-  "Zen-Mode": {
-    "ja": "ダルマモード",
-    "zh-hans": "达摩模式"
-  },
-  "Victory Star": {
-    "ja": "しょうりのほし",
-    "zh-hans": "胜利之星"
-  },
-  "Victory-Star": {
-    "ja": "しょうりのほし",
-    "zh-hans": "胜利之星"
-  },
-  "Turboblaze": {
-    "ja": "ターボブレイズ",
-    "zh-hans": "涡轮火焰"
-  },
-  "Teravolt": {
-    "ja": "テラボルテージ",
-    "zh-hans": "兆级电压"
-  },
-  "Aroma Veil": {
-    "ja": "アロマベール",
-    "zh-hans": "芳香幕"
-  },
-  "Aroma-Veil": {
-    "ja": "アロマベール",
-    "zh-hans": "芳香幕"
-  },
-  "Flower Veil": {
-    "ja": "フラワーベール",
-    "zh-hans": "花幕"
-  },
-  "Flower-Veil": {
-    "ja": "フラワーベール",
-    "zh-hans": "花幕"
-  },
-  "Cheek Pouch": {
-    "ja": "ほおぶくろ",
-    "zh-hans": "颊囊"
-  },
-  "Cheek-Pouch": {
-    "ja": "ほおぶくろ",
-    "zh-hans": "颊囊"
-  },
-  "Protean": {
-    "ja": "へんげんじざい",
-    "zh-hans": "变幻自如"
-  },
-  "Fur Coat": {
-    "ja": "ファーコート",
-    "zh-hans": "毛皮大衣"
-  },
-  "Fur-Coat": {
-    "ja": "ファーコート",
-    "zh-hans": "毛皮大衣"
-  },
-  "Magician": {
-    "ja": "マジシャン",
-    "zh-hans": "魔术师"
-  },
-  "Bulletproof": {
-    "ja": "ぼうだん",
-    "zh-hans": "防弹"
-  },
-  "Competitive": {
-    "ja": "かちき",
-    "zh-hans": "好胜"
-  },
-  "Strong Jaw": {
-    "ja": "がんじょうあご",
-    "zh-hans": "强壮之颚"
-  },
-  "Strong-Jaw": {
-    "ja": "がんじょうあご",
-    "zh-hans": "强壮之颚"
-  },
-  "Refrigerate": {
-    "ja": "フリーズスキン",
-    "zh-hans": "冰冻皮肤"
-  },
-  "Sweet Veil": {
-    "ja": "スイートベール",
-    "zh-hans": "甜幕"
-  },
-  "Sweet-Veil": {
-    "ja": "スイートベール",
-    "zh-hans": "甜幕"
-  },
-  "Stance Change": {
-    "ja": "バトルスイッチ",
-    "zh-hans": "战斗切换"
-  },
-  "Stance-Change": {
-    "ja": "バトルスイッチ",
-    "zh-hans": "战斗切换"
-  },
-  "Gale Wings": {
-    "ja": "はやてのつばさ",
-    "zh-hans": "疾风之翼"
-  },
-  "Gale-Wings": {
-    "ja": "はやてのつばさ",
-    "zh-hans": "疾风之翼"
-  },
-  "Mega Launcher": {
-    "ja": "メガランチャー",
-    "zh-hans": "超级发射器"
-  },
-  "Mega-Launcher": {
-    "ja": "メガランチャー",
-    "zh-hans": "超级发射器"
-  },
-  "Grass Pelt": {
-    "ja": "くさのけがわ",
-    "zh-hans": "草之毛皮"
-  },
-  "Grass-Pelt": {
-    "ja": "くさのけがわ",
-    "zh-hans": "草之毛皮"
-  },
-  "Symbiosis": {
-    "ja": "きょうせい",
-    "zh-hans": "共生"
-  },
-  "Tough Claws": {
-    "ja": "かたいツメ",
-    "zh-hans": "硬爪"
-  },
-  "Tough-Claws": {
-    "ja": "かたいツメ",
-    "zh-hans": "硬爪"
-  },
-  "Pixilate": {
-    "ja": "フェアリースキン",
-    "zh-hans": "妖精皮肤"
-  },
-  "Gooey": {
-    "ja": "ぬめぬめ",
-    "zh-hans": "黏滑"
-  },
-  "Aerilate": {
-    "ja": "スカイスキン",
-    "zh-hans": "飞行皮肤"
-  },
-  "Parental Bond": {
-    "ja": "おやこあい",
-    "zh-hans": "亲子爱"
-  },
-  "Parental-Bond": {
-    "ja": "おやこあい",
-    "zh-hans": "亲子爱"
-  },
-  "Dark Aura": {
-    "ja": "ダークオーラ",
-    "zh-hans": "暗黑气场"
-  },
-  "Dark-Aura": {
-    "ja": "ダークオーラ",
-    "zh-hans": "暗黑气场"
-  },
-  "Fairy Aura": {
-    "ja": "フェアリーオーラ",
-    "zh-hans": "妖精气场"
-  },
-  "Fairy-Aura": {
-    "ja": "フェアリーオーラ",
-    "zh-hans": "妖精气场"
-  },
-  "Aura Break": {
-    "ja": "オーラブレイク",
-    "zh-hans": "气场破坏"
-  },
-  "Aura-Break": {
-    "ja": "オーラブレイク",
-    "zh-hans": "气场破坏"
-  },
-  "Primordial Sea": {
-    "ja": "はじまりのうみ",
-    "zh-hans": "始源之海"
-  },
-  "Primordial-Sea": {
-    "ja": "はじまりのうみ",
-    "zh-hans": "始源之海"
-  },
-  "Desolate Land": {
-    "ja": "おわりのだいち",
-    "zh-hans": "终结之地"
-  },
-  "Desolate-Land": {
-    "ja": "おわりのだいち",
-    "zh-hans": "终结之地"
-  },
-  "Delta Stream": {
-    "ja": "デルタストリーム",
-    "zh-hans": "德尔塔气流"
-  },
-  "Delta-Stream": {
-    "ja": "デルタストリーム",
-    "zh-hans": "德尔塔气流"
-  },
-  "Stamina": {
-    "ja": "じきゅうりょく",
-    "zh-hans": "持久力"
-  },
-  "Wimp Out": {
-    "ja": "にげごし",
-    "zh-hans": "跃跃欲逃"
-  },
-  "Wimp-Out": {
-    "ja": "にげごし",
-    "zh-hans": "跃跃欲逃"
-  },
-  "Emergency Exit": {
-    "ja": "ききかいひ",
-    "zh-hans": "危险回避"
-  },
-  "Emergency-Exit": {
-    "ja": "ききかいひ",
-    "zh-hans": "危险回避"
-  },
-  "Water Compaction": {
-    "ja": "みずがため",
-    "zh-hans": "遇水凝固"
-  },
-  "Water-Compaction": {
-    "ja": "みずがため",
-    "zh-hans": "遇水凝固"
-  },
-  "Merciless": {
-    "ja": "ひとでなし",
-    "zh-hans": "不仁不义"
-  },
-  "Shields Down": {
-    "ja": "リミットシールド",
-    "zh-hans": "界限盾壳"
-  },
-  "Shields-Down": {
-    "ja": "リミットシールド",
-    "zh-hans": "界限盾壳"
-  },
-  "Stakeout": {
-    "ja": "はりこみ",
-    "zh-hans": "蹲守"
-  },
-  "Water Bubble": {
-    "ja": "すいほう",
-    "zh-hans": "水泡"
-  },
-  "Water-Bubble": {
-    "ja": "すいほう",
-    "zh-hans": "水泡"
-  },
-  "Steelworker": {
-    "ja": "はがねつかい",
-    "zh-hans": "钢能力者"
-  },
-  "Berserk": {
-    "ja": "ぎゃくじょう",
-    "zh-hans": "怒火冲天"
-  },
-  "Slush Rush": {
-    "ja": "ゆきかき",
-    "zh-hans": "拨雪"
-  },
-  "Slush-Rush": {
-    "ja": "ゆきかき",
-    "zh-hans": "拨雪"
-  },
-  "Long Reach": {
-    "ja": "えんかく",
-    "zh-hans": "远隔"
-  },
-  "Long-Reach": {
-    "ja": "えんかく",
-    "zh-hans": "远隔"
-  },
-  "Liquid Voice": {
-    "ja": "うるおいボイス",
-    "zh-hans": "湿润之声"
-  },
-  "Liquid-Voice": {
-    "ja": "うるおいボイス",
-    "zh-hans": "湿润之声"
-  },
-  "Triage": {
-    "ja": "ヒーリングシフト",
-    "zh-hans": "先行治疗"
-  },
-  "Galvanize": {
-    "ja": "エレキスキン",
-    "zh-hans": "电气皮肤"
-  },
-  "Surge Surfer": {
-    "ja": "サーフテール",
-    "zh-hans": "冲浪之尾"
-  },
-  "Surge-Surfer": {
-    "ja": "サーフテール",
-    "zh-hans": "冲浪之尾"
-  },
-  "Schooling": {
-    "ja": "ぎょぐん",
-    "zh-hans": "鱼群"
-  },
-  "Disguise": {
-    "ja": "ばけのかわ",
-    "zh-hans": "画皮"
-  },
-  "Battle Bond": {
-    "ja": "きずなへんげ",
-    "zh-hans": "牵绊变身"
-  },
-  "Battle-Bond": {
-    "ja": "きずなへんげ",
-    "zh-hans": "牵绊变身"
-  },
-  "Power Construct": {
-    "ja": "スワームチェンジ",
-    "zh-hans": "群聚变形"
-  },
-  "Power-Construct": {
-    "ja": "スワームチェンジ",
-    "zh-hans": "群聚变形"
-  },
-  "Corrosion": {
-    "ja": "ふしょく",
-    "zh-hans": "腐蚀"
-  },
-  "Comatose": {
-    "ja": "ぜったいねむり",
-    "zh-hans": "绝对睡眠"
-  },
-  "Queenly Majesty": {
-    "ja": "じょおうのいげん",
-    "zh-hans": "女王的威严"
-  },
-  "Queenly-Majesty": {
-    "ja": "じょおうのいげん",
-    "zh-hans": "女王的威严"
-  },
-  "Innards Out": {
-    "ja": "とびだすなかみ",
-    "zh-hans": "飞出的内在物"
-  },
-  "Innards-Out": {
-    "ja": "とびだすなかみ",
-    "zh-hans": "飞出的内在物"
-  },
-  "Dancer": {
-    "ja": "おどりこ",
-    "zh-hans": "舞者"
-  },
-  "Battery": {
-    "ja": "バッテリー",
-    "zh-hans": "蓄电池"
-  },
-  "Fluffy": {
-    "ja": "もふもふ",
-    "zh-hans": "毛茸茸"
-  },
-  "Dazzling": {
-    "ja": "ビビッドボディ",
-    "zh-hans": "鲜艳之躯"
-  },
-  "Soul-Heart": {
-    "ja": "ソウルハート",
-    "zh-hans": "魂心"
-  },
-  "Tangling Hair": {
-    "ja": "カーリーヘアー",
-    "zh-hans": "卷发"
-  },
-  "Tangling-Hair": {
-    "ja": "カーリーヘアー",
-    "zh-hans": "卷发"
-  },
-  "Receiver": {
-    "ja": "レシーバー",
-    "zh-hans": "接球手"
-  },
-  "Power of Alchemy": {
-    "ja": "かがくのちから",
-    "zh-hans": "化学之力"
-  },
-  "Power-of-Alchemy": {
-    "ja": "かがくのちから",
-    "zh-hans": "化学之力"
-  },
-  "Beast Boost": {
-    "ja": "ビーストブースト",
-    "zh-hans": "异兽提升"
-  },
-  "Beast-Boost": {
-    "ja": "ビーストブースト",
-    "zh-hans": "异兽提升"
-  },
-  "RKS System": {
-    "ja": "ＡＲシステム",
-    "zh-hans": "ＡＲ系统"
-  },
-  "RKS-System": {
-    "ja": "ＡＲシステム",
-    "zh-hans": "ＡＲ系统"
-  },
-  "Electric Surge": {
-    "ja": "エレキメイカー",
-    "zh-hans": "电气制造者"
-  },
-  "Electric-Surge": {
-    "ja": "エレキメイカー",
-    "zh-hans": "电气制造者"
-  },
-  "Psychic Surge": {
-    "ja": "サイコメイカー",
-    "zh-hans": "精神制造者"
-  },
-  "Psychic-Surge": {
-    "ja": "サイコメイカー",
-    "zh-hans": "精神制造者"
-  },
-  "Misty Surge": {
-    "ja": "ミストメイカー",
-    "zh-hans": "薄雾制造者"
-  },
-  "Misty-Surge": {
-    "ja": "ミストメイカー",
-    "zh-hans": "薄雾制造者"
-  },
-  "Grassy Surge": {
-    "ja": "グラスメイカー",
-    "zh-hans": "青草制造者"
-  },
-  "Grassy-Surge": {
-    "ja": "グラスメイカー",
-    "zh-hans": "青草制造者"
-  },
-  "Full Metal Body": {
-    "ja": "メタルプロテクト",
-    "zh-hans": "金属防护"
-  },
-  "Full-Metal-Body": {
-    "ja": "メタルプロテクト",
-    "zh-hans": "金属防护"
-  },
-  "Shadow Shield": {
-    "ja": "ファントムガード",
-    "zh-hans": "幻影防守"
-  },
-  "Shadow-Shield": {
-    "ja": "ファントムガード",
-    "zh-hans": "幻影防守"
-  },
-  "Prism Armor": {
-    "ja": "プリズムアーマー",
-    "zh-hans": "棱镜装甲"
-  },
-  "Prism-Armor": {
-    "ja": "プリズムアーマー",
-    "zh-hans": "棱镜装甲"
-  },
-  "Neuroforce": {
-    "ja": "ブレインフォース",
-    "zh-hans": "脑核之力"
-  },
-  "Intrepid Sword": {
-    "ja": "ふとうのけん",
-    "zh-hans": "不挠之剑"
-  },
-  "Intrepid-Sword": {
-    "ja": "ふとうのけん",
-    "zh-hans": "不挠之剑"
-  },
-  "Dauntless Shield": {
-    "ja": "ふくつのたて",
-    "zh-hans": "不屈之盾"
-  },
-  "Dauntless-Shield": {
-    "ja": "ふくつのたて",
-    "zh-hans": "不屈之盾"
-  },
-  "Libero": {
-    "ja": "リベロ",
-    "zh-hans": "自由者"
-  },
-  "Ball Fetch": {
-    "ja": "たまひろい",
-    "zh-hans": "捡球"
-  },
-  "Ball-Fetch": {
-    "ja": "たまひろい",
-    "zh-hans": "捡球"
-  },
-  "Cotton Down": {
-    "ja": "わたげ",
-    "zh-hans": "棉絮"
-  },
-  "Cotton-Down": {
-    "ja": "わたげ",
-    "zh-hans": "棉絮"
-  },
-  "Propeller Tail": {
-    "ja": "スクリューおびれ",
-    "zh-hans": "螺旋尾鳍"
-  },
-  "Propeller-Tail": {
-    "ja": "スクリューおびれ",
-    "zh-hans": "螺旋尾鳍"
-  },
-  "Mirror Armor": {
-    "ja": "ミラーアーマー",
-    "zh-hans": "镜甲"
-  },
-  "Mirror-Armor": {
-    "ja": "ミラーアーマー",
-    "zh-hans": "镜甲"
-  },
-  "Gulp Missile": {
-    "ja": "うのミサイル",
-    "zh-hans": "一口导弹"
-  },
-  "Gulp-Missile": {
-    "ja": "うのミサイル",
-    "zh-hans": "一口导弹"
-  },
-  "Stalwart": {
-    "ja": "すじがねいり",
-    "zh-hans": "坚毅"
-  },
-  "Steam Engine": {
-    "ja": "じょうききかん",
-    "zh-hans": "蒸汽机"
-  },
-  "Steam-Engine": {
-    "ja": "じょうききかん",
-    "zh-hans": "蒸汽机"
-  },
-  "Punk Rock": {
-    "ja": "パンクロック",
-    "zh-hans": "庞克摇滚"
-  },
-  "Punk-Rock": {
-    "ja": "パンクロック",
-    "zh-hans": "庞克摇滚"
-  },
-  "Sand Spit": {
-    "ja": "すなはき",
-    "zh-hans": "吐沙"
-  },
-  "Sand-Spit": {
-    "ja": "すなはき",
-    "zh-hans": "吐沙"
-  },
-  "Ice Scales": {
-    "ja": "こおりのりんぷん",
-    "zh-hans": "冰鳞粉"
-  },
-  "Ice-Scales": {
-    "ja": "こおりのりんぷん",
-    "zh-hans": "冰鳞粉"
-  },
-  "Ripen": {
-    "ja": "じゅくせい",
-    "zh-hans": "熟成"
-  },
-  "Ice Face": {
-    "ja": "アイスフェイス",
-    "zh-hans": "结冻头"
-  },
-  "Ice-Face": {
-    "ja": "アイスフェイス",
-    "zh-hans": "结冻头"
-  },
-  "Power Spot": {
-    "ja": "パワースポット",
-    "zh-hans": "能量点"
-  },
-  "Power-Spot": {
-    "ja": "パワースポット",
-    "zh-hans": "能量点"
-  },
-  "Mimicry": {
-    "ja": "ぎたい",
-    "zh-hans": "拟态"
-  },
-  "Screen Cleaner": {
-    "ja": "バリアフリー",
-    "zh-hans": "除障"
-  },
-  "Screen-Cleaner": {
-    "ja": "バリアフリー",
-    "zh-hans": "除障"
-  },
-  "Steely Spirit": {
-    "ja": "はがねのせいしん",
-    "zh-hans": "钢之意志"
-  },
-  "Steely-Spirit": {
-    "ja": "はがねのせいしん",
-    "zh-hans": "钢之意志"
-  },
-  "Perish Body": {
-    "ja": "ほろびのボディ",
-    "zh-hans": "灭亡之躯"
-  },
-  "Perish-Body": {
-    "ja": "ほろびのボディ",
-    "zh-hans": "灭亡之躯"
-  },
-  "Wandering Spirit": {
-    "ja": "さまようたましい",
-    "zh-hans": "游魂"
-  },
-  "Wandering-Spirit": {
-    "ja": "さまようたましい",
-    "zh-hans": "游魂"
-  },
-  "Gorilla Tactics": {
-    "ja": "ごりむちゅう",
-    "zh-hans": "一猩一意"
-  },
-  "Gorilla-Tactics": {
-    "ja": "ごりむちゅう",
-    "zh-hans": "一猩一意"
-  },
-  "Neutralizing Gas": {
-    "ja": "かがくへんかガス",
-    "zh-hans": "化学变化气体"
-  },
-  "Neutralizing-Gas": {
-    "ja": "かがくへんかガス",
-    "zh-hans": "化学变化气体"
-  },
-  "Pastel Veil": {
-    "ja": "パステルベール",
-    "zh-hans": "粉彩护幕"
-  },
-  "Pastel-Veil": {
-    "ja": "パステルベール",
-    "zh-hans": "粉彩护幕"
-  },
-  "Hunger Switch": {
-    "ja": "はらぺこスイッチ",
-    "zh-hans": "饱了又饿"
-  },
-  "Hunger-Switch": {
-    "ja": "はらぺこスイッチ",
-    "zh-hans": "饱了又饿"
-  },
-  "Quick Draw": {
-    "ja": "クイックドロウ",
-    "zh-hans": "速击"
-  },
-  "Quick-Draw": {
-    "ja": "クイックドロウ",
-    "zh-hans": "速击"
-  },
-  "Unseen Fist": {
-    "ja": "ふかしのこぶし",
-    "zh-hans": "无形拳"
-  },
-  "Unseen-Fist": {
-    "ja": "ふかしのこぶし",
-    "zh-hans": "无形拳"
-  },
-  "Curious Medicine": {
-    "ja": "きみょうなくすり",
-    "zh-hans": "怪药"
-  },
-  "Curious-Medicine": {
-    "ja": "きみょうなくすり",
-    "zh-hans": "怪药"
-  },
-  "Transistor": {
-    "ja": "トランジスタ",
-    "zh-hans": "电晶体"
-  },
-  "Dragon's Maw": {
-    "ja": "りゅうのあぎと",
-    "zh-hans": "龙颚"
-  },
-  "Dragon's-Maw": {
-    "ja": "りゅうのあぎと",
-    "zh-hans": "龙颚"
-  },
-  "Chilling Neigh": {
-    "ja": "しろのいななき",
-    "zh-hans": "苍白嘶鸣"
-  },
-  "Chilling-Neigh": {
-    "ja": "しろのいななき",
-    "zh-hans": "苍白嘶鸣"
-  },
-  "Grim Neigh": {
-    "ja": "くろのいななき",
-    "zh-hans": "漆黑嘶鸣"
-  },
-  "Grim-Neigh": {
-    "ja": "くろのいななき",
-    "zh-hans": "漆黑嘶鸣"
-  },
-  "As One": {
-    "ja": "じんばいったい",
-    "zh-hans": "人马一体"
-  },
-  "As-One": {
-    "ja": "じんばいったい",
-    "zh-hans": "人马一体"
-  },
-  "Lingering Aroma": {
-    "ja": "とれないにおい",
-    "zh-hans": "甩不掉的气味"
-  },
-  "Lingering-Aroma": {
-    "ja": "とれないにおい",
-    "zh-hans": "甩不掉的气味"
-  },
-  "Seed Sower": {
-    "ja": "こぼれダネ",
-    "zh-hans": "掉出种子"
-  },
-  "Seed-Sower": {
-    "ja": "こぼれダネ",
-    "zh-hans": "掉出种子"
-  },
-  "Thermal Exchange": {
-    "ja": "ねつこうかん",
-    "zh-hans": "热交换"
-  },
-  "Thermal-Exchange": {
-    "ja": "ねつこうかん",
-    "zh-hans": "热交换"
-  },
-  "Anger Shell": {
-    "ja": "いかりのこうら",
-    "zh-hans": "愤怒甲壳"
-  },
-  "Anger-Shell": {
-    "ja": "いかりのこうら",
-    "zh-hans": "愤怒甲壳"
-  },
-  "Purifying Salt": {
-    "ja": "きよめのしお",
-    "zh-hans": "洁净之盐"
-  },
-  "Purifying-Salt": {
-    "ja": "きよめのしお",
-    "zh-hans": "洁净之盐"
-  },
-  "Well-Baked Body": {
-    "ja": "こんがりボディ",
-    "zh-hans": "焦香之躯"
-  },
-  "Well-Baked-Body": {
-    "ja": "こんがりボディ",
-    "zh-hans": "焦香之躯"
-  },
-  "Wind Rider": {
-    "ja": "かぜのり",
-    "zh-hans": "乘风"
-  },
-  "Wind-Rider": {
-    "ja": "かぜのり",
-    "zh-hans": "乘风"
-  },
-  "Guard Dog": {
-    "ja": "ばんけん",
-    "zh-hans": "看门犬"
-  },
-  "Guard-Dog": {
-    "ja": "ばんけん",
-    "zh-hans": "看门犬"
-  },
-  "Rocky Payload": {
-    "ja": "いわはこび",
-    "zh-hans": "搬岩"
-  },
-  "Rocky-Payload": {
-    "ja": "いわはこび",
-    "zh-hans": "搬岩"
-  },
-  "Wind Power": {
-    "ja": "ふうりょくでんき",
-    "zh-hans": "风力发电"
-  },
-  "Wind-Power": {
-    "ja": "ふうりょくでんき",
-    "zh-hans": "风力发电"
-  },
-  "Zero to Hero": {
-    "ja": "マイティチェンジ",
-    "zh-hans": "全能变身"
-  },
-  "Zero-to-Hero": {
-    "ja": "マイティチェンジ",
-    "zh-hans": "全能变身"
-  },
-  "Commander": {
-    "ja": "しれいとう",
-    "zh-hans": "发号施令"
-  },
-  "Electromorphosis": {
-    "ja": "でんきにかえる",
-    "zh-hans": "电力转换"
-  },
-  "Protosynthesis": {
-    "ja": "こだいかっせい",
-    "zh-hans": "古代活性"
-  },
-  "Quark Drive": {
-    "ja": "クォークチャージ",
-    "zh-hans": "夸克充能"
-  },
-  "Quark-Drive": {
-    "ja": "クォークチャージ",
-    "zh-hans": "夸克充能"
-  },
-  "Good as Gold": {
-    "ja": "おうごんのからだ",
-    "zh-hans": "黄金之躯"
-  },
-  "Good-as-Gold": {
-    "ja": "おうごんのからだ",
-    "zh-hans": "黄金之躯"
-  },
-  "Vessel of Ruin": {
-    "ja": "わざわいのうつわ",
-    "zh-hans": "灾祸之鼎"
-  },
-  "Vessel-of-Ruin": {
-    "ja": "わざわいのうつわ",
-    "zh-hans": "灾祸之鼎"
-  },
-  "Sword of Ruin": {
-    "ja": "わざわいのつるぎ",
-    "zh-hans": "灾祸之剑"
-  },
-  "Sword-of-Ruin": {
-    "ja": "わざわいのつるぎ",
-    "zh-hans": "灾祸之剑"
-  },
-  "Tablets of Ruin": {
-    "ja": "わざわいのおふだ",
-    "zh-hans": "灾祸之简"
-  },
-  "Tablets-of-Ruin": {
-    "ja": "わざわいのおふだ",
-    "zh-hans": "灾祸之简"
-  },
-  "Beads of Ruin": {
-    "ja": "わざわいのたま",
-    "zh-hans": "灾祸之玉"
-  },
-  "Beads-of-Ruin": {
-    "ja": "わざわいのたま",
-    "zh-hans": "灾祸之玉"
-  },
-  "Orichalcum Pulse": {
-    "ja": "ひひいろのこどう",
-    "zh-hans": "绯红脉动"
-  },
-  "Orichalcum-Pulse": {
-    "ja": "ひひいろのこどう",
-    "zh-hans": "绯红脉动"
-  },
-  "Hadron Engine": {
-    "ja": "ハドロンエンジン",
-    "zh-hans": "强子引擎"
-  },
-  "Hadron-Engine": {
-    "ja": "ハドロンエンジン",
-    "zh-hans": "强子引擎"
-  },
-  "Opportunist": {
-    "ja": "びんじょう",
-    "zh-hans": "跟风"
-  },
-  "Cud Chew": {
-    "ja": "はんすう",
-    "zh-hans": "反刍"
-  },
-  "Cud-Chew": {
-    "ja": "はんすう",
-    "zh-hans": "反刍"
-  },
-  "Sharpness": {
-    "ja": "きれあじ",
-    "zh-hans": "锋锐"
-  },
-  "Supreme Overlord": {
-    "ja": "そうだいしょう",
-    "zh-hans": "大将"
-  },
-  "Supreme-Overlord": {
-    "ja": "そうだいしょう",
-    "zh-hans": "大将"
-  },
-  "Costar": {
-    "ja": "きょうえん",
-    "zh-hans": "同台共演"
-  },
-  "Toxic Debris": {
-    "ja": "どくげしょう",
-    "zh-hans": "毒满地"
-  },
-  "Toxic-Debris": {
-    "ja": "どくげしょう",
-    "zh-hans": "毒满地"
-  },
-  "Armor Tail": {
-    "ja": "テイルアーマー",
-    "zh-hans": "尾甲"
-  },
-  "Armor-Tail": {
-    "ja": "テイルアーマー",
-    "zh-hans": "尾甲"
-  },
-  "Earth Eater": {
-    "ja": "どしょく",
-    "zh-hans": "食土"
-  },
-  "Earth-Eater": {
-    "ja": "どしょく",
-    "zh-hans": "食土"
-  },
-  "Mycelium Might": {
-    "ja": "きんしのちから",
-    "zh-hans": "菌丝之力"
-  },
-  "Mycelium-Might": {
-    "ja": "きんしのちから",
-    "zh-hans": "菌丝之力"
-  },
-  "Hospitality": {
-    "ja": "おもてなし",
-    "zh-hans": "款待"
-  },
-  "Mind's Eye": {
-    "ja": "しんがん",
-    "zh-hans": "心眼"
-  },
-  "Mind's-Eye": {
-    "ja": "しんがん",
-    "zh-hans": "心眼"
-  },
-  "Embody Aspect": {
-    "ja": "おもかげやどし",
-    "zh-hans": "面影辉映"
-  },
-  "Embody-Aspect": {
-    "ja": "おもかげやどし",
-    "zh-hans": "面影辉映"
-  },
-  "Toxic Chain": {
-    "ja": "どくのくさり",
-    "zh-hans": "毒锁链"
-  },
-  "Toxic-Chain": {
-    "ja": "どくのくさり",
-    "zh-hans": "毒锁链"
-  },
-  "Supersweet Syrup": {
-    "ja": "かんろなミツ",
-    "zh-hans": "甘露之蜜"
-  },
-  "Supersweet-Syrup": {
-    "ja": "かんろなミツ",
-    "zh-hans": "甘露之蜜"
-  },
-  "Tera Shift": {
-    "ja": "テラスチェンジ",
-    "zh-hans": "太晶变形"
-  },
-  "Tera-Shift": {
-    "ja": "テラスチェンジ",
-    "zh-hans": "太晶变形"
-  },
-  "Tera Shell": {
-    "ja": "テラスシェル",
-    "zh-hans": "太晶甲壳"
-  },
-  "Tera-Shell": {
-    "ja": "テラスシェル",
-    "zh-hans": "太晶甲壳"
-  },
-  "Teraform Zero": {
-    "ja": "ゼロフォーミング",
-    "zh-hans": "归零化境"
-  },
-  "Teraform-Zero": {
-    "ja": "ゼロフォーミング",
-    "zh-hans": "归零化境"
-  },
-  "Poison Puppeteer": {
-    "ja": "どくくぐつ",
-    "zh-hans": "毒傀儡"
-  },
-  "Poison-Puppeteer": {
-    "ja": "どくくぐつ",
-    "zh-hans": "毒傀儡"
-  }
+  "Stench": "恶臭",
+  "Drizzle": "降雨",
+  "Speed Boost": "加速",
+  "Speed-Boost": "加速",
+  "Battle Armor": "战斗盔甲",
+  "Battle-Armor": "战斗盔甲",
+  "Sturdy": "结实",
+  "Damp": "湿气",
+  "Limber": "柔软",
+  "Sand Veil": "沙隐",
+  "Sand-Veil": "沙隐",
+  "Static": "静电",
+  "Volt Absorb": "蓄电",
+  "Volt-Absorb": "蓄电",
+  "Water Absorb": "储水",
+  "Water-Absorb": "储水",
+  "Oblivious": "迟钝",
+  "Cloud Nine": "无关天气",
+  "Cloud-Nine": "无关天气",
+  "Compound Eyes": "复眼",
+  "Compound-Eyes": "复眼",
+  "Insomnia": "不眠",
+  "Color Change": "变色",
+  "Color-Change": "变色",
+  "Immunity": "免疫",
+  "Flash Fire": "引火",
+  "Flash-Fire": "引火",
+  "Shield Dust": "鳞粉",
+  "Shield-Dust": "鳞粉",
+  "Own Tempo": "我行我素",
+  "Own-Tempo": "我行我素",
+  "Suction Cups": "吸盘",
+  "Suction-Cups": "吸盘",
+  "Intimidate": "威吓",
+  "Shadow Tag": "踩影",
+  "Shadow-Tag": "踩影",
+  "Rough Skin": "粗糙皮肤",
+  "Rough-Skin": "粗糙皮肤",
+  "Wonder Guard": "神奇守护",
+  "Wonder-Guard": "神奇守护",
+  "Levitate": "飘浮",
+  "Effect Spore": "孢子",
+  "Effect-Spore": "孢子",
+  "Synchronize": "同步",
+  "Clear Body": "恒净之躯",
+  "Clear-Body": "恒净之躯",
+  "Natural Cure": "自然回复",
+  "Natural-Cure": "自然回复",
+  "Lightning Rod": "避雷针",
+  "Lightning-Rod": "避雷针",
+  "Serene Grace": "天恩",
+  "Serene-Grace": "天恩",
+  "Swift Swim": "悠游自如",
+  "Swift-Swim": "悠游自如",
+  "Chlorophyll": "叶绿素",
+  "Illuminate": "发光",
+  "Trace": "复制",
+  "Huge Power": "大力士",
+  "Huge-Power": "大力士",
+  "Poison Point": "毒刺",
+  "Poison-Point": "毒刺",
+  "Inner Focus": "精神力",
+  "Inner-Focus": "精神力",
+  "Magma Armor": "熔岩铠甲",
+  "Magma-Armor": "熔岩铠甲",
+  "Water Veil": "水幕",
+  "Water-Veil": "水幕",
+  "Magnet Pull": "磁力",
+  "Magnet-Pull": "磁力",
+  "Soundproof": "隔音",
+  "Rain Dish": "雨盘",
+  "Rain-Dish": "雨盘",
+  "Sand Stream": "扬沙",
+  "Sand-Stream": "扬沙",
+  "Pressure": "压迫感",
+  "Thick Fat": "厚脂肪",
+  "Thick-Fat": "厚脂肪",
+  "Early Bird": "早起",
+  "Early-Bird": "早起",
+  "Flame Body": "火焰之躯",
+  "Flame-Body": "火焰之躯",
+  "Run Away": "逃跑",
+  "Run-Away": "逃跑",
+  "Keen Eye": "锐利目光",
+  "Keen-Eye": "锐利目光",
+  "Hyper Cutter": "怪力钳",
+  "Hyper-Cutter": "怪力钳",
+  "Pickup": "捡拾",
+  "Truant": "懒惰",
+  "Hustle": "活力",
+  "Cute Charm": "迷人之躯",
+  "Cute-Charm": "迷人之躯",
+  "Plus": "正电",
+  "Minus": "负电",
+  "Forecast": "阴晴不定",
+  "Sticky Hold": "黏着",
+  "Sticky-Hold": "黏着",
+  "Shed Skin": "蜕皮",
+  "Shed-Skin": "蜕皮",
+  "Guts": "毅力",
+  "Marvel Scale": "神奇鳞片",
+  "Marvel-Scale": "神奇鳞片",
+  "Liquid Ooze": "污泥浆",
+  "Liquid-Ooze": "污泥浆",
+  "Overgrow": "茂盛",
+  "Blaze": "猛火",
+  "Torrent": "激流",
+  "Swarm": "虫之预感",
+  "Rock Head": "坚硬脑袋",
+  "Rock-Head": "坚硬脑袋",
+  "Drought": "日照",
+  "Arena Trap": "沙穴",
+  "Arena-Trap": "沙穴",
+  "Vital Spirit": "干劲",
+  "Vital-Spirit": "干劲",
+  "White Smoke": "白色烟雾",
+  "White-Smoke": "白色烟雾",
+  "Pure Power": "瑜伽之力",
+  "Pure-Power": "瑜伽之力",
+  "Shell Armor": "硬壳盔甲",
+  "Shell-Armor": "硬壳盔甲",
+  "Cacophony": "杂音",
+  "Air Lock": "气闸",
+  "Air-Lock": "气闸",
+  "Tangled Feet": "蹒跚",
+  "Tangled-Feet": "蹒跚",
+  "Motor Drive": "电气引擎",
+  "Motor-Drive": "电气引擎",
+  "Rivalry": "斗争心",
+  "Steadfast": "不屈之心",
+  "Snow Cloak": "雪隐",
+  "Snow-Cloak": "雪隐",
+  "Gluttony": "贪吃鬼",
+  "Anger Point": "愤怒穴位",
+  "Anger-Point": "愤怒穴位",
+  "Unburden": "轻装",
+  "Heatproof": "耐热",
+  "Simple": "单纯",
+  "Dry Skin": "干燥皮肤",
+  "Dry-Skin": "干燥皮肤",
+  "Download": "下载",
+  "Iron Fist": "铁拳",
+  "Iron-Fist": "铁拳",
+  "Poison Heal": "毒疗",
+  "Poison-Heal": "毒疗",
+  "Adaptability": "适应力",
+  "Skill Link": "连续攻击",
+  "Skill-Link": "连续攻击",
+  "Hydration": "湿润之躯",
+  "Solar Power": "太阳之力",
+  "Solar-Power": "太阳之力",
+  "Quick Feet": "飞毛腿",
+  "Quick-Feet": "飞毛腿",
+  "Normalize": "一般皮肤",
+  "Sniper": "狙击手",
+  "Magic Guard": "魔法防守",
+  "Magic-Guard": "魔法防守",
+  "No Guard": "无防守",
+  "No-Guard": "无防守",
+  "Stall": "慢出",
+  "Technician": "技术高手",
+  "Leaf Guard": "叶子防守",
+  "Leaf-Guard": "叶子防守",
+  "Klutz": "笨拙",
+  "Mold Breaker": "破格",
+  "Mold-Breaker": "破格",
+  "Super Luck": "超幸运",
+  "Super-Luck": "超幸运",
+  "Aftermath": "引爆",
+  "Anticipation": "危险预知",
+  "Forewarn": "预知梦",
+  "Unaware": "纯朴",
+  "Tinted Lens": "有色眼镜",
+  "Tinted-Lens": "有色眼镜",
+  "Filter": "过滤",
+  "Slow Start": "慢启动",
+  "Slow-Start": "慢启动",
+  "Scrappy": "胆量",
+  "Storm Drain": "引水",
+  "Storm-Drain": "引水",
+  "Ice Body": "冰冻之躯",
+  "Ice-Body": "冰冻之躯",
+  "Solid Rock": "坚硬岩石",
+  "Solid-Rock": "坚硬岩石",
+  "Snow Warning": "降雪",
+  "Snow-Warning": "降雪",
+  "Honey Gather": "采蜜",
+  "Honey-Gather": "采蜜",
+  "Frisk": "察觉",
+  "Reckless": "舍身",
+  "Multitype": "多属性",
+  "Flower Gift": "花之礼",
+  "Flower-Gift": "花之礼",
+  "Bad Dreams": "梦魇",
+  "Bad-Dreams": "梦魇",
+  "Pickpocket": "顺手牵羊",
+  "Sheer Force": "强行",
+  "Sheer-Force": "强行",
+  "Contrary": "唱反调",
+  "Unnerve": "紧张感",
+  "Defiant": "不服输",
+  "Defeatist": "软弱",
+  "Cursed Body": "诅咒之躯",
+  "Cursed-Body": "诅咒之躯",
+  "Healer": "治愈之心",
+  "Friend Guard": "友情防守",
+  "Friend-Guard": "友情防守",
+  "Weak Armor": "碎裂铠甲",
+  "Weak-Armor": "碎裂铠甲",
+  "Heavy Metal": "重金属",
+  "Heavy-Metal": "重金属",
+  "Light Metal": "轻金属",
+  "Light-Metal": "轻金属",
+  "Multiscale": "多重鳞片",
+  "Toxic Boost": "中毒激升",
+  "Toxic-Boost": "中毒激升",
+  "Flare Boost": "受热激升",
+  "Flare-Boost": "受热激升",
+  "Harvest": "收获",
+  "Telepathy": "心灵感应",
+  "Moody": "心情不定",
+  "Overcoat": "防尘",
+  "Poison Touch": "毒手",
+  "Poison-Touch": "毒手",
+  "Regenerator": "再生力",
+  "Big Pecks": "健壮胸肌",
+  "Big-Pecks": "健壮胸肌",
+  "Sand Rush": "拨沙",
+  "Sand-Rush": "拨沙",
+  "Wonder Skin": "奇迹皮肤",
+  "Wonder-Skin": "奇迹皮肤",
+  "Analytic": "分析",
+  "Illusion": "幻觉",
+  "Imposter": "变身者",
+  "Infiltrator": "穿透",
+  "Mummy": "木乃伊",
+  "Moxie": "自信过度",
+  "Justified": "正义之心",
+  "Rattled": "胆怯",
+  "Magic Bounce": "魔法镜",
+  "Magic-Bounce": "魔法镜",
+  "Sap Sipper": "食草",
+  "Sap-Sipper": "食草",
+  "Prankster": "恶作剧之心",
+  "Sand Force": "沙之力",
+  "Sand-Force": "沙之力",
+  "Iron Barbs": "铁刺",
+  "Iron-Barbs": "铁刺",
+  "Zen Mode": "达摩模式",
+  "Zen-Mode": "达摩模式",
+  "Victory Star": "胜利之星",
+  "Victory-Star": "胜利之星",
+  "Turboblaze": "涡轮火焰",
+  "Teravolt": "兆级电压",
+  "Aroma Veil": "芳香幕",
+  "Aroma-Veil": "芳香幕",
+  "Flower Veil": "花幕",
+  "Flower-Veil": "花幕",
+  "Cheek Pouch": "颊囊",
+  "Cheek-Pouch": "颊囊",
+  "Protean": "变幻自如",
+  "Fur Coat": "毛皮大衣",
+  "Fur-Coat": "毛皮大衣",
+  "Magician": "魔术师",
+  "Bulletproof": "防弹",
+  "Competitive": "好胜",
+  "Strong Jaw": "强壮之颚",
+  "Strong-Jaw": "强壮之颚",
+  "Refrigerate": "冰冻皮肤",
+  "Sweet Veil": "甜幕",
+  "Sweet-Veil": "甜幕",
+  "Stance Change": "战斗切换",
+  "Stance-Change": "战斗切换",
+  "Gale Wings": "疾风之翼",
+  "Gale-Wings": "疾风之翼",
+  "Mega Launcher": "超级发射器",
+  "Mega-Launcher": "超级发射器",
+  "Grass Pelt": "草之毛皮",
+  "Grass-Pelt": "草之毛皮",
+  "Symbiosis": "共生",
+  "Tough Claws": "硬爪",
+  "Tough-Claws": "硬爪",
+  "Pixilate": "妖精皮肤",
+  "Gooey": "黏滑",
+  "Aerilate": "飞行皮肤",
+  "Parental Bond": "亲子爱",
+  "Parental-Bond": "亲子爱",
+  "Dark Aura": "暗黑气场",
+  "Dark-Aura": "暗黑气场",
+  "Fairy Aura": "妖精气场",
+  "Fairy-Aura": "妖精气场",
+  "Aura Break": "气场破坏",
+  "Aura-Break": "气场破坏",
+  "Primordial Sea": "始源之海",
+  "Primordial-Sea": "始源之海",
+  "Desolate Land": "终结之地",
+  "Desolate-Land": "终结之地",
+  "Delta Stream": "德尔塔气流",
+  "Delta-Stream": "德尔塔气流",
+  "Stamina": "持久力",
+  "Wimp Out": "跃跃欲逃",
+  "Wimp-Out": "跃跃欲逃",
+  "Emergency Exit": "危险回避",
+  "Emergency-Exit": "危险回避",
+  "Water Compaction": "遇水凝固",
+  "Water-Compaction": "遇水凝固",
+  "Merciless": "不仁不义",
+  "Shields Down": "界限盾壳",
+  "Shields-Down": "界限盾壳",
+  "Stakeout": "蹲守",
+  "Water Bubble": "水泡",
+  "Water-Bubble": "水泡",
+  "Steelworker": "钢能力者",
+  "Berserk": "怒火冲天",
+  "Slush Rush": "拨雪",
+  "Slush-Rush": "拨雪",
+  "Long Reach": "远隔",
+  "Long-Reach": "远隔",
+  "Liquid Voice": "湿润之声",
+  "Liquid-Voice": "湿润之声",
+  "Triage": "先行治疗",
+  "Galvanize": "电气皮肤",
+  "Surge Surfer": "冲浪之尾",
+  "Surge-Surfer": "冲浪之尾",
+  "Schooling": "鱼群",
+  "Disguise": "画皮",
+  "Battle Bond": "牵绊变身",
+  "Battle-Bond": "牵绊变身",
+  "Power Construct": "群聚变形",
+  "Power-Construct": "群聚变形",
+  "Corrosion": "腐蚀",
+  "Comatose": "绝对睡眠",
+  "Queenly Majesty": "女王的威严",
+  "Queenly-Majesty": "女王的威严",
+  "Innards Out": "飞出的内在物",
+  "Innards-Out": "飞出的内在物",
+  "Dancer": "舞者",
+  "Battery": "蓄电池",
+  "Fluffy": "毛茸茸",
+  "Dazzling": "鲜艳之躯",
+  "Soul-Heart": "魂心",
+  "Tangling Hair": "卷发",
+  "Tangling-Hair": "卷发",
+  "Receiver": "接球手",
+  "Power of Alchemy": "化学之力",
+  "Power-of-Alchemy": "化学之力",
+  "Beast Boost": "异兽提升",
+  "Beast-Boost": "异兽提升",
+  "RKS System": "ＡＲ系统",
+  "RKS-System": "ＡＲ系统",
+  "Electric Surge": "电气制造者",
+  "Electric-Surge": "电气制造者",
+  "Psychic Surge": "精神制造者",
+  "Psychic-Surge": "精神制造者",
+  "Misty Surge": "薄雾制造者",
+  "Misty-Surge": "薄雾制造者",
+  "Grassy Surge": "青草制造者",
+  "Grassy-Surge": "青草制造者",
+  "Full Metal Body": "金属防护",
+  "Full-Metal-Body": "金属防护",
+  "Shadow Shield": "幻影防守",
+  "Shadow-Shield": "幻影防守",
+  "Prism Armor": "棱镜装甲",
+  "Prism-Armor": "棱镜装甲",
+  "Neuroforce": "脑核之力",
+  "Intrepid Sword": "不挠之剑",
+  "Intrepid-Sword": "不挠之剑",
+  "Dauntless Shield": "不屈之盾",
+  "Dauntless-Shield": "不屈之盾",
+  "Libero": "自由者",
+  "Ball Fetch": "捡球",
+  "Ball-Fetch": "捡球",
+  "Cotton Down": "棉絮",
+  "Cotton-Down": "棉絮",
+  "Propeller Tail": "螺旋尾鳍",
+  "Propeller-Tail": "螺旋尾鳍",
+  "Mirror Armor": "镜甲",
+  "Mirror-Armor": "镜甲",
+  "Gulp Missile": "一口导弹",
+  "Gulp-Missile": "一口导弹",
+  "Stalwart": "坚毅",
+  "Steam Engine": "蒸汽机",
+  "Steam-Engine": "蒸汽机",
+  "Punk Rock": "庞克摇滚",
+  "Punk-Rock": "庞克摇滚",
+  "Sand Spit": "吐沙",
+  "Sand-Spit": "吐沙",
+  "Ice Scales": "冰鳞粉",
+  "Ice-Scales": "冰鳞粉",
+  "Ripen": "熟成",
+  "Ice Face": "结冻头",
+  "Ice-Face": "结冻头",
+  "Power Spot": "能量点",
+  "Power-Spot": "能量点",
+  "Mimicry": "拟态",
+  "Screen Cleaner": "除障",
+  "Screen-Cleaner": "除障",
+  "Steely Spirit": "钢之意志",
+  "Steely-Spirit": "钢之意志",
+  "Perish Body": "灭亡之躯",
+  "Perish-Body": "灭亡之躯",
+  "Wandering Spirit": "游魂",
+  "Wandering-Spirit": "游魂",
+  "Gorilla Tactics": "一猩一意",
+  "Gorilla-Tactics": "一猩一意",
+  "Neutralizing Gas": "化学变化气体",
+  "Neutralizing-Gas": "化学变化气体",
+  "Pastel Veil": "粉彩护幕",
+  "Pastel-Veil": "粉彩护幕",
+  "Hunger Switch": "饱了又饿",
+  "Hunger-Switch": "饱了又饿",
+  "Quick Draw": "速击",
+  "Quick-Draw": "速击",
+  "Unseen Fist": "无形拳",
+  "Unseen-Fist": "无形拳",
+  "Curious Medicine": "怪药",
+  "Curious-Medicine": "怪药",
+  "Transistor": "电晶体",
+  "Dragon's Maw": "龙颚",
+  "Dragon's-Maw": "龙颚",
+  "Chilling Neigh": "苍白嘶鸣",
+  "Chilling-Neigh": "苍白嘶鸣",
+  "Grim Neigh": "漆黑嘶鸣",
+  "Grim-Neigh": "漆黑嘶鸣",
+  "As One": "人马一体",
+  "As-One": "人马一体",
+  "Lingering Aroma": "甩不掉的气味",
+  "Lingering-Aroma": "甩不掉的气味",
+  "Seed Sower": "掉出种子",
+  "Seed-Sower": "掉出种子",
+  "Thermal Exchange": "热交换",
+  "Thermal-Exchange": "热交换",
+  "Anger Shell": "愤怒甲壳",
+  "Anger-Shell": "愤怒甲壳",
+  "Purifying Salt": "洁净之盐",
+  "Purifying-Salt": "洁净之盐",
+  "Well-Baked Body": "焦香之躯",
+  "Well-Baked-Body": "焦香之躯",
+  "Wind Rider": "乘风",
+  "Wind-Rider": "乘风",
+  "Guard Dog": "看门犬",
+  "Guard-Dog": "看门犬",
+  "Rocky Payload": "搬岩",
+  "Rocky-Payload": "搬岩",
+  "Wind Power": "风力发电",
+  "Wind-Power": "风力发电",
+  "Zero to Hero": "全能变身",
+  "Zero-to-Hero": "全能变身",
+  "Commander": "发号施令",
+  "Electromorphosis": "电力转换",
+  "Protosynthesis": "古代活性",
+  "Quark Drive": "夸克充能",
+  "Quark-Drive": "夸克充能",
+  "Good as Gold": "黄金之躯",
+  "Good-as-Gold": "黄金之躯",
+  "Vessel of Ruin": "灾祸之鼎",
+  "Vessel-of-Ruin": "灾祸之鼎",
+  "Sword of Ruin": "灾祸之剑",
+  "Sword-of-Ruin": "灾祸之剑",
+  "Tablets of Ruin": "灾祸之简",
+  "Tablets-of-Ruin": "灾祸之简",
+  "Beads of Ruin": "灾祸之玉",
+  "Beads-of-Ruin": "灾祸之玉",
+  "Orichalcum Pulse": "绯红脉动",
+  "Orichalcum-Pulse": "绯红脉动",
+  "Hadron Engine": "强子引擎",
+  "Hadron-Engine": "强子引擎",
+  "Opportunist": "跟风",
+  "Cud Chew": "反刍",
+  "Cud-Chew": "反刍",
+  "Sharpness": "锋锐",
+  "Supreme Overlord": "大将",
+  "Supreme-Overlord": "大将",
+  "Costar": "同台共演",
+  "Toxic Debris": "毒满地",
+  "Toxic-Debris": "毒满地",
+  "Armor Tail": "尾甲",
+  "Armor-Tail": "尾甲",
+  "Earth Eater": "食土",
+  "Earth-Eater": "食土",
+  "Mycelium Might": "菌丝之力",
+  "Mycelium-Might": "菌丝之力",
+  "Hospitality": "款待",
+  "Mind's Eye": "心眼",
+  "Mind's-Eye": "心眼",
+  "Embody Aspect": "面影辉映",
+  "Embody-Aspect": "面影辉映",
+  "Toxic Chain": "毒锁链",
+  "Toxic-Chain": "毒锁链",
+  "Supersweet Syrup": "甘露之蜜",
+  "Supersweet-Syrup": "甘露之蜜",
+  "Tera Shift": "太晶变形",
+  "Tera-Shift": "太晶变形",
+  "Tera Shell": "太晶甲壳",
+  "Tera-Shell": "太晶甲壳",
+  "Teraform Zero": "归零化境",
+  "Teraform-Zero": "归零化境",
+  "Poison Puppeteer": "毒傀儡",
+  "Poison-Puppeteer": "毒傀儡"
 }

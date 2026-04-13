@@ -23,11 +23,7 @@
 
 每条记录格式:
   {
-    "Charizard": {
-      "ja": "リザードン",
-      "zh-hans": "喷火龙",
-      "zh-hant": "噴火龍"
-    }
+    "Charizard": "喷火龙"
   }
 
 依赖: git
@@ -74,15 +70,15 @@ def clone_repo():
     print("  克隆完成")
 
 
-def add_alias(mapping, key, translations):
+def add_alias(mapping, key, zh_name):
     """添加条目，已有主条目时不覆盖；同时生成空格→连字符别名"""
     if key not in mapping:
-        mapping[key] = translations
+        mapping[key] = zh_name
     # 生成空格→连字符别名（如 "Mr. Mime" → "Mr.-Mime"）
     if " " in key:
         alias_key = key.replace(" ", "-")
         if alias_key not in mapping:
-            mapping[alias_key] = translations
+            mapping[alias_key] = zh_name
 
 
 # ============================================================
@@ -98,17 +94,10 @@ def build_pokemon():
     mapping = {}
     for p in pokedex:
         name_en = p.get("name_en", "")
-        name_jp = p.get("name_jp", "")
         name_zh = p.get("name_zh", "")
-        if not name_en:
+        if not name_en or not name_zh:
             continue
-        translations = {}
-        if name_jp:
-            translations["ja"] = name_jp
-        if name_zh:
-            translations["zh-hans"] = name_zh
-        if translations:
-            add_alias(mapping, name_en, translations)
+        add_alias(mapping, name_en, name_zh)
 
     print(f"  基础种: {len(pokedex)} 条，映射 {len(mapping)} 条（含别名）")
     return mapping
@@ -123,17 +112,10 @@ def build_moves():
     mapping = {}
     for m in moves:
         name_en = m.get("name_en", "")
-        name_jp = m.get("name_jp", "")
         name_zh = m.get("name_zh", "")
-        if not name_en:
+        if not name_en or not name_zh:
             continue
-        translations = {}
-        if name_jp:
-            translations["ja"] = name_jp
-        if name_zh:
-            translations["zh-hans"] = name_zh
-        if translations:
-            add_alias(mapping, name_en, translations)
+        add_alias(mapping, name_en, name_zh)
 
     print(f"  招式: {len(moves)} 条，映射 {len(mapping)} 条（含别名）")
     return mapping
@@ -148,17 +130,10 @@ def build_abilities():
     mapping = {}
     for a in abilities:
         name_en = a.get("name_en", "")
-        name_ja = a.get("name_ja", "")
         name_zh = a.get("name_zh", "")
-        if not name_en:
+        if not name_en or not name_zh:
             continue
-        translations = {}
-        if name_ja:
-            translations["ja"] = name_ja
-        if name_zh:
-            translations["zh-hans"] = name_zh
-        if translations:
-            add_alias(mapping, name_en, translations)
+        add_alias(mapping, name_en, name_zh)
 
     print(f"  特性: {len(abilities)} 条，映射 {len(mapping)} 条（含别名）")
     return mapping
@@ -184,17 +159,10 @@ def build_items():
     mapping = {}
     for item in items:
         name_en = item.get("name_en", "")
-        name_ja = item.get("name_ja", "")
         name_zh = item.get("name_zh", "")
-        if not name_en:
+        if not name_en or not name_zh:
             continue
-        translations = {}
-        if name_ja:
-            translations["ja"] = name_ja
-        if name_zh:
-            translations["zh-hans"] = name_zh
-        if translations:
-            add_alias(mapping, name_en, translations)
+        add_alias(mapping, name_en, name_zh)
 
     print(f"  道具: {len(items)} 条，映射 {len(mapping)} 条（含别名）")
     return mapping
@@ -241,7 +209,7 @@ def build_pokemon_forms():
                     # 从 Showdown 英文名反查正确的物种中文名
                     actual_zh = _resolve_species_zh(en_form, zh_to_en)
                     zh_name = _format_zh_form_name(actual_zh, form_name)
-                    add_alias(mapping, en_form, {"zh-hans": zh_name})
+                    add_alias(mapping, en_form, zh_name)
 
         # 从 mega_evolution 提取
         for mega in detail.get("mega_evolution", []):
@@ -253,7 +221,7 @@ def build_pokemon_forms():
             if en_form and en_form != name_en:
                 actual_zh = _resolve_species_zh(en_form, zh_to_en)
                 zh_name = _format_zh_form_name(actual_zh, form_name)
-                add_alias(mapping, en_form, {"zh-hans": zh_name})
+                add_alias(mapping, en_form, zh_name)
 
         # 从 gigantamax_evolution 提取
         for gmax in detail.get("gigantamax_evolution", []):
@@ -265,7 +233,7 @@ def build_pokemon_forms():
             if en_form and en_form != name_en:
                 actual_zh = _resolve_species_zh(en_form, zh_to_en)
                 zh_name = _format_zh_form_name(actual_zh, form_name)
-                add_alias(mapping, en_form, {"zh-hans": zh_name})
+                add_alias(mapping, en_form, zh_name)
 
         if i % 200 == 0 or i == total:
             print(f"    {i}/{total}")
@@ -302,7 +270,7 @@ def build_pokemon_forms():
                 continue
 
             zh_name = _format_zh_form_name(name_zh, form_zh)
-            add_alias(mapping, en_form, {"zh-hans": zh_name})
+            add_alias(mapping, en_form, zh_name)
             rule_count += 1
 
     print(f"  第 2 层（规则生成）: +{rule_count} 条，总计 {len(mapping)} 条")
@@ -405,17 +373,12 @@ def merge_alias(mapping):
         alias = json.load(f)
 
     added = 0
-    for key, translations in alias.items():
+    for key, zh_name in alias.items():
         if key not in mapping:
-            mapping[key] = translations
+            mapping[key] = zh_name
             added += 1
-        # 已有条目不覆盖，但补充缺失的语言字段
-        else:
-            for lang, val in translations.items():
-                if lang not in mapping[key]:
-                    mapping[key][lang] = val
 
-    print(f"  第 3 层（alias.json）: 新增 {added} 条，补充语言字段若干")
+    print(f"  第 3 层（alias.json）: 新增 {added} 条")
     return added
 
 

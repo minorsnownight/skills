@@ -42,14 +42,14 @@ get-pokemon-champions-teams-from-pokepast/
    - **Layer 2**: Rule-based generation for common Chinese form name patterns (超级→-Mega, 阿罗拉的样子→-Alola, 起源形态→-Origin, etc.)
    - **Layer 3**: Merge from `dict/alias.json` for irregular forms that can't be auto-generated
 
-   Output: `{EnglishName: {ja, zh-hans, zh-hant}}` mappings. `types.json` and `natures.json` are preserved (manually maintained). `alias.json` is preserved (user-maintained).
+   Output: `{EnglishName: "简体中文"}` mappings. `types.json` and `natures.json` are preserved (manually maintained). `alias.json` is preserved (user-maintained).
 
-2. `get-pokepast.py` loads all 8 dict files into an exact-match index and a lowercase-fallback index. For each URL: fetches HTML, extracts team from `<article>/<pre>` elements, translates terms (zh-hans only, no fallback; keeps English if no zh-hans). Outputs translated text to stdout, metadata JSON to stderr (`[META]`), and unresolved terms to stderr (`[UNRESOLVED]`).
+2. `get-pokepast.py` loads all 8 dict files into an exact-match index and a lowercase-fallback index. For each URL: fetches HTML, extracts team from `<article>/<pre>` elements, translates terms (keeps English if no translation found). Outputs translated text to stdout, metadata JSON to stderr (`[META]`), and unresolved terms to stderr (`[UNRESOLVED]`).
 
 ### Translation rules
 
 - Exact match first, then case-insensitive fallback
-- Only zh-hans used; no language fallback. If zh-hans missing, keep English
+- Only zh-hans used; no language fallback. If no translation found, keep English
 - Labels: `Ability:` → `特性:`, `Level:` → `等级:`, `EVs:` → `努力值:`, `IVs:` → `个体值:`, `Tera Type:` → `太晶属性:`, `xxx Nature` → `性格: xxx`
 - Stat abbreviations: Atk→攻击, Def→防御, SpA→特攻, SpD→特防, Spe→速度, HP stays HP
 

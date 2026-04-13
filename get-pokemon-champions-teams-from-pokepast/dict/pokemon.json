@@ -1,4214 +1,1055 @@
 {
-  "Bulbasaur": {
-    "ja": "フシギダネ",
-    "zh-hans": "妙蛙种子"
-  },
-  "Ivysaur": {
-    "ja": "フシギソウ",
-    "zh-hans": "妙蛙草"
-  },
-  "Venusaur": {
-    "ja": "フシギバナ",
-    "zh-hans": "妙蛙花"
-  },
-  "Charmander": {
-    "ja": "ヒトカゲ",
-    "zh-hans": "小火龙"
-  },
-  "Charmeleon": {
-    "ja": "リザード",
-    "zh-hans": "火恐龙"
-  },
-  "Charizard": {
-    "ja": "リザードン",
-    "zh-hans": "喷火龙"
-  },
-  "Squirtle": {
-    "ja": "ゼニガメ",
-    "zh-hans": "杰尼龟"
-  },
-  "Wartortle": {
-    "ja": "カメール",
-    "zh-hans": "卡咪龟"
-  },
-  "Blastoise": {
-    "ja": "カメックス",
-    "zh-hans": "水箭龟"
-  },
-  "Caterpie": {
-    "ja": "キャタピー",
-    "zh-hans": "绿毛虫"
-  },
-  "Metapod": {
-    "ja": "トランセル",
-    "zh-hans": "铁甲蛹"
-  },
-  "Butterfree": {
-    "ja": "バタフリー",
-    "zh-hans": "巴大蝶"
-  },
-  "Weedle": {
-    "ja": "ビードル",
-    "zh-hans": "独角虫"
-  },
-  "Kakuna": {
-    "ja": "コクーン",
-    "zh-hans": "铁壳蛹"
-  },
-  "Beedrill": {
-    "ja": "スピアー",
-    "zh-hans": "大针蜂"
-  },
-  "Pidgey": {
-    "ja": "ポッポ",
-    "zh-hans": "波波"
-  },
-  "Pidgeotto": {
-    "ja": "ピジョン",
-    "zh-hans": "比比鸟"
-  },
-  "Pidgeot": {
-    "ja": "ピジョット",
-    "zh-hans": "大比鸟"
-  },
-  "Rattata": {
-    "ja": "コラッタ",
-    "zh-hans": "小拉达"
-  },
-  "Raticate": {
-    "ja": "ラッタ",
-    "zh-hans": "拉达"
-  },
-  "Spearow": {
-    "ja": "オニスズメ",
-    "zh-hans": "烈雀"
-  },
-  "Fearow": {
-    "ja": "オニドリル",
-    "zh-hans": "大嘴雀"
-  },
-  "Ekans": {
-    "ja": "アーボ",
-    "zh-hans": "阿柏蛇"
-  },
-  "Arbok": {
-    "ja": "アーボック",
-    "zh-hans": "阿柏怪"
-  },
-  "Pikachu": {
-    "ja": "ピカチュウ",
-    "zh-hans": "皮卡丘"
-  },
-  "Raichu": {
-    "ja": "ライチュウ",
-    "zh-hans": "雷丘"
-  },
-  "Sandshrew": {
-    "ja": "サンド",
-    "zh-hans": "穿山鼠"
-  },
-  "Sandslash": {
-    "ja": "サンドパン",
-    "zh-hans": "穿山王"
-  },
-  "Nidoran♀": {
-    "ja": "ニドラン♀",
-    "zh-hans": "尼多兰"
-  },
-  "Nidorina": {
-    "ja": "ニドリーナ",
-    "zh-hans": "尼多娜"
-  },
-  "Nidoqueen": {
-    "ja": "ニドクイン",
-    "zh-hans": "尼多后"
-  },
-  "Nidoran♂": {
-    "ja": "ニドラン♂",
-    "zh-hans": "尼多朗"
-  },
-  "Nidorino": {
-    "ja": "ニドリーノ",
-    "zh-hans": "尼多力诺"
-  },
-  "Nidoking": {
-    "ja": "ニドキング",
-    "zh-hans": "尼多王"
-  },
-  "Clefairy": {
-    "ja": "ピッピ",
-    "zh-hans": "皮皮"
-  },
-  "Clefable": {
-    "ja": "ピクシー",
-    "zh-hans": "皮可西"
-  },
-  "Vulpix": {
-    "ja": "ロコン",
-    "zh-hans": "六尾"
-  },
-  "Ninetales": {
-    "ja": "キュウコン",
-    "zh-hans": "九尾"
-  },
-  "Jigglypuff": {
-    "ja": "プリン",
-    "zh-hans": "胖丁"
-  },
-  "Wigglytuff": {
-    "ja": "プクリン",
-    "zh-hans": "胖可丁"
-  },
-  "Zubat": {
-    "ja": "ズバット",
-    "zh-hans": "超音蝠"
-  },
-  "Golbat": {
-    "ja": "ゴルバット",
-    "zh-hans": "大嘴蝠"
-  },
-  "Oddish": {
-    "ja": "ナゾノクサ",
-    "zh-hans": "走路草"
-  },
-  "Gloom": {
-    "ja": "クサイハナ",
-    "zh-hans": "臭臭花"
-  },
-  "Vileplume": {
-    "ja": "ラフレシア",
-    "zh-hans": "霸王花"
-  },
-  "Paras": {
-    "ja": "パラス",
-    "zh-hans": "派拉斯"
-  },
-  "Parasect": {
-    "ja": "パラセクト",
-    "zh-hans": "派拉斯特"
-  },
-  "Venonat": {
-    "ja": "コンパン",
-    "zh-hans": "毛球"
-  },
-  "Venomoth": {
-    "ja": "モルフォン",
-    "zh-hans": "摩鲁蛾"
-  },
-  "Diglett": {
-    "ja": "ディグダ",
-    "zh-hans": "地鼠"
-  },
-  "Dugtrio": {
-    "ja": "ダグトリオ",
-    "zh-hans": "三地鼠"
-  },
-  "Meowth": {
-    "ja": "ニャース",
-    "zh-hans": "喵喵"
-  },
-  "Persian": {
-    "ja": "ペルシアン",
-    "zh-hans": "猫老大"
-  },
-  "Psyduck": {
-    "ja": "コダック",
-    "zh-hans": "可达鸭"
-  },
-  "Golduck": {
-    "ja": "ゴルダック",
-    "zh-hans": "哥达鸭"
-  },
-  "Mankey": {
-    "ja": "マンキー",
-    "zh-hans": "猴怪"
-  },
-  "Primeape": {
-    "ja": "オコリザル",
-    "zh-hans": "火暴猴"
-  },
-  "Growlithe": {
-    "ja": "ガーディ",
-    "zh-hans": "卡蒂狗"
-  },
-  "Arcanine": {
-    "ja": "ウインディ",
-    "zh-hans": "风速狗"
-  },
-  "Poliwag": {
-    "ja": "ニョロモ",
-    "zh-hans": "蚊香蝌蚪"
-  },
-  "Poliwhirl": {
-    "ja": "ニョロゾ",
-    "zh-hans": "蚊香君"
-  },
-  "Poliwrath": {
-    "ja": "ニョロボン",
-    "zh-hans": "蚊香泳士"
-  },
-  "Abra": {
-    "ja": "ケーシィ",
-    "zh-hans": "凯西"
-  },
-  "Kadabra": {
-    "ja": "ユンゲラー",
-    "zh-hans": "勇基拉"
-  },
-  "Alakazam": {
-    "ja": "フーディン",
-    "zh-hans": "胡地"
-  },
-  "Machop": {
-    "ja": "ワンリキー",
-    "zh-hans": "腕力"
-  },
-  "Machoke": {
-    "ja": "ゴーリキー",
-    "zh-hans": "豪力"
-  },
-  "Machamp": {
-    "ja": "カイリキー",
-    "zh-hans": "怪力"
-  },
-  "Bellsprout": {
-    "ja": "マダツボミ",
-    "zh-hans": "喇叭芽"
-  },
-  "Weepinbell": {
-    "ja": "ウツドン",
-    "zh-hans": "口呆花"
-  },
-  "Victreebel": {
-    "ja": "ウツボット",
-    "zh-hans": "大食花"
-  },
-  "Tentacool": {
-    "ja": "メノクラゲ",
-    "zh-hans": "玛瑙水母"
-  },
-  "Tentacruel": {
-    "ja": "ドククラゲ",
-    "zh-hans": "毒刺水母"
-  },
-  "Geodude": {
-    "ja": "イシツブテ",
-    "zh-hans": "小拳石"
-  },
-  "Graveler": {
-    "ja": "ゴローン",
-    "zh-hans": "隆隆石"
-  },
-  "Golem": {
-    "ja": "ゴローニャ",
-    "zh-hans": "隆隆岩"
-  },
-  "Ponyta": {
-    "ja": "ポニータ",
-    "zh-hans": "小火马"
-  },
-  "Rapidash": {
-    "ja": "ギャロップ",
-    "zh-hans": "烈焰马"
-  },
-  "Slowpoke": {
-    "ja": "ヤドン",
-    "zh-hans": "呆呆兽"
-  },
-  "Slowbro": {
-    "ja": "ヤドラン",
-    "zh-hans": "呆壳兽"
-  },
-  "Magnemite": {
-    "ja": "コイル",
-    "zh-hans": "小磁怪"
-  },
-  "Magneton": {
-    "ja": "レアコイル",
-    "zh-hans": "三合一磁怪"
-  },
-  "Farfetch'd": {
-    "ja": "カモネギ",
-    "zh-hans": "大葱鸭"
-  },
-  "Doduo": {
-    "ja": "ドードー",
-    "zh-hans": "嘟嘟"
-  },
-  "Dodrio": {
-    "ja": "ドードリオ",
-    "zh-hans": "嘟嘟利"
-  },
-  "Seel": {
-    "ja": "パウワウ",
-    "zh-hans": "小海狮"
-  },
-  "Dewgong": {
-    "ja": "ジュゴン",
-    "zh-hans": "白海狮"
-  },
-  "Grimer": {
-    "ja": "ベトベター",
-    "zh-hans": "臭泥"
-  },
-  "Muk": {
-    "ja": "ベトベトン",
-    "zh-hans": "臭臭泥"
-  },
-  "Shellder": {
-    "ja": "シェルダー",
-    "zh-hans": "大舌贝"
-  },
-  "Cloyster": {
-    "ja": "パルシェン",
-    "zh-hans": "刺甲贝"
-  },
-  "Gastly": {
-    "ja": "ゴース",
-    "zh-hans": "鬼斯"
-  },
-  "Haunter": {
-    "ja": "ゴースト",
-    "zh-hans": "鬼斯通"
-  },
-  "Gengar": {
-    "ja": "ゲンガー",
-    "zh-hans": "耿鬼"
-  },
-  "Onix": {
-    "ja": "イワーク",
-    "zh-hans": "大岩蛇"
-  },
-  "Drowzee": {
-    "ja": "スリープ",
-    "zh-hans": "催眠貘"
-  },
-  "Hypno": {
-    "ja": "スリーパー",
-    "zh-hans": "引梦貘人"
-  },
-  "Krabby": {
-    "ja": "クラブ",
-    "zh-hans": "大钳蟹"
-  },
-  "Kingler": {
-    "ja": "キングラー",
-    "zh-hans": "巨钳蟹"
-  },
-  "Voltorb": {
-    "ja": "ビリリダマ",
-    "zh-hans": "霹雳电球"
-  },
-  "Electrode": {
-    "ja": "マルマイン",
-    "zh-hans": "顽皮雷弹"
-  },
-  "Exeggcute": {
-    "ja": "タマタマ",
-    "zh-hans": "蛋蛋"
-  },
-  "Exeggutor": {
-    "ja": "ナッシー",
-    "zh-hans": "椰蛋树"
-  },
-  "Cubone": {
-    "ja": "カラカラ",
-    "zh-hans": "卡拉卡拉"
-  },
-  "Marowak": {
-    "ja": "ガラガラ",
-    "zh-hans": "嘎啦嘎啦"
-  },
-  "Hitmonlee": {
-    "ja": "サワムラー",
-    "zh-hans": "飞腿郎"
-  },
-  "Hitmonchan": {
-    "ja": "エビワラー",
-    "zh-hans": "快拳郎"
-  },
-  "Lickitung": {
-    "ja": "ベロリンガ",
-    "zh-hans": "大舌头"
-  },
-  "Koffing": {
-    "ja": "ドガース",
-    "zh-hans": "瓦斯弹"
-  },
-  "Weezing": {
-    "ja": "マタドガス",
-    "zh-hans": "双弹瓦斯"
-  },
-  "Rhyhorn": {
-    "ja": "サイホーン",
-    "zh-hans": "独角犀牛"
-  },
-  "Rhydon": {
-    "ja": "サイドン",
-    "zh-hans": "钻角犀兽"
-  },
-  "Chansey": {
-    "ja": "ラッキー",
-    "zh-hans": "吉利蛋"
-  },
-  "Tangela": {
-    "ja": "モンジャラ",
-    "zh-hans": "蔓藤怪"
-  },
-  "Kangaskhan": {
-    "ja": "ガルーラ",
-    "zh-hans": "袋兽"
-  },
-  "Horsea": {
-    "ja": "タッツー",
-    "zh-hans": "墨海马"
-  },
-  "Seadra": {
-    "ja": "シードラ",
-    "zh-hans": "海刺龙"
-  },
-  "Goldeen": {
-    "ja": "トサキント",
-    "zh-hans": "角金鱼"
-  },
-  "Seaking": {
-    "ja": "アズマオウ",
-    "zh-hans": "金鱼王"
-  },
-  "Staryu": {
-    "ja": "ヒトデマン",
-    "zh-hans": "海星星"
-  },
-  "Starmie": {
-    "ja": "スターミー",
-    "zh-hans": "宝石海星"
-  },
-  "Mr. Mime": {
-    "ja": "バリヤード",
-    "zh-hans": "魔墙人偶"
-  },
-  "Mr.-Mime": {
-    "ja": "バリヤード",
-    "zh-hans": "魔墙人偶"
-  },
-  "Scyther": {
-    "ja": "ストライク",
-    "zh-hans": "飞天螳螂"
-  },
-  "Jynx": {
-    "ja": "ルージュラ",
-    "zh-hans": "迷唇姐"
-  },
-  "Electabuzz": {
-    "ja": "エレブー",
-    "zh-hans": "电击兽"
-  },
-  "Magmar": {
-    "ja": "ブーバー",
-    "zh-hans": "鸭嘴火兽"
-  },
-  "Pinsir": {
-    "ja": "カイロス",
-    "zh-hans": "凯罗斯"
-  },
-  "Tauros": {
-    "ja": "ケンタロス",
-    "zh-hans": "肯泰罗"
-  },
-  "Magikarp": {
-    "ja": "コイキング",
-    "zh-hans": "鲤鱼王"
-  },
-  "Gyarados": {
-    "ja": "ギャラドス",
-    "zh-hans": "暴鲤龙"
-  },
-  "Lapras": {
-    "ja": "ラプラス",
-    "zh-hans": "拉普拉斯"
-  },
-  "Ditto": {
-    "ja": "メタモン",
-    "zh-hans": "百变怪"
-  },
-  "Eevee": {
-    "ja": "イーブイ",
-    "zh-hans": "伊布"
-  },
-  "Vaporeon": {
-    "ja": "シャワーズ",
-    "zh-hans": "水伊布"
-  },
-  "Jolteon": {
-    "ja": "サンダース",
-    "zh-hans": "雷伊布"
-  },
-  "Flareon": {
-    "ja": "ブースター",
-    "zh-hans": "火伊布"
-  },
-  "Porygon": {
-    "ja": "ポリゴン",
-    "zh-hans": "多边兽"
-  },
-  "Omanyte": {
-    "ja": "オムナイト",
-    "zh-hans": "菊石兽"
-  },
-  "Omastar": {
-    "ja": "オムスター",
-    "zh-hans": "多刺菊石兽"
-  },
-  "Kabuto": {
-    "ja": "カブト",
-    "zh-hans": "化石盔"
-  },
-  "Kabutops": {
-    "ja": "カブトプス",
-    "zh-hans": "镰刀盔"
-  },
-  "Aerodactyl": {
-    "ja": "プテラ",
-    "zh-hans": "化石翼龙"
-  },
-  "Snorlax": {
-    "ja": "カビゴン",
-    "zh-hans": "卡比兽"
-  },
-  "Articuno": {
-    "ja": "フリーザー",
-    "zh-hans": "急冻鸟"
-  },
-  "Zapdos": {
-    "ja": "サンダー",
-    "zh-hans": "闪电鸟"
-  },
-  "Moltres": {
-    "ja": "ファイヤー",
-    "zh-hans": "火焰鸟"
-  },
-  "Dratini": {
-    "ja": "ミニリュウ",
-    "zh-hans": "迷你龙"
-  },
-  "Dragonair": {
-    "ja": "ハクリュー",
-    "zh-hans": "哈克龙"
-  },
-  "Dragonite": {
-    "ja": "カイリュー",
-    "zh-hans": "快龙"
-  },
-  "Mewtwo": {
-    "ja": "ミュウツー",
-    "zh-hans": "超梦"
-  },
-  "Mew": {
-    "ja": "ミュウ",
-    "zh-hans": "梦幻"
-  },
-  "Chikorita": {
-    "ja": "チコリータ",
-    "zh-hans": "菊草叶"
-  },
-  "Bayleef": {
-    "ja": "ベイリーフ",
-    "zh-hans": "月桂叶"
-  },
-  "Meganium": {
-    "ja": "メガニウム",
-    "zh-hans": "大竺葵"
-  },
-  "Cyndaquil": {
-    "ja": "ヒノアラシ",
-    "zh-hans": "火球鼠"
-  },
-  "Quilava": {
-    "ja": "マグマラシ",
-    "zh-hans": "火岩鼠"
-  },
-  "Typhlosion": {
-    "ja": "バクフーン",
-    "zh-hans": "火暴兽"
-  },
-  "Totodile": {
-    "ja": "ワニノコ",
-    "zh-hans": "小锯鳄"
-  },
-  "Croconaw": {
-    "ja": "アリゲイツ",
-    "zh-hans": "蓝鳄"
-  },
-  "Feraligatr": {
-    "ja": "オーダイル",
-    "zh-hans": "大力鳄"
-  },
-  "Sentret": {
-    "ja": "オタチ",
-    "zh-hans": "尾立"
-  },
-  "Furret": {
-    "ja": "オオタチ",
-    "zh-hans": "大尾立"
-  },
-  "Hoothoot": {
-    "ja": "ホーホー",
-    "zh-hans": "咕咕"
-  },
-  "Noctowl": {
-    "ja": "ヨルノズク",
-    "zh-hans": "猫头夜鹰"
-  },
-  "Ledyba": {
-    "ja": "レディバ",
-    "zh-hans": "芭瓢虫"
-  },
-  "Ledian": {
-    "ja": "レディアン",
-    "zh-hans": "安瓢虫"
-  },
-  "Spinarak": {
-    "ja": "イトマル",
-    "zh-hans": "圆丝蛛"
-  },
-  "Ariados": {
-    "ja": "アリアドス",
-    "zh-hans": "阿利多斯"
-  },
-  "Crobat": {
-    "ja": "クロバット",
-    "zh-hans": "叉字蝠"
-  },
-  "Chinchou": {
-    "ja": "チョンチー",
-    "zh-hans": "灯笼鱼"
-  },
-  "Lanturn": {
-    "ja": "ランターン",
-    "zh-hans": "电灯怪"
-  },
-  "Pichu": {
-    "ja": "ピチュー",
-    "zh-hans": "皮丘"
-  },
-  "Cleffa": {
-    "ja": "ピィ",
-    "zh-hans": "皮宝宝"
-  },
-  "Igglybuff": {
-    "ja": "ププリン",
-    "zh-hans": "宝宝丁"
-  },
-  "Togepi": {
-    "ja": "トゲピー",
-    "zh-hans": "波克比"
-  },
-  "Togetic": {
-    "ja": "トゲチック",
-    "zh-hans": "波克基古"
-  },
-  "Natu": {
-    "ja": "ネイティ",
-    "zh-hans": "天然雀"
-  },
-  "Xatu": {
-    "ja": "ネイティオ",
-    "zh-hans": "天然鸟"
-  },
-  "Mareep": {
-    "ja": "メリープ",
-    "zh-hans": "咩利羊"
-  },
-  "Flaaffy": {
-    "ja": "モココ",
-    "zh-hans": "茸茸羊"
-  },
-  "Ampharos": {
-    "ja": "デンリュウ",
-    "zh-hans": "电龙"
-  },
-  "Bellossom": {
-    "ja": "キレイハナ",
-    "zh-hans": "美丽花"
-  },
-  "Marill": {
-    "ja": "マリル",
-    "zh-hans": "玛力露"
-  },
-  "Azumarill": {
-    "ja": "マリルリ",
-    "zh-hans": "玛力露丽"
-  },
-  "Sudowoodo": {
-    "ja": "ウソッキー",
-    "zh-hans": "树才怪"
-  },
-  "Politoed": {
-    "ja": "ニョロトノ",
-    "zh-hans": "蚊香蛙皇"
-  },
-  "Hoppip": {
-    "ja": "ハネッコ",
-    "zh-hans": "毽子草"
-  },
-  "Skiploom": {
-    "ja": "ポポッコ",
-    "zh-hans": "毽子花"
-  },
-  "Jumpluff": {
-    "ja": "ワタッコ",
-    "zh-hans": "毽子棉"
-  },
-  "Aipom": {
-    "ja": "エイパム",
-    "zh-hans": "长尾怪手"
-  },
-  "Sunkern": {
-    "ja": "ヒマナッツ",
-    "zh-hans": "向日种子"
-  },
-  "Sunflora": {
-    "ja": "キマワリ",
-    "zh-hans": "向日花怪"
-  },
-  "Yanma": {
-    "ja": "ヤンヤンマ",
-    "zh-hans": "蜻蜻蜓"
-  },
-  "Wooper": {
-    "ja": "ウパー",
-    "zh-hans": "乌波"
-  },
-  "Quagsire": {
-    "ja": "ヌオー",
-    "zh-hans": "沼王"
-  },
-  "Espeon": {
-    "ja": "エーフィ",
-    "zh-hans": "太阳伊布"
-  },
-  "Umbreon": {
-    "ja": "ブラッキー",
-    "zh-hans": "月亮伊布"
-  },
-  "Murkrow": {
-    "ja": "ヤミカラス",
-    "zh-hans": "黑暗鸦"
-  },
-  "Slowking": {
-    "ja": "ヤドキング",
-    "zh-hans": "呆呆王"
-  },
-  "Misdreavus": {
-    "ja": "ムウマ",
-    "zh-hans": "梦妖"
-  },
-  "Unown": {
-    "ja": "アンノーン",
-    "zh-hans": "未知图腾"
-  },
-  "Wobbuffet": {
-    "ja": "ソーナンス",
-    "zh-hans": "果然翁"
-  },
-  "Girafarig": {
-    "ja": "キリンリキ",
-    "zh-hans": "麒麟奇"
-  },
-  "Pineco": {
-    "ja": "クヌギダマ",
-    "zh-hans": "榛果球"
-  },
-  "Forretress": {
-    "ja": "フォレトス",
-    "zh-hans": "佛烈托斯"
-  },
-  "Dunsparce": {
-    "ja": "ノコッチ",
-    "zh-hans": "土龙弟弟"
-  },
-  "Gligar": {
-    "ja": "グライガー",
-    "zh-hans": "天蝎"
-  },
-  "Steelix": {
-    "ja": "ハガネール",
-    "zh-hans": "大钢蛇"
-  },
-  "Snubbull": {
-    "ja": "ブルー",
-    "zh-hans": "布鲁"
-  },
-  "Granbull": {
-    "ja": "グランブル",
-    "zh-hans": "布鲁皇"
-  },
-  "Qwilfish": {
-    "ja": "ハリーセン",
-    "zh-hans": "千针鱼"
-  },
-  "Scizor": {
-    "ja": "ハッサム",
-    "zh-hans": "巨钳螳螂"
-  },
-  "Shuckle": {
-    "ja": "ツボツボ",
-    "zh-hans": "壶壶"
-  },
-  "Heracross": {
-    "ja": "ヘラクロス",
-    "zh-hans": "赫拉克罗斯"
-  },
-  "Sneasel": {
-    "ja": "ニューラ",
-    "zh-hans": "狃拉"
-  },
-  "Teddiursa": {
-    "ja": "ヒメグマ",
-    "zh-hans": "熊宝宝"
-  },
-  "Ursaring": {
-    "ja": "リングマ",
-    "zh-hans": "圈圈熊"
-  },
-  "Slugma": {
-    "ja": "マグマッグ",
-    "zh-hans": "熔岩虫"
-  },
-  "Magcargo": {
-    "ja": "マグカルゴ",
-    "zh-hans": "熔岩蜗牛"
-  },
-  "Swinub": {
-    "ja": "ウリムー",
-    "zh-hans": "小山猪"
-  },
-  "Piloswine": {
-    "ja": "イノムー",
-    "zh-hans": "长毛猪"
-  },
-  "Corsola": {
-    "ja": "サニーゴ",
-    "zh-hans": "太阳珊瑚"
-  },
-  "Remoraid": {
-    "ja": "テッポウオ",
-    "zh-hans": "铁炮鱼"
-  },
-  "Octillery": {
-    "ja": "オクタン",
-    "zh-hans": "章鱼桶"
-  },
-  "Delibird": {
-    "ja": "デリバード",
-    "zh-hans": "信使鸟"
-  },
-  "Mantine": {
-    "ja": "マンタイン",
-    "zh-hans": "巨翅飞鱼"
-  },
-  "Skarmory": {
-    "ja": "エアームド",
-    "zh-hans": "盔甲鸟"
-  },
-  "Houndour": {
-    "ja": "デルビル",
-    "zh-hans": "戴鲁比"
-  },
-  "Houndoom": {
-    "ja": "ヘルガー",
-    "zh-hans": "黑鲁加"
-  },
-  "Kingdra": {
-    "ja": "キングドラ",
-    "zh-hans": "刺龙王"
-  },
-  "Phanpy": {
-    "ja": "ゴマゾウ",
-    "zh-hans": "小小象"
-  },
-  "Donphan": {
-    "ja": "ドンファン",
-    "zh-hans": "顿甲"
-  },
-  "Porygon2": {
-    "ja": "ポリゴン２",
-    "zh-hans": "多边兽Ⅱ"
-  },
-  "Stantler": {
-    "ja": "オドシシ",
-    "zh-hans": "惊角鹿"
-  },
-  "Smeargle": {
-    "ja": "ドーブル",
-    "zh-hans": "图图犬"
-  },
-  "Tyrogue": {
-    "ja": "バルキー",
-    "zh-hans": "无畏小子"
-  },
-  "Hitmontop": {
-    "ja": "カポエラー",
-    "zh-hans": "战舞郎"
-  },
-  "Smoochum": {
-    "ja": "ムチュール",
-    "zh-hans": "迷唇娃"
-  },
-  "Elekid": {
-    "ja": "エレキッド",
-    "zh-hans": "电击怪"
-  },
-  "Magby": {
-    "ja": "ブビィ",
-    "zh-hans": "鸭嘴宝宝"
-  },
-  "Miltank": {
-    "ja": "ミルタンク",
-    "zh-hans": "大奶罐"
-  },
-  "Blissey": {
-    "ja": "ハピナス",
-    "zh-hans": "幸福蛋"
-  },
-  "Raikou": {
-    "ja": "ライコウ",
-    "zh-hans": "雷公"
-  },
-  "Entei": {
-    "ja": "エンテイ",
-    "zh-hans": "炎帝"
-  },
-  "Suicune": {
-    "ja": "スイクン",
-    "zh-hans": "水君"
-  },
-  "Larvitar": {
-    "ja": "ヨーギラス",
-    "zh-hans": "幼基拉斯"
-  },
-  "Pupitar": {
-    "ja": "サナギラス",
-    "zh-hans": "沙基拉斯"
-  },
-  "Tyranitar": {
-    "ja": "バンギラス",
-    "zh-hans": "班基拉斯"
-  },
-  "Lugia": {
-    "ja": "ルギア",
-    "zh-hans": "洛奇亚"
-  },
-  "Ho-Oh": {
-    "ja": "ホウオウ",
-    "zh-hans": "凤王"
-  },
-  "Celebi": {
-    "ja": "セレビィ",
-    "zh-hans": "时拉比"
-  },
-  "Treecko": {
-    "ja": "キモリ",
-    "zh-hans": "木守宫"
-  },
-  "Grovyle": {
-    "ja": "ジュプトル",
-    "zh-hans": "森林蜥蜴"
-  },
-  "Sceptile": {
-    "ja": "ジュカイン",
-    "zh-hans": "蜥蜴王"
-  },
-  "Torchic": {
-    "ja": "アチャモ",
-    "zh-hans": "火稚鸡"
-  },
-  "Combusken": {
-    "ja": "ワカシャモ",
-    "zh-hans": "力壮鸡"
-  },
-  "Blaziken": {
-    "ja": "バシャーモ",
-    "zh-hans": "火焰鸡"
-  },
-  "Mudkip": {
-    "ja": "ミズゴロウ",
-    "zh-hans": "水跃鱼"
-  },
-  "Marshtomp": {
-    "ja": "ヌマクロー",
-    "zh-hans": "沼跃鱼"
-  },
-  "Swampert": {
-    "ja": "ラグラージ",
-    "zh-hans": "巨沼怪"
-  },
-  "Poochyena": {
-    "ja": "ポチエナ",
-    "zh-hans": "土狼犬"
-  },
-  "Mightyena": {
-    "ja": "グラエナ",
-    "zh-hans": "大狼犬"
-  },
-  "Zigzagoon": {
-    "ja": "ジグザグマ",
-    "zh-hans": "蛇纹熊"
-  },
-  "Linoone": {
-    "ja": "マッスグマ",
-    "zh-hans": "直冲熊"
-  },
-  "Wurmple": {
-    "ja": "ケムッソ",
-    "zh-hans": "刺尾虫"
-  },
-  "Silcoon": {
-    "ja": "カラサリス",
-    "zh-hans": "甲壳茧"
-  },
-  "Beautifly": {
-    "ja": "アゲハント",
-    "zh-hans": "狩猎凤蝶"
-  },
-  "Cascoon": {
-    "ja": "マユルド",
-    "zh-hans": "盾甲茧"
-  },
-  "Dustox": {
-    "ja": "ドクケイル",
-    "zh-hans": "毒粉蛾"
-  },
-  "Lotad": {
-    "ja": "ハスボー",
-    "zh-hans": "莲叶童子"
-  },
-  "Lombre": {
-    "ja": "ハスブレロ",
-    "zh-hans": "莲帽小童"
-  },
-  "Ludicolo": {
-    "ja": "ルンパッパ",
-    "zh-hans": "乐天河童"
-  },
-  "Seedot": {
-    "ja": "タネボー",
-    "zh-hans": "橡实果"
-  },
-  "Nuzleaf": {
-    "ja": "コノハナ",
-    "zh-hans": "长鼻叶"
-  },
-  "Shiftry": {
-    "ja": "ダーテング",
-    "zh-hans": "狡猾天狗"
-  },
-  "Taillow": {
-    "ja": "スバメ",
-    "zh-hans": "傲骨燕"
-  },
-  "Swellow": {
-    "ja": "オオスバメ",
-    "zh-hans": "大王燕"
-  },
-  "Wingull": {
-    "ja": "キャモメ",
-    "zh-hans": "长翅鸥"
-  },
-  "Pelipper": {
-    "ja": "ペリッパー",
-    "zh-hans": "大嘴鸥"
-  },
-  "Ralts": {
-    "ja": "ラルトス",
-    "zh-hans": "拉鲁拉丝"
-  },
-  "Kirlia": {
-    "ja": "キルリア",
-    "zh-hans": "奇鲁莉安"
-  },
-  "Gardevoir": {
-    "ja": "サーナイト",
-    "zh-hans": "沙奈朵"
-  },
-  "Surskit": {
-    "ja": "アメタマ",
-    "zh-hans": "溜溜糖球"
-  },
-  "Masquerain": {
-    "ja": "アメモース",
-    "zh-hans": "雨翅蛾"
-  },
-  "Shroomish": {
-    "ja": "キノココ",
-    "zh-hans": "蘑蘑菇"
-  },
-  "Breloom": {
-    "ja": "キノガッサ",
-    "zh-hans": "斗笠菇"
-  },
-  "Slakoth": {
-    "ja": "ナマケロ",
-    "zh-hans": "懒人獭"
-  },
-  "Vigoroth": {
-    "ja": "ヤルキモノ",
-    "zh-hans": "过动猿"
-  },
-  "Slaking": {
-    "ja": "ケッキング",
-    "zh-hans": "请假王"
-  },
-  "Nincada": {
-    "ja": "ツチニン",
-    "zh-hans": "土居忍士"
-  },
-  "Ninjask": {
-    "ja": "テッカニン",
-    "zh-hans": "铁面忍者"
-  },
-  "Shedinja": {
-    "ja": "ヌケニン",
-    "zh-hans": "脱壳忍者"
-  },
-  "Whismur": {
-    "ja": "ゴニョニョ",
-    "zh-hans": "咕妞妞"
-  },
-  "Loudred": {
-    "ja": "ドゴーム",
-    "zh-hans": "吼爆弹"
-  },
-  "Exploud": {
-    "ja": "バクオング",
-    "zh-hans": "爆音怪"
-  },
-  "Makuhita": {
-    "ja": "マクノシタ",
-    "zh-hans": "幕下力士"
-  },
-  "Hariyama": {
-    "ja": "ハリテヤマ",
-    "zh-hans": "铁掌力士"
-  },
-  "Azurill": {
-    "ja": "ルリリ",
-    "zh-hans": "露力丽"
-  },
-  "Nosepass": {
-    "ja": "ノズパス",
-    "zh-hans": "朝北鼻"
-  },
-  "Skitty": {
-    "ja": "エネコ",
-    "zh-hans": "向尾喵"
-  },
-  "Delcatty": {
-    "ja": "エネコロロ",
-    "zh-hans": "优雅猫"
-  },
-  "Sableye": {
-    "ja": "ヤミラミ",
-    "zh-hans": "勾魂眼"
-  },
-  "Mawile": {
-    "ja": "クチート",
-    "zh-hans": "大嘴娃"
-  },
-  "Aron": {
-    "ja": "ココドラ",
-    "zh-hans": "可可多拉"
-  },
-  "Lairon": {
-    "ja": "コドラ",
-    "zh-hans": "可多拉"
-  },
-  "Aggron": {
-    "ja": "ボスゴドラ",
-    "zh-hans": "波士可多拉"
-  },
-  "Meditite": {
-    "ja": "アサナン",
-    "zh-hans": "玛沙那"
-  },
-  "Medicham": {
-    "ja": "チャーレム",
-    "zh-hans": "恰雷姆"
-  },
-  "Electrike": {
-    "ja": "ラクライ",
-    "zh-hans": "落雷兽"
-  },
-  "Manectric": {
-    "ja": "ライボルト",
-    "zh-hans": "雷电兽"
-  },
-  "Plusle": {
-    "ja": "プラスル",
-    "zh-hans": "正电拍拍"
-  },
-  "Minun": {
-    "ja": "マイナン",
-    "zh-hans": "负电拍拍"
-  },
-  "Volbeat": {
-    "ja": "バルビート",
-    "zh-hans": "电萤虫"
-  },
-  "Illumise": {
-    "ja": "イルミーゼ",
-    "zh-hans": "甜甜萤"
-  },
-  "Roselia": {
-    "ja": "ロゼリア",
-    "zh-hans": "毒蔷薇"
-  },
-  "Gulpin": {
-    "ja": "ゴクリン",
-    "zh-hans": "溶食兽"
-  },
-  "Swalot": {
-    "ja": "マルノーム",
-    "zh-hans": "吞食兽"
-  },
-  "Carvanha": {
-    "ja": "キバニア",
-    "zh-hans": "利牙鱼"
-  },
-  "Sharpedo": {
-    "ja": "サメハダー",
-    "zh-hans": "巨牙鲨"
-  },
-  "Wailmer": {
-    "ja": "ホエルコ",
-    "zh-hans": "吼吼鲸"
-  },
-  "Wailord": {
-    "ja": "ホエルオー",
-    "zh-hans": "吼鲸王"
-  },
-  "Numel": {
-    "ja": "ドンメル",
-    "zh-hans": "呆火驼"
-  },
-  "Camerupt": {
-    "ja": "バクーダ",
-    "zh-hans": "喷火驼"
-  },
-  "Torkoal": {
-    "ja": "コータス",
-    "zh-hans": "煤炭龟"
-  },
-  "Spoink": {
-    "ja": "バネブー",
-    "zh-hans": "跳跳猪"
-  },
-  "Grumpig": {
-    "ja": "ブーピッグ",
-    "zh-hans": "噗噗猪"
-  },
-  "Spinda": {
-    "ja": "パッチール",
-    "zh-hans": "晃晃斑"
-  },
-  "Trapinch": {
-    "ja": "ナックラー",
-    "zh-hans": "大颚蚁"
-  },
-  "Vibrava": {
-    "ja": "ビブラーバ",
-    "zh-hans": "超音波幼虫"
-  },
-  "Flygon": {
-    "ja": "フライゴン",
-    "zh-hans": "沙漠蜻蜓"
-  },
-  "Cacnea": {
-    "ja": "サボネア",
-    "zh-hans": "刺球仙人掌"
-  },
-  "Cacturne": {
-    "ja": "ノクタス",
-    "zh-hans": "梦歌仙人掌"
-  },
-  "Swablu": {
-    "ja": "チルット",
-    "zh-hans": "青绵鸟"
-  },
-  "Altaria": {
-    "ja": "チルタリス",
-    "zh-hans": "七夕青鸟"
-  },
-  "Zangoose": {
-    "ja": "ザングース",
-    "zh-hans": "猫鼬斩"
-  },
-  "Seviper": {
-    "ja": "ハブネーク",
-    "zh-hans": "饭匙蛇"
-  },
-  "Lunatone": {
-    "ja": "ルナトーン",
-    "zh-hans": "月石"
-  },
-  "Solrock": {
-    "ja": "ソルロック",
-    "zh-hans": "太阳岩"
-  },
-  "Barboach": {
-    "ja": "ドジョッチ",
-    "zh-hans": "泥泥鳅"
-  },
-  "Whiscash": {
-    "ja": "ナマズン",
-    "zh-hans": "鲶鱼王"
-  },
-  "Corphish": {
-    "ja": "ヘイガニ",
-    "zh-hans": "龙虾小兵"
-  },
-  "Crawdaunt": {
-    "ja": "シザリガー",
-    "zh-hans": "铁螯龙虾"
-  },
-  "Baltoy": {
-    "ja": "ヤジロン",
-    "zh-hans": "天秤偶"
-  },
-  "Claydol": {
-    "ja": "ネンドール",
-    "zh-hans": "念力土偶"
-  },
-  "Lileep": {
-    "ja": "リリーラ",
-    "zh-hans": "触手百合"
-  },
-  "Cradily": {
-    "ja": "ユレイドル",
-    "zh-hans": "摇篮百合"
-  },
-  "Anorith": {
-    "ja": "アノプス",
-    "zh-hans": "太古羽虫"
-  },
-  "Armaldo": {
-    "ja": "アーマルド",
-    "zh-hans": "太古盔甲"
-  },
-  "Feebas": {
-    "ja": "ヒンバス",
-    "zh-hans": "丑丑鱼"
-  },
-  "Milotic": {
-    "ja": "ミロカロス",
-    "zh-hans": "美纳斯"
-  },
-  "Castform": {
-    "ja": "ポワルン",
-    "zh-hans": "飘浮泡泡"
-  },
-  "Kecleon": {
-    "ja": "カクレオン",
-    "zh-hans": "变隐龙"
-  },
-  "Shuppet": {
-    "ja": "カゲボウズ",
-    "zh-hans": "怨影娃娃"
-  },
-  "Banette": {
-    "ja": "ジュペッタ",
-    "zh-hans": "诅咒娃娃"
-  },
-  "Duskull": {
-    "ja": "ヨマワル",
-    "zh-hans": "夜巡灵"
-  },
-  "Dusclops": {
-    "ja": "サマヨール",
-    "zh-hans": "彷徨夜灵"
-  },
-  "Tropius": {
-    "ja": "トロピウス",
-    "zh-hans": "热带龙"
-  },
-  "Chimecho": {
-    "ja": "チリーン",
-    "zh-hans": "风铃铃"
-  },
-  "Absol": {
-    "ja": "アブソル",
-    "zh-hans": "阿勃梭鲁"
-  },
-  "Wynaut": {
-    "ja": "ソーナノ",
-    "zh-hans": "小果然"
-  },
-  "Snorunt": {
-    "ja": "ユキワラシ",
-    "zh-hans": "雪童子"
-  },
-  "Glalie": {
-    "ja": "オニゴーリ",
-    "zh-hans": "冰鬼护"
-  },
-  "Spheal": {
-    "ja": "タマザラシ",
-    "zh-hans": "海豹球"
-  },
-  "Sealeo": {
-    "ja": "トドグラー",
-    "zh-hans": "海魔狮"
-  },
-  "Walrein": {
-    "ja": "トドゼルガ",
-    "zh-hans": "帝牙海狮"
-  },
-  "Clamperl": {
-    "ja": "パールル",
-    "zh-hans": "珍珠贝"
-  },
-  "Huntail": {
-    "ja": "ハンテール",
-    "zh-hans": "猎斑鱼"
-  },
-  "Gorebyss": {
-    "ja": "サクラビス",
-    "zh-hans": "樱花鱼"
-  },
-  "Relicanth": {
-    "ja": "ジーランス",
-    "zh-hans": "古空棘鱼"
-  },
-  "Luvdisc": {
-    "ja": "ラブカス",
-    "zh-hans": "爱心鱼"
-  },
-  "Bagon": {
-    "ja": "タツベイ",
-    "zh-hans": "宝贝龙"
-  },
-  "Shelgon": {
-    "ja": "コモルー",
-    "zh-hans": "甲壳龙"
-  },
-  "Salamence": {
-    "ja": "ボーマンダ",
-    "zh-hans": "暴飞龙"
-  },
-  "Beldum": {
-    "ja": "ダンバル",
-    "zh-hans": "铁哑铃"
-  },
-  "Metang": {
-    "ja": "メタング",
-    "zh-hans": "金属怪"
-  },
-  "Metagross": {
-    "ja": "メタグロス",
-    "zh-hans": "巨金怪"
-  },
-  "Regirock": {
-    "ja": "レジロック",
-    "zh-hans": "雷吉洛克"
-  },
-  "Regice": {
-    "ja": "レジアイス",
-    "zh-hans": "雷吉艾斯"
-  },
-  "Registeel": {
-    "ja": "レジスチル",
-    "zh-hans": "雷吉斯奇鲁"
-  },
-  "Latias": {
-    "ja": "ラティアス",
-    "zh-hans": "拉帝亚斯"
-  },
-  "Latios": {
-    "ja": "ラティオス",
-    "zh-hans": "拉帝欧斯"
-  },
-  "Kyogre": {
-    "ja": "カイオーガ",
-    "zh-hans": "盖欧卡"
-  },
-  "Groudon": {
-    "ja": "グラードン",
-    "zh-hans": "固拉多"
-  },
-  "Rayquaza": {
-    "ja": "レックウザ",
-    "zh-hans": "烈空坐"
-  },
-  "Jirachi": {
-    "ja": "ジラーチ",
-    "zh-hans": "基拉祈"
-  },
-  "Deoxys": {
-    "ja": "デオキシス",
-    "zh-hans": "代欧奇希斯"
-  },
-  "Turtwig": {
-    "ja": "ナエトル",
-    "zh-hans": "草苗龟"
-  },
-  "Grotle": {
-    "ja": "ハヤシガメ",
-    "zh-hans": "树林龟"
-  },
-  "Torterra": {
-    "ja": "ドダイトス",
-    "zh-hans": "土台龟"
-  },
-  "Chimchar": {
-    "ja": "ヒコザル",
-    "zh-hans": "小火焰猴"
-  },
-  "Monferno": {
-    "ja": "モウカザル",
-    "zh-hans": "猛火猴"
-  },
-  "Infernape": {
-    "ja": "ゴウカザル",
-    "zh-hans": "烈焰猴"
-  },
-  "Piplup": {
-    "ja": "ポッチャマ",
-    "zh-hans": "波加曼"
-  },
-  "Prinplup": {
-    "ja": "ポッタイシ",
-    "zh-hans": "波皇子"
-  },
-  "Empoleon": {
-    "ja": "エンペルト",
-    "zh-hans": "帝王拿波"
-  },
-  "Starly": {
-    "ja": "ムックル",
-    "zh-hans": "姆克儿"
-  },
-  "Staravia": {
-    "ja": "ムクバード",
-    "zh-hans": "姆克鸟"
-  },
-  "Staraptor": {
-    "ja": "ムクホーク",
-    "zh-hans": "姆克鹰"
-  },
-  "Bidoof": {
-    "ja": "ビッパ",
-    "zh-hans": "大牙狸"
-  },
-  "Bibarel": {
-    "ja": "ビーダル",
-    "zh-hans": "大尾狸"
-  },
-  "Kricketot": {
-    "ja": "コロボーシ",
-    "zh-hans": "圆法师"
-  },
-  "Kricketune": {
-    "ja": "コロトック",
-    "zh-hans": "音箱蟀"
-  },
-  "Shinx": {
-    "ja": "コリンク",
-    "zh-hans": "小猫怪"
-  },
-  "Luxio": {
-    "ja": "ルクシオ",
-    "zh-hans": "勒克猫"
-  },
-  "Luxray": {
-    "ja": "レントラー",
-    "zh-hans": "伦琴猫"
-  },
-  "Budew": {
-    "ja": "スボミー",
-    "zh-hans": "含羞苞"
-  },
-  "Roserade": {
-    "ja": "ロズレイド",
-    "zh-hans": "罗丝雷朵"
-  },
-  "Cranidos": {
-    "ja": "ズガイドス",
-    "zh-hans": "头盖龙"
-  },
-  "Rampardos": {
-    "ja": "ラムパルド",
-    "zh-hans": "战槌龙"
-  },
-  "Shieldon": {
-    "ja": "タテトプス",
-    "zh-hans": "盾甲龙"
-  },
-  "Bastiodon": {
-    "ja": "トリデプス",
-    "zh-hans": "护城龙"
-  },
-  "Burmy": {
-    "ja": "ミノムッチ",
-    "zh-hans": "结草儿"
-  },
-  "Wormadam": {
-    "ja": "ミノマダム",
-    "zh-hans": "结草贵妇"
-  },
-  "Mothim": {
-    "ja": "ガーメイル",
-    "zh-hans": "绅士蛾"
-  },
-  "Combee": {
-    "ja": "ミツハニー",
-    "zh-hans": "三蜜蜂"
-  },
-  "Vespiquen": {
-    "ja": "ビークイン",
-    "zh-hans": "蜂女王"
-  },
-  "Pachirisu": {
-    "ja": "パチリス",
-    "zh-hans": "帕奇利兹"
-  },
-  "Buizel": {
-    "ja": "ブイゼル",
-    "zh-hans": "泳圈鼬"
-  },
-  "Floatzel": {
-    "ja": "フローゼル",
-    "zh-hans": "浮潜鼬"
-  },
-  "Cherubi": {
-    "ja": "チェリンボ",
-    "zh-hans": "樱花宝"
-  },
-  "Cherrim": {
-    "ja": "チェリム",
-    "zh-hans": "樱花儿"
-  },
-  "Shellos": {
-    "ja": "カラナクシ",
-    "zh-hans": "无壳海兔"
-  },
-  "Gastrodon": {
-    "ja": "トリトドン",
-    "zh-hans": "海兔兽"
-  },
-  "Ambipom": {
-    "ja": "エテボース",
-    "zh-hans": "双尾怪手"
-  },
-  "Drifloon": {
-    "ja": "フワンテ",
-    "zh-hans": "飘飘球"
-  },
-  "Drifblim": {
-    "ja": "フワライド",
-    "zh-hans": "随风球"
-  },
-  "Buneary": {
-    "ja": "ミミロル",
-    "zh-hans": "卷卷耳"
-  },
-  "Lopunny": {
-    "ja": "ミミロップ",
-    "zh-hans": "长耳兔"
-  },
-  "Mismagius": {
-    "ja": "ムウマージ",
-    "zh-hans": "梦妖魔"
-  },
-  "Honchkrow": {
-    "ja": "ドンカラス",
-    "zh-hans": "乌鸦头头"
-  },
-  "Glameow": {
-    "ja": "ニャルマー",
-    "zh-hans": "魅力喵"
-  },
-  "Purugly": {
-    "ja": "ブニャット",
-    "zh-hans": "东施喵"
-  },
-  "Chingling": {
-    "ja": "リーシャン",
-    "zh-hans": "铃铛响"
-  },
-  "Stunky": {
-    "ja": "スカンプー",
-    "zh-hans": "臭鼬噗"
-  },
-  "Skuntank": {
-    "ja": "スカタンク",
-    "zh-hans": "坦克臭鼬"
-  },
-  "Bronzor": {
-    "ja": "ドーミラー",
-    "zh-hans": "铜镜怪"
-  },
-  "Bronzong": {
-    "ja": "ドータクン",
-    "zh-hans": "青铜钟"
-  },
-  "Bonsly": {
-    "ja": "ウソハチ",
-    "zh-hans": "盆才怪"
-  },
-  "Mime Jr.": {
-    "ja": "マネネ",
-    "zh-hans": "魔尼尼"
-  },
-  "Mime-Jr.": {
-    "ja": "マネネ",
-    "zh-hans": "魔尼尼"
-  },
-  "Happiny": {
-    "ja": "ピンプク",
-    "zh-hans": "小福蛋"
-  },
-  "Chatot": {
-    "ja": "ペラップ",
-    "zh-hans": "聒噪鸟"
-  },
-  "Spiritomb": {
-    "ja": "ミカルゲ",
-    "zh-hans": "花岩怪"
-  },
-  "Gible": {
-    "ja": "フカマル",
-    "zh-hans": "圆陆鲨"
-  },
-  "Gabite": {
-    "ja": "ガバイト",
-    "zh-hans": "尖牙陆鲨"
-  },
-  "Garchomp": {
-    "ja": "ガブリアス",
-    "zh-hans": "烈咬陆鲨"
-  },
-  "Munchlax": {
-    "ja": "ゴンベ",
-    "zh-hans": "小卡比兽"
-  },
-  "Riolu": {
-    "ja": "リオル",
-    "zh-hans": "利欧路"
-  },
-  "Lucario": {
-    "ja": "ルカリオ",
-    "zh-hans": "路卡利欧"
-  },
-  "Hippopotas": {
-    "ja": "ヒポポタス",
-    "zh-hans": "沙河马"
-  },
-  "Hippowdon": {
-    "ja": "カバルドン",
-    "zh-hans": "河马兽"
-  },
-  "Skorupi": {
-    "ja": "スコルピ",
-    "zh-hans": "钳尾蝎"
-  },
-  "Drapion": {
-    "ja": "ドラピオン",
-    "zh-hans": "龙王蝎"
-  },
-  "Croagunk": {
-    "ja": "グレッグル",
-    "zh-hans": "不良蛙"
-  },
-  "Toxicroak": {
-    "ja": "ドクロッグ",
-    "zh-hans": "毒骷蛙"
-  },
-  "Carnivine": {
-    "ja": "マスキッパ",
-    "zh-hans": "尖牙笼"
-  },
-  "Finneon": {
-    "ja": "ケイコウオ",
-    "zh-hans": "荧光鱼"
-  },
-  "Lumineon": {
-    "ja": "ネオラント",
-    "zh-hans": "霓虹鱼"
-  },
-  "Mantyke": {
-    "ja": "タマンタ",
-    "zh-hans": "小球飞鱼"
-  },
-  "Snover": {
-    "ja": "ユキカブリ",
-    "zh-hans": "雪笠怪"
-  },
-  "Abomasnow": {
-    "ja": "ユキノオー",
-    "zh-hans": "暴雪王"
-  },
-  "Weavile": {
-    "ja": "マニューラ",
-    "zh-hans": "玛狃拉"
-  },
-  "Magnezone": {
-    "ja": "ジバコイル",
-    "zh-hans": "自爆磁怪"
-  },
-  "Lickilicky": {
-    "ja": "ベロベルト",
-    "zh-hans": "大舌舔"
-  },
-  "Rhyperior": {
-    "ja": "ドサイドン",
-    "zh-hans": "超甲狂犀"
-  },
-  "Tangrowth": {
-    "ja": "モジャンボ",
-    "zh-hans": "巨蔓藤"
-  },
-  "Electivire": {
-    "ja": "エレキブル",
-    "zh-hans": "电击魔兽"
-  },
-  "Magmortar": {
-    "ja": "ブーバーン",
-    "zh-hans": "鸭嘴炎兽"
-  },
-  "Togekiss": {
-    "ja": "トゲキッス",
-    "zh-hans": "波克基斯"
-  },
-  "Yanmega": {
-    "ja": "メガヤンマ",
-    "zh-hans": "远古巨蜓"
-  },
-  "Leafeon": {
-    "ja": "リーフィア",
-    "zh-hans": "叶伊布"
-  },
-  "Glaceon": {
-    "ja": "グレイシア",
-    "zh-hans": "冰伊布"
-  },
-  "Gliscor": {
-    "ja": "グライオン",
-    "zh-hans": "天蝎王"
-  },
-  "Mamoswine": {
-    "ja": "マンムー",
-    "zh-hans": "象牙猪"
-  },
-  "Porygon-Z": {
-    "ja": "ポリゴンＺ",
-    "zh-hans": "多边兽Ｚ"
-  },
-  "Gallade": {
-    "ja": "エルレイド",
-    "zh-hans": "艾路雷朵"
-  },
-  "Probopass": {
-    "ja": "ダイノーズ",
-    "zh-hans": "大朝北鼻"
-  },
-  "Dusknoir": {
-    "ja": "ヨノワール",
-    "zh-hans": "黑夜魔灵"
-  },
-  "Froslass": {
-    "ja": "ユキメノコ",
-    "zh-hans": "雪妖女"
-  },
-  "Rotom": {
-    "ja": "ロトム",
-    "zh-hans": "洛托姆"
-  },
-  "Uxie": {
-    "ja": "ユクシー",
-    "zh-hans": "由克希"
-  },
-  "Mesprit": {
-    "ja": "エムリット",
-    "zh-hans": "艾姆利多"
-  },
-  "Azelf": {
-    "ja": "アグノム",
-    "zh-hans": "亚克诺姆"
-  },
-  "Dialga": {
-    "ja": "ディアルガ",
-    "zh-hans": "帝牙卢卡"
-  },
-  "Palkia": {
-    "ja": "パルキア",
-    "zh-hans": "帕路奇亚"
-  },
-  "Heatran": {
-    "ja": "ヒードラン",
-    "zh-hans": "席多蓝恩"
-  },
-  "Regigigas": {
-    "ja": "レジギガス",
-    "zh-hans": "雷吉奇卡斯"
-  },
-  "Giratina": {
-    "ja": "ギラティナ",
-    "zh-hans": "骑拉帝纳"
-  },
-  "Cresselia": {
-    "ja": "クレセリア",
-    "zh-hans": "克雷色利亚"
-  },
-  "Phione": {
-    "ja": "フィオネ",
-    "zh-hans": "霏欧纳"
-  },
-  "Manaphy": {
-    "ja": "マナフィ",
-    "zh-hans": "玛纳霏"
-  },
-  "Darkrai": {
-    "ja": "ダークライ",
-    "zh-hans": "达克莱伊"
-  },
-  "Shaymin": {
-    "ja": "シェイミ",
-    "zh-hans": "谢米"
-  },
-  "Arceus": {
-    "ja": "アルセウス",
-    "zh-hans": "阿尔宙斯"
-  },
-  "Victini": {
-    "ja": "ビクティニ",
-    "zh-hans": "比克提尼"
-  },
-  "Snivy": {
-    "ja": "ツタージャ",
-    "zh-hans": "藤藤蛇"
-  },
-  "Servine": {
-    "ja": "ジャノビー",
-    "zh-hans": "青藤蛇"
-  },
-  "Serperior": {
-    "ja": "ジャローダ",
-    "zh-hans": "君主蛇"
-  },
-  "Tepig": {
-    "ja": "ポカブ",
-    "zh-hans": "暖暖猪"
-  },
-  "Pignite": {
-    "ja": "チャオブー",
-    "zh-hans": "炒炒猪"
-  },
-  "Emboar": {
-    "ja": "エンブオー",
-    "zh-hans": "炎武王"
-  },
-  "Oshawott": {
-    "ja": "ミジュマル",
-    "zh-hans": "水水獭"
-  },
-  "Dewott": {
-    "ja": "フタチマル",
-    "zh-hans": "双刃丸"
-  },
-  "Samurott": {
-    "ja": "ダイケンキ",
-    "zh-hans": "大剑鬼"
-  },
-  "Patrat": {
-    "ja": "ミネズミ",
-    "zh-hans": "探探鼠"
-  },
-  "Watchog": {
-    "ja": "ミルホッグ",
-    "zh-hans": "步哨鼠"
-  },
-  "Lillipup": {
-    "ja": "ヨーテリー",
-    "zh-hans": "小约克"
-  },
-  "Herdier": {
-    "ja": "ハーデリア",
-    "zh-hans": "哈约克"
-  },
-  "Stoutland": {
-    "ja": "ムーランド",
-    "zh-hans": "长毛狗"
-  },
-  "Purrloin": {
-    "ja": "チョロネコ",
-    "zh-hans": "扒手猫"
-  },
-  "Liepard": {
-    "ja": "レパルダス",
-    "zh-hans": "酷豹"
-  },
-  "Pansage": {
-    "ja": "ヤナップ",
-    "zh-hans": "花椰猴"
-  },
-  "Simisage": {
-    "ja": "ヤナッキー",
-    "zh-hans": "花椰猿"
-  },
-  "Pansear": {
-    "ja": "バオップ",
-    "zh-hans": "爆香猴"
-  },
-  "Simisear": {
-    "ja": "バオッキー",
-    "zh-hans": "爆香猿"
-  },
-  "Panpour": {
-    "ja": "ヒヤップ",
-    "zh-hans": "冷水猴"
-  },
-  "Simipour": {
-    "ja": "ヒヤッキー",
-    "zh-hans": "冷水猿"
-  },
-  "Munna": {
-    "ja": "ムンナ",
-    "zh-hans": "食梦梦"
-  },
-  "Musharna": {
-    "ja": "ムシャーナ",
-    "zh-hans": "梦梦蚀"
-  },
-  "Pidove": {
-    "ja": "マメパト",
-    "zh-hans": "豆豆鸽"
-  },
-  "Tranquill": {
-    "ja": "ハトーボー",
-    "zh-hans": "咕咕鸽"
-  },
-  "Unfezant": {
-    "ja": "ケンホロウ",
-    "zh-hans": "高傲雉鸡"
-  },
-  "Blitzle": {
-    "ja": "シママ",
-    "zh-hans": "斑斑马"
-  },
-  "Zebstrika": {
-    "ja": "ゼブライカ",
-    "zh-hans": "雷电斑马"
-  },
-  "Roggenrola": {
-    "ja": "ダンゴロ",
-    "zh-hans": "石丸子"
-  },
-  "Boldore": {
-    "ja": "ガントル",
-    "zh-hans": "地幔岩"
-  },
-  "Gigalith": {
-    "ja": "ギガイアス",
-    "zh-hans": "庞岩怪"
-  },
-  "Woobat": {
-    "ja": "コロモリ",
-    "zh-hans": "滚滚蝙蝠"
-  },
-  "Swoobat": {
-    "ja": "ココロモリ",
-    "zh-hans": "心蝙蝠"
-  },
-  "Drilbur": {
-    "ja": "モグリュー",
-    "zh-hans": "螺钉地鼠"
-  },
-  "Excadrill": {
-    "ja": "ドリュウズ",
-    "zh-hans": "龙头地鼠"
-  },
-  "Audino": {
-    "ja": "タブンネ",
-    "zh-hans": "差不多娃娃"
-  },
-  "Timburr": {
-    "ja": "ドッコラー",
-    "zh-hans": "搬运小匠"
-  },
-  "Gurdurr": {
-    "ja": "ドテッコツ",
-    "zh-hans": "铁骨土人"
-  },
-  "Conkeldurr": {
-    "ja": "ローブシン",
-    "zh-hans": "修建老匠"
-  },
-  "Tympole": {
-    "ja": "オタマロ",
-    "zh-hans": "圆蝌蚪"
-  },
-  "Palpitoad": {
-    "ja": "ガマガル",
-    "zh-hans": "蓝蟾蜍"
-  },
-  "Seismitoad": {
-    "ja": "ガマゲロゲ",
-    "zh-hans": "蟾蜍王"
-  },
-  "Throh": {
-    "ja": "ナゲキ",
-    "zh-hans": "投摔鬼"
-  },
-  "Sawk": {
-    "ja": "ダゲキ",
-    "zh-hans": "打击鬼"
-  },
-  "Sewaddle": {
-    "ja": "クルミル",
-    "zh-hans": "虫宝包"
-  },
-  "Swadloon": {
-    "ja": "クルマユ",
-    "zh-hans": "宝包茧"
-  },
-  "Leavanny": {
-    "ja": "ハハコモリ",
-    "zh-hans": "保姆虫"
-  },
-  "Venipede": {
-    "ja": "フシデ",
-    "zh-hans": "百足蜈蚣"
-  },
-  "Whirlipede": {
-    "ja": "ホイーガ",
-    "zh-hans": "车轮球"
-  },
-  "Scolipede": {
-    "ja": "ペンドラー",
-    "zh-hans": "蜈蚣王"
-  },
-  "Cottonee": {
-    "ja": "モンメン",
-    "zh-hans": "木棉球"
-  },
-  "Whimsicott": {
-    "ja": "エルフーン",
-    "zh-hans": "风妖精"
-  },
-  "Petilil": {
-    "ja": "チュリネ",
-    "zh-hans": "百合根娃娃"
-  },
-  "Lilligant": {
-    "ja": "ドレディア",
-    "zh-hans": "裙儿小姐"
-  },
-  "Basculin": {
-    "ja": "バスラオ",
-    "zh-hans": "野蛮鲈鱼"
-  },
-  "Sandile": {
-    "ja": "メグロコ",
-    "zh-hans": "黑眼鳄"
-  },
-  "Krokorok": {
-    "ja": "ワルビル",
-    "zh-hans": "混混鳄"
-  },
-  "Krookodile": {
-    "ja": "ワルビアル",
-    "zh-hans": "流氓鳄"
-  },
-  "Darumaka": {
-    "ja": "ダルマッカ",
-    "zh-hans": "火红不倒翁"
-  },
-  "Darmanitan": {
-    "ja": "ヒヒダルマ",
-    "zh-hans": "达摩狒狒"
-  },
-  "Maractus": {
-    "ja": "マラカッチ",
-    "zh-hans": "沙铃仙人掌"
-  },
-  "Dwebble": {
-    "ja": "イシズマイ",
-    "zh-hans": "石居蟹"
-  },
-  "Crustle": {
-    "ja": "イワパレス",
-    "zh-hans": "岩殿居蟹"
-  },
-  "Scraggy": {
-    "ja": "ズルッグ",
-    "zh-hans": "滑滑小子"
-  },
-  "Scrafty": {
-    "ja": "ズルズキン",
-    "zh-hans": "头巾混混"
-  },
-  "Sigilyph": {
-    "ja": "シンボラー",
-    "zh-hans": "象征鸟"
-  },
-  "Yamask": {
-    "ja": "デスマス",
-    "zh-hans": "哭哭面具"
-  },
-  "Cofagrigus": {
-    "ja": "デスカーン",
-    "zh-hans": "死神棺"
-  },
-  "Tirtouga": {
-    "ja": "プロトーガ",
-    "zh-hans": "原盖海龟"
-  },
-  "Carracosta": {
-    "ja": "アバゴーラ",
-    "zh-hans": "肋骨海龟"
-  },
-  "Archen": {
-    "ja": "アーケン",
-    "zh-hans": "始祖小鸟"
-  },
-  "Archeops": {
-    "ja": "アーケオス",
-    "zh-hans": "始祖大鸟"
-  },
-  "Trubbish": {
-    "ja": "ヤブクロン",
-    "zh-hans": "破破袋"
-  },
-  "Garbodor": {
-    "ja": "ダストダス",
-    "zh-hans": "灰尘山"
-  },
-  "Zorua": {
-    "ja": "ゾロア",
-    "zh-hans": "索罗亚"
-  },
-  "Zoroark": {
-    "ja": "ゾロアーク",
-    "zh-hans": "索罗亚克"
-  },
-  "Minccino": {
-    "ja": "チラーミィ",
-    "zh-hans": "泡沫栗鼠"
-  },
-  "Cinccino": {
-    "ja": "チラチーノ",
-    "zh-hans": "奇诺栗鼠"
-  },
-  "Gothita": {
-    "ja": "ゴチム",
-    "zh-hans": "哥德宝宝"
-  },
-  "Gothorita": {
-    "ja": "ゴチミル",
-    "zh-hans": "哥德小童"
-  },
-  "Gothitelle": {
-    "ja": "ゴチルゼル",
-    "zh-hans": "哥德小姐"
-  },
-  "Solosis": {
-    "ja": "ユニラン",
-    "zh-hans": "单卵细胞球"
-  },
-  "Duosion": {
-    "ja": "ダブラン",
-    "zh-hans": "双卵细胞球"
-  },
-  "Reuniclus": {
-    "ja": "ランクルス",
-    "zh-hans": "人造细胞卵"
-  },
-  "Ducklett": {
-    "ja": "コアルヒー",
-    "zh-hans": "鸭宝宝"
-  },
-  "Swanna": {
-    "ja": "スワンナ",
-    "zh-hans": "舞天鹅"
-  },
-  "Vanillite": {
-    "ja": "バニプッチ",
-    "zh-hans": "迷你冰"
-  },
-  "Vanillish": {
-    "ja": "バニリッチ",
-    "zh-hans": "多多冰"
-  },
-  "Vanilluxe": {
-    "ja": "バイバニラ",
-    "zh-hans": "双倍多多冰"
-  },
-  "Deerling": {
-    "ja": "シキジカ",
-    "zh-hans": "四季鹿"
-  },
-  "Sawsbuck": {
-    "ja": "メブキジカ",
-    "zh-hans": "萌芽鹿"
-  },
-  "Emolga": {
-    "ja": "エモンガ",
-    "zh-hans": "电飞鼠"
-  },
-  "Karrablast": {
-    "ja": "カブルモ",
-    "zh-hans": "盖盖虫"
-  },
-  "Escavalier": {
-    "ja": "シュバルゴ",
-    "zh-hans": "骑士蜗牛"
-  },
-  "Foongus": {
-    "ja": "タマゲタケ",
-    "zh-hans": "哎呀球菇"
-  },
-  "Amoonguss": {
-    "ja": "モロバレル",
-    "zh-hans": "败露球菇"
-  },
-  "Frillish": {
-    "ja": "プルリル",
-    "zh-hans": "轻飘飘"
-  },
-  "Jellicent": {
-    "ja": "ブルンゲル",
-    "zh-hans": "胖嘟嘟"
-  },
-  "Alomomola": {
-    "ja": "ママンボウ",
-    "zh-hans": "保姆曼波"
-  },
-  "Joltik": {
-    "ja": "バチュル",
-    "zh-hans": "电电虫"
-  },
-  "Galvantula": {
-    "ja": "デンチュラ",
-    "zh-hans": "电蜘蛛"
-  },
-  "Ferroseed": {
-    "ja": "テッシード",
-    "zh-hans": "种子铁球"
-  },
-  "Ferrothorn": {
-    "ja": "ナットレイ",
-    "zh-hans": "坚果哑铃"
-  },
-  "Klink": {
-    "ja": "ギアル",
-    "zh-hans": "齿轮儿"
-  },
-  "Klang": {
-    "ja": "ギギアル",
-    "zh-hans": "齿轮组"
-  },
-  "Klinklang": {
-    "ja": "ギギギアル",
-    "zh-hans": "齿轮怪"
-  },
-  "Tynamo": {
-    "ja": "シビシラス",
-    "zh-hans": "麻麻小鱼"
-  },
-  "Eelektrik": {
-    "ja": "シビビール",
-    "zh-hans": "麻麻鳗"
-  },
-  "Eelektross": {
-    "ja": "シビルドン",
-    "zh-hans": "麻麻鳗鱼王"
-  },
-  "Elgyem": {
-    "ja": "リグレー",
-    "zh-hans": "小灰怪"
-  },
-  "Beheeyem": {
-    "ja": "オーベム",
-    "zh-hans": "大宇怪"
-  },
-  "Litwick": {
-    "ja": "ヒトモシ",
-    "zh-hans": "烛光灵"
-  },
-  "Lampent": {
-    "ja": "ランプラー",
-    "zh-hans": "灯火幽灵"
-  },
-  "Chandelure": {
-    "ja": "シャンデラ",
-    "zh-hans": "水晶灯火灵"
-  },
-  "Axew": {
-    "ja": "キバゴ",
-    "zh-hans": "牙牙"
-  },
-  "Fraxure": {
-    "ja": "オノンド",
-    "zh-hans": "斧牙龙"
-  },
-  "Haxorus": {
-    "ja": "オノノクス",
-    "zh-hans": "双斧战龙"
-  },
-  "Cubchoo": {
-    "ja": "クマシュン",
-    "zh-hans": "喷嚏熊"
-  },
-  "Beartic": {
-    "ja": "ツンベアー",
-    "zh-hans": "冻原熊"
-  },
-  "Cryogonal": {
-    "ja": "フリージオ",
-    "zh-hans": "几何雪花"
-  },
-  "Shelmet": {
-    "ja": "チョボマキ",
-    "zh-hans": "小嘴蜗"
-  },
-  "Accelgor": {
-    "ja": "アギルダー",
-    "zh-hans": "敏捷虫"
-  },
-  "Stunfisk": {
-    "ja": "マッギョ",
-    "zh-hans": "泥巴鱼"
-  },
-  "Mienfoo": {
-    "ja": "コジョフー",
-    "zh-hans": "功夫鼬"
-  },
-  "Mienshao": {
-    "ja": "コジョンド",
-    "zh-hans": "师父鼬"
-  },
-  "Druddigon": {
-    "ja": "クリムガン",
-    "zh-hans": "赤面龙"
-  },
-  "Golett": {
-    "ja": "ゴビット",
-    "zh-hans": "泥偶小人"
-  },
-  "Golurk": {
-    "ja": "ゴルーグ",
-    "zh-hans": "泥偶巨人"
-  },
-  "Pawniard": {
-    "ja": "コマタナ",
-    "zh-hans": "驹刀小兵"
-  },
-  "Bisharp": {
-    "ja": "キリキザン",
-    "zh-hans": "劈斩司令"
-  },
-  "Bouffalant": {
-    "ja": "バッフロン",
-    "zh-hans": "爆炸头水牛"
-  },
-  "Rufflet": {
-    "ja": "ワシボン",
-    "zh-hans": "毛头小鹰"
-  },
-  "Braviary": {
-    "ja": "ウォーグル",
-    "zh-hans": "勇士雄鹰"
-  },
-  "Vullaby": {
-    "ja": "バルチャイ",
-    "zh-hans": "秃鹰丫头"
-  },
-  "Mandibuzz": {
-    "ja": "バルジーナ",
-    "zh-hans": "秃鹰娜"
-  },
-  "Heatmor": {
-    "ja": "クイタラン",
-    "zh-hans": "熔蚁兽"
-  },
-  "Durant": {
-    "ja": "アイアント",
-    "zh-hans": "铁蚁"
-  },
-  "Deino": {
-    "ja": "モノズ",
-    "zh-hans": "单首龙"
-  },
-  "Zweilous": {
-    "ja": "ジヘッド",
-    "zh-hans": "双首暴龙"
-  },
-  "Hydreigon": {
-    "ja": "サザンドラ",
-    "zh-hans": "三首恶龙"
-  },
-  "Larvesta": {
-    "ja": "メラルバ",
-    "zh-hans": "燃烧虫"
-  },
-  "Volcarona": {
-    "ja": "ウルガモス",
-    "zh-hans": "火神蛾"
-  },
-  "Cobalion": {
-    "ja": "コバルオン",
-    "zh-hans": "勾帕路翁"
-  },
-  "Terrakion": {
-    "ja": "テラキオン",
-    "zh-hans": "代拉基翁"
-  },
-  "Virizion": {
-    "ja": "ビリジオン",
-    "zh-hans": "毕力吉翁"
-  },
-  "Tornadus": {
-    "ja": "トルネロス",
-    "zh-hans": "龙卷云"
-  },
-  "Thundurus": {
-    "ja": "ボルトロス",
-    "zh-hans": "雷电云"
-  },
-  "Reshiram": {
-    "ja": "レシラム",
-    "zh-hans": "莱希拉姆"
-  },
-  "Zekrom": {
-    "ja": "ゼクロム",
-    "zh-hans": "捷克罗姆"
-  },
-  "Landorus": {
-    "ja": "ランドロス",
-    "zh-hans": "土地云"
-  },
-  "Kyurem": {
-    "ja": "キュレム",
-    "zh-hans": "酋雷姆"
-  },
-  "Keldeo": {
-    "ja": "ケルディオ",
-    "zh-hans": "凯路迪欧"
-  },
-  "Meloetta": {
-    "ja": "メロエッタ",
-    "zh-hans": "美洛耶塔"
-  },
-  "Genesect": {
-    "ja": "ゲノセクト",
-    "zh-hans": "盖诺赛克特"
-  },
-  "Chespin": {
-    "ja": "ハリマロン",
-    "zh-hans": "哈力栗"
-  },
-  "Quilladin": {
-    "ja": "ハリボーグ",
-    "zh-hans": "胖胖哈力"
-  },
-  "Chesnaught": {
-    "ja": "ブリガロン",
-    "zh-hans": "布里卡隆"
-  },
-  "Fennekin": {
-    "ja": "フォッコ",
-    "zh-hans": "火狐狸"
-  },
-  "Braixen": {
-    "ja": "テールナー",
-    "zh-hans": "长尾火狐"
-  },
-  "Delphox": {
-    "ja": "マフォクシー",
-    "zh-hans": "妖火红狐"
-  },
-  "Froakie": {
-    "ja": "ケロマツ",
-    "zh-hans": "呱呱泡蛙"
-  },
-  "Frogadier": {
-    "ja": "ゲコガシラ",
-    "zh-hans": "呱头蛙"
-  },
-  "Greninja": {
-    "ja": "ゲッコウガ",
-    "zh-hans": "甲贺忍蛙"
-  },
-  "Bunnelby": {
-    "ja": "ホルビー",
-    "zh-hans": "掘掘兔"
-  },
-  "Diggersby": {
-    "ja": "ホルード",
-    "zh-hans": "掘地兔"
-  },
-  "Fletchling": {
-    "ja": "ヤヤコマ",
-    "zh-hans": "小箭雀"
-  },
-  "Fletchinder": {
-    "ja": "ヒノヤコマ",
-    "zh-hans": "火箭雀"
-  },
-  "Talonflame": {
-    "ja": "ファイアロー",
-    "zh-hans": "烈箭鹰"
-  },
-  "Scatterbug": {
-    "ja": "コフキムシ",
-    "zh-hans": "粉蝶虫"
-  },
-  "Spewpa": {
-    "ja": "コフーライ",
-    "zh-hans": "粉蝶蛹"
-  },
-  "Vivillon": {
-    "ja": "ビビヨン",
-    "zh-hans": "彩粉蝶"
-  },
-  "Litleo": {
-    "ja": "シシコ",
-    "zh-hans": "小狮狮"
-  },
-  "Pyroar": {
-    "ja": "カエンジシ",
-    "zh-hans": "火炎狮"
-  },
-  "Flabébé": {
-    "ja": "フラベベ",
-    "zh-hans": "花蓓蓓"
-  },
-  "Floette": {
-    "ja": "フラエッテ",
-    "zh-hans": "花叶蒂"
-  },
-  "Florges": {
-    "ja": "フラージェス",
-    "zh-hans": "花洁夫人"
-  },
-  "Skiddo": {
-    "ja": "メェークル",
-    "zh-hans": "坐骑小羊"
-  },
-  "Gogoat": {
-    "ja": "ゴーゴート",
-    "zh-hans": "坐骑山羊"
-  },
-  "Pancham": {
-    "ja": "ヤンチャム",
-    "zh-hans": "顽皮熊猫"
-  },
-  "Pangoro": {
-    "ja": "ゴロンダ",
-    "zh-hans": "流氓熊猫"
-  },
-  "Furfrou": {
-    "ja": "トリミアン",
-    "zh-hans": "多丽米亚"
-  },
-  "Espurr": {
-    "ja": "ニャスパー",
-    "zh-hans": "妙喵"
-  },
-  "Meowstic": {
-    "ja": "ニャオニクス",
-    "zh-hans": "超能妙喵"
-  },
-  "Honedge": {
-    "ja": "ヒトツキ",
-    "zh-hans": "独剑鞘"
-  },
-  "Doublade": {
-    "ja": "ニダンギル",
-    "zh-hans": "双剑鞘"
-  },
-  "Aegislash": {
-    "ja": "ギルガルド",
-    "zh-hans": "坚盾剑怪"
-  },
-  "Spritzee": {
-    "ja": "シュシュプ",
-    "zh-hans": "粉香香"
-  },
-  "Aromatisse": {
-    "ja": "フレフワン",
-    "zh-hans": "芳香精"
-  },
-  "Swirlix": {
-    "ja": "ペロッパフ",
-    "zh-hans": "绵绵泡芙"
-  },
-  "Slurpuff": {
-    "ja": "ペロリーム",
-    "zh-hans": "胖甜妮"
-  },
-  "Inkay": {
-    "ja": "マーイーカ",
-    "zh-hans": "好啦鱿"
-  },
-  "Malamar": {
-    "ja": "カラマネロ",
-    "zh-hans": "乌贼王"
-  },
-  "Binacle": {
-    "ja": "カメテテ",
-    "zh-hans": "龟脚脚"
-  },
-  "Barbaracle": {
-    "ja": "ガメノデス",
-    "zh-hans": "龟足巨铠"
-  },
-  "Skrelp": {
-    "ja": "クズモー",
-    "zh-hans": "垃垃藻"
-  },
-  "Dragalge": {
-    "ja": "ドラミドロ",
-    "zh-hans": "毒藻龙"
-  },
-  "Clauncher": {
-    "ja": "ウデッポウ",
-    "zh-hans": "铁臂枪虾"
-  },
-  "Clawitzer": {
-    "ja": "ブロスター",
-    "zh-hans": "钢炮臂虾"
-  },
-  "Helioptile": {
-    "ja": "エリキテル",
-    "zh-hans": "伞电蜥"
-  },
-  "Heliolisk": {
-    "ja": "エレザード",
-    "zh-hans": "光电伞蜥"
-  },
-  "Tyrunt": {
-    "ja": "チゴラス",
-    "zh-hans": "宝宝暴龙"
-  },
-  "Tyrantrum": {
-    "ja": "ガチゴラス",
-    "zh-hans": "怪颚龙"
-  },
-  "Amaura": {
-    "ja": "アマルス",
-    "zh-hans": "冰雪龙"
-  },
-  "Aurorus": {
-    "ja": "アマルルガ",
-    "zh-hans": "冰雪巨龙"
-  },
-  "Sylveon": {
-    "ja": "ニンフィア",
-    "zh-hans": "仙子伊布"
-  },
-  "Hawlucha": {
-    "ja": "ルチャブル",
-    "zh-hans": "摔角鹰人"
-  },
-  "Dedenne": {
-    "ja": "デデンネ",
-    "zh-hans": "咚咚鼠"
-  },
-  "Carbink": {
-    "ja": "メレシー",
-    "zh-hans": "小碎钻"
-  },
-  "Goomy": {
-    "ja": "ヌメラ",
-    "zh-hans": "黏黏宝"
-  },
-  "Sliggoo": {
-    "ja": "ヌメイル",
-    "zh-hans": "黏美儿"
-  },
-  "Goodra": {
-    "ja": "ヌメルゴン",
-    "zh-hans": "黏美龙"
-  },
-  "Klefki": {
-    "ja": "クレッフィ",
-    "zh-hans": "钥圈儿"
-  },
-  "Phantump": {
-    "ja": "ボクレー",
-    "zh-hans": "小木灵"
-  },
-  "Trevenant": {
-    "ja": "オーロット",
-    "zh-hans": "朽木妖"
-  },
-  "Pumpkaboo": {
-    "ja": "バケッチャ",
-    "zh-hans": "南瓜精"
-  },
-  "Gourgeist": {
-    "ja": "パンプジン",
-    "zh-hans": "南瓜怪人"
-  },
-  "Bergmite": {
-    "ja": "カチコール",
-    "zh-hans": "冰宝"
-  },
-  "Avalugg": {
-    "ja": "クレベース",
-    "zh-hans": "冰岩怪"
-  },
-  "Noibat": {
-    "ja": "オンバット",
-    "zh-hans": "嗡蝠"
-  },
-  "Noivern": {
-    "ja": "オンバーン",
-    "zh-hans": "音波龙"
-  },
-  "Xerneas": {
-    "ja": "ゼルネアス",
-    "zh-hans": "哲尔尼亚斯"
-  },
-  "Yveltal": {
-    "ja": "イベルタル",
-    "zh-hans": "伊裴尔塔尔"
-  },
-  "Zygarde": {
-    "ja": "ジガルデ",
-    "zh-hans": "基格尔德"
-  },
-  "Diancie": {
-    "ja": "ディアンシー",
-    "zh-hans": "蒂安希"
-  },
-  "Hoopa": {
-    "ja": "フーパ",
-    "zh-hans": "胡帕"
-  },
-  "Volcanion": {
-    "ja": "ボルケニオン",
-    "zh-hans": "波尔凯尼恩"
-  },
-  "Rowlet": {
-    "ja": "モクロー",
-    "zh-hans": "木木枭"
-  },
-  "Dartrix": {
-    "ja": "フクスロー",
-    "zh-hans": "投羽枭"
-  },
-  "Decidueye": {
-    "ja": "ジュナイパー",
-    "zh-hans": "狙射树枭"
-  },
-  "Litten": {
-    "ja": "ニャビー",
-    "zh-hans": "火斑喵"
-  },
-  "Torracat": {
-    "ja": "ニャヒート",
-    "zh-hans": "炎热喵"
-  },
-  "Incineroar": {
-    "ja": "ガオガエン",
-    "zh-hans": "炽焰咆哮虎"
-  },
-  "Popplio": {
-    "ja": "アシマリ",
-    "zh-hans": "球球海狮"
-  },
-  "Brionne": {
-    "ja": "オシャマリ",
-    "zh-hans": "花漾海狮"
-  },
-  "Primarina": {
-    "ja": "アシレーヌ",
-    "zh-hans": "西狮海壬"
-  },
-  "Pikipek": {
-    "ja": "ツツケラ",
-    "zh-hans": "小笃儿"
-  },
-  "Trumbeak": {
-    "ja": "ケララッパ",
-    "zh-hans": "喇叭啄鸟"
-  },
-  "Toucannon": {
-    "ja": "ドデカバシ",
-    "zh-hans": "铳嘴大鸟"
-  },
-  "Yungoos": {
-    "ja": "ヤングース",
-    "zh-hans": "猫鼬少"
-  },
-  "Gumshoos": {
-    "ja": "デカグース",
-    "zh-hans": "猫鼬探长"
-  },
-  "Grubbin": {
-    "ja": "アゴジムシ",
-    "zh-hans": "强颚鸡母虫"
-  },
-  "Charjabug": {
-    "ja": "デンヂムシ",
-    "zh-hans": "虫电宝"
-  },
-  "Vikavolt": {
-    "ja": "クワガノン",
-    "zh-hans": "锹农炮虫"
-  },
-  "Crabrawler": {
-    "ja": "マケンカニ",
-    "zh-hans": "好胜蟹"
-  },
-  "Crabominable": {
-    "ja": "ケケンカニ",
-    "zh-hans": "好胜毛蟹"
-  },
-  "Oricorio": {
-    "ja": "オドリドリ",
-    "zh-hans": "花舞鸟"
-  },
-  "Cutiefly": {
-    "ja": "アブリー",
-    "zh-hans": "萌虻"
-  },
-  "Ribombee": {
-    "ja": "アブリボン",
-    "zh-hans": "蝶结萌虻"
-  },
-  "Rockruff": {
-    "ja": "イワンコ",
-    "zh-hans": "岩狗狗"
-  },
-  "Lycanroc": {
-    "ja": "ルガルガン",
-    "zh-hans": "鬃岩狼人"
-  },
-  "Wishiwashi": {
-    "ja": "ヨワシ",
-    "zh-hans": "弱丁鱼"
-  },
-  "Mareanie": {
-    "ja": "ヒドイデ",
-    "zh-hans": "好坏星"
-  },
-  "Toxapex": {
-    "ja": "ドヒドイデ",
-    "zh-hans": "超坏星"
-  },
-  "Mudbray": {
-    "ja": "ドロバンコ",
-    "zh-hans": "泥驴仔"
-  },
-  "Mudsdale": {
-    "ja": "バンバドロ",
-    "zh-hans": "重泥挽马"
-  },
-  "Dewpider": {
-    "ja": "シズクモ",
-    "zh-hans": "滴蛛"
-  },
-  "Araquanid": {
-    "ja": "オニシズクモ",
-    "zh-hans": "滴蛛霸"
-  },
-  "Fomantis": {
-    "ja": "カリキリ",
-    "zh-hans": "伪螳草"
-  },
-  "Lurantis": {
-    "ja": "ラランテス",
-    "zh-hans": "兰螳花"
-  },
-  "Morelull": {
-    "ja": "ネマシュ",
-    "zh-hans": "睡睡菇"
-  },
-  "Shiinotic": {
-    "ja": "マシェード",
-    "zh-hans": "灯罩夜菇"
-  },
-  "Salandit": {
-    "ja": "ヤトウモリ",
-    "zh-hans": "夜盗火蜥"
-  },
-  "Salazzle": {
-    "ja": "エンニュート",
-    "zh-hans": "焰后蜥"
-  },
-  "Stufful": {
-    "ja": "ヌイコグマ",
-    "zh-hans": "童偶熊"
-  },
-  "Bewear": {
-    "ja": "キテルグマ",
-    "zh-hans": "穿着熊"
-  },
-  "Bounsweet": {
-    "ja": "アマカジ",
-    "zh-hans": "甜竹竹"
-  },
-  "Steenee": {
-    "ja": "アママイコ",
-    "zh-hans": "甜舞妮"
-  },
-  "Tsareena": {
-    "ja": "アマージョ",
-    "zh-hans": "甜冷美后"
-  },
-  "Comfey": {
-    "ja": "キュワワー",
-    "zh-hans": "花疗环环"
-  },
-  "Oranguru": {
-    "ja": "ヤレユータン",
-    "zh-hans": "智挥猩"
-  },
-  "Passimian": {
-    "ja": "ナゲツケサル",
-    "zh-hans": "投掷猴"
-  },
-  "Wimpod": {
-    "ja": "コソクムシ",
-    "zh-hans": "胆小虫"
-  },
-  "Golisopod": {
-    "ja": "グソクムシャ",
-    "zh-hans": "具甲武者"
-  },
-  "Sandygast": {
-    "ja": "スナバァ",
-    "zh-hans": "沙丘娃"
-  },
-  "Palossand": {
-    "ja": "シロデスナ",
-    "zh-hans": "噬沙堡爷"
-  },
-  "Pyukumuku": {
-    "ja": "ナマコブシ",
-    "zh-hans": "拳海参"
-  },
-  "Type: Null": {
-    "ja": "タイプ：ヌル",
-    "zh-hans": "属性：空"
-  },
-  "Type:-Null": {
-    "ja": "タイプ：ヌル",
-    "zh-hans": "属性：空"
-  },
-  "Silvally": {
-    "ja": "シルヴァディ",
-    "zh-hans": "银伴战兽"
-  },
-  "Minior": {
-    "ja": "メテノ",
-    "zh-hans": "小陨星"
-  },
-  "Komala": {
-    "ja": "ネッコアラ",
-    "zh-hans": "树枕尾熊"
-  },
-  "Turtonator": {
-    "ja": "バクガメス",
-    "zh-hans": "爆焰龟兽"
-  },
-  "Togedemaru": {
-    "ja": "トゲデマル",
-    "zh-hans": "托戈德玛尔"
-  },
-  "Mimikyu": {
-    "ja": "ミミッキュ",
-    "zh-hans": "谜拟Ｑ"
-  },
-  "Bruxish": {
-    "ja": "ハギギシリ",
-    "zh-hans": "磨牙彩皮鱼"
-  },
-  "Drampa": {
-    "ja": "ジジーロン",
-    "zh-hans": "老翁龙"
-  },
-  "Dhelmise": {
-    "ja": "ダダリン",
-    "zh-hans": "破破舵轮"
-  },
-  "Jangmo-o": {
-    "ja": "ジャラコ",
-    "zh-hans": "心鳞宝"
-  },
-  "Hakamo-o": {
-    "ja": "ジャランゴ",
-    "zh-hans": "鳞甲龙"
-  },
-  "Kommo-o": {
-    "ja": "ジャラランガ",
-    "zh-hans": "杖尾鳞甲龙"
-  },
-  "Tapu Koko": {
-    "ja": "カプ・コケコ",
-    "zh-hans": "卡璞・鸣鸣"
-  },
-  "Tapu-Koko": {
-    "ja": "カプ・コケコ",
-    "zh-hans": "卡璞・鸣鸣"
-  },
-  "Tapu Lele": {
-    "ja": "カプ・テテフ",
-    "zh-hans": "卡璞・蝶蝶"
-  },
-  "Tapu-Lele": {
-    "ja": "カプ・テテフ",
-    "zh-hans": "卡璞・蝶蝶"
-  },
-  "Tapu Bulu": {
-    "ja": "カプ・ブルル",
-    "zh-hans": "卡璞・哞哞"
-  },
-  "Tapu-Bulu": {
-    "ja": "カプ・ブルル",
-    "zh-hans": "卡璞・哞哞"
-  },
-  "Tapu Fini": {
-    "ja": "カプ・レヒレ",
-    "zh-hans": "卡璞・鳍鳍"
-  },
-  "Tapu-Fini": {
-    "ja": "カプ・レヒレ",
-    "zh-hans": "卡璞・鳍鳍"
-  },
-  "Cosmog": {
-    "ja": "コスモッグ",
-    "zh-hans": "科斯莫古"
-  },
-  "Cosmoem": {
-    "ja": "コスモウム",
-    "zh-hans": "科斯莫姆"
-  },
-  "Solgaleo": {
-    "ja": "ソルガレオ",
-    "zh-hans": "索尔迦雷欧"
-  },
-  "Lunala": {
-    "ja": "ルナアーラ",
-    "zh-hans": "露奈雅拉"
-  },
-  "Nihilego": {
-    "ja": "ウツロイド",
-    "zh-hans": "虚吾伊德"
-  },
-  "Buzzwole": {
-    "ja": "マッシブーン",
-    "zh-hans": "爆肌蚊"
-  },
-  "Pheromosa": {
-    "ja": "フェローチェ",
-    "zh-hans": "费洛美螂"
-  },
-  "Xurkitree": {
-    "ja": "デンジュモク",
-    "zh-hans": "电束木"
-  },
-  "Celesteela": {
-    "ja": "テッカグヤ",
-    "zh-hans": "铁火辉夜"
-  },
-  "Kartana": {
-    "ja": "カミツルギ",
-    "zh-hans": "纸御剑"
-  },
-  "Guzzlord": {
-    "ja": "アクジキング",
-    "zh-hans": "恶食大王"
-  },
-  "Necrozma": {
-    "ja": "ネクロズマ",
-    "zh-hans": "奈克洛兹玛"
-  },
-  "Magearna": {
-    "ja": "マギアナ",
-    "zh-hans": "玛机雅娜"
-  },
-  "Marshadow": {
-    "ja": "マーシャドー",
-    "zh-hans": "玛夏多"
-  },
-  "Poipole": {
-    "ja": "ベベノム",
-    "zh-hans": "毒贝比"
-  },
-  "Naganadel": {
-    "ja": "アーゴヨン",
-    "zh-hans": "四颚针龙"
-  },
-  "Stakataka": {
-    "ja": "ツンデツンデ",
-    "zh-hans": "垒磊石"
-  },
-  "Blacephalon": {
-    "ja": "ズガドーン",
-    "zh-hans": "砰头小丑"
-  },
-  "Zeraora": {
-    "ja": "ゼラオラ",
-    "zh-hans": "捷拉奥拉"
-  },
-  "Meltan": {
-    "ja": "メルタン",
-    "zh-hans": "美录坦"
-  },
-  "Melmetal": {
-    "ja": "メルメタル",
-    "zh-hans": "美录梅塔"
-  },
-  "Grookey": {
-    "ja": "サルノリ",
-    "zh-hans": "敲音猴"
-  },
-  "Thwackey": {
-    "ja": "バチンキー",
-    "zh-hans": "啪咚猴"
-  },
-  "Rillaboom": {
-    "ja": "ゴリランダー",
-    "zh-hans": "轰擂金刚猩"
-  },
-  "Scorbunny": {
-    "ja": "ヒバニー",
-    "zh-hans": "炎兔儿"
-  },
-  "Raboot": {
-    "ja": "ラビフット",
-    "zh-hans": "腾蹴小将"
-  },
-  "Cinderace": {
-    "ja": "エースバーン",
-    "zh-hans": "闪焰王牌"
-  },
-  "Sobble": {
-    "ja": "メッソン",
-    "zh-hans": "泪眼蜥"
-  },
-  "Drizzile": {
-    "ja": "ジメレオン",
-    "zh-hans": "变涩蜥"
-  },
-  "Inteleon": {
-    "ja": "インテレオン",
-    "zh-hans": "千面避役"
-  },
-  "Skwovet": {
-    "ja": "ホシガリス",
-    "zh-hans": "贪心栗鼠"
-  },
-  "Greedent": {
-    "ja": "ヨクバリス",
-    "zh-hans": "藏饱栗鼠"
-  },
-  "Rookidee": {
-    "ja": "ココガラ",
-    "zh-hans": "稚山雀"
-  },
-  "Corvisquire": {
-    "ja": "アオガラス",
-    "zh-hans": "蓝鸦"
-  },
-  "Corviknight": {
-    "ja": "アーマーガア",
-    "zh-hans": "钢铠鸦"
-  },
-  "Blipbug": {
-    "ja": "サッチムシ",
-    "zh-hans": "索侦虫"
-  },
-  "Dottler": {
-    "ja": "レドームシ",
-    "zh-hans": "天罩虫"
-  },
-  "Orbeetle": {
-    "ja": "イオルブ",
-    "zh-hans": "以欧路普"
-  },
-  "Nickit": {
-    "ja": "クスネ",
-    "zh-hans": "偷儿狐"
-  },
-  "Thievul": {
-    "ja": "フォクスライ",
-    "zh-hans": "狐大盗"
-  },
-  "Gossifleur": {
-    "ja": "ヒメンカ",
-    "zh-hans": "幼棉棉"
-  },
-  "Eldegoss": {
-    "ja": "ワタシラガ",
-    "zh-hans": "白蓬蓬"
-  },
-  "Wooloo": {
-    "ja": "ウールー",
-    "zh-hans": "毛辫羊"
-  },
-  "Dubwool": {
-    "ja": "バイウールー",
-    "zh-hans": "毛毛角羊"
-  },
-  "Chewtle": {
-    "ja": "カムカメ",
-    "zh-hans": "咬咬龟"
-  },
-  "Drednaw": {
-    "ja": "カジリガメ",
-    "zh-hans": "暴噬龟"
-  },
-  "Yamper": {
-    "ja": "ワンパチ",
-    "zh-hans": "来电汪"
-  },
-  "Boltund": {
-    "ja": "パルスワン",
-    "zh-hans": "逐电犬"
-  },
-  "Rolycoly": {
-    "ja": "タンドン",
-    "zh-hans": "小炭仔"
-  },
-  "Carkol": {
-    "ja": "トロッゴン",
-    "zh-hans": "大炭车"
-  },
-  "Coalossal": {
-    "ja": "セキタンザン",
-    "zh-hans": "巨炭山"
-  },
-  "Applin": {
-    "ja": "カジッチュ",
-    "zh-hans": "啃果虫"
-  },
-  "Flapple": {
-    "ja": "アップリュー",
-    "zh-hans": "苹裹龙"
-  },
-  "Appletun": {
-    "ja": "タルップル",
-    "zh-hans": "丰蜜龙"
-  },
-  "Silicobra": {
-    "ja": "スナヘビ",
-    "zh-hans": "沙包蛇"
-  },
-  "Sandaconda": {
-    "ja": "サダイジャ",
-    "zh-hans": "沙螺蟒"
-  },
-  "Cramorant": {
-    "ja": "ウッウ",
-    "zh-hans": "古月鸟"
-  },
-  "Arrokuda": {
-    "ja": "サシカマス",
-    "zh-hans": "刺梭鱼"
-  },
-  "Barraskewda": {
-    "ja": "カマスジョー",
-    "zh-hans": "戽斗尖梭"
-  },
-  "Toxel": {
-    "ja": "エレズン",
-    "zh-hans": "毒电婴"
-  },
-  "Toxtricity": {
-    "ja": "ストリンダー",
-    "zh-hans": "颤弦蝾螈"
-  },
-  "Sizzlipede": {
-    "ja": "ヤクデ",
-    "zh-hans": "烧火蚣"
-  },
-  "Centiskorch": {
-    "ja": "マルヤクデ",
-    "zh-hans": "焚焰蚣"
-  },
-  "Clobbopus": {
-    "ja": "タタッコ",
-    "zh-hans": "拳拳蛸"
-  },
-  "Grapploct": {
-    "ja": "オトスパス",
-    "zh-hans": "八爪武师"
-  },
-  "Sinistea": {
-    "ja": "ヤバチャ",
-    "zh-hans": "来悲茶"
-  },
-  "Polteageist": {
-    "ja": "ポットデス",
-    "zh-hans": "怖思壶"
-  },
-  "Hatenna": {
-    "ja": "ミブリム",
-    "zh-hans": "迷布莉姆"
-  },
-  "Hattrem": {
-    "ja": "テブリム",
-    "zh-hans": "提布莉姆"
-  },
-  "Hatterene": {
-    "ja": "ブリムオン",
-    "zh-hans": "布莉姆温"
-  },
-  "Impidimp": {
-    "ja": "ベロバー",
-    "zh-hans": "捣蛋小妖"
-  },
-  "Morgrem": {
-    "ja": "ギモー",
-    "zh-hans": "诈唬魔"
-  },
-  "Grimmsnarl": {
-    "ja": "オーロンゲ",
-    "zh-hans": "长毛巨魔"
-  },
-  "Obstagoon": {
-    "ja": "タチフサグマ",
-    "zh-hans": "堵拦熊"
-  },
-  "Perrserker": {
-    "ja": "ニャイキング",
-    "zh-hans": "喵头目"
-  },
-  "Cursola": {
-    "ja": "サニゴーン",
-    "zh-hans": "魔灵珊瑚"
-  },
-  "Sirfetch'd": {
-    "ja": "ネギガナイト",
-    "zh-hans": "葱游兵"
-  },
-  "Mr. Rime": {
-    "ja": "バリコオル",
-    "zh-hans": "踏冰人偶"
-  },
-  "Mr.-Rime": {
-    "ja": "バリコオル",
-    "zh-hans": "踏冰人偶"
-  },
-  "Runerigus": {
-    "ja": "デスバーン",
-    "zh-hans": "死神板"
-  },
-  "Milcery": {
-    "ja": "マホミル",
-    "zh-hans": "小仙奶"
-  },
-  "Alcremie": {
-    "ja": "マホイップ",
-    "zh-hans": "霜奶仙"
-  },
-  "Falinks": {
-    "ja": "タイレーツ",
-    "zh-hans": "列阵兵"
-  },
-  "Pincurchin": {
-    "ja": "バチンウニ",
-    "zh-hans": "啪嚓海胆"
-  },
-  "Snom": {
-    "ja": "ユキハミ",
-    "zh-hans": "雪吞虫"
-  },
-  "Frosmoth": {
-    "ja": "モスノウ",
-    "zh-hans": "雪绒蛾"
-  },
-  "Stonjourner": {
-    "ja": "イシヘンジン",
-    "zh-hans": "巨石丁"
-  },
-  "Eiscue": {
-    "ja": "コオリッポ",
-    "zh-hans": "冰砌鹅"
-  },
-  "Indeedee": {
-    "ja": "イエッサン",
-    "zh-hans": "爱管侍"
-  },
-  "Morpeko": {
-    "ja": "モルペコ",
-    "zh-hans": "莫鲁贝可"
-  },
-  "Cufant": {
-    "ja": "ゾウドウ",
-    "zh-hans": "铜象"
-  },
-  "Copperajah": {
-    "ja": "ダイオウドウ",
-    "zh-hans": "大王铜象"
-  },
-  "Dracozolt": {
-    "ja": "パッチラゴン",
-    "zh-hans": "雷鸟龙"
-  },
-  "Arctozolt": {
-    "ja": "パッチルドン",
-    "zh-hans": "雷鸟海兽"
-  },
-  "Dracovish": {
-    "ja": "ウオノラゴン",
-    "zh-hans": "鳃鱼龙"
-  },
-  "Arctovish": {
-    "ja": "ウオチルドン",
-    "zh-hans": "鳃鱼海兽"
-  },
-  "Duraludon": {
-    "ja": "ジュラルドン",
-    "zh-hans": "铝钢龙"
-  },
-  "Dreepy": {
-    "ja": "ドラメシヤ",
-    "zh-hans": "多龙梅西亚"
-  },
-  "Drakloak": {
-    "ja": "ドロンチ",
-    "zh-hans": "多龙奇"
-  },
-  "Dragapult": {
-    "ja": "ドラパルト",
-    "zh-hans": "多龙巴鲁托"
-  },
-  "Zacian": {
-    "ja": "ザシアン",
-    "zh-hans": "苍响"
-  },
-  "Zamazenta": {
-    "ja": "ザマゼンタ",
-    "zh-hans": "藏玛然特"
-  },
-  "Eternatus": {
-    "ja": "ムゲンダイナ",
-    "zh-hans": "无极汰那"
-  },
-  "Kubfu": {
-    "ja": "ダクマ",
-    "zh-hans": "熊徒弟"
-  },
-  "Urshifu": {
-    "ja": "ウーラオス",
-    "zh-hans": "武道熊师"
-  },
-  "Zarude": {
-    "ja": "ザルード",
-    "zh-hans": "萨戮德"
-  },
-  "Regieleki": {
-    "ja": "レジエレキ",
-    "zh-hans": "雷吉艾勒奇"
-  },
-  "Regidrago": {
-    "ja": "レジドラゴ",
-    "zh-hans": "雷吉铎拉戈"
-  },
-  "Glastrier": {
-    "ja": "ブリザポス",
-    "zh-hans": "雪暴马"
-  },
-  "Spectrier": {
-    "ja": "レイスポス",
-    "zh-hans": "灵幽马"
-  },
-  "Calyrex": {
-    "ja": "バドレックス",
-    "zh-hans": "蕾冠王"
-  },
-  "Wyrdeer": {
-    "ja": "アヤシシ",
-    "zh-hans": "诡角鹿"
-  },
-  "Kleavor": {
-    "ja": "バサギリ",
-    "zh-hans": "劈斧螳螂"
-  },
-  "Ursaluna": {
-    "ja": "ガチグマ",
-    "zh-hans": "月月熊"
-  },
-  "Basculegion": {
-    "ja": "イダイトウ",
-    "zh-hans": "幽尾玄鱼"
-  },
-  "Sneasler": {
-    "ja": "オオニューラ",
-    "zh-hans": "大狃拉"
-  },
-  "Overqwil": {
-    "ja": "ハリーマン",
-    "zh-hans": "万针鱼"
-  },
-  "Enamorus": {
-    "ja": "ラブトロス",
-    "zh-hans": "眷恋云"
-  },
-  "Sprigatito": {
-    "ja": "ニャオハ",
-    "zh-hans": "新叶喵"
-  },
-  "Floragato": {
-    "ja": "ニャローテ",
-    "zh-hans": "蒂蕾喵"
-  },
-  "Meowscarada": {
-    "ja": "マスカーニャ",
-    "zh-hans": "魔幻假面喵"
-  },
-  "Fuecoco": {
-    "ja": "ホゲータ",
-    "zh-hans": "呆火鳄"
-  },
-  "Crocalor": {
-    "ja": "アチゲータ",
-    "zh-hans": "炙烫鳄"
-  },
-  "Skeledirge": {
-    "ja": "ラウドボーン",
-    "zh-hans": "骨纹巨声鳄"
-  },
-  "Quaxly": {
-    "ja": "クワッス",
-    "zh-hans": "润水鸭"
-  },
-  "Quaxwell": {
-    "ja": "ウェルカモ",
-    "zh-hans": "涌跃鸭"
-  },
-  "Quaquaval": {
-    "ja": "ウェーニバル",
-    "zh-hans": "狂欢浪舞鸭"
-  },
-  "Lechonk": {
-    "ja": "グルトン",
-    "zh-hans": "爱吃豚"
-  },
-  "Oinkologne": {
-    "ja": "パフュートン",
-    "zh-hans": "飘香豚"
-  },
-  "Tarountula": {
-    "ja": "タマンチュラ",
-    "zh-hans": "团珠蛛"
-  },
-  "Spidops": {
-    "ja": "ワナイダー",
-    "zh-hans": "操陷蛛"
-  },
-  "Nymble": {
-    "ja": "マメバッタ",
-    "zh-hans": "豆蟋蟀"
-  },
-  "Lokix": {
-    "ja": "エクスレッグ",
-    "zh-hans": "烈腿蝗"
-  },
-  "Pawmi": {
-    "ja": "パモ",
-    "zh-hans": "布拨"
-  },
-  "Pawmo": {
-    "ja": "パモット",
-    "zh-hans": "布土拨"
-  },
-  "Pawmot": {
-    "ja": "パーモット",
-    "zh-hans": "巴布土拨"
-  },
-  "Tandemaus": {
-    "ja": "ワッカネズミ",
-    "zh-hans": "一对鼠"
-  },
-  "Maushold": {
-    "ja": "イッカネズミ",
-    "zh-hans": "一家鼠"
-  },
-  "Fidough": {
-    "ja": "パピモッチ",
-    "zh-hans": "狗仔包"
-  },
-  "Dachsbun": {
-    "ja": "バウッツェル",
-    "zh-hans": "麻花犬"
-  },
-  "Smoliv": {
-    "ja": "ミニーブ",
-    "zh-hans": "迷你芙"
-  },
-  "Dolliv": {
-    "ja": "オリーニョ",
-    "zh-hans": "奥利纽"
-  },
-  "Arboliva": {
-    "ja": "オリーヴァ",
-    "zh-hans": "奥利瓦"
-  },
-  "Squawkabilly": {
-    "ja": "イキリンコ",
-    "zh-hans": "怒鹦哥"
-  },
-  "Nacli": {
-    "ja": "コジオ",
-    "zh-hans": "盐石宝"
-  },
-  "Naclstack": {
-    "ja": "ジオヅム",
-    "zh-hans": "盐石垒"
-  },
-  "Garganacl": {
-    "ja": "キョジオーン",
-    "zh-hans": "盐石巨灵"
-  },
-  "Charcadet": {
-    "ja": "カルボウ",
-    "zh-hans": "炭小侍"
-  },
-  "Armarouge": {
-    "ja": "グレンアルマ",
-    "zh-hans": "红莲铠骑"
-  },
-  "Ceruledge": {
-    "ja": "ソウブレイズ",
-    "zh-hans": "苍炎刃鬼"
-  },
-  "Tadbulb": {
-    "ja": "ズピカ",
-    "zh-hans": "光蚪仔"
-  },
-  "Bellibolt": {
-    "ja": "ハラバリー",
-    "zh-hans": "电肚蛙"
-  },
-  "Wattrel": {
-    "ja": "カイデン",
-    "zh-hans": "电海燕"
-  },
-  "Kilowattrel": {
-    "ja": "タイカイデン",
-    "zh-hans": "大电海燕"
-  },
-  "Maschiff": {
-    "ja": "オラチフ",
-    "zh-hans": "偶叫獒"
-  },
-  "Mabosstiff": {
-    "ja": "マフィティフ",
-    "zh-hans": "獒教父"
-  },
-  "Shroodle": {
-    "ja": "シルシュルー",
-    "zh-hans": "滋汁鼹"
-  },
-  "Grafaiai": {
-    "ja": "タギングル",
-    "zh-hans": "涂标客"
-  },
-  "Bramblin": {
-    "ja": "アノクサ",
-    "zh-hans": "纳噬草"
-  },
-  "Brambleghast": {
-    "ja": "アノホラグサ",
-    "zh-hans": "怖纳噬草"
-  },
-  "Toedscool": {
-    "ja": "ノノクラゲ",
-    "zh-hans": "原野水母"
-  },
-  "Toedscruel": {
-    "ja": "リククラゲ",
-    "zh-hans": "陆地水母"
-  },
-  "Klawf": {
-    "ja": "ガケガニ",
-    "zh-hans": "毛崖蟹"
-  },
-  "Capsakid": {
-    "ja": "カプサイジ",
-    "zh-hans": "热辣娃"
-  },
-  "Scovillain": {
-    "ja": "スコヴィラン",
-    "zh-hans": "狠辣椒"
-  },
-  "Rellor": {
-    "ja": "シガロコ",
-    "zh-hans": "虫滚泥"
-  },
-  "Rabsca": {
-    "ja": "ベラカス",
-    "zh-hans": "虫甲圣"
-  },
-  "Flittle": {
-    "ja": "ヒラヒナ",
-    "zh-hans": "飘飘雏"
-  },
-  "Espathra": {
-    "ja": "クエスパトラ",
-    "zh-hans": "超能艳鸵"
-  },
-  "Tinkatink": {
-    "ja": "カヌチャン",
-    "zh-hans": "小锻匠"
-  },
-  "Tinkatuff": {
-    "ja": "ナカヌチャン",
-    "zh-hans": "巧锻匠"
-  },
-  "Tinkaton": {
-    "ja": "デカヌチャン",
-    "zh-hans": "巨锻匠"
-  },
-  "Wiglett": {
-    "ja": "ウミディグダ",
-    "zh-hans": "海地鼠"
-  },
-  "Wugtrio": {
-    "ja": "ウミトリオ",
-    "zh-hans": "三海地鼠"
-  },
-  "Bombirdier": {
-    "ja": "オトシドリ",
-    "zh-hans": "下石鸟"
-  },
-  "Finizen": {
-    "ja": "ナミイルカ",
-    "zh-hans": "波普海豚"
-  },
-  "Palafin": {
-    "ja": "イルカマン",
-    "zh-hans": "海豚侠"
-  },
-  "Varoom": {
-    "ja": "ブロロン",
-    "zh-hans": "噗隆隆"
-  },
-  "Revavroom": {
-    "ja": "ブロロローム",
-    "zh-hans": "普隆隆姆"
-  },
-  "Cyclizar": {
-    "ja": "モトトカゲ",
-    "zh-hans": "摩托蜥"
-  },
-  "Orthworm": {
-    "ja": "ミミズズ",
-    "zh-hans": "拖拖蚓"
-  },
-  "Glimmet": {
-    "ja": "キラーメ",
-    "zh-hans": "晶光芽"
-  },
-  "Glimmora": {
-    "ja": "キラフロル",
-    "zh-hans": "晶光花"
-  },
-  "Greavard": {
-    "ja": "ボチ",
-    "zh-hans": "墓仔狗"
-  },
-  "Houndstone": {
-    "ja": "ハカドッグ",
-    "zh-hans": "墓扬犬"
-  },
-  "Flamigo": {
-    "ja": "カラミンゴ",
-    "zh-hans": "缠红鹤"
-  },
-  "Cetoddle": {
-    "ja": "アルクジラ",
-    "zh-hans": "走鲸"
-  },
-  "Cetitan": {
-    "ja": "ハルクジラ",
-    "zh-hans": "浩大鲸"
-  },
-  "Veluza": {
-    "ja": "ミガルーサ",
-    "zh-hans": "轻身鳕"
-  },
-  "Dondozo": {
-    "ja": "ヘイラッシャ",
-    "zh-hans": "吃吼霸"
-  },
-  "Tatsugiri": {
-    "ja": "シャリタツ",
-    "zh-hans": "米立龙"
-  },
-  "Annihilape": {
-    "ja": "コノヨザル",
-    "zh-hans": "弃世猴"
-  },
-  "Clodsire": {
-    "ja": "ドオー",
-    "zh-hans": "土王"
-  },
-  "Farigiraf": {
-    "ja": "リキキリン",
-    "zh-hans": "奇麒麟"
-  },
-  "Dudunsparce": {
-    "ja": "ノココッチ",
-    "zh-hans": "土龙节节"
-  },
-  "Kingambit": {
-    "ja": "ドドゲザン",
-    "zh-hans": "仆斩将军"
-  },
-  "Great Tusk": {
-    "ja": "イダイナキバ",
-    "zh-hans": "雄伟牙"
-  },
-  "Great-Tusk": {
-    "ja": "イダイナキバ",
-    "zh-hans": "雄伟牙"
-  },
-  "Scream Tail": {
-    "ja": "サケブシッポ",
-    "zh-hans": "吼叫尾"
-  },
-  "Scream-Tail": {
-    "ja": "サケブシッポ",
-    "zh-hans": "吼叫尾"
-  },
-  "Brute Bonnet": {
-    "ja": "アラブルタケ",
-    "zh-hans": "猛恶菇"
-  },
-  "Brute-Bonnet": {
-    "ja": "アラブルタケ",
-    "zh-hans": "猛恶菇"
-  },
-  "Flutter Mane": {
-    "ja": "ハバタクカミ",
-    "zh-hans": "振翼发"
-  },
-  "Flutter-Mane": {
-    "ja": "ハバタクカミ",
-    "zh-hans": "振翼发"
-  },
-  "Slither Wing": {
-    "ja": "チヲハウハネ",
-    "zh-hans": "爬地翅"
-  },
-  "Slither-Wing": {
-    "ja": "チヲハウハネ",
-    "zh-hans": "爬地翅"
-  },
-  "Sandy Shocks": {
-    "ja": "スナノケガワ",
-    "zh-hans": "沙铁皮"
-  },
-  "Sandy-Shocks": {
-    "ja": "スナノケガワ",
-    "zh-hans": "沙铁皮"
-  },
-  "Iron Treads": {
-    "ja": "テツノワダチ",
-    "zh-hans": "铁辙迹"
-  },
-  "Iron-Treads": {
-    "ja": "テツノワダチ",
-    "zh-hans": "铁辙迹"
-  },
-  "Iron Bundle": {
-    "ja": "テツノツツミ",
-    "zh-hans": "铁包袱"
-  },
-  "Iron-Bundle": {
-    "ja": "テツノツツミ",
-    "zh-hans": "铁包袱"
-  },
-  "Iron Hands": {
-    "ja": "テツノカイナ",
-    "zh-hans": "铁臂膀"
-  },
-  "Iron-Hands": {
-    "ja": "テツノカイナ",
-    "zh-hans": "铁臂膀"
-  },
-  "Iron Jugulis": {
-    "ja": "テツノコウベ",
-    "zh-hans": "铁脖颈"
-  },
-  "Iron-Jugulis": {
-    "ja": "テツノコウベ",
-    "zh-hans": "铁脖颈"
-  },
-  "Iron Moth": {
-    "ja": "テツノドクガ",
-    "zh-hans": "铁毒蛾"
-  },
-  "Iron-Moth": {
-    "ja": "テツノドクガ",
-    "zh-hans": "铁毒蛾"
-  },
-  "Iron Thorns": {
-    "ja": "テツノイバラ",
-    "zh-hans": "铁荆棘"
-  },
-  "Iron-Thorns": {
-    "ja": "テツノイバラ",
-    "zh-hans": "铁荆棘"
-  },
-  "Frigibax": {
-    "ja": "セビエ",
-    "zh-hans": "凉脊龙"
-  },
-  "Arctibax": {
-    "ja": "セゴール",
-    "zh-hans": "冻脊龙"
-  },
-  "Baxcalibur": {
-    "ja": "セグレイブ",
-    "zh-hans": "戟脊龙"
-  },
-  "Gimmighoul": {
-    "ja": "コレクレー",
-    "zh-hans": "索财灵"
-  },
-  "Gholdengo": {
-    "ja": "サーフゴー",
-    "zh-hans": "赛富豪"
-  },
-  "Wo-Chien": {
-    "ja": "チオンジェン",
-    "zh-hans": "古简蜗"
-  },
-  "Chien-Pao": {
-    "ja": "パオジアン",
-    "zh-hans": "古剑豹"
-  },
-  "Ting-Lu": {
-    "ja": "ディンルー",
-    "zh-hans": "古鼎鹿"
-  },
-  "Chi-Yu": {
-    "ja": "イーユイ",
-    "zh-hans": "古玉鱼"
-  },
-  "Roaring Moon": {
-    "ja": "トドロクツキ",
-    "zh-hans": "轰鸣月"
-  },
-  "Roaring-Moon": {
-    "ja": "トドロクツキ",
-    "zh-hans": "轰鸣月"
-  },
-  "Iron Valiant": {
-    "ja": "テツノブジン",
-    "zh-hans": "铁武者"
-  },
-  "Iron-Valiant": {
-    "ja": "テツノブジン",
-    "zh-hans": "铁武者"
-  },
-  "Koraidon": {
-    "ja": "コライドン",
-    "zh-hans": "故勒顿"
-  },
-  "Miraidon": {
-    "ja": "ミライドン",
-    "zh-hans": "密勒顿"
-  },
-  "Walking Wake": {
-    "ja": "ウネルミナモ",
-    "zh-hans": "波荡水"
-  },
-  "Walking-Wake": {
-    "ja": "ウネルミナモ",
-    "zh-hans": "波荡水"
-  },
-  "Iron Leaves": {
-    "ja": "テツノイサハ",
-    "zh-hans": "铁斑叶"
-  },
-  "Iron-Leaves": {
-    "ja": "テツノイサハ",
-    "zh-hans": "铁斑叶"
-  },
-  "Dipplin": {
-    "ja": "カミッチュ",
-    "zh-hans": "裹蜜虫"
-  },
-  "Poltchageist": {
-    "ja": "チャデス",
-    "zh-hans": "斯魔茶"
-  },
-  "Sinistcha": {
-    "ja": "ヤバソチャ",
-    "zh-hans": "来悲粗茶"
-  },
-  "Okidogi": {
-    "ja": "イイネイヌ",
-    "zh-hans": "够赞狗"
-  },
-  "Munkidori": {
-    "ja": "マシマシラ",
-    "zh-hans": "愿增猿"
-  },
-  "Fezandipiti": {
-    "ja": "キチキギス",
-    "zh-hans": "吉雉鸡"
-  },
-  "Ogerpon": {
-    "ja": "オーガポン",
-    "zh-hans": "厄诡椪"
-  },
-  "Archaludon": {
-    "ja": "ブリジュラス",
-    "zh-hans": "铝钢桥龙"
-  },
-  "Hydrapple": {
-    "ja": "カミツオロチ",
-    "zh-hans": "蜜集大蛇"
-  },
-  "Gouging Fire": {
-    "ja": "ウガツホムラ",
-    "zh-hans": "破空焰"
-  },
-  "Gouging-Fire": {
-    "ja": "ウガツホムラ",
-    "zh-hans": "破空焰"
-  },
-  "Raging Bolt": {
-    "ja": "タケルライコ",
-    "zh-hans": "猛雷鼓"
-  },
-  "Raging-Bolt": {
-    "ja": "タケルライコ",
-    "zh-hans": "猛雷鼓"
-  },
-  "Iron Boulder": {
-    "ja": "テツノイワオ",
-    "zh-hans": "铁磐岩"
-  },
-  "Iron-Boulder": {
-    "ja": "テツノイワオ",
-    "zh-hans": "铁磐岩"
-  },
-  "Iron Crown": {
-    "ja": "テツノカシラ",
-    "zh-hans": "铁头壳"
-  },
-  "Iron-Crown": {
-    "ja": "テツノカシラ",
-    "zh-hans": "铁头壳"
-  },
-  "Terapagos": {
-    "ja": "テラパゴス",
-    "zh-hans": "太乐巴戈斯"
-  },
-  "Pecharunt": {
-    "ja": "モモワロウ",
-    "zh-hans": "桃歹郎"
-  }
+  "Bulbasaur": "妙蛙种子",
+  "Ivysaur": "妙蛙草",
+  "Venusaur": "妙蛙花",
+  "Charmander": "小火龙",
+  "Charmeleon": "火恐龙",
+  "Charizard": "喷火龙",
+  "Squirtle": "杰尼龟",
+  "Wartortle": "卡咪龟",
+  "Blastoise": "水箭龟",
+  "Caterpie": "绿毛虫",
+  "Metapod": "铁甲蛹",
+  "Butterfree": "巴大蝶",
+  "Weedle": "独角虫",
+  "Kakuna": "铁壳蛹",
+  "Beedrill": "大针蜂",
+  "Pidgey": "波波",
+  "Pidgeotto": "比比鸟",
+  "Pidgeot": "大比鸟",
+  "Rattata": "小拉达",
+  "Raticate": "拉达",
+  "Spearow": "烈雀",
+  "Fearow": "大嘴雀",
+  "Ekans": "阿柏蛇",
+  "Arbok": "阿柏怪",
+  "Pikachu": "皮卡丘",
+  "Raichu": "雷丘",
+  "Sandshrew": "穿山鼠",
+  "Sandslash": "穿山王",
+  "Nidoran♀": "尼多兰",
+  "Nidorina": "尼多娜",
+  "Nidoqueen": "尼多后",
+  "Nidoran♂": "尼多朗",
+  "Nidorino": "尼多力诺",
+  "Nidoking": "尼多王",
+  "Clefairy": "皮皮",
+  "Clefable": "皮可西",
+  "Vulpix": "六尾",
+  "Ninetales": "九尾",
+  "Jigglypuff": "胖丁",
+  "Wigglytuff": "胖可丁",
+  "Zubat": "超音蝠",
+  "Golbat": "大嘴蝠",
+  "Oddish": "走路草",
+  "Gloom": "臭臭花",
+  "Vileplume": "霸王花",
+  "Paras": "派拉斯",
+  "Parasect": "派拉斯特",
+  "Venonat": "毛球",
+  "Venomoth": "摩鲁蛾",
+  "Diglett": "地鼠",
+  "Dugtrio": "三地鼠",
+  "Meowth": "喵喵",
+  "Persian": "猫老大",
+  "Psyduck": "可达鸭",
+  "Golduck": "哥达鸭",
+  "Mankey": "猴怪",
+  "Primeape": "火暴猴",
+  "Growlithe": "卡蒂狗",
+  "Arcanine": "风速狗",
+  "Poliwag": "蚊香蝌蚪",
+  "Poliwhirl": "蚊香君",
+  "Poliwrath": "蚊香泳士",
+  "Abra": "凯西",
+  "Kadabra": "勇基拉",
+  "Alakazam": "胡地",
+  "Machop": "腕力",
+  "Machoke": "豪力",
+  "Machamp": "怪力",
+  "Bellsprout": "喇叭芽",
+  "Weepinbell": "口呆花",
+  "Victreebel": "大食花",
+  "Tentacool": "玛瑙水母",
+  "Tentacruel": "毒刺水母",
+  "Geodude": "小拳石",
+  "Graveler": "隆隆石",
+  "Golem": "隆隆岩",
+  "Ponyta": "小火马",
+  "Rapidash": "烈焰马",
+  "Slowpoke": "呆呆兽",
+  "Slowbro": "呆壳兽",
+  "Magnemite": "小磁怪",
+  "Magneton": "三合一磁怪",
+  "Farfetch'd": "大葱鸭",
+  "Doduo": "嘟嘟",
+  "Dodrio": "嘟嘟利",
+  "Seel": "小海狮",
+  "Dewgong": "白海狮",
+  "Grimer": "臭泥",
+  "Muk": "臭臭泥",
+  "Shellder": "大舌贝",
+  "Cloyster": "刺甲贝",
+  "Gastly": "鬼斯",
+  "Haunter": "鬼斯通",
+  "Gengar": "耿鬼",
+  "Onix": "大岩蛇",
+  "Drowzee": "催眠貘",
+  "Hypno": "引梦貘人",
+  "Krabby": "大钳蟹",
+  "Kingler": "巨钳蟹",
+  "Voltorb": "霹雳电球",
+  "Electrode": "顽皮雷弹",
+  "Exeggcute": "蛋蛋",
+  "Exeggutor": "椰蛋树",
+  "Cubone": "卡拉卡拉",
+  "Marowak": "嘎啦嘎啦",
+  "Hitmonlee": "飞腿郎",
+  "Hitmonchan": "快拳郎",
+  "Lickitung": "大舌头",
+  "Koffing": "瓦斯弹",
+  "Weezing": "双弹瓦斯",
+  "Rhyhorn": "独角犀牛",
+  "Rhydon": "钻角犀兽",
+  "Chansey": "吉利蛋",
+  "Tangela": "蔓藤怪",
+  "Kangaskhan": "袋兽",
+  "Horsea": "墨海马",
+  "Seadra": "海刺龙",
+  "Goldeen": "角金鱼",
+  "Seaking": "金鱼王",
+  "Staryu": "海星星",
+  "Starmie": "宝石海星",
+  "Mr. Mime": "魔墙人偶",
+  "Mr.-Mime": "魔墙人偶",
+  "Scyther": "飞天螳螂",
+  "Jynx": "迷唇姐",
+  "Electabuzz": "电击兽",
+  "Magmar": "鸭嘴火兽",
+  "Pinsir": "凯罗斯",
+  "Tauros": "肯泰罗",
+  "Magikarp": "鲤鱼王",
+  "Gyarados": "暴鲤龙",
+  "Lapras": "拉普拉斯",
+  "Ditto": "百变怪",
+  "Eevee": "伊布",
+  "Vaporeon": "水伊布",
+  "Jolteon": "雷伊布",
+  "Flareon": "火伊布",
+  "Porygon": "多边兽",
+  "Omanyte": "菊石兽",
+  "Omastar": "多刺菊石兽",
+  "Kabuto": "化石盔",
+  "Kabutops": "镰刀盔",
+  "Aerodactyl": "化石翼龙",
+  "Snorlax": "卡比兽",
+  "Articuno": "急冻鸟",
+  "Zapdos": "闪电鸟",
+  "Moltres": "火焰鸟",
+  "Dratini": "迷你龙",
+  "Dragonair": "哈克龙",
+  "Dragonite": "快龙",
+  "Mewtwo": "超梦",
+  "Mew": "梦幻",
+  "Chikorita": "菊草叶",
+  "Bayleef": "月桂叶",
+  "Meganium": "大竺葵",
+  "Cyndaquil": "火球鼠",
+  "Quilava": "火岩鼠",
+  "Typhlosion": "火暴兽",
+  "Totodile": "小锯鳄",
+  "Croconaw": "蓝鳄",
+  "Feraligatr": "大力鳄",
+  "Sentret": "尾立",
+  "Furret": "大尾立",
+  "Hoothoot": "咕咕",
+  "Noctowl": "猫头夜鹰",
+  "Ledyba": "芭瓢虫",
+  "Ledian": "安瓢虫",
+  "Spinarak": "圆丝蛛",
+  "Ariados": "阿利多斯",
+  "Crobat": "叉字蝠",
+  "Chinchou": "灯笼鱼",
+  "Lanturn": "电灯怪",
+  "Pichu": "皮丘",
+  "Cleffa": "皮宝宝",
+  "Igglybuff": "宝宝丁",
+  "Togepi": "波克比",
+  "Togetic": "波克基古",
+  "Natu": "天然雀",
+  "Xatu": "天然鸟",
+  "Mareep": "咩利羊",
+  "Flaaffy": "茸茸羊",
+  "Ampharos": "电龙",
+  "Bellossom": "美丽花",
+  "Marill": "玛力露",
+  "Azumarill": "玛力露丽",
+  "Sudowoodo": "树才怪",
+  "Politoed": "蚊香蛙皇",
+  "Hoppip": "毽子草",
+  "Skiploom": "毽子花",
+  "Jumpluff": "毽子棉",
+  "Aipom": "长尾怪手",
+  "Sunkern": "向日种子",
+  "Sunflora": "向日花怪",
+  "Yanma": "蜻蜻蜓",
+  "Wooper": "乌波",
+  "Quagsire": "沼王",
+  "Espeon": "太阳伊布",
+  "Umbreon": "月亮伊布",
+  "Murkrow": "黑暗鸦",
+  "Slowking": "呆呆王",
+  "Misdreavus": "梦妖",
+  "Unown": "未知图腾",
+  "Wobbuffet": "果然翁",
+  "Girafarig": "麒麟奇",
+  "Pineco": "榛果球",
+  "Forretress": "佛烈托斯",
+  "Dunsparce": "土龙弟弟",
+  "Gligar": "天蝎",
+  "Steelix": "大钢蛇",
+  "Snubbull": "布鲁",
+  "Granbull": "布鲁皇",
+  "Qwilfish": "千针鱼",
+  "Scizor": "巨钳螳螂",
+  "Shuckle": "壶壶",
+  "Heracross": "赫拉克罗斯",
+  "Sneasel": "狃拉",
+  "Teddiursa": "熊宝宝",
+  "Ursaring": "圈圈熊",
+  "Slugma": "熔岩虫",
+  "Magcargo": "熔岩蜗牛",
+  "Swinub": "小山猪",
+  "Piloswine": "长毛猪",
+  "Corsola": "太阳珊瑚",
+  "Remoraid": "铁炮鱼",
+  "Octillery": "章鱼桶",
+  "Delibird": "信使鸟",
+  "Mantine": "巨翅飞鱼",
+  "Skarmory": "盔甲鸟",
+  "Houndour": "戴鲁比",
+  "Houndoom": "黑鲁加",
+  "Kingdra": "刺龙王",
+  "Phanpy": "小小象",
+  "Donphan": "顿甲",
+  "Porygon2": "多边兽Ⅱ",
+  "Stantler": "惊角鹿",
+  "Smeargle": "图图犬",
+  "Tyrogue": "无畏小子",
+  "Hitmontop": "战舞郎",
+  "Smoochum": "迷唇娃",
+  "Elekid": "电击怪",
+  "Magby": "鸭嘴宝宝",
+  "Miltank": "大奶罐",
+  "Blissey": "幸福蛋",
+  "Raikou": "雷公",
+  "Entei": "炎帝",
+  "Suicune": "水君",
+  "Larvitar": "幼基拉斯",
+  "Pupitar": "沙基拉斯",
+  "Tyranitar": "班基拉斯",
+  "Lugia": "洛奇亚",
+  "Ho-Oh": "凤王",
+  "Celebi": "时拉比",
+  "Treecko": "木守宫",
+  "Grovyle": "森林蜥蜴",
+  "Sceptile": "蜥蜴王",
+  "Torchic": "火稚鸡",
+  "Combusken": "力壮鸡",
+  "Blaziken": "火焰鸡",
+  "Mudkip": "水跃鱼",
+  "Marshtomp": "沼跃鱼",
+  "Swampert": "巨沼怪",
+  "Poochyena": "土狼犬",
+  "Mightyena": "大狼犬",
+  "Zigzagoon": "蛇纹熊",
+  "Linoone": "直冲熊",
+  "Wurmple": "刺尾虫",
+  "Silcoon": "甲壳茧",
+  "Beautifly": "狩猎凤蝶",
+  "Cascoon": "盾甲茧",
+  "Dustox": "毒粉蛾",
+  "Lotad": "莲叶童子",
+  "Lombre": "莲帽小童",
+  "Ludicolo": "乐天河童",
+  "Seedot": "橡实果",
+  "Nuzleaf": "长鼻叶",
+  "Shiftry": "狡猾天狗",
+  "Taillow": "傲骨燕",
+  "Swellow": "大王燕",
+  "Wingull": "长翅鸥",
+  "Pelipper": "大嘴鸥",
+  "Ralts": "拉鲁拉丝",
+  "Kirlia": "奇鲁莉安",
+  "Gardevoir": "沙奈朵",
+  "Surskit": "溜溜糖球",
+  "Masquerain": "雨翅蛾",
+  "Shroomish": "蘑蘑菇",
+  "Breloom": "斗笠菇",
+  "Slakoth": "懒人獭",
+  "Vigoroth": "过动猿",
+  "Slaking": "请假王",
+  "Nincada": "土居忍士",
+  "Ninjask": "铁面忍者",
+  "Shedinja": "脱壳忍者",
+  "Whismur": "咕妞妞",
+  "Loudred": "吼爆弹",
+  "Exploud": "爆音怪",
+  "Makuhita": "幕下力士",
+  "Hariyama": "铁掌力士",
+  "Azurill": "露力丽",
+  "Nosepass": "朝北鼻",
+  "Skitty": "向尾喵",
+  "Delcatty": "优雅猫",
+  "Sableye": "勾魂眼",
+  "Mawile": "大嘴娃",
+  "Aron": "可可多拉",
+  "Lairon": "可多拉",
+  "Aggron": "波士可多拉",
+  "Meditite": "玛沙那",
+  "Medicham": "恰雷姆",
+  "Electrike": "落雷兽",
+  "Manectric": "雷电兽",
+  "Plusle": "正电拍拍",
+  "Minun": "负电拍拍",
+  "Volbeat": "电萤虫",
+  "Illumise": "甜甜萤",
+  "Roselia": "毒蔷薇",
+  "Gulpin": "溶食兽",
+  "Swalot": "吞食兽",
+  "Carvanha": "利牙鱼",
+  "Sharpedo": "巨牙鲨",
+  "Wailmer": "吼吼鲸",
+  "Wailord": "吼鲸王",
+  "Numel": "呆火驼",
+  "Camerupt": "喷火驼",
+  "Torkoal": "煤炭龟",
+  "Spoink": "跳跳猪",
+  "Grumpig": "噗噗猪",
+  "Spinda": "晃晃斑",
+  "Trapinch": "大颚蚁",
+  "Vibrava": "超音波幼虫",
+  "Flygon": "沙漠蜻蜓",
+  "Cacnea": "刺球仙人掌",
+  "Cacturne": "梦歌仙人掌",
+  "Swablu": "青绵鸟",
+  "Altaria": "七夕青鸟",
+  "Zangoose": "猫鼬斩",
+  "Seviper": "饭匙蛇",
+  "Lunatone": "月石",
+  "Solrock": "太阳岩",
+  "Barboach": "泥泥鳅",
+  "Whiscash": "鲶鱼王",
+  "Corphish": "龙虾小兵",
+  "Crawdaunt": "铁螯龙虾",
+  "Baltoy": "天秤偶",
+  "Claydol": "念力土偶",
+  "Lileep": "触手百合",
+  "Cradily": "摇篮百合",
+  "Anorith": "太古羽虫",
+  "Armaldo": "太古盔甲",
+  "Feebas": "丑丑鱼",
+  "Milotic": "美纳斯",
+  "Castform": "飘浮泡泡",
+  "Kecleon": "变隐龙",
+  "Shuppet": "怨影娃娃",
+  "Banette": "诅咒娃娃",
+  "Duskull": "夜巡灵",
+  "Dusclops": "彷徨夜灵",
+  "Tropius": "热带龙",
+  "Chimecho": "风铃铃",
+  "Absol": "阿勃梭鲁",
+  "Wynaut": "小果然",
+  "Snorunt": "雪童子",
+  "Glalie": "冰鬼护",
+  "Spheal": "海豹球",
+  "Sealeo": "海魔狮",
+  "Walrein": "帝牙海狮",
+  "Clamperl": "珍珠贝",
+  "Huntail": "猎斑鱼",
+  "Gorebyss": "樱花鱼",
+  "Relicanth": "古空棘鱼",
+  "Luvdisc": "爱心鱼",
+  "Bagon": "宝贝龙",
+  "Shelgon": "甲壳龙",
+  "Salamence": "暴飞龙",
+  "Beldum": "铁哑铃",
+  "Metang": "金属怪",
+  "Metagross": "巨金怪",
+  "Regirock": "雷吉洛克",
+  "Regice": "雷吉艾斯",
+  "Registeel": "雷吉斯奇鲁",
+  "Latias": "拉帝亚斯",
+  "Latios": "拉帝欧斯",
+  "Kyogre": "盖欧卡",
+  "Groudon": "固拉多",
+  "Rayquaza": "烈空坐",
+  "Jirachi": "基拉祈",
+  "Deoxys": "代欧奇希斯",
+  "Turtwig": "草苗龟",
+  "Grotle": "树林龟",
+  "Torterra": "土台龟",
+  "Chimchar": "小火焰猴",
+  "Monferno": "猛火猴",
+  "Infernape": "烈焰猴",
+  "Piplup": "波加曼",
+  "Prinplup": "波皇子",
+  "Empoleon": "帝王拿波",
+  "Starly": "姆克儿",
+  "Staravia": "姆克鸟",
+  "Staraptor": "姆克鹰",
+  "Bidoof": "大牙狸",
+  "Bibarel": "大尾狸",
+  "Kricketot": "圆法师",
+  "Kricketune": "音箱蟀",
+  "Shinx": "小猫怪",
+  "Luxio": "勒克猫",
+  "Luxray": "伦琴猫",
+  "Budew": "含羞苞",
+  "Roserade": "罗丝雷朵",
+  "Cranidos": "头盖龙",
+  "Rampardos": "战槌龙",
+  "Shieldon": "盾甲龙",
+  "Bastiodon": "护城龙",
+  "Burmy": "结草儿",
+  "Wormadam": "结草贵妇",
+  "Mothim": "绅士蛾",
+  "Combee": "三蜜蜂",
+  "Vespiquen": "蜂女王",
+  "Pachirisu": "帕奇利兹",
+  "Buizel": "泳圈鼬",
+  "Floatzel": "浮潜鼬",
+  "Cherubi": "樱花宝",
+  "Cherrim": "樱花儿",
+  "Shellos": "无壳海兔",
+  "Gastrodon": "海兔兽",
+  "Ambipom": "双尾怪手",
+  "Drifloon": "飘飘球",
+  "Drifblim": "随风球",
+  "Buneary": "卷卷耳",
+  "Lopunny": "长耳兔",
+  "Mismagius": "梦妖魔",
+  "Honchkrow": "乌鸦头头",
+  "Glameow": "魅力喵",
+  "Purugly": "东施喵",
+  "Chingling": "铃铛响",
+  "Stunky": "臭鼬噗",
+  "Skuntank": "坦克臭鼬",
+  "Bronzor": "铜镜怪",
+  "Bronzong": "青铜钟",
+  "Bonsly": "盆才怪",
+  "Mime Jr.": "魔尼尼",
+  "Mime-Jr.": "魔尼尼",
+  "Happiny": "小福蛋",
+  "Chatot": "聒噪鸟",
+  "Spiritomb": "花岩怪",
+  "Gible": "圆陆鲨",
+  "Gabite": "尖牙陆鲨",
+  "Garchomp": "烈咬陆鲨",
+  "Munchlax": "小卡比兽",
+  "Riolu": "利欧路",
+  "Lucario": "路卡利欧",
+  "Hippopotas": "沙河马",
+  "Hippowdon": "河马兽",
+  "Skorupi": "钳尾蝎",
+  "Drapion": "龙王蝎",
+  "Croagunk": "不良蛙",
+  "Toxicroak": "毒骷蛙",
+  "Carnivine": "尖牙笼",
+  "Finneon": "荧光鱼",
+  "Lumineon": "霓虹鱼",
+  "Mantyke": "小球飞鱼",
+  "Snover": "雪笠怪",
+  "Abomasnow": "暴雪王",
+  "Weavile": "玛狃拉",
+  "Magnezone": "自爆磁怪",
+  "Lickilicky": "大舌舔",
+  "Rhyperior": "超甲狂犀",
+  "Tangrowth": "巨蔓藤",
+  "Electivire": "电击魔兽",
+  "Magmortar": "鸭嘴炎兽",
+  "Togekiss": "波克基斯",
+  "Yanmega": "远古巨蜓",
+  "Leafeon": "叶伊布",
+  "Glaceon": "冰伊布",
+  "Gliscor": "天蝎王",
+  "Mamoswine": "象牙猪",
+  "Porygon-Z": "多边兽Ｚ",
+  "Gallade": "艾路雷朵",
+  "Probopass": "大朝北鼻",
+  "Dusknoir": "黑夜魔灵",
+  "Froslass": "雪妖女",
+  "Rotom": "洛托姆",
+  "Uxie": "由克希",
+  "Mesprit": "艾姆利多",
+  "Azelf": "亚克诺姆",
+  "Dialga": "帝牙卢卡",
+  "Palkia": "帕路奇亚",
+  "Heatran": "席多蓝恩",
+  "Regigigas": "雷吉奇卡斯",
+  "Giratina": "骑拉帝纳",
+  "Cresselia": "克雷色利亚",
+  "Phione": "霏欧纳",
+  "Manaphy": "玛纳霏",
+  "Darkrai": "达克莱伊",
+  "Shaymin": "谢米",
+  "Arceus": "阿尔宙斯",
+  "Victini": "比克提尼",
+  "Snivy": "藤藤蛇",
+  "Servine": "青藤蛇",
+  "Serperior": "君主蛇",
+  "Tepig": "暖暖猪",
+  "Pignite": "炒炒猪",
+  "Emboar": "炎武王",
+  "Oshawott": "水水獭",
+  "Dewott": "双刃丸",
+  "Samurott": "大剑鬼",
+  "Patrat": "探探鼠",
+  "Watchog": "步哨鼠",
+  "Lillipup": "小约克",
+  "Herdier": "哈约克",
+  "Stoutland": "长毛狗",
+  "Purrloin": "扒手猫",
+  "Liepard": "酷豹",
+  "Pansage": "花椰猴",
+  "Simisage": "花椰猿",
+  "Pansear": "爆香猴",
+  "Simisear": "爆香猿",
+  "Panpour": "冷水猴",
+  "Simipour": "冷水猿",
+  "Munna": "食梦梦",
+  "Musharna": "梦梦蚀",
+  "Pidove": "豆豆鸽",
+  "Tranquill": "咕咕鸽",
+  "Unfezant": "高傲雉鸡",
+  "Blitzle": "斑斑马",
+  "Zebstrika": "雷电斑马",
+  "Roggenrola": "石丸子",
+  "Boldore": "地幔岩",
+  "Gigalith": "庞岩怪",
+  "Woobat": "滚滚蝙蝠",
+  "Swoobat": "心蝙蝠",
+  "Drilbur": "螺钉地鼠",
+  "Excadrill": "龙头地鼠",
+  "Audino": "差不多娃娃",
+  "Timburr": "搬运小匠",
+  "Gurdurr": "铁骨土人",
+  "Conkeldurr": "修建老匠",
+  "Tympole": "圆蝌蚪",
+  "Palpitoad": "蓝蟾蜍",
+  "Seismitoad": "蟾蜍王",
+  "Throh": "投摔鬼",
+  "Sawk": "打击鬼",
+  "Sewaddle": "虫宝包",
+  "Swadloon": "宝包茧",
+  "Leavanny": "保姆虫",
+  "Venipede": "百足蜈蚣",
+  "Whirlipede": "车轮球",
+  "Scolipede": "蜈蚣王",
+  "Cottonee": "木棉球",
+  "Whimsicott": "风妖精",
+  "Petilil": "百合根娃娃",
+  "Lilligant": "裙儿小姐",
+  "Basculin": "野蛮鲈鱼",
+  "Sandile": "黑眼鳄",
+  "Krokorok": "混混鳄",
+  "Krookodile": "流氓鳄",
+  "Darumaka": "火红不倒翁",
+  "Darmanitan": "达摩狒狒",
+  "Maractus": "沙铃仙人掌",
+  "Dwebble": "石居蟹",
+  "Crustle": "岩殿居蟹",
+  "Scraggy": "滑滑小子",
+  "Scrafty": "头巾混混",
+  "Sigilyph": "象征鸟",
+  "Yamask": "哭哭面具",
+  "Cofagrigus": "死神棺",
+  "Tirtouga": "原盖海龟",
+  "Carracosta": "肋骨海龟",
+  "Archen": "始祖小鸟",
+  "Archeops": "始祖大鸟",
+  "Trubbish": "破破袋",
+  "Garbodor": "灰尘山",
+  "Zorua": "索罗亚",
+  "Zoroark": "索罗亚克",
+  "Minccino": "泡沫栗鼠",
+  "Cinccino": "奇诺栗鼠",
+  "Gothita": "哥德宝宝",
+  "Gothorita": "哥德小童",
+  "Gothitelle": "哥德小姐",
+  "Solosis": "单卵细胞球",
+  "Duosion": "双卵细胞球",
+  "Reuniclus": "人造细胞卵",
+  "Ducklett": "鸭宝宝",
+  "Swanna": "舞天鹅",
+  "Vanillite": "迷你冰",
+  "Vanillish": "多多冰",
+  "Vanilluxe": "双倍多多冰",
+  "Deerling": "四季鹿",
+  "Sawsbuck": "萌芽鹿",
+  "Emolga": "电飞鼠",
+  "Karrablast": "盖盖虫",
+  "Escavalier": "骑士蜗牛",
+  "Foongus": "哎呀球菇",
+  "Amoonguss": "败露球菇",
+  "Frillish": "轻飘飘",
+  "Jellicent": "胖嘟嘟",
+  "Alomomola": "保姆曼波",
+  "Joltik": "电电虫",
+  "Galvantula": "电蜘蛛",
+  "Ferroseed": "种子铁球",
+  "Ferrothorn": "坚果哑铃",
+  "Klink": "齿轮儿",
+  "Klang": "齿轮组",
+  "Klinklang": "齿轮怪",
+  "Tynamo": "麻麻小鱼",
+  "Eelektrik": "麻麻鳗",
+  "Eelektross": "麻麻鳗鱼王",
+  "Elgyem": "小灰怪",
+  "Beheeyem": "大宇怪",
+  "Litwick": "烛光灵",
+  "Lampent": "灯火幽灵",
+  "Chandelure": "水晶灯火灵",
+  "Axew": "牙牙",
+  "Fraxure": "斧牙龙",
+  "Haxorus": "双斧战龙",
+  "Cubchoo": "喷嚏熊",
+  "Beartic": "冻原熊",
+  "Cryogonal": "几何雪花",
+  "Shelmet": "小嘴蜗",
+  "Accelgor": "敏捷虫",
+  "Stunfisk": "泥巴鱼",
+  "Mienfoo": "功夫鼬",
+  "Mienshao": "师父鼬",
+  "Druddigon": "赤面龙",
+  "Golett": "泥偶小人",
+  "Golurk": "泥偶巨人",
+  "Pawniard": "驹刀小兵",
+  "Bisharp": "劈斩司令",
+  "Bouffalant": "爆炸头水牛",
+  "Rufflet": "毛头小鹰",
+  "Braviary": "勇士雄鹰",
+  "Vullaby": "秃鹰丫头",
+  "Mandibuzz": "秃鹰娜",
+  "Heatmor": "熔蚁兽",
+  "Durant": "铁蚁",
+  "Deino": "单首龙",
+  "Zweilous": "双首暴龙",
+  "Hydreigon": "三首恶龙",
+  "Larvesta": "燃烧虫",
+  "Volcarona": "火神蛾",
+  "Cobalion": "勾帕路翁",
+  "Terrakion": "代拉基翁",
+  "Virizion": "毕力吉翁",
+  "Tornadus": "龙卷云",
+  "Thundurus": "雷电云",
+  "Reshiram": "莱希拉姆",
+  "Zekrom": "捷克罗姆",
+  "Landorus": "土地云",
+  "Kyurem": "酋雷姆",
+  "Keldeo": "凯路迪欧",
+  "Meloetta": "美洛耶塔",
+  "Genesect": "盖诺赛克特",
+  "Chespin": "哈力栗",
+  "Quilladin": "胖胖哈力",
+  "Chesnaught": "布里卡隆",
+  "Fennekin": "火狐狸",
+  "Braixen": "长尾火狐",
+  "Delphox": "妖火红狐",
+  "Froakie": "呱呱泡蛙",
+  "Frogadier": "呱头蛙",
+  "Greninja": "甲贺忍蛙",
+  "Bunnelby": "掘掘兔",
+  "Diggersby": "掘地兔",
+  "Fletchling": "小箭雀",
+  "Fletchinder": "火箭雀",
+  "Talonflame": "烈箭鹰",
+  "Scatterbug": "粉蝶虫",
+  "Spewpa": "粉蝶蛹",
+  "Vivillon": "彩粉蝶",
+  "Litleo": "小狮狮",
+  "Pyroar": "火炎狮",
+  "Flabébé": "花蓓蓓",
+  "Floette": "花叶蒂",
+  "Florges": "花洁夫人",
+  "Skiddo": "坐骑小羊",
+  "Gogoat": "坐骑山羊",
+  "Pancham": "顽皮熊猫",
+  "Pangoro": "流氓熊猫",
+  "Furfrou": "多丽米亚",
+  "Espurr": "妙喵",
+  "Meowstic": "超能妙喵",
+  "Honedge": "独剑鞘",
+  "Doublade": "双剑鞘",
+  "Aegislash": "坚盾剑怪",
+  "Spritzee": "粉香香",
+  "Aromatisse": "芳香精",
+  "Swirlix": "绵绵泡芙",
+  "Slurpuff": "胖甜妮",
+  "Inkay": "好啦鱿",
+  "Malamar": "乌贼王",
+  "Binacle": "龟脚脚",
+  "Barbaracle": "龟足巨铠",
+  "Skrelp": "垃垃藻",
+  "Dragalge": "毒藻龙",
+  "Clauncher": "铁臂枪虾",
+  "Clawitzer": "钢炮臂虾",
+  "Helioptile": "伞电蜥",
+  "Heliolisk": "光电伞蜥",
+  "Tyrunt": "宝宝暴龙",
+  "Tyrantrum": "怪颚龙",
+  "Amaura": "冰雪龙",
+  "Aurorus": "冰雪巨龙",
+  "Sylveon": "仙子伊布",
+  "Hawlucha": "摔角鹰人",
+  "Dedenne": "咚咚鼠",
+  "Carbink": "小碎钻",
+  "Goomy": "黏黏宝",
+  "Sliggoo": "黏美儿",
+  "Goodra": "黏美龙",
+  "Klefki": "钥圈儿",
+  "Phantump": "小木灵",
+  "Trevenant": "朽木妖",
+  "Pumpkaboo": "南瓜精",
+  "Gourgeist": "南瓜怪人",
+  "Bergmite": "冰宝",
+  "Avalugg": "冰岩怪",
+  "Noibat": "嗡蝠",
+  "Noivern": "音波龙",
+  "Xerneas": "哲尔尼亚斯",
+  "Yveltal": "伊裴尔塔尔",
+  "Zygarde": "基格尔德",
+  "Diancie": "蒂安希",
+  "Hoopa": "胡帕",
+  "Volcanion": "波尔凯尼恩",
+  "Rowlet": "木木枭",
+  "Dartrix": "投羽枭",
+  "Decidueye": "狙射树枭",
+  "Litten": "火斑喵",
+  "Torracat": "炎热喵",
+  "Incineroar": "炽焰咆哮虎",
+  "Popplio": "球球海狮",
+  "Brionne": "花漾海狮",
+  "Primarina": "西狮海壬",
+  "Pikipek": "小笃儿",
+  "Trumbeak": "喇叭啄鸟",
+  "Toucannon": "铳嘴大鸟",
+  "Yungoos": "猫鼬少",
+  "Gumshoos": "猫鼬探长",
+  "Grubbin": "强颚鸡母虫",
+  "Charjabug": "虫电宝",
+  "Vikavolt": "锹农炮虫",
+  "Crabrawler": "好胜蟹",
+  "Crabominable": "好胜毛蟹",
+  "Oricorio": "花舞鸟",
+  "Cutiefly": "萌虻",
+  "Ribombee": "蝶结萌虻",
+  "Rockruff": "岩狗狗",
+  "Lycanroc": "鬃岩狼人",
+  "Wishiwashi": "弱丁鱼",
+  "Mareanie": "好坏星",
+  "Toxapex": "超坏星",
+  "Mudbray": "泥驴仔",
+  "Mudsdale": "重泥挽马",
+  "Dewpider": "滴蛛",
+  "Araquanid": "滴蛛霸",
+  "Fomantis": "伪螳草",
+  "Lurantis": "兰螳花",
+  "Morelull": "睡睡菇",
+  "Shiinotic": "灯罩夜菇",
+  "Salandit": "夜盗火蜥",
+  "Salazzle": "焰后蜥",
+  "Stufful": "童偶熊",
+  "Bewear": "穿着熊",
+  "Bounsweet": "甜竹竹",
+  "Steenee": "甜舞妮",
+  "Tsareena": "甜冷美后",
+  "Comfey": "花疗环环",
+  "Oranguru": "智挥猩",
+  "Passimian": "投掷猴",
+  "Wimpod": "胆小虫",
+  "Golisopod": "具甲武者",
+  "Sandygast": "沙丘娃",
+  "Palossand": "噬沙堡爷",
+  "Pyukumuku": "拳海参",
+  "Type: Null": "属性：空",
+  "Type:-Null": "属性：空",
+  "Silvally": "银伴战兽",
+  "Minior": "小陨星",
+  "Komala": "树枕尾熊",
+  "Turtonator": "爆焰龟兽",
+  "Togedemaru": "托戈德玛尔",
+  "Mimikyu": "谜拟Ｑ",
+  "Bruxish": "磨牙彩皮鱼",
+  "Drampa": "老翁龙",
+  "Dhelmise": "破破舵轮",
+  "Jangmo-o": "心鳞宝",
+  "Hakamo-o": "鳞甲龙",
+  "Kommo-o": "杖尾鳞甲龙",
+  "Tapu Koko": "卡璞・鸣鸣",
+  "Tapu-Koko": "卡璞・鸣鸣",
+  "Tapu Lele": "卡璞・蝶蝶",
+  "Tapu-Lele": "卡璞・蝶蝶",
+  "Tapu Bulu": "卡璞・哞哞",
+  "Tapu-Bulu": "卡璞・哞哞",
+  "Tapu Fini": "卡璞・鳍鳍",
+  "Tapu-Fini": "卡璞・鳍鳍",
+  "Cosmog": "科斯莫古",
+  "Cosmoem": "科斯莫姆",
+  "Solgaleo": "索尔迦雷欧",
+  "Lunala": "露奈雅拉",
+  "Nihilego": "虚吾伊德",
+  "Buzzwole": "爆肌蚊",
+  "Pheromosa": "费洛美螂",
+  "Xurkitree": "电束木",
+  "Celesteela": "铁火辉夜",
+  "Kartana": "纸御剑",
+  "Guzzlord": "恶食大王",
+  "Necrozma": "奈克洛兹玛",
+  "Magearna": "玛机雅娜",
+  "Marshadow": "玛夏多",
+  "Poipole": "毒贝比",
+  "Naganadel": "四颚针龙",
+  "Stakataka": "垒磊石",
+  "Blacephalon": "砰头小丑",
+  "Zeraora": "捷拉奥拉",
+  "Meltan": "美录坦",
+  "Melmetal": "美录梅塔",
+  "Grookey": "敲音猴",
+  "Thwackey": "啪咚猴",
+  "Rillaboom": "轰擂金刚猩",
+  "Scorbunny": "炎兔儿",
+  "Raboot": "腾蹴小将",
+  "Cinderace": "闪焰王牌",
+  "Sobble": "泪眼蜥",
+  "Drizzile": "变涩蜥",
+  "Inteleon": "千面避役",
+  "Skwovet": "贪心栗鼠",
+  "Greedent": "藏饱栗鼠",
+  "Rookidee": "稚山雀",
+  "Corvisquire": "蓝鸦",
+  "Corviknight": "钢铠鸦",
+  "Blipbug": "索侦虫",
+  "Dottler": "天罩虫",
+  "Orbeetle": "以欧路普",
+  "Nickit": "偷儿狐",
+  "Thievul": "狐大盗",
+  "Gossifleur": "幼棉棉",
+  "Eldegoss": "白蓬蓬",
+  "Wooloo": "毛辫羊",
+  "Dubwool": "毛毛角羊",
+  "Chewtle": "咬咬龟",
+  "Drednaw": "暴噬龟",
+  "Yamper": "来电汪",
+  "Boltund": "逐电犬",
+  "Rolycoly": "小炭仔",
+  "Carkol": "大炭车",
+  "Coalossal": "巨炭山",
+  "Applin": "啃果虫",
+  "Flapple": "苹裹龙",
+  "Appletun": "丰蜜龙",
+  "Silicobra": "沙包蛇",
+  "Sandaconda": "沙螺蟒",
+  "Cramorant": "古月鸟",
+  "Arrokuda": "刺梭鱼",
+  "Barraskewda": "戽斗尖梭",
+  "Toxel": "毒电婴",
+  "Toxtricity": "颤弦蝾螈",
+  "Sizzlipede": "烧火蚣",
+  "Centiskorch": "焚焰蚣",
+  "Clobbopus": "拳拳蛸",
+  "Grapploct": "八爪武师",
+  "Sinistea": "来悲茶",
+  "Polteageist": "怖思壶",
+  "Hatenna": "迷布莉姆",
+  "Hattrem": "提布莉姆",
+  "Hatterene": "布莉姆温",
+  "Impidimp": "捣蛋小妖",
+  "Morgrem": "诈唬魔",
+  "Grimmsnarl": "长毛巨魔",
+  "Obstagoon": "堵拦熊",
+  "Perrserker": "喵头目",
+  "Cursola": "魔灵珊瑚",
+  "Sirfetch'd": "葱游兵",
+  "Mr. Rime": "踏冰人偶",
+  "Mr.-Rime": "踏冰人偶",
+  "Runerigus": "死神板",
+  "Milcery": "小仙奶",
+  "Alcremie": "霜奶仙",
+  "Falinks": "列阵兵",
+  "Pincurchin": "啪嚓海胆",
+  "Snom": "雪吞虫",
+  "Frosmoth": "雪绒蛾",
+  "Stonjourner": "巨石丁",
+  "Eiscue": "冰砌鹅",
+  "Indeedee": "爱管侍",
+  "Morpeko": "莫鲁贝可",
+  "Cufant": "铜象",
+  "Copperajah": "大王铜象",
+  "Dracozolt": "雷鸟龙",
+  "Arctozolt": "雷鸟海兽",
+  "Dracovish": "鳃鱼龙",
+  "Arctovish": "鳃鱼海兽",
+  "Duraludon": "铝钢龙",
+  "Dreepy": "多龙梅西亚",
+  "Drakloak": "多龙奇",
+  "Dragapult": "多龙巴鲁托",
+  "Zacian": "苍响",
+  "Zamazenta": "藏玛然特",
+  "Eternatus": "无极汰那",
+  "Kubfu": "熊徒弟",
+  "Urshifu": "武道熊师",
+  "Zarude": "萨戮德",
+  "Regieleki": "雷吉艾勒奇",
+  "Regidrago": "雷吉铎拉戈",
+  "Glastrier": "雪暴马",
+  "Spectrier": "灵幽马",
+  "Calyrex": "蕾冠王",
+  "Wyrdeer": "诡角鹿",
+  "Kleavor": "劈斧螳螂",
+  "Ursaluna": "月月熊",
+  "Basculegion": "幽尾玄鱼",
+  "Sneasler": "大狃拉",
+  "Overqwil": "万针鱼",
+  "Enamorus": "眷恋云",
+  "Sprigatito": "新叶喵",
+  "Floragato": "蒂蕾喵",
+  "Meowscarada": "魔幻假面喵",
+  "Fuecoco": "呆火鳄",
+  "Crocalor": "炙烫鳄",
+  "Skeledirge": "骨纹巨声鳄",
+  "Quaxly": "润水鸭",
+  "Quaxwell": "涌跃鸭",
+  "Quaquaval": "狂欢浪舞鸭",
+  "Lechonk": "爱吃豚",
+  "Oinkologne": "飘香豚",
+  "Tarountula": "团珠蛛",
+  "Spidops": "操陷蛛",
+  "Nymble": "豆蟋蟀",
+  "Lokix": "烈腿蝗",
+  "Pawmi": "布拨",
+  "Pawmo": "布土拨",
+  "Pawmot": "巴布土拨",
+  "Tandemaus": "一对鼠",
+  "Maushold": "一家鼠",
+  "Fidough": "狗仔包",
+  "Dachsbun": "麻花犬",
+  "Smoliv": "迷你芙",
+  "Dolliv": "奥利纽",
+  "Arboliva": "奥利瓦",
+  "Squawkabilly": "怒鹦哥",
+  "Nacli": "盐石宝",
+  "Naclstack": "盐石垒",
+  "Garganacl": "盐石巨灵",
+  "Charcadet": "炭小侍",
+  "Armarouge": "红莲铠骑",
+  "Ceruledge": "苍炎刃鬼",
+  "Tadbulb": "光蚪仔",
+  "Bellibolt": "电肚蛙",
+  "Wattrel": "电海燕",
+  "Kilowattrel": "大电海燕",
+  "Maschiff": "偶叫獒",
+  "Mabosstiff": "獒教父",
+  "Shroodle": "滋汁鼹",
+  "Grafaiai": "涂标客",
+  "Bramblin": "纳噬草",
+  "Brambleghast": "怖纳噬草",
+  "Toedscool": "原野水母",
+  "Toedscruel": "陆地水母",
+  "Klawf": "毛崖蟹",
+  "Capsakid": "热辣娃",
+  "Scovillain": "狠辣椒",
+  "Rellor": "虫滚泥",
+  "Rabsca": "虫甲圣",
+  "Flittle": "飘飘雏",
+  "Espathra": "超能艳鸵",
+  "Tinkatink": "小锻匠",
+  "Tinkatuff": "巧锻匠",
+  "Tinkaton": "巨锻匠",
+  "Wiglett": "海地鼠",
+  "Wugtrio": "三海地鼠",
+  "Bombirdier": "下石鸟",
+  "Finizen": "波普海豚",
+  "Palafin": "海豚侠",
+  "Varoom": "噗隆隆",
+  "Revavroom": "普隆隆姆",
+  "Cyclizar": "摩托蜥",
+  "Orthworm": "拖拖蚓",
+  "Glimmet": "晶光芽",
+  "Glimmora": "晶光花",
+  "Greavard": "墓仔狗",
+  "Houndstone": "墓扬犬",
+  "Flamigo": "缠红鹤",
+  "Cetoddle": "走鲸",
+  "Cetitan": "浩大鲸",
+  "Veluza": "轻身鳕",
+  "Dondozo": "吃吼霸",
+  "Tatsugiri": "米立龙",
+  "Annihilape": "弃世猴",
+  "Clodsire": "土王",
+  "Farigiraf": "奇麒麟",
+  "Dudunsparce": "土龙节节",
+  "Kingambit": "仆斩将军",
+  "Great Tusk": "雄伟牙",
+  "Great-Tusk": "雄伟牙",
+  "Scream Tail": "吼叫尾",
+  "Scream-Tail": "吼叫尾",
+  "Brute Bonnet": "猛恶菇",
+  "Brute-Bonnet": "猛恶菇",
+  "Flutter Mane": "振翼发",
+  "Flutter-Mane": "振翼发",
+  "Slither Wing": "爬地翅",
+  "Slither-Wing": "爬地翅",
+  "Sandy Shocks": "沙铁皮",
+  "Sandy-Shocks": "沙铁皮",
+  "Iron Treads": "铁辙迹",
+  "Iron-Treads": "铁辙迹",
+  "Iron Bundle": "铁包袱",
+  "Iron-Bundle": "铁包袱",
+  "Iron Hands": "铁臂膀",
+  "Iron-Hands": "铁臂膀",
+  "Iron Jugulis": "铁脖颈",
+  "Iron-Jugulis": "铁脖颈",
+  "Iron Moth": "铁毒蛾",
+  "Iron-Moth": "铁毒蛾",
+  "Iron Thorns": "铁荆棘",
+  "Iron-Thorns": "铁荆棘",
+  "Frigibax": "凉脊龙",
+  "Arctibax": "冻脊龙",
+  "Baxcalibur": "戟脊龙",
+  "Gimmighoul": "索财灵",
+  "Gholdengo": "赛富豪",
+  "Wo-Chien": "古简蜗",
+  "Chien-Pao": "古剑豹",
+  "Ting-Lu": "古鼎鹿",
+  "Chi-Yu": "古玉鱼",
+  "Roaring Moon": "轰鸣月",
+  "Roaring-Moon": "轰鸣月",
+  "Iron Valiant": "铁武者",
+  "Iron-Valiant": "铁武者",
+  "Koraidon": "故勒顿",
+  "Miraidon": "密勒顿",
+  "Walking Wake": "波荡水",
+  "Walking-Wake": "波荡水",
+  "Iron Leaves": "铁斑叶",
+  "Iron-Leaves": "铁斑叶",
+  "Dipplin": "裹蜜虫",
+  "Poltchageist": "斯魔茶",
+  "Sinistcha": "来悲粗茶",
+  "Okidogi": "够赞狗",
+  "Munkidori": "愿增猿",
+  "Fezandipiti": "吉雉鸡",
+  "Ogerpon": "厄诡椪",
+  "Archaludon": "铝钢桥龙",
+  "Hydrapple": "蜜集大蛇",
+  "Gouging Fire": "破空焰",
+  "Gouging-Fire": "破空焰",
+  "Raging Bolt": "猛雷鼓",
+  "Raging-Bolt": "猛雷鼓",
+  "Iron Boulder": "铁磐岩",
+  "Iron-Boulder": "铁磐岩",
+  "Iron Crown": "铁头壳",
+  "Iron-Crown": "铁头壳",
+  "Terapagos": "太乐巴戈斯",
+  "Pecharunt": "桃歹郎"
 }
