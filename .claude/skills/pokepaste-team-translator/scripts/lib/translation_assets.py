@@ -182,7 +182,6 @@ def _build_item_image_index(image_root: Path) -> Dict[str, str]:
 
 def load_dictionary_bundle(
     dict_dir: Path,
-    image_root: Path,
     image_base_url: str,
 ) -> DictionaryBundle:
     return DictionaryBundle(
@@ -194,7 +193,7 @@ def load_dictionary_bundle(
         natures=_load_json(dict_dir / "natures.json"),
         types=_load_json(dict_dir / "types.json"),
         aliases=_load_json(dict_dir / "alias.json"),
-        pokemon_images=_build_pokemon_image_index(image_root),
-        item_images=_build_item_image_index(image_root),
+        pokemon_images=_load_json(dict_dir / "pokemon-images.json"),
+        item_images=_load_json(dict_dir / "item-images.json"),
         image_base_url=image_base_url,
     )

@@ -21,13 +21,11 @@ def main() -> int:
     parser.add_argument("validation_report_json")
     parser.add_argument("--config", default="assets/assets.json")
     parser.add_argument("--dict-dir", default="dict")
-    parser.add_argument("--image-root", default="temp/pokemon-dataset-zh/data/images")
     args = parser.parse_args()
 
     assets_config = load_assets_config(Path(args.config))
     bundle = load_dictionary_bundle(
         dict_dir=Path(args.dict_dir),
-        image_root=Path(args.image_root),
         image_base_url=assets_config["image_source_base_url"],
     )
     raw_team = json.loads(Path(args.team_raw_json).read_text(encoding="utf-8"))

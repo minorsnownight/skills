@@ -18,7 +18,6 @@ from scripts.lib.translation_validation import validate_translated_team
 REPO_ROOT = Path(__file__).resolve().parents[1]
 FIXTURE_ROOT = REPO_ROOT / "tests" / "fixtures" / "pokepaste"
 DICT_DIR = REPO_ROOT / "dict"
-IMAGE_ROOT = REPO_ROOT / "temp" / "pokemon-dataset-zh" / "data" / "images"
 
 
 class TranslationPipelineTest(unittest.TestCase):
@@ -26,7 +25,6 @@ class TranslationPipelineTest(unittest.TestCase):
     def setUpClass(cls):
         cls.bundle = load_dictionary_bundle(
             dict_dir=DICT_DIR,
-            image_root=IMAGE_ROOT,
             image_base_url="https://mewtwo.host/pmc/images/",
         )
         cls.assets_config = {
@@ -46,9 +44,10 @@ class TranslationPipelineTest(unittest.TestCase):
         return (FIXTURE_ROOT / name).read_text(encoding="utf-8")
 
     def test_build_dictionary_payloads_extracts_core_mappings(self):
+        image_root = REPO_ROOT / "temp" / "pokemon-dataset-zh" / "data" / "images"
         payloads = build_dictionary_payloads(
             dataset_root=REPO_ROOT / "temp" / "pokemon-dataset-zh" / "data",
-            image_root=IMAGE_ROOT,
+            image_root=image_root,
             existing_dict_dir=DICT_DIR,
         )
 
@@ -215,10 +214,11 @@ class TranslationPipelineTest(unittest.TestCase):
         )
 
         self.assertIn("Huyubare&#x27;s Charizard-Y Garchomp Team", html_text)
+        self.assertNotIn("GRJP9BKHTD</div>", html_text.split("title")[1].split("</div>")[0])
         self.assertIn("GRJP9BKHTD", html_text)
         self.assertIn("喷火龙", html_text)
         self.assertIn("烈咬陆鲨", html_text)
-        self.assertIn("https://mewtwo.host/pmc/images/", html_text)
+        self.assertIn("data:image/png;base64,", html_text)
         self.assertIn("data-template=\"pokepaste-like\"", html_text)
 
     def test_build_translated_team_artifacts_writes_preserved_outputs(self):
@@ -254,7 +254,7 @@ class TranslationPipelineTest(unittest.TestCase):
             self.assertEqual(team_zh["members"][0]["species_zh"], "来悲粗茶")
             self.assertEqual(team_zh["members"][2]["species_zh"], "花叶蒂-永恒之花")
             self.assertIn(review["status"], {"ok", "needs-attention"})
-        self.assertIn("gahaku", rendered_html)
+            self.assertIn("gahaku", rendered_html)
 
     def test_build_translated_team_artifacts_falls_back_for_unknown_template(self):
         raw_team = parse_pokepaste_html(

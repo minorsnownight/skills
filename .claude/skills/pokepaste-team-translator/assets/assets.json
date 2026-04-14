@@ -1,5 +1,6 @@
 {
   "image_source_base_url": "https://mewtwo.host/pmc/images/",
+  "copyright_name": "细雪之夜",
   "templates": {
     "compact-mobile": {
       "html_template": "assets/templates/compact-mobile.html"

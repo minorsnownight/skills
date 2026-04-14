@@ -25,17 +25,11 @@ def main() -> int:
     parser.add_argument("--template", default=None, help="Configured template name")
     parser.add_argument("--config", default="assets/assets.json", help="Assets config path")
     parser.add_argument("--dict-dir", default="dict", help="Dictionary directory")
-    parser.add_argument(
-        "--image-root",
-        default="temp/pokemon-dataset-zh/data/images",
-        help="Image root directory",
-    )
     args = parser.parse_args()
 
     assets_config = load_assets_config(Path(args.config))
     bundle = load_dictionary_bundle(
         dict_dir=Path(args.dict_dir),
-        image_root=Path(args.image_root),
         image_base_url=assets_config["image_source_base_url"],
     )
     output_root = Path(args.output_root)

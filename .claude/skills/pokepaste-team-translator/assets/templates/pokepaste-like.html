@@ -30,6 +30,18 @@
         font-size: 12px;
         color: #6b7280;
       }
+      .source-url {
+        margin-top: 2px;
+        font-size: 12px;
+        color: #6b7280;
+      }
+      .meta-bar {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 6px;
+        font-size: 11px;
+        color: #6b7280;
+      }
       hr {
         border: 0;
         border-top: 1px solid #d6d3d1;
@@ -77,23 +89,64 @@
         line-height: 1.45;
       }
       .meta-line { margin-bottom: 1px; }
-      .label { color: #b91c1c; margin-right: 6px; }
+      .label { margin-right: 6px; color: #6b7280; }
       .moves {
         display: flex;
         flex-wrap: wrap;
         gap: 4px 10px;
         margin-top: 2px;
       }
+      .actions {
+        max-width: 760px;
+        margin: 12px auto 0;
+        text-align: center;
+      }
+      #save-image-btn {
+        padding: 8px 20px;
+        font-size: 14px;
+        color: #1f2937;
+        background: #fffdfa;
+        border: 1px solid #d6d3d1;
+        border-radius: 8px;
+        cursor: pointer;
+        font-family: inherit;
+      }
+      #save-image-btn:hover { background: #e7e5e4; }
     </style>
   </head>
   <body>
     <main class="share-card" data-template="{{template_name}}">
       <header>
         <div class="title">{{team_title}}</div>
-        <div class="code">队伍码 {{team_code}}</div>
+        <div class="code">{{team_code}}</div>
+        <div class="source-url">{{source_url}}</div>
+        <div class="meta-bar">
+          <span>{{format_readable}}</span>
+          <span>{{generated_date}} © {{copyright_name}}</span>
+        </div>
       </header>
       <hr>
       {{team_rows}}
     </main>
+    <div class="actions">
+      <button id="save-image-btn" onclick="saveAsImage()">保存为图片</button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script>
+    function saveAsImage() {
+      var btn = document.getElementById('save-image-btn');
+      btn.style.visibility = 'hidden';
+      html2canvas(document.querySelector('.share-card'), {scale: 2, useCORS: true}).then(function(canvas) {
+        btn.style.visibility = 'visible';
+        var a = document.createElement('a');
+        a.download = 'team-card.png';
+        a.href = canvas.toDataURL('image/png');
+        a.click();
+      }).catch(function() {
+        btn.style.visibility = 'visible';
+        alert('图片生成失败，请尝试截图保存');
+      });
+    }
+    </script>
   </body>
 </html>

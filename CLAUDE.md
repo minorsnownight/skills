@@ -6,11 +6,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a **skills monorepo** for mew-skills — each subdirectory is a self-contained "skill" with its own SKILL.md contract, scripts, and assets. Skills are translation-only tools with no LLM or runtime network dependency beyond fetching source data.
 
-Current skill: **pokepaste-team-translator** — parses Pokepaste pages into structured English/Chinese JSON artifacts, validates them, produces deterministic review suggestions, and renders mobile-friendly HTML share cards.
+Current skill: **pokepaste-team-translator** — parses Pokepaste pages into structured English/Chinese JSON artifacts, validates them, produces deterministic review suggestions, and renders mobile-friendly HTML share cards. Located at `.claude/skills/pokepaste-team-translator/`.
 
 ## Commands
 
-All commands run from the skill subdirectory (e.g. `pokepaste-team-translator/`).
+All commands run from the skill subdirectory (`.claude/skills/pokepaste-team-translator/`).
 
 ```bash
 # Rebuild translation dictionaries from temp/pokemon-dataset-zh/data/
@@ -95,7 +95,7 @@ The slug format: `YYYYMMDD-<team-name>-<author>-<team-code>`
 
 ## Data source
 
-`temp/pokemon-dataset-zh/` is a git clone of an external Chinese Pokemon dataset. It must exist before `build_dictionaries.py` or tests can run. Clone it if missing.
+`temp/pokemon-dataset-zh/` is a git clone of [42arch/pokemon-dataset-zh](https://github.com/42arch/pokemon-dataset-zh). It must exist before `build_dictionaries.py` can run. Clone it if missing. The translation pipeline (`build_translated_team.py` etc.) uses pre-built dictionaries in `dict/` and does not require the dataset clone.
 
 ## Commit style
 

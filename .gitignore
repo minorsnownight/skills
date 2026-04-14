@@ -16,14 +16,17 @@ venv/
 .AppleDouble
 .LSOverride
 
-# Project temp
-temp/
-
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
 
-# oh-my-claudecode runtime
+# Claude code
+.claude/settings.*
 .omc/
+
+# Project temp
+docs/
+**/temp/
+url-to-markdown/

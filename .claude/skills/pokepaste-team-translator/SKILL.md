@@ -41,7 +41,7 @@ This skill file is intentionally written in **English**.
 python3 scripts/build_dictionaries.py
 ```
 
-This rebuilds translation mappings and image indexes from `temp/pokemon-dataset-zh/data/`.
+This rebuilds translation mappings and image indexes from a clone of [42arch/pokemon-dataset-zh](https://github.com/42arch/pokemon-dataset-zh) at `temp/pokemon-dataset-zh/data/`. The translation pipeline itself uses pre-built dictionaries in `dict/` and does not require this clone.
 
 ### 2. Build the full artifact set
 
@@ -83,7 +83,7 @@ Configured assets live under:
 - `assets/templates/`
 
 Rules:
-- prefer local Pokemon and item images from `temp/pokemon-dataset-zh/data/images/`
+- image indexes are pre-built in `dict/pokemon-images.json` and `dict/item-images.json`; rebuild with `build_dictionaries.py` when the dataset changes
 - publishable image URLs must be derived from `assets/assets.json`
 - do not rely on PokePaste-hosted images in final artifacts
 - if an image is missing, keep generation alive and report it

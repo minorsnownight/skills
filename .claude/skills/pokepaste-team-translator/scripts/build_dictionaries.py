@@ -14,7 +14,10 @@ from scripts.lib.dictionary_builder import build_dictionary_payloads
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Build translation dictionaries for the rewrite pipeline.")
+    parser = argparse.ArgumentParser(
+        description="Build translation dictionaries for the rewrite pipeline.",
+        epilog="Data source: https://github.com/42arch/pokemon-dataset-zh — clone to temp/pokemon-dataset-zh/ before running.",
+    )
     parser.add_argument("--dataset-root", default="temp/pokemon-dataset-zh/data")
     parser.add_argument("--image-root", default="temp/pokemon-dataset-zh/data/images")
     parser.add_argument("--dict-dir", default="dict")
